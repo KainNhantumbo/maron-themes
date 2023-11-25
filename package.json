@@ -1,0 +1,21 @@
+{
+  "name": "maron-themes",
+  "displayName": "Maron Themes",
+  "description": "This is a slightly modified variants of some popular themes. Pick up and feel the new experience in your editor!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Maron Themes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Maron Themes-color-theme.json"
+      }
+    ]
+  }
+}
