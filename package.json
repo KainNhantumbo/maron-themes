@@ -12,10 +12,46 @@
   "contributes": {
     "themes": [
       {
-        "label": "Maron Themes",
+        "label": "Maron Themes: Catppuccin",
         "uiTheme": "vs-dark",
-        "path": "./themes/Maron Themes-color-theme.json"
+        "path": "./themes/catppuccin.json"
+      },
+      {
+        "label": "Maron Themes: Gruvbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox.json"
+      },
+      {
+        "label": "Maron Themes: Material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material.json"
+      },
+      {
+        "label": "Maron Themes: Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai.json"
+      },
+      {
+        "label": "Maron Themes: Sandbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sandbox.json"
+      },
+      {
+        "label": "Maron Themes: Solarized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarized.json"
+      },
+      {
+        "label": "Maron Themes: Sonokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sonokai.json"
+      },
+      {
+        "label": "Maron Themes: Tokyo Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night.json"
       }
+      
     ]
   }
 }
