@@ -57,14 +57,14 @@ Github: [https://github.com/KainNhantumbo](https://github.com/KainNhantumbo 'See
 Portfolio: [https://codenut-dev.vercel.app](https://codenut-dev.vercel.app 'See my portfolio website')\
 My Blog: [https://codenut-dev.vercel.app/blog](https://codenut-dev.vercel.app/blog 'Visit my blog site')
 
-#### If you like this project, let me know by leaving a star on this repository so I can keep improving this app.😊😘
+#### If you like this project, let me know by leaving a star on this repository so I can keep improving this extension.😊😘
 
 Best regards, Kain Nhantumbo.\
 ✌️🇲🇿 **Made for Visual Studio Code**
 
 ## 📜 License
 
-This theme pack is released under the MIT License.
+This theme pack extension is released under the MIT License.\
 Copyright &copy; 2023 Kain Nhantumbo.
 
-Refer to the [notice file](./NOTICE.md) for more information.
+> Refer to the [notice file](./NOTICE.md) for more information.
