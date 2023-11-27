@@ -1,13 +1,36 @@
 {
   "name": "maron-themes",
   "displayName": "Maron Themes",
-  "description": "This is a slightly modified variants of some popular themes. Pick up and feel the new experience in your editor!",
+  "description": "A slightly modified variants of some popular themes. Pick up and feel the new experience in your editor!",
   "version": "0.0.1",
+  "icon": "./icon.png",
+  "publisher": "KainNhantumbo",
   "engines": {
     "vscode": "^1.54.0"
   },
   "categories": [
     "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KainNhantumbo/maron-themes"
+  },
+  "license": "MIT",
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
+  "keywords": [
+    "theme",
+    "solarized",
+    "sonokai",
+    "material",
+    "tokyo night",
+    "sandbox",
+    "gruvbox",
+    "catppuccin",
+    "dark theme",
+    "maron theme",
+    "maron"
   ],
   "contributes": {
     "themes": [
@@ -51,7 +74,6 @@
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-night.json"
       }
-      
     ]
   }
 }

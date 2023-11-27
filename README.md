@@ -4,6 +4,9 @@
 
 Something's missing ? create Issues so that I can make the theme as compatible as possible ! ❤️ ;)
 
+Feel free use, reuse and fork.\
+Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https://github.com/KainNhantumbo/maron-themes)
+
 ### 🚀 Installation
 
 - Open the Extensions sidebar in VS Code
