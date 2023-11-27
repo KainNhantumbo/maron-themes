@@ -114,8 +114,6 @@
     "editor.lineHighlightBackground": "#3c383660",
     "editor.lineHighlightBorder": "#3c383600",
     "editorWhitespace.foreground": "#a8998420",
-    "editorIndentGuide.background": "#32302f5e",
-    "editorIndentGuide.activeBackground": "#a899848a",
     "editorRuler.foreground": "#a8998440",
     "editorCodeLens.foreground": "#a8998490",
     "editorBracketMatch.border": "#06060600",

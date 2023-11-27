@@ -78,9 +78,6 @@
     // "editorHoverWidget.border": "#073642",
     "editorHoverWidget.border": "#664C00",
 
-    "editorIndentGuide.activeBackground": "#ffffff2d",
-    "editorIndentGuide.background": "#ffffff17",
-
     "editorInlayHint.background": "#0E131B",
     "editorInlayHint.foreground": "#586e75",
 
@@ -344,7 +341,7 @@
     {
       "scope": ["variable.function", "entity.name.function"],
       "settings": {
-        "name": "Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.",
+        // Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.
         "foreground": "#268bd2"
       }
     },
@@ -397,7 +394,7 @@
         "string.quoted.template punctuation.definition.string.end"
       ],
       "settings": {
-        "name": "Punctuation template string (`example`)",
+        // "name": "Punctuation template string (`example`)",
         "foreground": "#268bd2"
       }
     },

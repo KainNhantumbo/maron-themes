@@ -129,8 +129,6 @@
     "editorHoverWidget.background": "#181825",
     "editorHoverWidget.border": "#cba6f7",
     "editorHoverWidget.foreground": "#cdd6f4",
-    "editorIndentGuide.activeBackground": "#585b70",
-    "editorIndentGuide.background": "#45475a",
     "editorInlayHint.foreground": "#585b70",
     "editorInlayHint.background": "#181825bf",
     "editorInlayHint.typeForeground": "#bac2de",
