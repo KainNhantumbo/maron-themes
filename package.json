@@ -4,7 +4,7 @@
   "description": "A slightly modified variants of some popular themes. Pick up and feel the new experience in your editor!",
   "version": "0.0.1",
   "icon": "./icon.png",
-  "publisher": "KainNhantumbo",
+  "publisher": "Kain Nhantumbo",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -16,6 +16,11 @@
     "url": "https://github.com/KainNhantumbo/maron-themes"
   },
   "license": "MIT",
+  "author": {
+    "name": "Kain Nhantumbo",
+    "email": "nhantumbok@gmail.com",
+    "url": "https://codenut-dev.vercel.app"
+  },
   "maintainers": [
     "Kain Nhantumbo <nahantumbok@gmail.com>"
   ],
