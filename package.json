@@ -1,84 +1,95 @@
 {
-  "name": "maron-themes",
-  "displayName": "Maron Themes",
-  "description": "A slightly modified variants of some popular themes. Pick up and feel the new experience in your editor!",
-  "version": "0.0.1",
-  "icon": "./icon.png",
-  "publisher": "Kain Nhantumbo",
-  "engines": {
-    "vscode": "^1.54.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/KainNhantumbo/maron-themes"
-  },
-  "license": "MIT",
-  "author": {
-    "name": "Kain Nhantumbo",
-    "email": "nhantumbok@gmail.com",
-    "url": "https://codenut-dev.vercel.app"
-  },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
-  "keywords": [
-    "theme",
-    "solarized",
-    "sonokai",
-    "material",
-    "tokyo night",
-    "sandbox",
-    "gruvbox",
-    "catppuccin",
-    "dark theme",
-    "maron theme",
-    "maron"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Maron Themes: Catppuccin",
-        "uiTheme": "vs-dark",
-        "path": "./themes/catppuccin.json"
-      },
-      {
-        "label": "Maron Themes: Gruvbox",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gruvbox.json"
-      },
-      {
-        "label": "Maron Themes: Material",
-        "uiTheme": "vs-dark",
-        "path": "./themes/material.json"
-      },
-      {
-        "label": "Maron Themes: Monokai",
-        "uiTheme": "vs-dark",
-        "path": "./themes/monokai.json"
-      },
-      {
-        "label": "Maron Themes: Sandbox",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sandbox.json"
-      },
-      {
-        "label": "Maron Themes: Solarized",
-        "uiTheme": "vs-dark",
-        "path": "./themes/solarized.json"
-      },
-      {
-        "label": "Maron Themes: Sonokai",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sonokai.json"
-      },
-      {
-        "label": "Maron Themes: Tokyo Night",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tokyo-night.json"
-      }
-    ]
-  }
+	"name": "maron-themes",
+	"displayName": "Maron Themes",
+	"description": "A slightly modified variants of some popular themes. Pick up and feel the new experience in your editor!",
+	"version": "0.0.1",
+	"icon": "icons/pack-icon.png",
+	"publisher": "KainNhantumbo",
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/KainNhantumbo/maron-themes"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Kain Nhantumbo",
+		"email": "nhantumbok@gmail.com",
+		"url": "https://codenut-dev.vercel.app"
+	},
+	"maintainers": [
+		"Kain Nhantumbo <nahantumbok@gmail.com>"
+	],
+	"keywords": [
+		"theme",
+		"solarized",
+		"sonokai",
+		"material",
+		"tokyo night",
+		"sandbox",
+		"gruvbox",
+		"catppuccin",
+		"dark theme",
+		"maron theme",
+		"maron"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Maron Themes: Catppuccin",
+				"uiTheme": "vs-dark",
+				"path": "./themes/catppuccin.json"
+			},
+			{
+				"label": "Maron Themes: Gruvbox",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gruvbox.json"
+			},
+			{
+				"label": "Maron Themes: Material",
+				"uiTheme": "vs-dark",
+				"path": "./themes/material.json"
+			},
+			{
+				"label": "Maron Themes: Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monokai.json"
+			},
+			{
+				"label": "Maron Themes: Sandbox",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sandbox.json"
+			},
+			{
+				"label": "Maron Themes: Solarized",
+				"uiTheme": "vs-dark",
+				"path": "./themes/solarized.json"
+			},
+			{
+				"label": "Maron Themes: Sonokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/sonokai.json"
+			},
+			{
+				"label": "Maron Themes: Tokyo Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tokyo-night.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "7b0c0ef5-ccda-45f2-983f-f39856c25dbe",
+		"publisherId": "f14df197-b888-43d0-9920-e880ee527cc8",
+		"publisherDisplayName": "Kain Nhantumbo",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1701220152784,
+		"preRelease": false
+	}
 }

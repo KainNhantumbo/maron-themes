@@ -2,6 +2,8 @@
 
 > Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
 
+Contains minimal or additional highlighting. Each theme uses no italics, underscores, bold, etc. for code.
+
 Something's missing ? create Issues so that I can make the theme as compatible as possible ! ❤️ ;)
 
 Feel free use, reuse and fork.\
@@ -41,14 +43,14 @@ All contributors that this extension is based with, it would not be what it is w
 
 ### 🦄 Inspiration
 
-- [Catppuccin]()
-- [Code Sandbox]()
-- [Darkbox]()
+- [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+- [Code Sandbox](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects-theme)
+- [Darkbox](https://marketplace.visualstudio.com/items?itemName=bottledlactose.darkbox)
 - [Material](https://github.com/equinusocio/material-theme)
-- [Monokai Lite]()
-- [Solarized Dark Vim]()
-- [Sonokai]()
-- [Tokyo Night]()
+- [Monokai Lite](https://marketplace.visualstudio.com/items?itemName=HarveyWang.monokai-lite)
+- [Solarized Dark Vim](https://marketplace.visualstudio.com/items?itemName=hkmix.solarized-dark-vim)
+- [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)
+- [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 
 ## ☘️ Find me!
 
