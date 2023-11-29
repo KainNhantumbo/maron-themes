@@ -71,7 +71,7 @@
     {
       "name": "Operator, Misc",
       "scope": [
-        "keyword.control",
+        // "keyword.control",
         "constant.other.color",
         "punctuation.definition.tag",
         "punctuation",
@@ -84,7 +84,16 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#86897A"
+      }
+    },
+    {
+      "name": "Operator, Misc",
+      "scope": [
+        "keyword.control",
+      ],
+      "settings": {
+        "foreground": "#C3E88D"
       }
     },
     {
@@ -622,6 +631,7 @@
     "tab.inactiveForeground": "#616161",
     "tab.inactiveBackground": "#212121",
     "tab.unfocusedActiveForeground": "#EEFFFF",
+    "tab.hoverBackground": "#E5E5E510",
     // "tab.border": "#212121",
     "statusBar.noFolderBackground": "#212121",
     "statusBar.border": "#21212160",

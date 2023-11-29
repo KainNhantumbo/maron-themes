@@ -58,7 +58,8 @@
     "tab.activeForeground": "#e5e5e5",
     "tab.inactiveBackground": "#1A1F1D",
     "tab.inactiveForeground": "#999",
-    "tab.hoverBackground": "#E5E5E51A",
+    "tab.hoverBackground": "#E5E5E510",
+    "tab.activeBorderTop": "#cef144",
     "tab.border": "#1A1F1D",
 
     "titleBar.activeBackground": "#1A1F1D",
@@ -108,7 +109,7 @@
     "gitDecoration.untrackedResourceForeground": "#9FE7A0",
     "gitDecoration.conflictingResourceForeground": "#ED6C6C",
     "gitDecoration.ignoredResourceForeground": "#585858",
-    "gitDecoration.modifiedResourceForeground": "#DD763C"
+    "gitDecoration.modifiedResourceForeground": "#F7CC66"
   },
   "tokenColors": [
     {

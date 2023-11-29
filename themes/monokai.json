@@ -5,6 +5,8 @@
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "colors": {
+    "activityBarBadge.background": "#AC6218",
+
     "dropdown.background": "#414339",
     "list.activeSelectionBackground": "#3e3d3270",
     "list.focusBackground": "#414339",
@@ -22,16 +24,19 @@
     "minimap.selectionHighlight": "#1a2c303b",
     "editor.wordHighlightBackground": "#1a2c303b",
     "editor.wordHighlightStrongBackground": "#6a6a9680",
-    "editor.lineHighlightBackground": "#1a2c303b",
+    "editor.lineHighlightBackground": "#08080895",
     "editorLineNumber.activeForeground": "#c2c2bf",
     "editorCursor.foreground": "#f8f8f0",
     "editorWhitespace.foreground": "#464741",
     "editorGroupHeader.tabsBackground": "#0E131B",
     "editorGroup.dropBackground": "#41433980",
+
     "tab.inactiveBackground": "#12131d",
     "tab.border": "#0E131B",
+    "tab.activeBorderTop": "#AC6218",
     "tab.inactiveForeground": "#ccccc7",
     "tab.lastPinnedBorder": "#414339",
+
     "widget.shadow": "#00000098",
     "progressBar.background": "#0E131B",
     "badge.background": "#0E131B",
