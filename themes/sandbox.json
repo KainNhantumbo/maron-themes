@@ -56,6 +56,8 @@
     "statusBarItem.remoteBackground": "#cef144",
     "statusBarItem.remoteForeground": "#1A1F1D",
 
+    "editorOverviewRuler.border": "#1A1F1D00",
+
     "tab.activeBackground": "#1A1F1D",
     "tab.activeForeground": "#e5e5e5",
     "tab.inactiveBackground": "#1A1F1D",
@@ -79,15 +81,15 @@
 
     "editor.background": "#1A1F1D",
     "editorLineNumber.foreground": "#858585",
-    "editorLineNumber.activeForeground": "#c6c6c6",
+    "editorLineNumber.activeForeground": "#cef144",
     "editor.lineHighlightBorder": "#1A1F1D",
     "editor.lineHighlightBackground": "#08080890",
 
     "breadcrumb.background": "#1A1F1D",
     "breadcrumb.foreground": "#999",
     "breadcrumb.focusForeground": "#e5e5e5",
-    "editorGroupHeader.border": "#00000000",
     "editorGroupHeader.tabsBackground": "#1A1F1D",
+    "editorGroup.border": "#85858520",
 
     "scrollbarSlider.background": "#79797966",
     "scrollbarSlider.hoverBackground": "#646464b3",
@@ -100,8 +102,14 @@
     "editorWidget.foreground": "#ccc",
     "editorWidget.border": "#CDF86180",
     "editorWidget.background": "#1A1F1D",
+
     "pickerGroup.border": "#3f3f46",
     "pickerGroup.foreground": "#3794ff",
+    "peekView.border": "#cef14480",
+    "peekViewEditor.background": "#1A1F1D",
+    "peekViewTitle.background": "#1A1F1D",
+    "peekViewResult.background": "#1A1F1D",
+
     "editorWidget.resizeBorder": "#5f5f5f",
     "debugToolBar.background": "#333",
     "debugToolBar.border": "#474747",

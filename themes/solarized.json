@@ -5,7 +5,7 @@
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "colors": {
-    "activityBar.activeBackground": "#00000000",
+    "activityBar.activeBackground": "#0E131B",
     "activityBar.activeBorder": "#268bd2",
     "activityBar.foreground": "#eee8d5bb",
     "activityBar.background": "#0E131B",
@@ -56,7 +56,7 @@
     "editorCursor.foreground": "#93a1a1",
     "editorCursor.background": "#0E131B",
 
-    "editorGroup.border": "#222f42",
+    "editorGroup.border": "#85858520",
     "editorGroup.dropIntoPromptBorder": "#222f42",
     "editorGroup.focusedEmptyBorder": "#222f42",
     "editorGroup.dropBackground": "#2aa19844",
@@ -92,11 +92,11 @@
     "editorInlayHint.background": "#0E131B",
     "editorInlayHint.foreground": "#586e75",
 
-    "editorLineNumber.activeForeground": "#93a1a1",
+    "editorLineNumber.activeForeground": "#b58900",
     "editorLineNumber.foreground": "#586e75",
 
     "editorOverviewRuler.addedForeground": "#859900",
-    "editorOverviewRuler.border": "#586e7599",
+    "editorOverviewRuler.border": "#586e7500",
     "editorOverviewRuler.bracketMatchForeground": "#586e75",
     "editorOverviewRuler.commonContentForeground": "#586e75",
     "editorOverviewRuler.currentContentForeground": "#2aa198",
@@ -163,12 +163,12 @@
     "panelTitle.activeForeground": "#eee8d5bb",
     "panelTitle.inactiveForeground": "#839496",
 
-    "peekView.border": "#586e7540",
+    "peekView.border": "#268bd2",
     "peekViewEditor.background": "#0E131B",
     "peekViewEditor.matchHighlightBackground": "#073642",
     "peekViewResult.selectionBackground": "#586e75",
-    "peekViewResult.background": "#07364270",
-    "peekViewTitle.background": "#07364270",
+    "peekViewResult.background": "#0E131B",
+    "peekViewTitle.background": "#0E131B",
     "pickerGroup.border": "#073642",
     "pickerGroup.foreground": "#586e75",
     "progressBar.background": "#047aa6",

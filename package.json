@@ -55,11 +55,6 @@
 				"path": "./themes/material.json"
 			},
 			{
-				"label": "Maron Themes: Monokai",
-				"uiTheme": "vs-dark",
-				"path": "./themes/monokai.json"
-			},
-			{
 				"label": "Maron Themes: Sandbox",
 				"uiTheme": "vs-dark",
 				"path": "./themes/sandbox.json"

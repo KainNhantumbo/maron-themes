@@ -145,8 +145,8 @@
     "editorCursor.foreground": "#c0caf5",
 
     "editorLineNumber.foreground": "#363b54",
-    "editorLineNumber.activeForeground": "#737aa2",
-    "editor.lineHighlightBackground": "#1e202ea1",
+    "editorLineNumber.activeForeground": "#bb9af7",
+    "editor.lineHighlightBackground": "#00000070",
 
     "editorWhitespace.foreground": "#363b54",
 
@@ -170,7 +170,7 @@
     "editorIndentGuide.background5": "#3d59a140",
     "editorIndentGuide.background6": "#3d59a140",
 
-    "editorOverviewRuler.border": "#0E131B",
+    "editorOverviewRuler.border": "#0E131B00",
     "editorOverviewRuler.errorForeground": "#db4b4b",
     "editorOverviewRuler.warningForeground": "#e0af68",
     "editorOverviewRuler.infoForeground": "#1abc9c",
@@ -198,7 +198,7 @@
     "minimapGutter.addedBackground": "#1C5957",
     "minimapGutter.deletedBackground": "#944449",
 
-    "editorGroup.border": "#222f42",
+    "editorGroup.border": "#00000060",
     "editorGroup.dropIntoPromptBorder": "#222f42",
     "editorGroup.dropBackground": "#1e202e",
     "editorGroupHeader.tabsBorder": "#0E131B",

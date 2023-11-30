@@ -1,5 +1,9 @@
 # Change Log
 
+1.0.0
+- Fixed some inconsistences between color schemes.
+- Removed Monokai theme in favor of Sonokai.
+
 0.1.0
 - Fix various issues related to markdown files.
 - New widget, terminal, panel and tab colors for each theme.
