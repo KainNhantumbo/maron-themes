@@ -4,22 +4,37 @@
 
 Contains minimal or additional highlighting. Each theme uses no italics, underscores, bold, etc. for code.
 
-Something's missing ? create Issues so that I can make the theme as compatible as possible ! ❤️ ;)
-
 Feel free use, reuse and fork.\
 Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https://github.com/KainNhantumbo/maron-themes)
 
+You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
+
 ### 🚀 Installation
 
-- Open the Extensions sidebar in VS Code
-- Search for Maron Themes
-- Click Install
-- Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
-- Select Preferences: Color Theme and choose Maron Themes.
+Launch Quick Open:
+
+- Linux Ctrl+P
+- macOS ⌘P
+- Windows Ctrl+P
+
+Then paste the following command and press Enter:
+
+```bash
+ext install KainNhantumbo.maron-themes
+```
+
+Activate theme
+Launch Quick Open:
+
+- Linux Ctrl + Shift + P
+- macOS ⌘ + Shift + P
+- Windows Ctrl + Shift + P
+
+Type theme, choose `Preferences: Color Theme`, and select one of the **Maron Themes** variants from the list. Well done!
 
 ### ⛵ Override Theme Colors
 
-You can override the Maron Themes and schemes colors by adding theme-specific settings to your configuration. For advanced customisation please check the relative section on the [VS Code documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme).
+You can override the **Maron Themes** and schemes colors by adding theme-specific settings to your configuration. For advanced customisation please check the relative section on the [VS Code documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme).
 
 Recommended settings that I use for a better experience:
 
@@ -37,8 +52,8 @@ Recommended settings that I use for a better experience:
   // Controls if file decorations should use badges.
   "explorer.decorations.badges": false,
 
-  // cursor customizations 
-  "editor.cursorBlinking": "expand",
+  // cursor customizations
+  "editor.cursorBlinking": "phase",
   "editor.cursorSmoothCaretAnimation": "on",
   "terminal.integrated.cursorStyle": "block",
   "editor.cursorStyle": "block"
@@ -59,6 +74,8 @@ All contributors that this extension is based with, it would not be what it is w
 - [Solarized Dark Vim](https://marketplace.visualstudio.com/items?itemName=hkmix.solarized-dark-vim)
 - [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)
 - [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+
+Something's missing ? Create Issues so that I can make the theme as compatible as possible ! ❤️ ;)
 
 ## ☘️ Find me!
 
