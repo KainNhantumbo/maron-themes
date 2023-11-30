@@ -68,7 +68,7 @@
       "name": "Keyword, Storage",
       "scope": ["Keyword", "Storage"],
       "settings": {
-        // "fontStyle": ""
+        "fontStyle": ""
       }
     },
     {
@@ -93,7 +93,7 @@
       "name": "Operator, Misc",
       "scope": ["keyword.control"],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#89DDFF"
       }
     },
     {
@@ -631,7 +631,7 @@
     "editorHoverWidget.border": "#B3D38580",
 
     "editorGroupHeader.tabsBackground": "#212121",
-    "editorGroup.border": "#00000030",
+    "editorGroup.border": "#85858520",
 
     "editorGutter.modifiedBackground": "#82AAFF60",
     "editorGutter.addedBackground": "#C3E88D60",

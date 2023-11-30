@@ -21,18 +21,27 @@ Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https:
 
 You can override the Maron Themes and schemes colors by adding theme-specific settings to your configuration. For advanced customisation please check the relative section on the [VS Code documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme).
 
-Recommended settings for a better experience:
+Recommended settings that I use for a better experience:
 
 ```json
 {
   // Controls the font family.
-  "editor.fontFamily": "IBM Plex Mono",
+  "editor.fontFamily": "JetBrains Mono",
+
   // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
   "editor.lineHeight": 24,
+
   // Enables font ligatures
-  "editor.fontLigatures": true,
+  "editor.fontLigatures": false,
+
   // Controls if file decorations should use badges.
-  "explorer.decorations.badges": false
+  "explorer.decorations.badges": false,
+
+  // cursor customizations 
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "terminal.integrated.cursorStyle": "block",
+  "editor.cursorStyle": "block"
 }
 ```
 

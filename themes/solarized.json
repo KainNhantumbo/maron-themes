@@ -19,13 +19,13 @@
     "breadcrumb.focusForeground": "#eee8d5bb",
     "breadcrumb.foreground": "#839496",
 
-    "button.background": "#073642",
+    "button.background": "#586e7599",
     "button.foreground": "#839496",
-    "button.hoverBackground": "#586e7599",
+    "button.hoverBackground": "#073642",
     "button.secondaryForeground": "#839496",
     "button.secondaryBackground": "#073642",
 
-    "checkbox.background": "#073642",
+    "checkbox.background": "#07364200",
     "checkbox.foreground": "#eee8d5bb",
 
     "descriptionForeground": "#eee8d5bb",
@@ -39,7 +39,7 @@
     "debugToolBar.border": "#073642",
 
     "dropdown.background": "#0E131B",
-    "dropdown.border": "#073642",
+    "dropdown.border": "#586e7540",
     "dropdown.foreground": "#839496",
 
     "editor.background": "#0E131B",
@@ -53,7 +53,7 @@
     "editor.wordHighlightTextBackground": "#e3b70740",
     "editor.wordHighlightStrongBackground": "#00586e75",
 
-    "editorCursor.foreground": "#93a1a1",
+    "editorCursor.foreground": "#b58900",
     "editorCursor.background": "#0E131B",
 
     "editorGroup.border": "#85858520",
@@ -130,9 +130,10 @@
     "icon.foreground": "#eee8d5bb",
 
     "input.background": "#0E131B",
+    "input.border": "#586e7540",
     "input.foreground": "#eee8d5bb",
     "input.placeholderForeground": "#93a1a1aa",
-    "inputOption.activeBorder": "#2aa19899",
+    "inputOption.activeBorder": "#586e7540",
     "inputValidation.errorBackground": "#0E131B",
     "inputValidation.errorBorder": "#dc322f",
     "inputValidation.infoBackground": "#0E131B",
@@ -187,7 +188,8 @@
     "settings.numberInputForeground": "#839496",
     "settings.textInputBackground": "#0E131B",
     "settings.textInputForeground": "#839496",
-    "settings.rowHoverBackground": "#047ba650",
+    "settings.rowHoverBackground": "#586e7510",
+    "settings.focusedRowBackground": "#586e7500",
 
     "sideBar.background": "#0E131B",
     "sideBar.border": "#0E131B",
