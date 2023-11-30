@@ -6,7 +6,7 @@
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "colors": {
     "activityBar.activeBackground": "#00000000",
-    "activityBar.activeBorder": "#0E131B",
+    "activityBar.activeBorder": "#268bd2",
     "activityBar.foreground": "#eee8d5bb",
     "activityBar.background": "#0E131B",
     "activityBar.border": "#0E131B",
@@ -46,8 +46,8 @@
     "editor.foreground": "#839496",
     "editor.findMatchBackground": "#586e7599",
     "editor.findMatchHighlightBackground": "#85990022",
-    "editor.lineHighlightBackground": "#08080887",
-    "editor.selectionBackground": "#10373960",
+    "editor.lineHighlightBackground": "#08080890",
+    "editor.selectionBackground": "#10373990",
     "editor.selectionHighlightBackground": "#073642",
     "editor.wordHighlightBackground": "#e3b70740",
     "editor.wordHighlightTextBackground": "#e3b70740",
@@ -74,7 +74,20 @@
 
     "editorHoverWidget.background": "#0E131B",
     // "editorHoverWidget.border": "#073642",
-    "editorHoverWidget.border": "#664C00",
+    "editorHoverWidget.border": "#268bd2",
+
+    "editorIndentGuide.activeBackground1": "#586e7550",
+    "editorIndentGuide.activeBackground2": "#586e7550",
+    "editorIndentGuide.activeBackground3": "#586e7550",
+    "editorIndentGuide.activeBackground4": "#586e7550",
+    "editorIndentGuide.activeBackground5": "#586e7550",
+    "editorIndentGuide.activeBackground6": "#586e7550",
+    "editorIndentGuide.background1": "#586e7530",
+    "editorIndentGuide.background2": "#586e7530",
+    "editorIndentGuide.background3": "#586e7530",
+    "editorIndentGuide.background4": "#586e7530",
+    "editorIndentGuide.background5": "#586e7530",
+    "editorIndentGuide.background6": "#586e7530",
 
     "editorInlayHint.background": "#0E131B",
     "editorInlayHint.foreground": "#586e75",
@@ -102,7 +115,7 @@
     "editorRuler.foreground": "#073642",
     "editorWhitespace.foreground": "#073642",
     "editorWidget.background": "#0E131B",
-    "editorWidget.border": "#664C00",
+    "editorWidget.border": "#268bd2",
     "errorForeground": "#93a1a1",
     "focusBorder": "#2aa19822",
     "foreground": "#849496",
@@ -113,7 +126,9 @@
     "gitDecoration.modifiedResourceForeground": "#268bd2",
     "gitDecoration.submoduleResourceForeground": "#2aa198",
     "gitDecoration.untrackedResourceForeground": "#839496",
+
     "icon.foreground": "#eee8d5bb",
+
     "input.background": "#0E131B",
     "input.foreground": "#eee8d5bb",
     "input.placeholderForeground": "#93a1a1aa",
@@ -124,6 +139,7 @@
     "inputValidation.infoBorder": "#268bd2",
     "inputValidation.warningBackground": "#0E131B",
     "inputValidation.warningBorder": "#b58900",
+
     "list.activeSelectionBackground": "#3b414cd3",
     "list.activeSelectionForeground": "#eee8d5bb",
     "list.dropBackground": "#586e75",
@@ -132,18 +148,22 @@
     "list.highlightForeground": "#268bd2",
     "list.hoverBackground": "#073642",
     "list.inactiveSelectionBackground": "#073642",
+
     "menu.background": "#0E131B",
     "menu.border": "#073642",
     "menu.selectionBackground": "#073642",
     "menu.separatorBackground": "#073642",
     "minimap.selectionHighlight": "#586e75",
+
     "panel.background": "#0E131B",
+    "panel.border": "#586e7540",
+    "panelInput.border": "#586e7540",
     "panelSectionHeader.border": "#0E131B",
-    "panel.border": "#222f42",
     "panelTitle.activeBorder": "#222f42",
     "panelTitle.activeForeground": "#eee8d5bb",
     "panelTitle.inactiveForeground": "#839496",
-    "peekView.border": "#073642",
+
+    "peekView.border": "#586e7540",
     "peekViewEditor.background": "#0E131B",
     "peekViewEditor.matchHighlightBackground": "#073642",
     "peekViewResult.selectionBackground": "#586e75",
@@ -153,6 +173,7 @@
     "pickerGroup.foreground": "#586e75",
     "progressBar.background": "#047aa6",
     "quickInput.background": "#0E131B",
+
     "scrollbar.shadow": "#0E131B00",
     "scrollbarSlider.activeBackground": "#586e75",
     "scrollbarSlider.background": "#586e7599",
@@ -173,7 +194,7 @@
     "sideBarTitle.foreground": "#93a1a1",
     "sideBarSectionHeader.background": "#0E131B",
 
-    "statusBar.background": "#06333f77",
+    "statusBar.background": "#0E131B",
     "statusBar.border": "#0E131B",
     "statusBar.debuggingBackground": "#cb4b16",
     "statusBar.debuggingForeground": "#eee8d5bb",
@@ -183,12 +204,14 @@
 
     "tab.activeBackground": "#0E131B",
     "tab.activeForeground": "#eee8d5bb",
-    "tab.border": "#222f42",
+    "tab.border": "#0E131B",
     "tab.activeBorderTop": "#268bd2",
     "tab.inactiveBackground": "#12131d",
     "tab.inactiveForeground": "#586e75",
     "tab.unfocusedHoverBackground": "#12131d",
-    "terminal.border": "#073642a4",
+
+    "terminal.border": "#586e7540",
+    "terminal.tab.activeBorder": "#268bd2",
     "terminal.ansiBlack": "#073642",
     "terminal.ansiBlue": "#268bd2",
     "terminal.ansiBrightBlack": "#586e75",
@@ -212,7 +235,8 @@
     "titleBar.activeForeground": "#93a1a1",
     "titleBar.inactiveBackground": "#00202b",
     "titleBar.inactiveForeground": "#586e75",
-    "tree.indentGuidesStroke": "#07364299",
+    "tree.indentGuidesStroke": "#7F8490",
+    "tree.inactiveIndentGuidesStroke": "#7F8490",
     "widget.shadow": "#0E131B",
     "widget.border": "#222f42"
   },
@@ -462,6 +486,33 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#6c71c4"
+      }
+    },
+    {
+      "name": "Braces, delimiters",
+      "scope": [
+        "constant.other.color",
+        "punctuation.definition.tag",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html",
+        "punctuation.section.embedded",
+        "keyword.other.template",
+        "keyword.other.substitution",
+        "meta.brace.round",
+        "meta.brace.square",
+        "meta.brace.curly",
+        "meta.delimiter.comma.js",
+        "meta.function-call.without-arguments.js",
+        "meta.function-call.method.without-arguments.js",
+        "punctuation.definition.tag",
+        "punctuation.definition.group.begin.ruby",
+        "punctuation.definition.group.end.ruby",
+        "punctuation.definition.group.begin.css",
+        "punctuation.definition.group.end.css",
+        "punctuation.definition.string.end.html source.css"
+      ],
+      "settings": {
+        "foreground": "#b58900"
       }
     }
   ]

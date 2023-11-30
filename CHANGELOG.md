@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "maron-themes" extension will be documented in this file.
+0.1.0
+- Fix various issues related to markdown files.
+- New widget, terminal, panel and tab colors for each theme.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+0.0.1 
+- Initial release.
