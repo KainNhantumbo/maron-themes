@@ -1,13 +1,31 @@
-# 💫 Maron Themes for VS Code.
+# 🎉💖 Maron Themes for VS Code.
 
-> Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
+> 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
 
-Contains minimal or additional highlighting. Each theme uses no italics, underscores, bold, etc. for code.
+Contains minimal or additional highlighting. Each theme uses no or less italics, underscores, bold, etc. for code and editor.
 
 Feel free use, reuse and fork.\
 Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https://github.com/KainNhantumbo/maron-themes)
 
 You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
+
+### 📷🥰 Preview screenshots!
+
+|  Maron Gruvbox                  | Maron Catppuccin    |
+|:-------------------------------:|:---------------:|
+| ![](./previews/Screenshot_00.png)| ![](./previews/Screenshot_01.png)|
+
+|  Maron Material                  | Maron Sandbox    |
+|:-------------------------------:|:---------------:|
+| ![](./previews/Screenshot_02.png)| ![](./previews/Screenshot_03.png)|
+
+|  Maron Solarized                | Maron Sonokai   |
+|:-------------------------------:|:---------------:|
+| ![](./previews/Screenshot_04.png)| ![](./previews/Screenshot_05.png)|
+
+|  Maron Tokyo Night              |
+|:-------------------------------:|
+| ![](./previews/Screenshot_06.png)|
 
 ### 🚀 Installation
 
