@@ -80,14 +80,13 @@
     "menu.border": "#00000000",
 
     "input.border": "#FFFFFF10",
-    
+
     "dropdown.border": "#FFFFFF10",
-    "dropdown.background":"#1A1F1D",
-    "dropdown.listBackground":"#1A1F1D",
-    
-    
-    "checkbox.background":"#1A1F1D",
-    
+    "dropdown.background": "#1A1F1D",
+    "dropdown.listBackground": "#1A1F1D",
+
+    "checkbox.background": "#1A1F1D",
+
     "editor.background": "#1A1F1D",
     "editorCursor.background": "#000",
     "editorCursor.foreground": "#F7CC66",
@@ -96,13 +95,13 @@
     "editor.lineHighlightBorder": "#1A1F1D",
     "editor.lineHighlightBackground": "#08080890",
     "editor.selectionBackground": "#FFFFFF15",
-    
+
     "breadcrumb.background": "#1A1F1D",
     "breadcrumb.foreground": "#999",
     "breadcrumb.focusForeground": "#e5e5e5",
     "editorGroupHeader.tabsBackground": "#1A1F1D",
     "editorGroup.border": "#85858520",
-    
+
     "scrollbarSlider.background": "#79797966",
     "scrollbarSlider.hoverBackground": "#646464b3",
     "scrollbarSlider.activeBackground": "#bfbfbf66",
@@ -277,7 +276,7 @@
     {
       "name": "entity.name.type.class",
       "scope": ["meta.class entity.name.type.class"],
-      "settings": { "foreground": "#ffffff", "fontStyle": "underline" }
+      "settings": { "foreground": "#ffffff", "fontStyle": "" }
     },
     {
       "name": "entity.name.type.module",
@@ -511,7 +510,9 @@
     },
     {
       "name": "punctuation.definition.link.description",
-      "scope": ["meta.paragraph.markdown punctuation.definition.link.description"],
+      "scope": [
+        "meta.paragraph.markdown punctuation.definition.link.description"
+      ],
       "settings": { "foreground": "#b3e8b4" }
     },
     {
@@ -560,10 +561,22 @@
       "settings": { "foreground": "#b3e8b4" }
     },
     {
-      "name": "markup.underline.link",
-      "scope": ["markup.underline.link"],
-      "settings": { "foreground": "#BFD084" }
+      "name": "URL",
+      "scope": ["*url*", "*link*", "*uri*"],
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "#BFD084"
+      }
     },
+    {
+      "name": "Markup - Underline",
+      "scope": ["markup.underline"],
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "#BFD084"
+      }
+    },
+
     {
       "name": "markup.inline.raw",
       "scope": ["markup.inline.raw"],

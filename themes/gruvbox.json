@@ -212,7 +212,7 @@
     "panel.border": "#ffffff15",
     "panelTitle.activeForeground": "#ebdbb2",
     "panelInput.border": "#ffffff15",
-    "panelTitle.activeBorder": "#fe8019",
+    "panelTitle.activeBorder": "#ffffff15",
     "panelTitle.inactiveForeground": "#a89984",
 
     "statusBar.background": "#121212",
