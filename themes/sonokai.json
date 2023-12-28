@@ -47,7 +47,7 @@
     "inputValidation.warningBorder": "#e7c664",
     "inputValidation.warningBackground": "#363944",
     "inputValidation.warningForeground": "#e7c664",
-    "scrollbar.shadow": "#00000070",
+ 
     "scrollbarSlider.activeBackground": "#7f8490b0",
     "scrollbarSlider.hoverBackground": "#7f849090",
     "scrollbarSlider.background": "#7f849070",

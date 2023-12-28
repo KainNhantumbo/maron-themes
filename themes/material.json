@@ -598,7 +598,7 @@
     "focusBorder": "#FFFFFF00",
     "editorCursor.foreground": "#FFCC00",
     "editorRuler.foreground": "#424242",
-    "scrollbar.shadow": "#21212100",
+
     "editorLink.activeForeground": "#EEFFFF",
     "selection.background": "#B3D385",
     "progressBar.background": "#B3D385",
@@ -751,7 +751,7 @@
     "editorIndentGuide.background5": "#a8998420",
     "editorIndentGuide.background6": "#a8998420",
 
-    "panel.border": "#383838",
+    "panel.border": "#38383880",
     "panel.background": "#212121",
 
     "panelTitle.inactiveForeground": "#EEFFFF",

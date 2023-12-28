@@ -7,7 +7,8 @@
   "colors": {
     "activityBar.activeBackground": "#0E131B",
     "activityBar.activeBorder": "#268bd2",
-    "activityBar.foreground": "#eee8d5bb",
+    "activityBar.foreground": "#268bd2",
+    "activityBar.inactiveForeground": "#839496",
     "activityBar.background": "#0E131B",
     "activityBar.border": "#0E131B",
 
@@ -175,7 +176,6 @@
     "progressBar.background": "#047aa6",
     "quickInput.background": "#0E131B",
 
-    "scrollbar.shadow": "#0E131B00",
     "scrollbarSlider.activeBackground": "#586e75",
     "scrollbarSlider.background": "#586e7599",
     "scrollbarSlider.hoverBackground": "#586e75",
