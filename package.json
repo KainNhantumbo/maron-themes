@@ -99,5 +99,8 @@
     "isPreReleaseVersion": false,
     "installedTimestamp": 1701220152784,
     "preRelease": false
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
