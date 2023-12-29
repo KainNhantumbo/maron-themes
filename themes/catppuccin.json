@@ -5,6 +5,8 @@
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "colors": {
+    "scrollbar.shadow": "#ff000000",
+    
     "focusBorder": "#cba6f7",
     "foreground": "#cdd6f4",
     "disabledForeground": "#a6adc8",
@@ -313,7 +315,7 @@
     "notificationsErrorIcon.foreground": "#f38ba8",
     "notificationsWarningIcon.foreground": "#fab387",
     "notificationsInfoIcon.foreground": "#89b4fa",
-    
+
     "panel.background": "#11111b",
     "panel.border": "#cba6f725",
     "panelSection.border": "#cba6f725",
@@ -321,7 +323,7 @@
     "panelTitle.activeBorder": "#cba6f725",
     "panelTitle.activeForeground": "#cdd6f4",
     "panelTitle.inactiveForeground": "#a6adc8",
-    
+
     "peekView.border": "#cba6f795",
     "peekViewEditor.background": "#11111b",
     "peekViewEditorGutter.background": "#11111b",
@@ -336,16 +338,16 @@
     "peekViewTitle.background": "#11111b",
     "peekViewTitleDescription.foreground": "#bac2deb2",
     "peekViewTitleLabel.foreground": "#cdd6f4",
-   
+
     "pickerGroup.border": "#cba6f7",
     "pickerGroup.foreground": "#cba6f7",
-   
+
     "progressBar.background": "#cba6f7",
-    
+
     "scrollbarSlider.activeBackground": "#31324466",
     "scrollbarSlider.background": "#585b707f",
     "scrollbarSlider.hoverBackground": "#6c7086",
-    
+
     "settings.focusedRowBackground": "#585b7033",
     "settings.headerForeground": "#cdd6f4",
     "settings.modifiedItemIndicator": "#cba6f7",
@@ -355,7 +357,7 @@
     "settings.textInputBorder": "#00000000",
     "settings.numberInputBackground": "#45475a",
     "settings.numberInputBorder": "#00000000",
-   
+
     "sideBar.background": "#11111b",
     "sideBar.dropBackground": "#11111b",
     "sideBar.foreground": "#cdd6f4",
@@ -363,11 +365,11 @@
     "sideBarSectionHeader.background": "#181825",
     "sideBarSectionHeader.foreground": "#cdd6f4",
     "sideBarTitle.foreground": "#cba6f7",
-   
+
     "banner.background": "#45475a",
     "banner.foreground": "#cdd6f4",
     "banner.iconForeground": "#cdd6f4",
-    
+
     "statusBar.background": "#11111b",
     "statusBar.foreground": "#cdd6f4",
     "statusBar.border": "#00000000",
@@ -388,7 +390,7 @@
     "statusBarItem.errorBackground": "#00000000",
     "statusBarItem.warningForeground": "#fab387",
     "statusBarItem.warningBackground": "#00000000",
-    
+
     "commandCenter.foreground": "#bac2de",
     "commandCenter.activeForeground": "#cba6f7",
     "commandCenter.background": "#11111b",

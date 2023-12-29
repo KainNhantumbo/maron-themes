@@ -5,6 +5,8 @@
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "colors": {
+    "scrollbar.shadow": "#ff000000",
+    
     "widget.border": "#1f6feb60",
     "focusBorder": "#1f6feb",
     "foreground": "#e6edf3",

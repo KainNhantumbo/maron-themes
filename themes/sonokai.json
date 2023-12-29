@@ -5,6 +5,8 @@
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "colors": {
+    "scrollbar.shadow": "#ff000000",
+    
     "foreground": "#e2e2e3",
 
     "editor.background": "#222327",
@@ -47,7 +49,7 @@
     "inputValidation.warningBorder": "#e7c664",
     "inputValidation.warningBackground": "#363944",
     "inputValidation.warningForeground": "#e7c664",
- 
+
     "scrollbarSlider.activeBackground": "#7f8490b0",
     "scrollbarSlider.hoverBackground": "#7f849090",
     "scrollbarSlider.background": "#7f849070",
@@ -190,10 +192,10 @@
     "editor.snippetTabstopHighlightBackground": "#414550a0",
     "editor.snippetFinalTabstopHighlightBackground": "#b39df330",
     "editor.snippetFinalTabstopHighlightBorder": "#222327",
-    
+
     "editorWidget.background": "#222327",
     "editorWidget.border": "#76cce060",
-    
+
     "editorHoverWidget.background": "#30323a",
     "editorHoverWidget.border": "#76cce060",
 
@@ -201,7 +203,7 @@
     "editorMarkerNavigationError.background": "#fc5d7c",
     "editorMarkerNavigationWarning.background": "#e7c664",
     "editorMarkerNavigationInfo.background": "#76cce0",
-    
+
     "peekView.border": "#76cce0",
     "peekViewTitle.background": "#222327",
     "peekViewEditor.background": "#222327",
@@ -213,22 +215,22 @@
     "peekViewTitleDescription.foreground": "#7f8490",
     "peekViewTitleLabel.foreground": "#e2e2e3",
     "peekViewResult.background": "#222327",
-    
+
     "pickerGroup.border": "#e2e2e31a",
-    
+
     "breadcrumb.foreground": "#7f8490",
     "breadcrumb.focusForeground": "#e2e2e3",
     "breadcrumb.activeSelectionForeground": "#e2e2e3",
-    
+
     "editorLightBulb.foreground": "#f39660",
     "editorLightBulbAutoFix.foreground": "#9ed072",
-    
+
     "merge.incomingHeaderBackground": "#9ed07230",
     "merge.incomingContentBackground": "#9ed0721a",
     "merge.currentHeaderBackground": "#76cce030",
     "merge.currentContentBackground": "#76cce01a",
     "merge.border": "#2c2e3400",
-    
+
     "statusBar.background": "#222327",
     "statusBar.foreground": "#e2e2e3",
     "statusBar.border": "#222327",
@@ -242,22 +244,22 @@
     "statusBarItem.activeBackground": "#363944a0",
     "statusBarItem.remoteBackground": "#76cce0",
     "statusBarItem.remoteForeground": "#222327",
-    
+
     "debugToolBar.background": "#222327",
-    
+
     "titleBar.activeBackground": "#222327",
     "titleBar.activeForeground": "#e2e2e3",
     "titleBar.inactiveBackground": "#222327",
     "titleBar.inactiveForeground": "#7f8490",
     "titleBar.border": "#222327",
-    
+
     "menubar.selectionBackground": "#222327",
     "menubar.selectionBorder": "#222327",
     "menu.foreground": "#e2e2e3",
     "menu.background": "#222327",
     "menu.selectionForeground": "#e2e2e3",
     "menu.selectionBackground": "#222327",
-    
+
     "gitDecoration.addedResourceForeground": "#9ed07280",
     "gitDecoration.modifiedResourceForeground": "#76cce080",
     "gitDecoration.deletedResourceForeground": "#fc5d7c90",
@@ -265,7 +267,7 @@
     "gitDecoration.ignoredResourceForeground": "#414550",
     "gitDecoration.conflictingResourceForeground": "#b39df390",
     "gitDecoration.submoduleResourceForeground": "#f3966080",
-    
+
     "notificationCenterHeader.foreground": "#e2e2e3",
     "notificationCenterHeader.background": "#363944",
     "notifications.foreground": "#e2e2e3",
@@ -274,13 +276,13 @@
     "notificationsErrorIcon.foreground": "#fc5d7c",
     "notificationsWarningIcon.foreground": "#e7c664",
     "notificationsInfoIcon.foreground": "#76cce0",
-    
+
     "extensionButton.prominentForeground": "#222327",
     "extensionButton.prominentBackground": "#a7df78",
     "extensionButton.prominentHoverBackground": "#9ed072",
     "extensionBadge.remoteBackground": "#76cce0",
     "extensionBadge.remoteForeground": "#222327",
-    
+
     "settings.headerForeground": "#e2e2e3",
     "settings.numberInputBackground": "#222327",
     "settings.numberInputForeground": "#b39df3",
@@ -294,7 +296,7 @@
     "settings.dropdownBackground": "#222327",
     "settings.dropdownForeground": "#9ed072",
     "settings.dropdownBorder": "#414550",
-   
+
     "terminal.foreground": "#e2e2e3",
     "terminal.border": "#7f849060",
     "terminal.tab.activeBorder": "#76cce0",

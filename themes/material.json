@@ -595,6 +595,8 @@
     }
   ],
   "colors": {
+    "scrollbar.shadow": "#ff000000",
+    
     "focusBorder": "#FFFFFF00",
     "editorCursor.foreground": "#FFCC00",
     "editorRuler.foreground": "#424242",
@@ -613,7 +615,7 @@
     "pickerGroup.foreground": "#B3D385",
     "inputOption.activeBackground": "#EEFFFF30",
     "inputOption.activeBorder": "#EEFFFF30",
-    "editorLineNumber.foreground": "#424242", 
+    "editorLineNumber.foreground": "#424242",
     "editorLineNumber.activeForeground": "#B3D385",
     "editorBracketMatch.border": "#FFCC0050",
     "editorBracketMatch.background": "#212121",

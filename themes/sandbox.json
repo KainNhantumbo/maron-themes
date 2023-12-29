@@ -10,10 +10,12 @@
     "class.defaultLibrary": "#a390ff"
   },
   "colors": {
+    "scrollbar.shadow": "#ff000000",
+    
     "foreground": "#e5e5e5",
     "focusBorder": "#AD9CFF",
     "selection.background": "#6f6f6f",
- 
+
     "input.background": "#1A1F1D",
     "input.foreground": "#999",
     "button.background": "#edffa5",

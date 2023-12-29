@@ -5,12 +5,14 @@
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "colors": {
+    "scrollbar.shadow": "#ff000000",
+    
     "focusBorder": "#ebdbb283",
     "foreground": "#ebdbb2",
 
     "widget.shadow": "#06060630",
     "widget.border": "#fe801940",
-    
+
     "selection.background": "#689d6a80",
     "descriptionForeground": "#a89984",
     "errorForeground": "#fb4934",
@@ -146,7 +148,7 @@
     "editorInlayHint.typeBackground": "#a8998433",
     "editorInlayHint.typeForeground": "#a89984",
     "editorLineNumber.activeForeground": "#fe8019",
-  
+
     "editorIndentGuide.activeBackground1": "#a8998435",
     "editorIndentGuide.activeBackground2": "#a8998435",
     "editorIndentGuide.activeBackground3": "#a8998435",

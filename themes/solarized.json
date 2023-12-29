@@ -5,6 +5,8 @@
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "colors": {
+    "scrollbar.shadow": "#ff000000",
+    
     "activityBar.activeBackground": "#0E131B",
     "activityBar.activeBorder": "#268bd2",
     "activityBar.foreground": "#268bd2",
@@ -74,7 +76,6 @@
     "editorHint.foreground": "#dc322f",
 
     "editorHoverWidget.background": "#0E131B",
-    // "editorHoverWidget.border": "#073642",
     "editorHoverWidget.border": "#268bd2",
 
     "editorIndentGuide.activeBackground1": "#586e7550",
@@ -543,13 +544,17 @@
       }
     },
     {
-      "scope": ["keyword.control.export", "entity.name.function.operator"],
+      "name": "Export",
+      "scope": [
+        "keyword.control.export",
+        "keyword.import",
+        "meta.import",
+        "entity.name.function.operator"
+      ],
       "settings": {
-        // "name": "Keyword",
         "foreground": "#C54433"
       }
     },
-
     {
       "name": "punctuation.accessor",
       "scope": ["punctuation.accessor", "punctuation"],
