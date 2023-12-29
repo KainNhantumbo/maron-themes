@@ -2,7 +2,7 @@
   "name": "maron-themes",
   "displayName": "Maron Themes",
   "description": "A slightly modified variants of some popular themes. Pick up and feel the new experience in your editor!",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "icons/pack-icon.png",
   "publisher": "KainNhantumbo",
   "engines": {
@@ -99,8 +99,6 @@
     "isPreReleaseVersion": false,
     "installedTimestamp": 1701220152784,
     "preRelease": false
-  },
-  "dependencies": {
-    "vsce": "^2.15.0"
   }
+  
 }
