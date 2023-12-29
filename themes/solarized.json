@@ -203,7 +203,9 @@
     "statusBar.debuggingForeground": "#eee8d5bb",
     "statusBar.foreground": "#93a1a1",
     "statusBar.noFolderBackground": "#0E131B",
-    "statusBarItem.remoteBackground": "#268bd2",
+    "statusBarItem.remoteBackground": "#2aa198",
+    "statusBarItem.remoteHoverForeground": "#fff",
+    "statusBarItem.remoteHoverBackground": "#268bd2",
 
     "tab.activeBackground": "#0E131B",
     "tab.activeForeground": "#eee8d5bb",
@@ -218,7 +220,7 @@
     "terminal.ansiBlack": "#073642",
     "terminal.ansiBlue": "#268bd2",
     "terminal.ansiBrightBlack": "#000000",
-    "terminal.ansiBrightBlue": "#268bd2ff",
+    "terminal.ansiBrightBlue": "#268bd2",
     "terminal.ansiBrightCyan": "#4cb4ff",
     "terminal.ansiBrightGreen": "#9ad83e",
     "terminal.ansiBrightMagenta": "#6c71c4",
@@ -347,7 +349,7 @@
       "settings": {
         // "name": "Tag attribute",
         "fontStyle": "",
-        "foreground": "#2aa198"
+        "foreground": "#268bd2"
       }
     },
 
