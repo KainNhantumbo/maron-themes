@@ -117,7 +117,7 @@
     "editor.findMatchHighlightBackground": "#fe801930",
     "editor.findRangeHighlightBackground": "#83a59870",
     "editor.lineHighlightBackground": "#00000090",
-    "editor.lineHighlightBorder": "#3c383600",
+    "editor.lineHighlightBorder": "#00000090",
     "editorWhitespace.foreground": "#a8998420",
     "editorRuler.foreground": "#a8998440",
     "editorCodeLens.foreground": "#a8998490",

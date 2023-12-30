@@ -643,6 +643,7 @@
     "editor.background": "#212121",
     "editor.foreground": "#EEFFFF",
     "editor.lineHighlightBackground": "#00000050",
+    "editor.lineHighlightBorder": "#00000050",
     "editor.selectionBackground": "#61616150",
     "editor.selectionHighlightBackground": "#FFCC0020",
     "editor.findMatchBackground": "#000000",
