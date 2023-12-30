@@ -4,9 +4,10 @@
   "type": "dark",
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "semanticHighlighting": true,
   "colors": {
     "scrollbar.shadow": "#ff000000",
-    
+
     "foreground": "#e2e2e3",
 
     "editor.background": "#222327",
@@ -757,7 +758,11 @@
       }
     },
     {
-      "scope": ["keyword.operator", "keyword.operator.member", "keyword.operator.new"],
+      "scope": [
+        "keyword.operator",
+        "keyword.operator.member",
+        "keyword.operator.new"
+      ],
       "settings": {
         // "name": "Operator",
         "foreground": "#fc5d7c"
@@ -849,28 +854,40 @@
       }
     },
     {
-      "scope": ["markup.inserted", "markup.inserted punctuation.definition.inserted"],
+      "scope": [
+        "markup.inserted",
+        "markup.inserted punctuation.definition.inserted"
+      ],
       "settings": {
         // "name": "Diff inserted",
         "foreground": "#9ed072"
       }
     },
     {
-      "scope": ["markup.deleted", "markup.deleted punctuation.definition.deleted"],
+      "scope": [
+        "markup.deleted",
+        "markup.deleted punctuation.definition.deleted"
+      ],
       "settings": {
         // "name": "Diff deleted",
         "foreground": "#fc5d7c"
       }
     },
     {
-      "scope": ["markup.changed", "markup.changed punctuation.definition.changed"],
+      "scope": [
+        "markup.changed",
+        "markup.changed punctuation.definition.changed"
+      ],
       "settings": {
         // "name": "Diff changed",
         "foreground": "#e7c664"
       }
     },
     {
-      "scope": ["markup.ignored", "markup.ignored punctuation.definition.ignored"],
+      "scope": [
+        "markup.ignored",
+        "markup.ignored punctuation.definition.ignored"
+      ],
       "settings": {
         // "name": "Diff ignored",
         "foreground": "#7f8490"
@@ -938,7 +955,10 @@
       }
     },
     {
-      "scope": ["meta.attribute-with-value.id string", "meta.attribute.id.html string"],
+      "scope": [
+        "meta.attribute-with-value.id string",
+        "meta.attribute.id.html string"
+      ],
       "settings": {
         // "name": "ID string name (i.e. in html attributes)",
         "foreground": "#f39660"
@@ -1123,13 +1143,12 @@
         "foreground": "#fc5d7c"
       }
     },
-    
+
     {
       "scope": "region.redish",
       "settings": {
         // "name": "region red color",
         "foreground": "#fc5d7c"
-        
       }
     },
     {
@@ -1137,7 +1156,6 @@
       "settings": {
         // "name": "region orange color",
         "foreground": "#f39660"
-        
       }
     },
     {
@@ -1309,7 +1327,10 @@
       }
     },
     {
-      "scope": ["storage.modifier.visibility.rust", "storage.modifier.lifetime.rust"],
+      "scope": [
+        "storage.modifier.visibility.rust",
+        "storage.modifier.lifetime.rust"
+      ],
       "settings": {
         // "name": "rust specific",
         "foreground": "#fc5d7c"

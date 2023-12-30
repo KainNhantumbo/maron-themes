@@ -26,18 +26,21 @@
   ],
   "keywords": [
     "theme",
+    "theme pack",
     "solarized",
     "sonokai",
+    "monokai",
     "material",
     "tokyo night",
     "sandbox",
     "github",
     "gruvbox",
     "rosetta",
+    "fleet",
     "hacker",
     "catppuccin",
     "dark theme",
-    "maron theme",
+    "maron themes",
     "maron"
   ],
   "contributes": {
@@ -46,6 +49,11 @@
         "label": "Maron Themes: Catppuccin",
         "uiTheme": "vs-dark",
         "path": "./themes/catppuccin.json"
+      },
+      {
+        "label": "Maron Themes: Fleet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fleet.json"
       },
       {
         "label": "Maron Themes: Github",

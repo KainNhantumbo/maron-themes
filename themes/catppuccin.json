@@ -4,9 +4,10 @@
   "type": "dark",
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "semanticHighlighting": true,
   "colors": {
     "scrollbar.shadow": "#ff000000",
-    
+
     "focusBorder": "#cba6f7",
     "foreground": "#cdd6f4",
     "disabledForeground": "#a6adc8",
@@ -491,7 +492,6 @@
     "editorBracketHighlight.foreground6": "#cba6f7",
     "editorBracketHighlight.unexpectedBracket.foreground": "#eba0ac"
   },
-  "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
       "foreground": "#94e2d5"

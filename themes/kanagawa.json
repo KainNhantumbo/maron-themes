@@ -4,6 +4,7 @@
   "type": "dark",
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "semanticHighlighting": true,
   "colors": {
     "scrollbar.shadow": "#ff000000",
 

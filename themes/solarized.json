@@ -4,9 +4,10 @@
   "type": "dark",
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "semanticHighlighting": true,
   "colors": {
     "scrollbar.shadow": "#ff000000",
-    
+
     "activityBar.activeBackground": "#0E131B",
     "activityBar.activeBorder": "#268bd2",
     "activityBar.foreground": "#268bd2",

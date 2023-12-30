@@ -4,9 +4,10 @@
   "type": "dark",
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "semanticHighlighting": true,
   "colors": {
     "scrollbar.shadow": "#ff000000",
-    
+
     "widget.border": "#1f6feb60",
     "focusBorder": "#1f6feb",
     "foreground": "#e6edf3",
@@ -260,7 +261,6 @@
     "settings.headerForeground": "#e6edf3",
     "settings.modifiedItemIndicator": "#bb800966"
   },
-  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": ["comment", "punctuation.definition.comment", "string.comment"],

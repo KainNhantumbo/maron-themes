@@ -4,6 +4,7 @@
   "type": "dark",
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "settings": {
@@ -596,7 +597,7 @@
   ],
   "colors": {
     "scrollbar.shadow": "#ff000000",
-    
+
     "focusBorder": "#FFFFFF00",
     "editorCursor.foreground": "#FFCC00",
     "editorRuler.foreground": "#424242",

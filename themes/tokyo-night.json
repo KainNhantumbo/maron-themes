@@ -4,6 +4,7 @@
   "type": "dark",
   "author": "Kain Nhantumbo",
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "semanticHighlighting": true,
   "semanticTokenColors": {
     "parameter.declaration": { "foreground": "#e0af68" },
     "parameter": { "foreground": "#d9d4cd" },
@@ -17,7 +18,7 @@
   "semanticClass": "tokyo-night",
   "colors": {
     "scrollbar.shadow": "#ff000000",
-    
+
     "foreground": "#787c99",
     "descriptionForeground": "#515670",
     "focusBorder": "#545c7e33",
