@@ -271,8 +271,7 @@
       "name": "Operator, Misc",
       "scope": ["keyword.control.trycatch"],
       "settings": {
-        "foreground": "#FF5D62",
-        "fontStyle": "bold"
+        "foreground": "#FF5D62"
       }
     },
     {
@@ -721,7 +720,6 @@
         "markup.quote markup.bold string"
       ],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#E46876"
       }
     },
