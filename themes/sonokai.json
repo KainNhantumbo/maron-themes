@@ -965,6 +965,24 @@
       }
     },
     {
+      "name": "JSON Key - Level 0",
+      "scope": [
+        "source.json meta.structure.dictionary.json support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "#b39df3"
+      }
+    },
+    {
+      "name": "JSON Key - Level 0",
+      "scope": [
+        "source.json meta.structure.dictionary.json support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "#b39df3"
+      }
+    },
+    {
       "scope": [
         "source.json meta.structure.dictionary",
         "source.json meta.structure.dictionary meta.structure.dictionary.value meta.structure.dictionary",
@@ -1035,6 +1053,7 @@
         "foreground": "#e2e2e3"
       }
     },
+
     {
       "scope": "meta.property-list.css variable.other",
       "settings": {
