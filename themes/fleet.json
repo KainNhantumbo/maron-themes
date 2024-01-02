@@ -41,7 +41,7 @@
     "editor.inactiveSelectionBackground": "#3a3d41",
     "editor.selectionHighlightBackground": "#add6ff26",
     "editor.lineHighlightBackground": "#080808cc",
-    "editor.lineHighlightBorder": "#080808cc",
+    "editor.lineHighlightBorder": "#08080800",
     "editorGroup.border": "#85858520",
     "editorGroup.dropIntoPromptBorder": "#222f42",
     "editorGroup.focusedEmptyBorder": "#222f42",

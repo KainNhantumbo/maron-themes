@@ -35,7 +35,7 @@
     "editorInlayHint.foreground": "#727169",
     "editorInlayHint.background": "#16161D",
     "editor.lineHighlightBackground": "#00000060",
-    "editor.lineHighlightBorder": "#00000060",
+    "editor.lineHighlightBorder": "#00000000",
 
     "editorLineNumber.activeForeground": "#FF9E3B",
     "editorLineNumber.foreground": "#957FB890",

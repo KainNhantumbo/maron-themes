@@ -150,7 +150,7 @@
     "editorLineNumber.foreground": "#363b54",
     "editorLineNumber.activeForeground": "#bb9af7",
     "editor.lineHighlightBackground": "#00000090",
-    "editor.lineHighlightBorder": "#00000090",
+    "editor.lineHighlightBorder": "#00000000",
 
     "editorWhitespace.foreground": "#363b54",
 
