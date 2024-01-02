@@ -78,7 +78,7 @@
     "editorHint.foreground": "#dc322f",
 
     "editorHoverWidget.background": "#0E131B",
-    "editorHoverWidget.border": "#268bd2",
+    "editorHoverWidget.border": "#586e7590",
 
     "editorIndentGuide.activeBackground1": "#586e7550",
     "editorIndentGuide.activeBackground2": "#586e7550",
@@ -121,7 +121,7 @@
     "editorWhitespace.foreground": "#073642",
 
     "editorWidget.background": "#0E131B",
-    "editorWidget.border": "#268bd2",
+    "editorWidget.border": "#586e7590",
 
     "errorForeground": "#dc322f",
     "focusBorder": "#2aa19822",
@@ -167,6 +167,8 @@
 
     "minimap.selectionHighlight": "#586e75",
 
+    "notificationCenter.border": "#586e7590",
+
     "panel.background": "#0E131B",
     "panel.border": "#586e7540",
     "panelInput.border": "#586e7540",
@@ -175,7 +177,7 @@
     "panelTitle.activeForeground": "#eee8d5bb",
     "panelTitle.inactiveForeground": "#839496",
 
-    "peekView.border": "#268bd2",
+    "peekView.border": "#586e7590",
     "peekViewEditor.background": "#0E131B",
     "peekViewEditor.matchHighlightBackground": "#073642",
     "peekViewResult.selectionBackground": "#586e75",

@@ -96,6 +96,7 @@
     "focusBorder": "#223249",
     "gitDecoration.ignoredResourceForeground": "#727169",
     "input.background": "#16161D",
+    
     "list.hoverBackground": "#303030",
     "list.activeSelectionBackground": "#404040",
     "list.activeSelectionForeground": "#DCD7BA",
@@ -106,8 +107,10 @@
     "list.inactiveSelectionBackground": "#16161D",
     "list.inactiveSelectionForeground": "#DCD7BA",
     "list.warningForeground": "#FF9E3B",
+
     "menu.foreground": "#DCD7BA",
     "menu.separatorBackground": "#16161D",
+    
     "minimapGutter.addedBackground": "#76946A",
     "minimapGutter.deletedBackground": "#C34043",
     "minimapGutter.modifiedBackground": "#DCA561",
@@ -142,13 +145,14 @@
     "statusBar.debuggingForeground": "#DCD7BA",
     "statusBar.foreground": "#C8C093",
     "statusBar.noFolderBackground": "#16161D",
-    "statusBarItem.remoteBackground": "#2D4F67",
+    "statusBarItem.remoteBackground": "#DCD7BA80",
+    "statusBarItem.hoverBackground": "#2D4F67",
     "statusBarItem.remoteForeground": "#DCD7BA",
 
     "tab.activeBackground": "#16161D",
     "tab.border": "#16161D",
     "tab.activeForeground": "#DCD7BA",
-    "tab.activeBorderTop": "#2D4F67",
+    "tab.activeBorderTop": "#DCD7BA80",
     "tab.hoverBackground": "#16161D",
     "tab.inactiveBackground": "#16161D",
     "tab.unfocusedHoverBackground": "#16161D",
