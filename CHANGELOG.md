@@ -1,5 +1,7 @@
 # Change Log
 
+All notable changes to the "maron themes" extension will be documented in this file.
+
 1.1.0
 - Added Maron Kanagawa Theme.
 - Added Maron Github Theme.

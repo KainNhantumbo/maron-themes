@@ -1,5 +1,18 @@
 # 🎉💖 Maron Themes for VS Code.
 
+<p align="center">
+    <a href="https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes" alt="Marketplace">
+        <img src="https://img.shields.io/badge/vscode-marketplace-blue" /></a>
+    <!-- <a href="https://open-vsx.org/extension/" alt="Registry">
+        <img src="https://img.shields.io/badge/open--vsx-registry-green" /></a> -->
+    <a href="https://github.com/KainNhantumbo/maron-themes" alt="Repository">
+        <img src="https://img.shields.io/badge/github-repository-blueviolet" /></a>
+    <a href="https://github.com/KainNhantumbo/maron-themes/issues" alt="Issues">
+        <img src="https://img.shields.io/badge/issue-feedback-red" /></a>
+    <a href="https://vscode.dev/theme/KainNhantumbo.maron-themes" alt="Preview">
+        <img src="https://img.shields.io/badge/preview-vscode.dev-yellow" /></a>
+</p>
+
 > 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
 
 Contains minimal or additional highlighting. Each theme uses no or less italics, underscores, bold, etc. for code and editor.
@@ -11,21 +24,21 @@ You can install this awesome theme through the [Visual Studio Code Marketplace](
 
 ### 📷🥰 Preview screenshots!
 
-|  Maron Gruvbox                  | Maron Catppuccin    |
-|:-------------------------------:|:---------------:|
-| ![](./previews/Screenshot_00.png)| ![](./previews/Screenshot_01.png)|
+|           Maron Gruvbox           |         Maron Catppuccin          |
+| :-------------------------------: | :-------------------------------: |
+| ![](./previews/Screenshot_00.png) | ![](./previews/Screenshot_01.png) |
 
-|  Maron Material                  | Maron Sandbox    |
-|:-------------------------------:|:---------------:|
-| ![](./previews/Screenshot_02.png)| ![](./previews/Screenshot_03.png)|
+|          Maron Material           |           Maron Sandbox           |
+| :-------------------------------: | :-------------------------------: |
+| ![](./previews/Screenshot_02.png) | ![](./previews/Screenshot_03.png) |
 
-|  Maron Solarized                | Maron Sonokai   |
-|:-------------------------------:|:---------------:|
-| ![](./previews/Screenshot_04.png)| ![](./previews/Screenshot_05.png)|
+|          Maron Solarized          |           Maron Sonokai           |
+| :-------------------------------: | :-------------------------------: |
+| ![](./previews/Screenshot_04.png) | ![](./previews/Screenshot_05.png) |
 
-|  Maron Tokyo Night              |
-|:-------------------------------:|
-| ![](./previews/Screenshot_06.png)|
+|         Maron Tokyo Night         |
+| :-------------------------------: |
+| ![](./previews/Screenshot_06.png) |
 
 ### 🚀 Installation
 
