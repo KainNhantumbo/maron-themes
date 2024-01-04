@@ -2,6 +2,10 @@
 
 All notable changes to the "maron themes" extension will be documented in this file.
 
+1.2.0
+- Added Maron Oceanic Theme.
+- Fixed some inconsistences between color schemes.
+
 1.1.0
 - Added Maron Kanagawa Theme.
 - Added Maron Github Theme.

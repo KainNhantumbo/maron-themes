@@ -24,8 +24,10 @@
     "debugToolBar.background": "#16161D",
     "descriptionForeground": "#DCD7BA",
     "diffEditor.insertedTextBackground": "#2B3328",
+
     "dropdown.background": "#16161D",
     "dropdown.border": "#16161D",
+
     "editor.background": "#16161D",
     "editor.findMatchBackground": "#2D4F67",
     "editor.findMatchBorder": "#FF9E3B",
@@ -104,7 +106,7 @@
     "list.focusForeground": "#DCD7BA",
     "list.highlightForeground": "#7E9CD8",
     "list.hoverForeground": "#DCD7BA",
-    "list.inactiveSelectionBackground": "#16161D",
+    "list.inactiveSelectionBackground": "#2D4F6760",
     "list.inactiveSelectionForeground": "#DCD7BA",
     "list.warningForeground": "#FF9E3B",
 

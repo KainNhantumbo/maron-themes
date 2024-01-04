@@ -106,6 +106,7 @@ All contributors that this extension is based with, it would not be what it is w
 - [HardHacker Theme](https://marketplace.visualstudio.com/items?itemName=HardHacker.hard-hacker-theme)
 - [Kanagawa Black](https://marketplace.visualstudio.com/items?itemName=Lamarcke.kanagawa-black)
 - [Material](https://github.com/equinusocio/material-theme)
+- [Ocean Theme](https://marketplace.visualstudio.com/items?itemName=alanlang.theme-ocean)
 - [Solarized Dark Vim](https://marketplace.visualstudio.com/items?itemName=hkmix.solarized-dark-vim)
 - [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)
 - [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
