@@ -44,6 +44,9 @@
     "gruvbox",
     "rosetta",
     "fleet",
+    "ocean",
+    "oceanic",
+    "oceanic next",
     "hacker",
     "catppuccin",
     "dark theme",
@@ -81,6 +84,11 @@
         "label": "Maron Themes: Material",
         "uiTheme": "vs-dark",
         "path": "./themes/material.json"
+      },
+      {
+        "label": "Maron Themes: Oceanic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic.json"
       },
       {
         "label": "Maron Themes: Sandbox",
