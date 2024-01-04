@@ -8,12 +8,12 @@
   "colors": {
     "scrollbar.shadow": "#ff000000",
 
-    "focusBorder": "#cba6f7",
+    "focusBorder": "#cba6f780",
     "foreground": "#cdd6f4",
     "disabledForeground": "#a6adc8",
 
     "widget.shadow": "#1818257f",
-    "widget.border": "#cba6f795",
+    "widget.border": "#cba6f780",
 
     "selection.background": "#585b95",
 
@@ -33,7 +33,7 @@
 
     "activityBar.background": "#11111b",
     "activityBar.foreground": "#cba6f7",
-    "activityBar.dropBorder": "#11111b",
+    "activityBar.dropBorder": "#11111b00",
     "activityBar.inactiveForeground": "#6c7086",
     "activityBar.border": "#11111b",
     "activityBarBadge.background": "#cba6f7",
@@ -2030,6 +2030,19 @@
       ],
       "settings": {
         "foreground": "#86897A"
+      }
+    },
+    {
+      "name": "Export",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.default",
+        "keyword.import",
+        "meta.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "foreground": "#fab387"
       }
     }
   ]

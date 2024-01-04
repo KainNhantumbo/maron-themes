@@ -616,6 +616,19 @@
         "text.html.vue support.constant.color"
       ],
       "settings": { "foreground": "#A390FF" }
-    }
+    },
+     {
+       "name": "Export",
+       "scope": [
+         "keyword.control.export",
+         "keyword.control.default",
+         "keyword.import",
+         "meta.import",
+         "entity.name.function.operator"
+       ],
+       "settings": {
+         "foreground": "#7AD9FB"
+       }
+     }
   ]
 }

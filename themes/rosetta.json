@@ -883,6 +883,19 @@
       "settings": {
         "foreground": "#86897A"
       }
-    }
+    },
+     {
+       "name": "Export",
+       "scope": [
+         "keyword.control.export",
+         "keyword.control.default",
+         "keyword.import",
+         "meta.import",
+         "entity.name.function.operator"
+       ],
+       "settings": {
+         "foreground": "#ebde76ff"
+       }
+     }
   ]
 }
