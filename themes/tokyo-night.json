@@ -68,12 +68,11 @@
     "activityBar.foreground": "#3d59a1",
     "activityBar.activeBorder": "#3d59a1",
     "activityBar.activeBackground": "#0E131B",
-    "activityBar.inactiveForeground": "#3b3e52",
+    "activityBar.inactiveForeground": "#3d59a190",
     "activityBar.border": "#0E131B",
     "activityBarBadge.background": "#3d59a1",
     "activityBarBadge.foreground": "#fff",
 
-    "tree.indentGuidesStroke": "#2b2b3b",
     "sideBar.foreground": "#787c99",
     "sideBar.background": "#0E131B",
     "sideBar.border": "#0E131B",
@@ -135,7 +134,7 @@
     "editor.inactiveSelectionBackground": "#515c7e25",
 
     "editor.findMatchBackground": "#3d59a166",
-    "editor.findMatchBorder": "#e0af68",
+    // "editor.findMatchBorder": "#e0af68",
     "editor.findMatchHighlightBackground": "#3d59a166",
 
     "editor.findRangeHighlightBackground": "#515c7e33",
@@ -296,6 +295,9 @@
     "textBlockQuote.background": "#0E131B",
     "textCodeBlock.background": "#0E131B",
     "textSeparator.foreground": "#363b54",
+
+    "tree.indentGuidesStroke": "#3c3c3c",
+    "tree.inactiveIndentGuidesStroke": "#2b2b2b",
 
     "debugExceptionWidget.border": "#963c47",
     "debugExceptionWidget.background": "#0E131B",

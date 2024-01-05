@@ -251,8 +251,8 @@
     "titleBar.activeForeground": "#93a1a1",
     "titleBar.inactiveBackground": "#00202b",
     "titleBar.inactiveForeground": "#586e75",
-    "tree.indentGuidesStroke": "#7F8490",
-    "tree.inactiveIndentGuidesStroke": "#7F8490",
+    "tree.indentGuidesStroke": "#3c3c3c",
+    "tree.inactiveIndentGuidesStroke": "#2b2b2b",
     "widget.shadow": "#0E131B",
     "widget.border": "#222f42"
   },

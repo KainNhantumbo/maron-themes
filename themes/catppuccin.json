@@ -118,7 +118,7 @@
     "editor.findRangeHighlightBackground": "#89dceb4c",
     "editor.findRangeHighlightBorder": "#00000000",
     "editor.foldBackground": "#89dceb3f",
-    "editor.foreground": "#cdd6f4",
+    "editor.foreground": "#cdd6f4ee",
     "editor.hoverHighlightBackground": "#89dceb3f",
     "editor.inactiveSelectionBackground": "#585b70",
     "editor.lineHighlightBackground": "#080808b7",
@@ -272,9 +272,6 @@
     "listFilterWidget.background": "#45475a",
     "listFilterWidget.noMatchesOutline": "#f38ba8",
     "listFilterWidget.outline": "#00000000",
-
-    "tree.indentGuidesStroke": "#9399b2",
-    "tree.inactiveIndentGuidesStroke": "#45475a",
 
     "menu.background": "#11111b",
     "menu.border": "#11111b7f",
@@ -439,6 +436,10 @@
     "titleBar.inactiveBackground": "#11111b",
     "titleBar.inactiveForeground": "#cdd6f47f",
     "titleBar.border": "#00000000",
+    
+    "tree.indentGuidesStroke": "#3c3c3c",
+    "tree.inactiveIndentGuidesStroke": "#2b2b2b",
+
     "welcomePage.tileBackground": "#11111b",
     "welcomePage.progress.background": "#11111b",
     "welcomePage.progress.foreground": "#cba6f7",

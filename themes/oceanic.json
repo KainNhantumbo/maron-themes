@@ -32,8 +32,9 @@
 
     "editor.background": "#141d26",
     "editor.foreground": "#cdd3de",
-    "editor.findMatchHighlightBackground": "#859900",
-    "editor.lineHighlightBackground": "#080808cc",
+    "editor.findMatchHighlightBackground": "#eab85330",
+    "editor.findMatchBackground": "#cdd3de30",
+    "editor.lineHighlightBackground": "#08080890",
     "editor.lineHighlightBorder": "#08080800",
     "editor.selectionBackground": "#B3D7FE20",
     "editor.selectionHighlightBackground": "#99dc9e",
@@ -75,7 +76,7 @@
 
     "editorWidget.background": "#141d26",
     "editorWidget.border": "#586e7590",
-    "editorWidget.foreground": "#99dc9e",
+    "editorWidget.foreground": "#cdd3de",
 
     "list.activeSelectionIconForeground": "#99dc9e",
     "list.activeSelectionForeground": "#eee8d5bb",
