@@ -605,6 +605,7 @@
       }
     },
     {
+      "name": "Punctuation tags",
       "scope": [
         "punctuation.definition.tag",
         "punctuation.definition.tag source",
@@ -615,7 +616,6 @@
         "punctuation.definition.string.end.html source.css"
       ],
       "settings": {
-        // "name": "Punctuation tags",
         "foreground": "#b58900"
       }
     },
