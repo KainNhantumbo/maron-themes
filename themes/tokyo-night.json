@@ -6,9 +6,9 @@
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "semanticHighlighting": true,
   "semanticTokenColors": {
-    "parameter.declaration": { "foreground": "#e0af68" },
-    "parameter": { "foreground": "#d9d4cd" },
-    "property.declaration": { "foreground": "#73daca" },
+    "parameter.declaration": { "foreground": "#c0caf5" },
+    "parameter": { "foreground": "#c0caf5" },
+    "property.declaration": { "foreground": "#c0caf5" },
     "property.defaultLibrary": { "foreground": "#2ac3de" },
     "*.defaultLibrary": { "foreground": "#2ac3de" },
     "variable.defaultLibrary": { "foreground": "#2ac3de" },
@@ -582,16 +582,21 @@
       }
     },
     {
-      "name": "Import, Export, From, Default",
+      "name": "Export, Default",
+      "scope": ["keyword.control.export", "keyword.control.default"],
+      "settings": {
+        "foreground": "#7dcfff"
+      }
+    },
+    {
+      "name": "Import, From",
       "scope": [
         "keyword.control.import",
-        "keyword.control.export",
         "keyword.control.from",
-        "keyword.control.default",
         "meta.import keyword.other"
       ],
       "settings": {
-        "foreground": "#7dcfff"
+        "foreground": "#bb9af7"
       }
     },
     {
