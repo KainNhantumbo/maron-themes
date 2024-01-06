@@ -1,10 +1,11 @@
 # Change Log
 
-All notable changes to the "maron themes" extension will be documented in this file.
+All changes to the "Maron Themes" extension will be documented here.
 
 #### 1.2.1
 - ✨ Enhanced Tokyo Night Theme colors for better contrast, readbility and appearence.
 - ✨ Improved this changelog file.
+- 🔨 Fixed some inconsistences between color schemes.
 
 #### 1.2.0
 - ✨ Added Maron Oceanic Theme.

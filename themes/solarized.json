@@ -124,7 +124,7 @@
     "editorWidget.border": "#586e7590",
 
     "errorForeground": "#dc322f",
-    "focusBorder": "#2aa19822",
+    "focusBorder": "#3c3c3c",
     "foreground": "#849496",
 
     "gitDecoration.addedResourceForeground": "#859900",
@@ -205,7 +205,7 @@
 
     "sideBar.background": "#0E131B",
     "sideBar.border": "#0E131B",
-    "sideBarTitle.foreground": "#93a1a1",
+    "sideBarTitle.foreground": "#2aa198",
     "sideBarSectionHeader.background": "#0E131B",
 
     "statusBar.background": "#0E131B",
@@ -535,6 +535,7 @@
         "punctuation.definition.directive",
         "punctuation.definition.entity",
         "punctuation.definition.variable",
+        "punctuation.definition.block",
         "punctuation.separator.continuation",
         "source.c constant.other.placeholder",
         "source.rust support.function.std",
@@ -620,7 +621,7 @@
       }
     },
     {
-      "name": "Export",
+      "name": "Export, Default",
       "scope": [
         "keyword.control.export",
         "keyword.control.default",
@@ -638,14 +639,9 @@
       "settings": { "foreground": "#b58900" }
     },
     {
-      "name": "punctuation.definition.block",
-      "scope": ["punctuation.definition.block"],
-      "settings": { "foreground": "#C54433" }
-    },
-    {
+      "name": "Function arguments",
       "scope": ["variable.parameter", "parameters variable.function"],
       "settings": {
-        // "name": "Function arguments",
         "fontStyle": "",
         "foreground": "#2aa198"
       }
