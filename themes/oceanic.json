@@ -37,7 +37,8 @@
     "editor.lineHighlightBackground": "#08080890",
     "editor.lineHighlightBorder": "#08080800",
     "editor.selectionBackground": "#B3D7FE20",
-    "editor.selectionHighlightBackground": "#99dc9e",
+    "editor.selectionHighlightBackground": "#99dc9e00",
+    "editor.selectionHighlightBorder": "#99dc9e50",
     "editor.wordHighlightBackground": "#99dc9e50",
     "editor.wordHighlightTextBackground": "#141d26",
     "editor.wordHighlightStrongBackground": "#99dc9e20",
@@ -127,7 +128,7 @@
     "scrollbarSlider.background": "#586e7550",
     "scrollbarSlider.hoverBackground": "#586e7560",
 
-    "selection.background": "#99dc9e80",
+    "selection.background": "#99dc9e40",
 
     "settings.modifiedItemIndicator": "#99dc9e",
     "settings.headerForeground": "#99dc9e",
@@ -143,7 +144,7 @@
     "sideBar.border": "#141d26",
 
     "statusBar.background": "#141d26",
-    "statusBar.noFolderBackground": "#334466",
+    "statusBar.noFolderBackground": "#141d26",
     "statusBar.debuggingBackground": "#cb4b16",
     "statusBar.debuggingForeground": "#eee8d5bb",
     "statusBarItem.remoteBackground": "#99dc9ecc",
