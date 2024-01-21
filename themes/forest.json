@@ -677,16 +677,14 @@
       "name": "Markdown heading delimiter",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#859289",
-        "fontStyle": "regular"
+        "foreground": "#859289"
       }
     },
     {
       "name": "Markdown link",
       "scope": "string.other.link.title.markdown, constant.other.reference.link.markdown, string.other.link.description.markdown",
       "settings": {
-        "foreground": "#d699b6",
-        "fontStyle": "regular"
+        "foreground": "#d699b6"
       }
     },
     {
@@ -708,8 +706,7 @@
       "name": "Markdown bold delimiter",
       "scope": "punctuation.definition.bold.markdown",
       "settings": {
-        "foreground": "#859289",
-        "fontStyle": "regular"
+        "foreground": "#859289"
       }
     },
     {
@@ -788,8 +785,7 @@
       "name": "reStructuredText delimiter bold",
       "scope": "punctuation.definition.bold.restructuredtext",
       "settings": {
-        "foreground": "#859289",
-        "fontStyle": "regular"
+        "foreground": "#859289"
       }
     },
     {
