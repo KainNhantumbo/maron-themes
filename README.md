@@ -1,16 +1,19 @@
 # 🎉💖 Maron Themes for VS Code.
 
 <p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes" alt="Marketplace">
-        <img src="https://img.shields.io/badge/vscode-marketplace-blue" /></a>
     <a href="https://github.com/KainNhantumbo/maron-themes" alt="Mozambique Message">
-        <img src="https://img.shields.io/badge/CRAFTED-IN-MOZAMBIQUE%20WITH%20LOVE-red?style=for-the-badge&labelColor=f66767&color=f0134d" /></a>
+        <img src="https://img.shields.io/badge/ FROM-🇲🇿MOZAMBIQUE%20WITH%20LOVE-red?style=for-the-badge&labelColor=066767&color=f0134d" /></a>
+</p>
+
+<p align="center">
+    <a href="https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes" alt="Marketplace">
+        <img src="https://img.shields.io/badge/vscode-marketplace-blue?style=flat-square&labelColor=d29922&color=2f81f7" /></a>
     <a href="https://github.com/KainNhantumbo/maron-themes" alt="Repository">
-        <img src="https://img.shields.io/badge/github-repository-blueviolet" /></a>
+        <img src="https://img.shields.io/badge/github-repository-blueviolet?style=flat-square&labelColor=2f81f7&color=238636" /></a>
     <a href="https://github.com/KainNhantumbo/maron-themes/issues" alt="Issues">
-        <img src="https://img.shields.io/badge/issue-feedback-red" /></a>
+        <img src="https://img.shields.io/badge/issue-feedback-red?style=flat-square" /></a>
     <a href="https://vscode.dev/theme/KainNhantumbo.maron-themes" alt="Preview">
-        <img src="https://img.shields.io/badge/preview-vscode.dev-yellow" /></a>
+        <img src="https://img.shields.io/badge/preview-vscode.dev-yellow?style=flat-square" /></a>
 </p>
 
 > 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩

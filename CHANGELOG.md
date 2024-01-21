@@ -14,7 +14,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 #### 1.2.1
 
-- ✨ Enhanced Tokyo Night Theme colors for better contrast, readbility and appearence.
+- ✨ Enhanced Tokyo Night Theme colors for better contrast, readability and appearance.
 - ✨ Improved this changelog file.
 - 🔨 Fixed some inconsistences between color schemes.
 
