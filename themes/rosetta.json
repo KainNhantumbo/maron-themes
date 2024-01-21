@@ -7,7 +7,6 @@
   "semanticHighlighting": true,
   "colors": {
     "scrollbar.shadow": "#ff000000",
-
     "focusBorder": "#3c3c3c",
     "progressBar.background": "#e965a5",
     "titleBar.activeBackground": "#212121",

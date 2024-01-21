@@ -38,10 +38,12 @@
     "sonokai",
     "monokai",
     "material",
+    "everforest",
     "tokyo night",
     "sandbox",
     "github",
     "gruvbox",
+    "forest",
     "rosetta",
     "fleet",
     "ocean",
@@ -64,6 +66,11 @@
         "label": "Maron Themes: Fleet",
         "uiTheme": "vs-dark",
         "path": "./themes/fleet.json"
+      },
+      {
+        "label": "Maron Themes: Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest.json"
       },
       {
         "label": "Maron Themes: Github",
@@ -101,14 +108,14 @@
         "path": "./themes/solarized.json"
       },
       {
-        "label": "Maron Themes: Rosetta",
-        "uiTheme": "vs-dark",
-        "path": "./themes/rosetta.json"
-      },
-      {
         "label": "Maron Themes: Sonokai",
         "uiTheme": "vs-dark",
         "path": "./themes/sonokai.json"
+      },
+      {
+        "label": "Maron Themes: Rosetta",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rosetta.json"
       },
       {
         "label": "Maron Themes: Tokyo Night",

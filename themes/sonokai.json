@@ -7,7 +7,7 @@
   "semanticHighlighting": true,
   "colors": {
     "scrollbar.shadow": "#ff000000",
-    
+
     "focusBorder": "#41455000",
     "foreground": "#e2e2e3",
     "errorForeground": "#fc5d7c",
@@ -20,31 +20,31 @@
     "activityBar.activeFocusBorder": "#76cce0",
     "activityBarBadge.background": "#85d3f2",
     "activityBarBadge.foreground": "#222327",
-    
-    
+
+
     "widget.shadow": "#00000070",
     "widget.border": "#76cce040",
 
     "icon.foreground": "#76cce0",
-    
+
     "textLink.foreground": "#9ed072",
     "textLink.activeForeground": "#9ed072a0",
     "textCodeBlock.background": "#30323a",
     "textBlockQuote.background": "#30323a",
     "textBlockQuote.border": "#7f8490",
-    
+
     "button.background": "#85d3f2",
     "button.hoverBackground": "#76cce0",
     "button.foreground": "#222327",
-    
+
     "checkbox.background": "#222327",
     "checkbox.foreground": "#f39660",
     "checkbox.border": "#414550",
-    
+
     "dropdown.border": "#414550",
     "dropdown.background": "#222327",
     "dropdown.foreground": "#e2e2e3",
-    
+
     "input.border": "#414550",
     "input.background": "#2c2e3400",
     "input.foreground": "#e2e2e3",
@@ -59,7 +59,7 @@
     "inputValidation.warningBorder": "#e7c664",
     "inputValidation.warningBackground": "#363944",
     "inputValidation.warningForeground": "#e7c664",
-    
+
     "scrollbarSlider.activeBackground": "#7f8490b0",
     "scrollbarSlider.hoverBackground": "#7f849090",
     "scrollbarSlider.background": "#7f849070",
@@ -81,10 +81,10 @@
     "list.errorForeground": "#fc5d7c",
     "list.warningForeground": "#e7c664",
     "quickInputList.focusBackground": "#3b3e48f0",
-    
+
     "tree.indentGuidesStroke": "#7f8490",
-    
-    
+
+
     "selection.background": "#414550e0",
     "sideBar.foreground": "#7f8490",
     "sideBar.background": "#222327",
@@ -113,7 +113,7 @@
     "editorGroupHeader.noTabsBackground": "#222327",
     "editorGroup.dropBackground": "#41455060",
 
-    
+
     "tab.border": "#222327",
     "tab.activeBorderTop": "#76cce0",
     "tab.inactiveBackground": "#222327",
@@ -1062,7 +1062,6 @@
         "foreground": "#e2e2e3"
       }
     },
-
     {
       "scope": "meta.property-list.css variable.other",
       "settings": {
