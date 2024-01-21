@@ -3,8 +3,8 @@
 <p align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes" alt="Marketplace">
         <img src="https://img.shields.io/badge/vscode-marketplace-blue" /></a>
-    <!-- <a href="https://open-vsx.org/extension/" alt="Registry">
-        <img src="https://img.shields.io/badge/open--vsx-registry-green" /></a> -->
+    <a href="https://github.com/KainNhantumbo/maron-themes" alt="Mozambique Message">
+        <img src="https://img.shields.io/badge/CRAFTED-IN-MOZAMBIQUE%20WITH%20LOVE-red?style=for-the-badge&labelColor=f66767&color=f0134d" /></a>
     <a href="https://github.com/KainNhantumbo/maron-themes" alt="Repository">
         <img src="https://img.shields.io/badge/github-repository-blueviolet" /></a>
     <a href="https://github.com/KainNhantumbo/maron-themes/issues" alt="Issues">
@@ -101,6 +101,7 @@ All contributors that this extension is based with, it would not be what it is w
 - [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
 - [Code Sandbox](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects-theme)
 - [Darkbox](https://marketplace.visualstudio.com/items?itemName=bottledlactose.darkbox)
+- [Everforest](https://marketplace.visualstudio.com/items?itemName=sainnhe.everforest)
 - [JetBrains Fleet Dark](https://marketplace.visualstudio.com/items?itemName=franzgollhammer.jb-fleet-dark)
 - [Github Theme](https://marketplace.visualstudio.com/items?itemName=github.theme)
 - [HardHacker Theme](https://marketplace.visualstudio.com/items?itemName=HardHacker.hard-hacker-theme)
@@ -111,12 +112,12 @@ All contributors that this extension is based with, it would not be what it is w
 - [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)
 - [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 
-Something's missing ? Create Issues so that I can make the theme as compatible as possible ! ❤️ ;)
+Something's missing? Create Issues so that I can make the theme as compatible as possible ! ❤️ ;)
 
 ## ☘️ Find me!
 
 E-mail: [nhantumbok@gmail.com](nhantumbok@gmail.com 'Send an e-mail')\
-Github: [https://github.com/KainNhantumbo](https://github.com/KainNhantumbo 'See my github profile')  
+Github: [https://github.com/KainNhantumbo](https://github.com/KainNhantumbo 'See my github profile')
 Portfolio: [https://codenut-dev.vercel.app](https://codenut-dev.vercel.app 'See my portfolio website')\
 My Blog: [https://codenut-dev.vercel.app/blog](https://codenut-dev.vercel.app/blog 'Visit my blog site')
 

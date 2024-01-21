@@ -2,7 +2,7 @@
   "name": "maron-themes",
   "displayName": "Maron Themes",
   "description": "A slightly modified variants of some popular themes. Pick up and feel the new experience in your editor!",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "icon": "icons/pack-icon.png",
   "publisher": "KainNhantumbo",
   "engines": {
@@ -41,6 +41,7 @@
     "everforest",
     "tokyo night",
     "sandbox",
+    "mozambique",
     "github",
     "gruvbox",
     "forest",

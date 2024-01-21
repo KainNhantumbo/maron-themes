@@ -2,6 +2,11 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.2.4
+
+- ✨ Added Maron Forest Theme.
+- 🔨 Fixed some inconsistences between color schemes.
+
 #### 1.2.3
 
 - 🔨 Fixed selection color being to bright in oceanic theme.
