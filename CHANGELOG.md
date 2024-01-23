@@ -2,9 +2,10 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
-#### 1.2.4
+#### 1.2.5
 
 - ✨ Added Maron Forest Theme.
+- ✨ Improved readme file badges.
 - 🔨 Fixed some inconsistences between color schemes.
 
 #### 1.2.3

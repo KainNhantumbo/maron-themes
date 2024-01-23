@@ -1,4 +1,6 @@
-# 🎉💖 Maron Themes for VS Code.
+<h1 align="center">
+ 🎉💖 Maron Themes for VS Code.
+</h1>
 
 <p align="center">
     <a href="https://github.com/KainNhantumbo/maron-themes" alt="Mozambique Message">
@@ -75,7 +77,7 @@ Recommended settings that I use for a better experience:
 ```json
 {
   // Controls the font family.
-  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "0xProto",
 
   // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
   "editor.lineHeight": 24,
@@ -109,7 +111,8 @@ All contributors that this extension is based with, it would not be what it is w
 - [Github Theme](https://marketplace.visualstudio.com/items?itemName=github.theme)
 - [HardHacker Theme](https://marketplace.visualstudio.com/items?itemName=HardHacker.hard-hacker-theme)
 - [Kanagawa Black](https://marketplace.visualstudio.com/items?itemName=Lamarcke.kanagawa-black)
-- [Material](https://github.com/equinusocio/material-theme)
+- [Material](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.material-theme)
 - [Ocean Theme](https://marketplace.visualstudio.com/items?itemName=alanlang.theme-ocean)
 - [Solarized Dark Vim](https://marketplace.visualstudio.com/items?itemName=hkmix.solarized-dark-vim)
 - [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)

@@ -2,7 +2,7 @@
   "name": "maron-themes",
   "displayName": "Maron Themes",
   "description": "A slightly modified variants of some popular themes. Pick up and feel the new experience in your editor!",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "icon": "icons/pack-icon.png",
   "publisher": "KainNhantumbo",
   "engines": {
@@ -37,6 +37,8 @@
     "solarized",
     "sonokai",
     "monokai",
+    "atom",
+    "one dark",
     "material",
     "everforest",
     "tokyo night",
@@ -58,6 +60,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Maron Themes: Atom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atom.json"
+      },
       {
         "label": "Maron Themes: Catppuccin",
         "uiTheme": "vs-dark",

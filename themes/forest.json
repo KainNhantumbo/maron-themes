@@ -622,7 +622,7 @@
       "name": "Delimiter",
       "scope": "punctuation, meta.brace, meta.delimiter, meta.bracket",
       "settings": {
-        "foreground": "#d3c6aa"
+        "foreground": "#86897A"
       }
     },
     {

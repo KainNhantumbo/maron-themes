@@ -234,7 +234,6 @@
       "scope": "punctuation.definition.tag",
       "settings": {
         "foreground": "#898989",
-        "fontStyle": ""
       }
     },
     {
