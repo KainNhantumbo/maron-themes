@@ -2,6 +2,11 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.3.0
+
+- ✨ Added Maron Atom Theme.
+- 🔨 Fixed some inconsistences between color schemes.
+
 #### 1.2.5
 
 - ✨ Added Maron Forest Theme.

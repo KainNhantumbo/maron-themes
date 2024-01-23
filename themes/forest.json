@@ -358,6 +358,8 @@
     "notificationCenterHeader.foreground": "#d3c6aa",
     "notificationCenterHeader.background": "#3d484d",
     "notifications.foreground": "#d3c6aa",
+    "notifications.border": "#343f4480",
+    "notificationToast.border": "#343f4480",
     "notifications.background": "#141F1D",
     "notificationLink.foreground": "#a7c080",
     "notificationsErrorIcon.foreground": "#e67e80",
