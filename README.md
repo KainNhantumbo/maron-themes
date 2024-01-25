@@ -104,6 +104,7 @@ All contributors that this extension is based with, it would not be what it is w
 ### 🦄 Inspiration
 
 - [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
+- [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 - [Code Sandbox](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects-theme)
 - [Darkbox](https://marketplace.visualstudio.com/items?itemName=bottledlactose.darkbox)
 - [Everforest](https://marketplace.visualstudio.com/items?itemName=sainnhe.everforest)

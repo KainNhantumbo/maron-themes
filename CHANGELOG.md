@@ -2,6 +2,11 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.4.0
+
+- ✨ Added Maron Dracula Theme.
+- 🔨 Fixed some inconsistences between color schemes.
+
 #### 1.3.0
 
 - ✨ Added Maron Atom Theme.
