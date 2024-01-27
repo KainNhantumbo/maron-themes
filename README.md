@@ -20,7 +20,7 @@
 
 > 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
 
-Contains minimal or additional highlighting. Each theme uses no or less italics, underscores, bold, etc. for code and editor.
+A set of themes that contains consistent highlighting. Each theme uses no or less italics, underscores, bold, etc. for code and editor.
 
 Feel free use, reuse and fork.\
 Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https://github.com/KainNhantumbo/maron-themes)

@@ -7,7 +7,7 @@
     "activityBar.background": "#0E131B",
     "activityBar.border": "#0E131B",
     "activityBar.foreground": "#268bd2",
-    "activityBar.inactiveForeground": "#586e75",
+    "activityBar.inactiveForeground": "#275662",
     "badge.background": "#586e75",
     "badge.foreground": "#eee8d5bb",
     "breadcrumb.activeSelectionForeground": "#e0e0e0be",
@@ -92,12 +92,12 @@
     "editorOverviewRuler.wordHighlightForeground": "#586e7599",
     "editorOverviewRuler.wordHighlightStrongForeground": "#cb4b1699",
     "editorRuler.foreground": "#073642",
+    "editorSuggestWidget.selectedBackground": "#07364280",
     "editorWhitespace.foreground": "#073642",
     "editorWidget.background": "#0E131B",
     "editorWidget.border": "#586e7590",
-    "editorSuggestWidget.selectedBackground": "#07364280",
     "errorForeground": "#dc322f",
-    "focusBorder": "#3c3c3c",
+    "focusBorder": "#275662",
     "foreground": "#849496",
     "gitDecoration.addedResourceForeground": "#859900",
     "gitDecoration.conflictingResourceForeground": "#6c71c4",
@@ -155,7 +155,7 @@
     "scrollbarSlider.background": "#586e7540",
     "scrollbarSlider.hoverBackground": "#586e7560",
     "selection.background": "#073642",
-    "settings.focusedRowBackground": "#586e7500",
+    "settings.focusedRowBackground": "#586e7520",
     "settings.headerForeground": "#2aa198",
     "settings.modifiedItemIndicator": "#268bd2",
     "settings.numberInputBackground": "#0E131B",
@@ -166,15 +166,15 @@
     "sideBar.background": "#0E131B",
     "sideBar.border": "#0E131B",
     "sideBarSectionHeader.background": "#0E131B",
-    "sideBarTitle.foreground": "#2aa198",
+    "sideBarTitle.foreground": "#839496",
     "statusBar.background": "#0E131B",
     "statusBar.border": "#0E131B",
     "statusBar.debuggingBackground": "#cb4b16",
     "statusBar.debuggingForeground": "#eee8d5bb",
-    "statusBar.foreground": "#586e75",
+    "statusBar.foreground": "#839496",
     "statusBar.noFolderBackground": "#0E131B",
-    "statusBarItem.remoteBackground": "#586e7580",
-    "statusBarItem.remoteForeground": "#b58900",
+    "statusBarItem.remoteBackground": "#268bd2",
+    "statusBarItem.remoteForeground": "#0E131B",
     "statusBarItem.remoteHoverBackground": "#268bd2",
     "statusBarItem.remoteHoverForeground": "#fff",
     "tab.activeBackground": "#0E131B",
@@ -182,7 +182,7 @@
     "tab.activeForeground": "#eee8d5bb",
     "tab.border": "#0E131B",
     "tab.inactiveBackground": "#12131d",
-    "tab.inactiveForeground": "#586e75",
+    "tab.inactiveForeground": "#839496",
     "tab.unfocusedHoverBackground": "#12131d",
     "terminal.ansiBlack": "#073642",
     "terminal.ansiBlue": "#268bd2",
@@ -212,11 +212,9 @@
     "tree.inactiveIndentGuidesStroke": "#2b2b2b",
     "tree.indentGuidesStroke": "#3c3c3c",
     "widget.border": "#222f42",
-    "widget.shadow": "#0E131B"
+    "widget.shadow": "#0E131B00"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Solarized",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -305,10 +303,7 @@
       }
     },
     {
-      "scope": [
-        "invalid",
-        "invalid.illegal"
-      ],
+      "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "foreground": "#dc322f"
       }
@@ -424,10 +419,7 @@
       }
     },
     {
-      "scope": [
-        "variable.function",
-        "entity.name.function"
-      ],
+      "scope": ["variable.function", "entity.name.function"],
       "settings": {
         // Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.
         "foreground": "#268bd2"
@@ -518,10 +510,7 @@
       }
     },
     {
-      "scope": [
-        "keyword.other.documentation.javadoc",
-        "markup.bold"
-      ],
+      "scope": ["keyword.other.documentation.javadoc", "markup.bold"],
       "settings": {
         "fontStyle": "bold"
       }
@@ -603,29 +592,21 @@
     },
     {
       "name": "Import meta",
-      "scope": [
-        "meta.import"
-      ],
+      "scope": ["meta.import"],
       "settings": {
         "foreground": "#C54433"
       }
     },
     {
       "name": "punctuation.accessor",
-      "scope": [
-        "punctuation.accessor",
-        "punctuation"
-      ],
+      "scope": ["punctuation.accessor", "punctuation"],
       "settings": {
         "foreground": "#b58900"
       }
     },
     {
       "name": "Function arguments",
-      "scope": [
-        "variable.parameter",
-        "parameters variable.function"
-      ],
+      "scope": ["variable.parameter", "parameters variable.function"],
       "settings": {
         "fontStyle": "",
         "foreground": "#2aa198"
