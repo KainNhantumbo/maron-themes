@@ -3,7 +3,7 @@
   "author": "Kain Nhantumbo",
   "colors": {
     "actionBar.toggledBackground": "#383a49",
-    "activityBar.activeBorder": "#808080",
+    "activityBar.activeBorder": "#d7d7d7",
     "activityBar.background": "#181818",
     "activityBar.border": "#2b2b2b00",
     "activityBar.foreground": "#d7d7d7",
@@ -65,7 +65,7 @@
     "editorOverviewRuler.border": "#01040900",
     "editorWidget.background": "#202020",
     "errorForeground": "#f85149",
-    "focusBorder": "#808080",
+    "focusBorder": "#80808080",
     "foreground": "#cccccc",
     "icon.foreground": "#cccccc",
     "input.background": "#313131",
@@ -959,7 +959,7 @@
     {
       "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
       "settings": {
-        "foreground": "#83D6C5"
+        "foreground": "#83D6C5" 
       }
     },
     {
@@ -1816,7 +1816,7 @@
     {
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {

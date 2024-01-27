@@ -143,7 +143,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#65737e"
       }
     },
@@ -506,16 +506,6 @@
       }
     },
     {
-      "name": "Markdown - Raw Block Fenced",
-      "scope": "markup.fenced_code.block.markdown",
-      "settings": {}
-    },
-    {
-      "name": "Markdown - Fenced Bode Block",
-      "scope": "punctuation.definition.fenced.markdown",
-      "settings": {}
-    },
-    {
       "name": "Markdown - Fenced Bode Block Variable",
       "scope": "markup.fenced_code.block.markdown, variable.language.fenced.markdown, punctuation.section.class.end",
       "settings": {
@@ -598,16 +588,6 @@
       }
     },
     {
-      "name": "Markdown - Admonition Header",
-      "scope": "markup.admonition.markdown markup.admonition.header.markdown",
-      "settings": {}
-    },
-    {
-      "name": "Markdown - Admonition Body",
-      "scope": "markup.admonition.markdown markup.admonition.body.markdown",
-      "settings": {}
-    },
-    {
       "name": "Markdown - Admonition Punctuation",
       "scope": "markup.admonition.markdown punctuation.definition.admonition.markdown, markup.admonition.markdown punctuation.definition.heading,markup.admonition.markdown punctuation.definition.table.vertical-line, markup.admonition.markdown punctuation.definition.table.horizontal-line, markup.admonition.markdown punctuation.definition.table.alignments, markup.admonition.markdown punctuation.definition.heading, markup.admonition.markdown punctuation.definition.bold, markup.admonition.markdown punctuation.definition.italic, markup.admonition.markdown punctuation.definition.list_item, markup.admonition.markdown punctuation.definition.raw, markup.admonition.markdown markup.checkbox.markdown, markup.admonition.markdown punctuation.definition.list_item.todo.pending, markup.admonition.markdown meta.link punctuation.definition, markup.admonition.markdown meta.link.inline markup.underline.link, markup.admonition.markdown meta.link.reference.markdown constant.other.reference.link.markdown, markup.admonition.markdown punctuation.definition.entity.html, markup.admonition.markdown meta.separator.markdown, markup.admonition.markdown markup.table.markdown punctuation.definition.table.vertical-line.markdown, markup.admonition.markdown meta.definition.language.raw.block.fenced.markdown",
       "settings": {
@@ -623,26 +603,11 @@
       }
     },
     {
-      "name": "Markdown - Admonition Element Background",
-      "scope": "markup.admonition.markdown markup.table, markup.admonition.markdown markup.raw, markup.admonition.markdown markup.raw.block.fenced meta.language, markup.admonition.markdown punctuation.definition.blockquote.markdown, markup.admonition.markdown meta.separator, markup.admonition.markdown markup.inline.raw, markup.admonition.markdown markup.raw.block",
-      "settings": {}
-    },
-    {
       "name": "Markdown - Admonition Quote",
       "scope": "markup.admonition.markdown markup.quote punctuation.definition.blockquote.markdown",
       "settings": {
         "foreground": "#bb80b335"
       }
-    },
-    {
-      "name": "Markdown - Admonition Header (Hint)",
-      "scope": "markup.admonition.markdown.hint markup.admonition.header.markdown",
-      "settings": {}
-    },
-    {
-      "name": "Markdown - Admonition Body (Hint)",
-      "scope": "markup.admonition.markdown.hint markup.admonition.body.markdown",
-      "settings": {}
     },
     {
       "name": "Markdown - Admonition Punctuation (Hint)",
@@ -660,26 +625,11 @@
       }
     },
     {
-      "name": "Markdown - Admonition Element Background (Hint)",
-      "scope": "markup.admonition.markdown.hint markup.table, markup.admonition.markdown.hint markup.raw, markup.admonition.markdown.hint markup.raw.block.fenced meta.language, markup.admonition.markdown.hint punctuation.definition.blockquote.markdown, markup.admonition.markdown.hint meta.separator, markup.admonition.markdown.hint markup.inline.raw, markup.admonition.markdown.hint markup.raw.block",
-      "settings": {}
-    },
-    {
       "name": "Markdown - Admonition Quote (Hint)",
       "scope": "markup.admonition.markdown.hint markup.quote punctuation.definition.blockquote.markdown",
       "settings": {
         "foreground": "#6699cc35"
       }
-    },
-    {
-      "name": "Markdown - Admonition Header (Warning)",
-      "scope": "markup.admonition.markdown.warning markup.admonition.header.markdown",
-      "settings": {}
-    },
-    {
-      "name": "Markdown - Admonition Body (Warning)",
-      "scope": "markup.admonition.markdown.warning markup.admonition.body.markdown",
-      "settings": {}
     },
     {
       "name": "Markdown - Admonition Punctuation (Warning)",
@@ -710,11 +660,6 @@
         "fontStyle": "bold",
         "foreground": "#ec5f67"
       }
-    },
-    {
-      "name": "Markdown - Admonition Element Background (Danger)",
-      "scope": "markup.admonition.markdown.danger markup.table, markup.admonition.markdown.danger markup.raw, markup.admonition.markdown.danger markup.raw.block.fenced meta.language, markup.admonition.markdown.danger punctuation.definition.blockquote.markdown, markup.admonition.markdown.danger meta.separator, markup.admonition.markdown.danger markup.inline.raw, markup.admonition.markdown.danger markup.raw.block",
-      "settings": {}
     },
     {
       "name": "Markdown - Admonition Punctuation (Attention)",
