@@ -721,7 +721,7 @@
         "markup.quote markup.bold",
         "markup.bold markup.italic string",
         "markup.italic markup.bold string",
-        "markup.quote markup.bold string"
+        "markup.bold string"
       ],
       "settings": {
         "foreground": "#E46876"
@@ -746,7 +746,7 @@
       "name": "Markup - Quote",
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {

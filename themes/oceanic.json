@@ -238,7 +238,7 @@
       "name": "Language methods",
       "scope": "variable.language",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#ec5f67"
       }
     },
@@ -323,7 +323,7 @@
       "name": "Decorators",
       "scope": "tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#6699cc"
       }
     },
@@ -331,7 +331,6 @@
       "name": "ES7 Bind Operator",
       "scope": "source.js constant.other.object.key.js string.unquoted.label.js",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#ec5f67"
       }
     },
@@ -441,13 +440,6 @@
       }
     },
     {
-      "name": "Markup - Bold & Italic",
-      "scope": "markup.bold markup.italic, markup.italic markup.bold, markup.quote markup.bold, markup.bold markup.italic string, markup.italic markup.bold string, markup.quote markup.bold string",
-      "settings": {
-        "fontStyle": "bold italic"
-      }
-    },
-    {
       "name": "Markup - Underline",
       "scope": "markup.underline",
       "settings": {
@@ -469,14 +461,6 @@
       "settings": {
         "fontStyle": "",
         "foreground": "#ffffff16"
-      }
-    },
-    {
-      "name": "Markup - Quote",
-      "scope": "markup.quote",
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#65737e"
       }
     },
     {

@@ -465,6 +465,7 @@
       }
     },
     {
+      "name": "Punctuation template string (`example`)",
       "scope": [
         "punctuation.template-string.element.begin",
         "punctuation.template-string.element.end",
@@ -474,8 +475,22 @@
         "string.quoted.template punctuation.definition.string.end"
       ],
       "settings": {
-        // "name": "Punctuation template string (`example`)",
         "foreground": "#268bd2"
+      }
+    },
+    {
+      "name": "Markdown Quote",
+      "scope": "markup.quote.markdown",
+      "settings": {
+        "foreground": "#268bd2"
+      }
+    },
+    {
+      "name": "Markup Quote - Bold",
+      "scope": ["markup.quote markup.bold"],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#cb4b16"
       }
     },
     {
@@ -512,7 +527,8 @@
     {
       "scope": ["keyword.other.documentation.javadoc", "markup.bold"],
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "foreground": "#cb4b16"
       }
     },
     {

@@ -1954,10 +1954,10 @@
       }
     },
     {
-      "name": "[VSCODE-CUSTOM] Markdown Quote",
+      "name": "Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#5c6370"
+        "foreground": "#8cc265"
       }
     },
     {
