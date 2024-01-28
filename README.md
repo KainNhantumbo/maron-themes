@@ -22,10 +22,12 @@
 
 A set of themes that contains consistent highlighting. Each theme uses no or less italics, underscores, bold, etc. for code and editor.
 
+I optimized these themes to be fully compatible with blur or transparency window effects that you can get using vibrancy or [vscode-blur-linux](https://marketplace.visualstudio.com/items?itemName=mhabrar.vscode-blur-linux) (makes the vscode background blurry in KDE Plasma linux distros).
+
 Feel free use, reuse and fork.\
 Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https://github.com/KainNhantumbo/maron-themes)
 
-You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
+You can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
 
 ### 📷🥰 Preview screenshots!
 
@@ -83,7 +85,7 @@ Recommended settings that I use for a better experience:
   "editor.lineHeight": 24,
 
   // Enables font ligatures
-  "editor.fontLigatures": false,
+  "editor.fontLigatures": true,
 
   // Controls if file decorations should use badges.
   "explorer.decorations.badges": false,
@@ -125,8 +127,8 @@ Something's missing? Create Issues so that I can make the theme as compatible as
 
 E-mail: [nhantumbok@gmail.com](nhantumbok@gmail.com 'Send an e-mail')\
 Github: [https://github.com/KainNhantumbo](https://github.com/KainNhantumbo 'See my github profile')
-Portfolio: [https://codenut-dev.vercel.app](https://codenut-dev.vercel.app 'See my portfolio website')\
-My Blog: [https://codenut-dev.vercel.app/blog](https://codenut-dev.vercel.app/blog 'Visit my blog site')
+Portfolio: [https://codenut-dev.vercel.app/en/](https://codenut-dev.vercel.app/en/ 'See my portfolio website')\
+My Blog: [https://codenut-dev.vercel.app/en/blog](https://codenut-dev.vercel.app/en/blog 'Visit my blog site')
 
 #### If you like this project, let me know by leaving a star on this repository so I can keep improving this extension.😊😘
 
