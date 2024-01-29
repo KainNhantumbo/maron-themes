@@ -52,6 +52,7 @@
     "rosetta",
     "fleet",
     "ocean",
+    "nord",
     "oceanic",
     "oceanic next",
     "hacker",
@@ -106,6 +107,11 @@
         "label": "Maron Themes: Material",
         "uiTheme": "vs-dark",
         "path": "./themes/material.json"
+      },
+      {
+        "label": "Maron Themes: Nord",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nord.json"
       },
       {
         "label": "Maron Themes: Oceanic",
