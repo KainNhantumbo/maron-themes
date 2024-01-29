@@ -2,6 +2,10 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.5.0
+
+- ✨ Added Maron Nord Theme.
+
 #### 1.4.1
 
 - 💥 Removed comment italicizations.
