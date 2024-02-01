@@ -360,7 +360,6 @@
       "name": "Markup headings",
       "scope": ["markup.heading"],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#BD93F9"
       }
     },
@@ -645,13 +644,6 @@
       "scope": ["keyword", "punctuation.definition.keyword"],
       "settings": {
         "foreground": "#FF79C6"
-      }
-    },
-    {
-      "name": "Keyword \"new\"",
-      "scope": ["keyword.control.new", "keyword.operator.new"],
-      "settings": {
-        "fontStyle": "bold"
       }
     },
     {
@@ -1112,7 +1104,6 @@
       "name": "Log file error",
       "scope": ["log.error"],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#FF5555"
       }
     },
@@ -1120,7 +1111,6 @@
       "name": "Log file warning",
       "scope": ["log.warning"],
       "settings": {
-        "fontStyle": "bold",
         "foreground": "#F1FA8C"
       }
     }
