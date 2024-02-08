@@ -2,6 +2,10 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.5.1
+
+- 🔨 Improved gruvbox colors to be more like the original gruvbox palette.
+
 #### 1.5.0
 
 - ✨ Added Maron Nord Theme.

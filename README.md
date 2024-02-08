@@ -29,7 +29,7 @@ Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https:
 
 You can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
 
-### 📷🥰 Preview screenshots!
+### 📷🥰 Here are some preview screenshots!
 
 |           Maron Gruvbox           |         Maron Catppuccin          |
 | :-------------------------------: | :-------------------------------: |
@@ -42,10 +42,6 @@ You can install this awesome theme pack through the [Visual Studio Code Marketpl
 |          Maron Solarized          |           Maron Sonokai           |
 | :-------------------------------: | :-------------------------------: |
 | ![](./previews/Screenshot_04.png) | ![](./previews/Screenshot_05.png) |
-
-|         Maron Tokyo Night         |
-| :-------------------------------: |
-| ![](./previews/Screenshot_06.png) |
 
 ### 🚀 Installation
 
