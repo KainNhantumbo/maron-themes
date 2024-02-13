@@ -31,17 +31,25 @@ You can install this awesome theme pack through the [Visual Studio Code Marketpl
 
 ### 📷🥰 Here are some preview screenshots!
 
-|           Maron Gruvbox           |         Maron Catppuccin          |
+|           Maron Fleet             |            Maron Forest           |
 | :-------------------------------: | :-------------------------------: |
 | ![](./previews/Screenshot_00.png) | ![](./previews/Screenshot_01.png) |
 
-|          Maron Material           |           Maron Sandbox           |
+|          Maron Gruvbox            |           Maron Kanagawa          |
 | :-------------------------------: | :-------------------------------: |
 | ![](./previews/Screenshot_02.png) | ![](./previews/Screenshot_03.png) |
 
-|          Maron Solarized          |           Maron Sonokai           |
+|          Maron Nord               |           Maron Solarized         |
 | :-------------------------------: | :-------------------------------: |
 | ![](./previews/Screenshot_04.png) | ![](./previews/Screenshot_05.png) |
+
+|          Maron Rosetta            |           Maron Oceanic           |
+| :-------------------------------: | :-------------------------------: |
+| ![](./previews/Screenshot_06.png) | ![](./previews/Screenshot_07.png) |
+
+|          Maron Atom               |           Maron Catppuccin        |
+| :-------------------------------: | :-------------------------------: |
+| ![](./previews/Screenshot_08.png) | ![](./previews/Screenshot_09.png) |
 
 ### 🚀 Installation
 
