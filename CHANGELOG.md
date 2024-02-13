@@ -2,6 +2,11 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.6.0
+- 🔨 Improved some colors and fixed some accessability issues.
+- 🔨 Fixed inconsistent title bar layout across themes.
+- 🔨 Fixed inconsistent menu borders, colors and accessibility issues.
+
 #### 1.5.1
 
 - 🔨 Improved gruvbox colors to be more like the original gruvbox palette.
@@ -12,7 +17,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 #### 1.4.1
 
-- 💥 Removed comment italicizations.
+- 💥 Removed comment italicization's.
 - 🔨 Fixed some inconsistences between color schemes.
 
 #### 1.4.0
