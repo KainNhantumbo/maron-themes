@@ -29,7 +29,7 @@
   ],
   "scripts": {
     "build": "vsce package",
-    "publish": "vsce publish"
+    "push": "vsce publish"
   },
   "keywords": [
     "theme",

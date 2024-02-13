@@ -34,11 +34,10 @@
     "editor.foldBackground": "#21222C80",
     "editor.foreground": "#E8E8E2",
     "editor.hoverHighlightBackground": "#8BE9FD50",
-    "editor.lineHighlightBackground": "#08080880",
-    "editor.lineHighlightBorder": "#08080800",
+    "editor.lineHighlightBackground": "#08080840",
     "editor.rangeHighlightBackground": "#BD93F915",
     "editor.selectionBackground": "#44475A",
-    "editor.selectionHighlightBackground": "#424450",
+    "editor.selectionHighlightBackground": "#424450ee",
     "editor.snippetFinalTabstopHighlightBackground": "#222530",
     "editor.snippetFinalTabstopHighlightBorder": "#40D859",
     "editor.snippetTabstopHighlightBackground": "#222530",
@@ -87,13 +86,13 @@
     "editorOverviewRuler.currentContentForeground": "#40D859",
     "editorOverviewRuler.deletedForeground": "#FF555580",
     "editorOverviewRuler.errorForeground": "#FF555580",
-    "editorOverviewRuler.incomingContentForeground": "#BD93F9",
+    "editorOverviewRuler.incomingContentForeground": "#BD93F9ee",
     "editorOverviewRuler.infoForeground": "#8BE9FD80",
     "editorOverviewRuler.modifiedForeground": "#8BE9FD80",
-    "editorOverviewRuler.selectionHighlightForeground": "#FFB86C",
+    "editorOverviewRuler.selectionHighlightForeground": "#FFB86Cee",
     "editorOverviewRuler.warningForeground": "#FFB86C80",
-    "editorOverviewRuler.wordHighlightForeground": "#8BE9FD",
-    "editorOverviewRuler.wordHighlightStrongForeground": "#40D859",
+    "editorOverviewRuler.wordHighlightForeground": "#8BE9FDee",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#40D859ee",
     "editorRuler.foreground": "#FFFFFF1A",
     "editorSuggestWidget.background": "#222530",
     "editorSuggestWidget.foreground": "#E8E8E2",
@@ -113,7 +112,7 @@
     "gitDecoration.ignoredResourceForeground": "#6272A4",
     "gitDecoration.modifiedResourceForeground": "#8BE9FD",
     "gitDecoration.untrackedResourceForeground": "#40D859",
-    "inlineChat.regionHighlight": "#343746",
+    "inlineChat.regionHighlight": "#343746ee",
     "input.background": "#222530",
     "input.border": "#BD93F930",
     "input.foreground": "#E8E8E2",
@@ -134,6 +133,9 @@
     "listFilterWidget.background": "#343746",
     "listFilterWidget.noMatchesOutline": "#FF5555",
     "listFilterWidget.outline": "#424450",
+    "menu.border": "#414550e0",
+    "menu.background": "#222530",
+    "menu.separatorBackground": "#414550e0",
     "merge.currentHeaderBackground": "#40D85990",
     "merge.incomingHeaderBackground": "#BD93F990",
     "panel.background": "#222530",
@@ -193,7 +195,7 @@
     "statusBarItem.remoteBackground": "#BD93F9",
     "statusBarItem.remoteForeground": "#222530",
     "tab.activeBackground": "#222530",
-    "tab.activeBorderTop": "#BD93F9AA",
+    "tab.activeBorder": "#BD93F9AA",
     "tab.activeForeground": "#E8E8E2",
     "tab.border": "#191A2100",
     "tab.inactiveBackground": "#222530",
@@ -217,11 +219,11 @@
     "terminal.background": "#222530",
     "terminal.foreground": "#E8E8E2",
     "terminal.tab.activeBorder": "#BD93F9",
-    "titleBar.activeBackground": "#21222C",
-    "titleBar.activeForeground": "#E8E8E2",
-    "titleBar.inactiveBackground": "#191A21",
-    "titleBar.inactiveForeground": "#6272A4",
-    "walkThrough.embeddedEditorBackground": "#21222C",
+    "titleBar.activeBackground": "#222530",
+    "titleBar.activeForeground": "#95A5D7",
+    "titleBar.inactiveBackground": "#222530",
+    "titleBar.inactiveForeground": "#95A5D7",
+    "walkThrough.embeddedEditorBackground": "#222530",
     "widget.border": "#BD93F930",
     "widget.shadow": "#ff000000"
   },
@@ -669,7 +671,7 @@
         "variable.other.predefined"
       ],
       "settings": {
-        "fontStyle": "regular",
+        "fontStyle": "",
         "foreground": "#BD93F9"
       }
     },
@@ -677,7 +679,7 @@
       "name": "Built-in functions / properties",
       "scope": ["support.function", "support.type.property-name"],
       "settings": {
-        "fontStyle": "regular"
+        "fontStyle": ""
       }
     },
     {
@@ -827,7 +829,7 @@
         "source.groovy storage.type.def"
       ],
       "settings": {
-        "fontStyle": "regular",
+        "fontStyle": "",
         "foreground": "#FF79C6"
       }
     },
@@ -1008,7 +1010,7 @@
         "meta.variable.assignment.destructured.object.coffee variable variable"
       ],
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#E8E8E2"
       }
     },
@@ -1065,7 +1067,7 @@
       "name": "Powershell constants mistakenly scoped to `support`, rather than `constant` (edge)",
       "scope": ["support.constant"],
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#BD93F9"
       }
     },
