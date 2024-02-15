@@ -48,6 +48,9 @@
     "mozambique",
     "github",
     "gruvbox",
+    "halcyon",
+    "solaris",
+    "solaris",
     "forest",
     "rosetta",
     "fleet",
@@ -122,6 +125,11 @@
         "label": "Maron Themes: Sandbox",
         "uiTheme": "vs-dark",
         "path": "./themes/sandbox.json"
+      },
+      {
+        "label": "Maron Themes: Solaris",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solaris.json"
       },
       {
         "label": "Maron Themes: Solarized",

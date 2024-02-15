@@ -426,7 +426,6 @@
     "titleBar.activeBackground": "#22222f",
     "titleBar.activeForeground": "#cdd6f4dd",
     "titleBar.inactiveBackground": "#22222f",
-    "titleBar.inactiveForeground": "#cdd6f4dd",
     "tree.inactiveIndentGuidesStroke": "#2b2b2b",
     "tree.indentGuidesStroke": "#3c3c3c",
     "walkThrough.embeddedEditorBackground": "#22222f4c",

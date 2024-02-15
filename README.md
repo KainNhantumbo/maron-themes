@@ -116,6 +116,7 @@ All contributors that this extension is based with, it would not be what it is w
 - [Everforest](https://marketplace.visualstudio.com/items?itemName=sainnhe.everforest)
 - [JetBrains Fleet Dark](https://marketplace.visualstudio.com/items?itemName=franzgollhammer.jb-fleet-dark)
 - [Github Theme](https://marketplace.visualstudio.com/items?itemName=github.theme)
+- [Halcyon Theme](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
 - [HardHacker Theme](https://marketplace.visualstudio.com/items?itemName=HardHacker.hard-hacker-theme)
 - [Kanagawa Black](https://marketplace.visualstudio.com/items?itemName=Lamarcke.kanagawa-black)
 - [Material](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)

@@ -422,7 +422,6 @@
     "titleBar.activeBackground": "#141F1D",
     "titleBar.activeForeground": "#9aa79d",
     "titleBar.inactiveBackground": "#141F1D",
-    "titleBar.inactiveForeground": "#7f897d",
     "toolbar.hoverBackground": "#343f44",
     "tree.indentGuidesStroke": "#7f897d",
     "walkThrough.embeddedEditorBackground": "#272e33",

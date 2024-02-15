@@ -232,7 +232,6 @@
     "titleBar.activeBackground": "#212121",
     "titleBar.activeForeground": "#bbb1d7",
     "titleBar.inactiveBackground": "#212121",
-    "titleBar.inactiveForeground": "#bbb1d7",
     "widget.border": "#4c4c4c"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],

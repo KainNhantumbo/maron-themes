@@ -171,7 +171,6 @@
     "titleBar.activeBackground": "#16161D",
     "titleBar.activeForeground": "#DCD7BA",
     "titleBar.inactiveBackground": "#16161D",
-    "titleBar.inactiveForeground": "#DCD7BA",
     "walkThrough.embeddedEditorBackground": "#16161D",
     "widget.border": "#3c3c3c"
   },
