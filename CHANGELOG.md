@@ -2,6 +2,12 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.7.0
+
+- ✨ Added Maron Solaris Theme.
+- ✨ Updated extension logo.
+- 🔨 Fixed some inconsistences between color schemes, specially in Gruvbox Theme.
+
 #### 1.6.0
 - 🔨 Improved some colors and fixed some accessability issues.
 - 🔨 Fixed inconsistent title bar layout across themes.
