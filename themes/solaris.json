@@ -374,11 +374,12 @@
         "meta.embedded.expression",
         "meta.template.expression",
         "meta.tag.block.any.html",
+        "punctuation.accessor",
         "string.unquoted.tag-string.nunjucks",
         "text.html.nunjucks"
       ],
       "settings": {
-        "foreground": "#a2aabc"
+        "foreground": "#86897A"
       }
     },
     {
@@ -395,7 +396,6 @@
         "support.constant.mathematical-symbols",
         "support.constant.vendored.property-value",
         "punctuation.definition.keyword",
-        "punctuation.accessor",
         "punctuation.separator.property",
         "string.unquoted.filter-pipe"
       ],
