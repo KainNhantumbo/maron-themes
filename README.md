@@ -31,23 +31,23 @@ You can install this awesome theme pack through the [Visual Studio Code Marketpl
 
 ### 📷🥰 Here are some preview screenshots!
 
-|           Maron Fleet             |            Maron Forest           |
+|            Maron Fleet            |           Maron Forest            |
 | :-------------------------------: | :-------------------------------: |
 | ![](./previews/Screenshot_00.png) | ![](./previews/Screenshot_01.png) |
 
-|          Maron Gruvbox            |           Maron Kanagawa          |
+|           Maron Gruvbox           |          Maron Kanagawa           |
 | :-------------------------------: | :-------------------------------: |
 | ![](./previews/Screenshot_02.png) | ![](./previews/Screenshot_03.png) |
 
-|          Maron Nord               |           Maron Solarized         |
+|            Maron Nord             |          Maron Solarized          |
 | :-------------------------------: | :-------------------------------: |
 | ![](./previews/Screenshot_04.png) | ![](./previews/Screenshot_05.png) |
 
-|          Maron Rosetta            |           Maron Oceanic           |
+|           Maron Rosetta           |           Maron Oceanic           |
 | :-------------------------------: | :-------------------------------: |
 | ![](./previews/Screenshot_06.png) | ![](./previews/Screenshot_07.png) |
 
-|          Maron Atom               |           Maron Catppuccin        |
+|            Maron Atom             |         Maron Catppuccin          |
 | :-------------------------------: | :-------------------------------: |
 | ![](./previews/Screenshot_08.png) | ![](./previews/Screenshot_09.png) |
 
@@ -100,6 +100,17 @@ Recommended settings that I use for a better experience:
   "terminal.integrated.cursorStyle": "block",
   "editor.cursorStyle": "block"
 }
+```
+
+Since version 1.6.0, tab bar color position changed to be in the bottom instead of the top. If you prefer the _'old style'_, add the these lines below to your editor configuration file:
+
+```json
+"workbench.colorCustomizations": {
+    // you can change this color to whatever you want
+   "tab.activeBorderTop": "#ffffff80",
+    // leave as is here to maintain bottom color invisible
+   "tab.activeBorder": "#00000000"
+  },
 ```
 
 ### 🥳 Credits
