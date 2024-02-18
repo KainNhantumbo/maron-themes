@@ -270,7 +270,7 @@
     "panelInput.border": "#4f585e",
     "panelSection.border": "#343f4480",
     "panelSectionHeader.background": "#141F1D",
-    "panelTitle.activeBorder": "#a7c080d0",
+    "panelTitle.activeBorder": "#343f4480",
     "panelTitle.activeForeground": "#d3c6aa",
     "panelTitle.inactiveForeground": "#859289",
     "peekView.border": "#343f4480",

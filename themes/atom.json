@@ -103,6 +103,7 @@
     "notifications.border": "#343f4480",
     "panel.border": "#343f4480",
     "panel.dropBorder": "#343f44",
+    "panelTitle.activeBorder": "#343f44",
     "panelSectionHeader.background": "#21252b",
     "peekView.border": "#343f44",
     "peekViewTitle.background": "#21252b",
