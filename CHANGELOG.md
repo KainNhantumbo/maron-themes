@@ -5,6 +5,7 @@ All changes to the "Maron Themes" extension will be documented here.
 #### 1.8.0
 
 - ✨ Added Maron Code Theme (based on vscode dark modern theme).
+- 🔨 Remastered Solarized Theme colors for better appearance, visibility and accessability.
 - 🔨 Fixed some inconsistences between color schemes.
 
 #### 1.7.0
@@ -14,10 +15,10 @@ All changes to the "Maron Themes" extension will be documented here.
 - 🔨 Fixed some inconsistences between color schemes, specially in Gruvbox Theme.
 
 #### 1.6.0
+
 - 🔨 Improved some colors and fixed some accessability issues.
 - 🔨 Fixed inconsistent title bar layout across themes.
 - 🔨 Fixed inconsistent menu borders, colors and accessibility issues.
-
 
 #### 1.5.1
 
