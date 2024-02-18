@@ -41,6 +41,10 @@
     "drakula",
     "atom",
     "one dark",
+    "code",
+    "vscode",
+    "modern",
+    "dark plus",
     "material",
     "everforest",
     "tokyo night",
@@ -75,6 +79,11 @@
         "label": "Maron Themes: Catppuccin",
         "uiTheme": "vs-dark",
         "path": "./themes/catppuccin.json"
+      },
+      {
+        "label": "Maron Themes: Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code.json"
       },
       {
         "label": "Maron Themes: Dracula",
