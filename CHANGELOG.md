@@ -2,6 +2,11 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.8.0
+
+- ✨ Added Maron Code Theme (based on vscode dark modern theme).
+- 🔨 Fixed some inconsistences between color schemes.
+
 #### 1.7.0
 
 - ✨ Added Maron Solaris Theme.
