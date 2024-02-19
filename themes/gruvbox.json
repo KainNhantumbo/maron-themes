@@ -1113,10 +1113,27 @@
         "punctuation.definition.tag.end.html",
         "punctuation.section.embedded",
         "keyword.other.template",
-        "keyword.other.substitution"
+        "keyword.other.substitution",
+        "meta.brace.round",
+        "meta.brace.square",
+        "meta.brace.curly",
+        "constant.other.color",
+        "punctuation.section.embedded",
+        "keyword.other.template",
+        "keyword.other.substitution",
+        "meta.delimiter.comma.js",
+        "meta.function-call.without-arguments.js",
+        "meta.function-call.method.without-arguments.js",
+        "punctuation.definition.tag",
+        "punctuation.definition.tag source",
+        "punctuation.definition.group.begin.ruby",
+        "punctuation.definition.group.end.ruby",
+        "punctuation.definition.group.begin.css",
+        "punctuation.definition.group.end.css",
+        "punctuation.definition.string.end.html source.css"
       ],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {

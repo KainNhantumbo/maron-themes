@@ -613,7 +613,7 @@
       "name": "Delimiter",
       "scope": "punctuation, meta.brace, meta.delimiter, meta.bracket",
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -846,14 +846,14 @@
       "name": "Html grey",
       "scope": "punctuation.separator.namespace.xml",
       "settings": {
-        "foreground": "#859289"
+        "foreground": "#BFD5DE60"
       }
     },
     {
       "name": "Html orange",
       "scope": "entity.name.tag.html, entity.name.tag.xml, entity.name.tag.localname.xml",
       "settings": {
-        "foreground": "#e69875"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -867,7 +867,7 @@
       "name": "Html green",
       "scope": "string.quoted.double.html, string.quoted.single.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html, punctuation.separator.key-value.html, punctuation.definition.string.begin.xml, punctuation.definition.string.end.xml, string.quoted.double.xml, string.quoted.single.xml, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.definition.tag.xml, meta.tag.xml, meta.tag.preprocessor.xml, meta.tag.other.html, meta.tag.block.any.html, meta.tag.inline.any.html",
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -888,7 +888,7 @@
       "name": "Proto green",
       "scope": "string.quoted.double.proto.syntax, string.quoted.single.proto.syntax, string.quoted.double.proto, string.quoted.single.proto",
       "settings": {
-        "foreground": "#a7c080"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1042,7 +1042,7 @@
       "name": "JSX green",
       "scope": "punctuation.definition.tag.jsx, entity.other.attribute-name.jsx, punctuation.definition.tag.begin.js.jsx, punctuation.definition.tag.end.js.jsx, entity.other.attribute-name.js.jsx",
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1063,7 +1063,7 @@
       "name": "TypeScript green",
       "scope": "punctuation.definition.tag.directive.ts, entity.other.attribute-name.directive.ts",
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1110,9 +1110,9 @@
     },
     {
       "name": "TSX green",
-      "scope": "punctuation.definition.tag.directive.tsx, entity.other.attribute-name.directive.tsx, punctuation.definition.tag.begin.tsx, punctuation.definition.tag.end.tsx, entity.other.attribute-name.tsx",
+      "scope": "punctuation.definition.tag.directive.tsx, entity.other.attribute-name.directive.tsx, punctuation.definition.tag.begin.tsx, punctuation.definition.tag.end.tsx",
       "settings": {
-        "foreground": "#a7c080"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -2415,7 +2415,7 @@
       "settings": {
         "foreground": "#d699b6"
       }
-    }
+    },
   ],
   "type": "dark"
 }

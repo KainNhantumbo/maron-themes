@@ -475,7 +475,7 @@
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#ECEFF4"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -486,14 +486,14 @@
         "punctuation.definition.parameters"
       ],
       "settings": {
-        "foreground": "#ECEFF4"
+        "foreground": "#BFD5DE60"
       }
     },
     {
       "name": "Punctuation Definition Tag",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#81A1C1"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -511,7 +511,7 @@
       "name": "Punctuation Section",
       "scope": "punctuation.section",
       "settings": {
-        "foreground": "#ECEFF4"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -591,7 +591,7 @@
         "punctuation.definition.string.end.html source.css"
       ],
       "settings": {
-        "foreground": "#88c0d0"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1052,12 +1052,11 @@
       "scope": [
         "source.js meta.embedded.line meta.brace.square",
         "source.js meta.embedded.line meta.brace.round",
-        /* Required for extension `mgmcdermott.vscode-language-babel`. */
         "source.js string.quoted.template meta.brace.square",
         "source.js string.quoted.template meta.brace.round"
       ],
       "settings": {
-        "foreground": "#ECEFF4"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1377,7 +1376,7 @@
         "source.tsx meta.embedded.line meta.brace.round"
       ],
       "settings": {
-        "foreground": "#ECEFF4"
+        "foreground": "#BFD5DE60"
       }
     },
     {

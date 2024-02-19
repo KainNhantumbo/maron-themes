@@ -789,7 +789,7 @@
         "punctuation.definition.string.end.html source.css"
       ],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -951,7 +951,7 @@
         "punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1052,7 +1052,7 @@
         "constant.language.empty-list.haskell"
       ],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1091,7 +1091,7 @@
         "punctuation.definition.attribute-selector.begin.bracket.square.scss"
       ],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {

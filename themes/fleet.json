@@ -1674,9 +1674,9 @@
       }
     },
     {
-      "scope": [" meta.brace.square"],
+      "scope": ["meta.brace.square"],
       "settings": {
-        "foreground": "#D6D6DD"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1808,7 +1808,7 @@
         "punctuation.definition.string.end.html source.css"
       ],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {

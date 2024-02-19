@@ -288,21 +288,21 @@
       "name": "punctuation.definition.block",
       "scope": ["punctuation.definition.block"],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
       "name": "punctuation.definition.parameters",
       "scope": ["punctuation.definition.parameters"],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
       "name": "meta.brace.round",
-      "scope": ["meta.brace.round"],
+      "scope": ["meta.brace.round", "meta.brace.curly", "meta.brace.square"],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -316,7 +316,7 @@
       "name": "punctuation.accessor",
       "scope": ["punctuation.accessor"],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -597,21 +597,21 @@
       "name": "punctuation.section",
       "scope": ["punctuation.section"],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
       "name": "punctuation.separator",
       "scope": ["punctuation.separator"],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
       "name": "punctuation.definition.entity.css",
       "scope": ["punctuation.definition.entity.css"],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -660,7 +660,7 @@
       "name": "punctuation.definition.tag",
       "scope": ["punctuation.definition.tag"],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -797,7 +797,7 @@
       "name": "markup.inline.raw",
       "scope": ["markup.inline.raw"],
       "settings": {
-        "foreground": "#86897A"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -856,6 +856,41 @@
       ],
       "settings": {
         "foreground": "#7AD9FB"
+      }
+    },
+    {
+      "name": "Operator, Misc",
+      "scope": [
+        "constant.other.color",
+        "punctuation.definition.tag",
+        "punctuation",
+        "punctuation.separator.inheritance.php",
+        "punctuation.definition.tag.html",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html",
+        "punctuation.section.embedded",
+        "keyword.other.template",
+        "keyword.other.substitution",
+        "meta.brace.round",
+        "meta.brace.square",
+        "meta.brace.curly",
+        "constant.other.color",
+        "punctuation.section.embedded",
+        "keyword.other.template",
+        "keyword.other.substitution",
+        "meta.delimiter.comma.js",
+        "meta.function-call.without-arguments.js",
+        "meta.function-call.method.without-arguments.js",
+        "punctuation.definition.tag",
+        "punctuation.definition.tag source",
+        "punctuation.definition.group.begin.ruby",
+        "punctuation.definition.group.end.ruby",
+        "punctuation.definition.group.begin.css",
+        "punctuation.definition.group.end.css",
+        "punctuation.definition.string.end.html source.css"
+      ],
+      "settings": {
+        "foreground": "#BFD5DE60"
       }
     }
   ],

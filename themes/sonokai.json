@@ -317,7 +317,7 @@
     "widget.shadow": "#00000070"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
-  "name": "Maron Monokai Dimmed",
+  "name": "Maron Sonokai",
   "semanticHighlighting": true,
   "tokenColors": [
     {
@@ -332,28 +332,28 @@
       ],
       "settings": {
         // "name": "Comments and overrides inside comments",
-        "foreground": "#7f8490"
+        "foreground": "#BFD5DE60"
       }
     },
     {
       "scope": "comment storage.type",
       "settings": {
         // "name": "JSDoc storage type",
-        "foreground": "#7f8490"
+        "foreground": "#BFD5DE60"
       }
     },
     {
       "scope": "comment entity.name.type",
       "settings": {
         // "name": "JSDoc entity name",
-        "foreground": "#7f8490"
+        "foreground": "#BFD5DE60"
       }
     },
     {
       "scope": ["comment variable", "comment variable.other"],
       "settings": {
         // "name": "JSDoc variable",
-        "foreground": "#7f8490"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -856,7 +856,7 @@
       ],
       "settings": {
         // "name": "Diff ignored",
-        "foreground": "#7f8490"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -883,7 +883,7 @@
       ],
       "settings": {
         // "name": "Braces, delimiters",
-        "foreground": "#7f8490"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1058,7 +1058,7 @@
       "scope": "punctuation",
       "settings": {
         // "name": "Punctuation",
-        "foreground": "#7f8490"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1073,7 +1073,7 @@
       ],
       "settings": {
         // "name": "Punctuation tags",
-        "foreground": "#7f8490"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1087,7 +1087,7 @@
       "scope": "punctuation.definition.comment",
       "settings": {
         // "name": "Comment start / end",
-        "foreground": "#7f8490"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1098,7 +1098,7 @@
       ],
       "settings": {
         // "name": "Variable indicator (i.e. in php or in include directives in sass)",
-        "foreground": "#7f8490"
+        "foreground": "#BFD5DE60"
       }
     },
     {

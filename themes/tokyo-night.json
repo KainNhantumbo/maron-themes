@@ -533,7 +533,7 @@
         "meta.at-rule.function variable.parameter.url"
       ],
       "settings": {
-        "foreground": "#89ddff"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -601,7 +601,7 @@
       "name": "Tag Punctuation",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#ba3c97"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1199,7 +1199,7 @@
       "name": "Plain Punctuation",
       "scope": "punctuation.definition.list_item.markdown",
       "settings": {
-        "foreground": "#de5971"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1234,7 +1234,7 @@
         "punctuation.section"
       ],
       "settings": {
-        "foreground": "#f7768e"
+        "foreground": "#BFD5DE60"
       }
     },
     {
