@@ -49,7 +49,7 @@
     "editor.inactiveSelectionBackground": "#434c5e60",
     "editor.inlineValuesBackground": "#4c566a",
     "editor.inlineValuesForeground": "#eceff4",
-    "editor.lineHighlightBackground": "#08080860",
+    "editor.lineHighlightBackground": "#08080840",
     "editor.rangeHighlightBackground": "#434c5e52",
     "editor.selectionBackground": "#5e81ac40",
     "editor.selectionHighlightBackground": "#434c5ecc",

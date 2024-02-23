@@ -6,7 +6,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 - ✨ Added Maron Code Theme (based on vscode dark modern theme).
 - 🔨 Remastered Solarized Theme colors for better appearance, visibility and accessability.
-- 🔨 Fixed some inconsistences between color schemes.
+- 🔨 Fixed some inconsistences between color schemes, specially punctuation colors.
 
 #### 1.7.0
 

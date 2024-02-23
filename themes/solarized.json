@@ -600,6 +600,14 @@
       "scope": [
         "keyword.control.export",
         "keyword.control.default",
+      ],
+      "settings": {
+        "foreground": "#DFBE5A"
+      }
+    },
+    {
+      "name": "Import, From",
+      "scope": [
         "keyword.control.import",
         "keyword.control.from",
         "keyword.import",
