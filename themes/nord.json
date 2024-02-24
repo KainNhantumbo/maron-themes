@@ -763,7 +763,7 @@
       "name": "[CSS] Support Type Property Name",
       "scope": "source.css support.type.property-name",
       "settings": {
-        "foreground": "#c8cEd9"
+        "foreground": "#B48EAD"
       }
     },
     {
@@ -1023,7 +1023,18 @@
         "source.js string.template meta.template.expression variable.other.object"
       ],
       "settings": {
-        "foreground": "#c8cEd9"
+        "foreground": "#B48EAD"
+      }
+    },
+    {
+      "name": "Variable property",
+      "scope": [
+        "variable.other.property",
+        "variable.other.property.static",
+        "variable.other.event"
+      ],
+      "settings": {
+        "foreground": "#c5e4fd"
       }
     },
     {

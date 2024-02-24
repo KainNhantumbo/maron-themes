@@ -1564,13 +1564,13 @@
       }
     },
     {
+      "name": "Variable property",
       "scope": [
         "variable.other.property",
         "variable.other.property.static",
         "variable.other.event"
       ],
       "settings": {
-        // "name": "Variable property",
         "foreground": "#e2e2e3"
       }
     },
