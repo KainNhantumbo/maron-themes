@@ -1353,7 +1353,6 @@
         "punctuation.separator.arguments",
         "punctuation.definition.list",
         "punctuation.section.array",
-        "meta.array"
       ],
       "settings": {
         "foreground": "#BFD5DE60"
@@ -2078,17 +2077,6 @@
     },
     {
       "scope": [
-        "meta.import.ts punctuation.definition.block",
-        "meta.import.tsx punctuation.definition.block",
-        "meta.export.ts punctuation.definition.block",
-        "meta.export.tsx punctuation.definition.block"
-      ],
-      "settings": {
-        "foreground": "#BFD5DE60"
-      }
-    },
-    {
-      "scope": [
         "meta.decorator punctuation.decorator.ts",
         "meta.decorator punctuation.decorator.tsx"
       ],
@@ -2196,15 +2184,6 @@
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
         "punctuation.section.embedded",
-        "punctuation.terminator.expression",
-        "punctuation.definition.arguments",
-        "punctuation.definition.array",
-        "punctuation.definition.list.begin",
-        "punctuation.definition.list.end",
-        "punctuation.separator.arguments",
-        "punctuation.definition.list",
-        "punctuation.section.array",
-        "meta.array",
         "keyword.other.template",
         "keyword.other.substitution",
         "meta.brace.round",

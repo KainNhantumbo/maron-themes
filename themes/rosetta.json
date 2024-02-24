@@ -8,7 +8,7 @@
     "activityBar.foreground": "#e965a5",
     "activityBar.inactiveForeground": "#8b81a7ff",
     "activityBarBadge.background": "#e965a5",
-    "activityBarBadge.foreground": "#212121",
+    "activityBarBadge.foreground": "#eee9fcff",
     "breadcrumb.focusForeground": "#eee9fcff",
     "breadcrumb.foreground": "#bbb1d7",
     "button.background": "#e965a5",
@@ -284,7 +284,6 @@
     {
       "name": "Operator, Misc",
       "scope": [
-        "constant.other.color",
         "punctuation.definition.tag",
         "punctuation",
         "punctuation.separator.inheritance.php",
@@ -297,7 +296,6 @@
         "meta.brace.round",
         "meta.brace.square",
         "meta.brace.curly",
-        "constant.other.color",
         "punctuation.section.embedded",
         "keyword.other.template",
         "keyword.other.substitution",
@@ -884,12 +882,10 @@
     {
       "name": "Block Punctuation",
       "scope": [
-        "meta.block",
         "meta.brace",
         "meta.brace.round",
         "meta.brace.square",
         "meta.brace.curly",
-        "constant.other.color",
         "punctuation.section.embedded",
         "keyword.other.template",
         "keyword.other.substitution",
@@ -907,7 +903,6 @@
         "punctuation.definition.section.switch-block.end.bracket",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "punctuation.section",
-        "constant.other.color",
         "punctuation.definition.tag",
         "punctuation.definition.group.shell",
         "punctuation.definition.parameters",

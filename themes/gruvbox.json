@@ -7,7 +7,7 @@
     "activityBar.foreground": "#689d6a",
     "activityBar.inactiveForeground": "#689d6a80",
     "activityBarBadge.background": "#689d6a",
-    "activityBarBadge.foreground": "#242424",
+    "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#fe8019",
     "badge.foreground": "#242424",
     "button.background": "#fe8019",
@@ -210,7 +210,7 @@
     "statusBarItem.focusBorder": "#fe8019",
     "statusBarItem.prominentBackground": "#6e768166",
     "statusBarItem.remoteBackground": "#689d6a80",
-    "statusBarItem.remoteForeground": "#ccc",
+    "statusBarItem.remoteForeground": "#fff",
     "statusBarItem.remoteHoverBackground": "#689d6a",
     "tab.activeBackground": "#242424",
     "tab.activeBorder": "#689d6a",
@@ -257,7 +257,7 @@
     "welcomePage.progress.foreground": "#fe8019",
     "welcomePage.tileBackground": "#ffffff0f",
     "widget.border": "#3c3c3c",
-    "widget.shadow": "#06060630"
+    "widget.shadow": "#06060600"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Gruvbox",
