@@ -131,6 +131,7 @@ All contributors that this extension is based with, it would not be what it is w
 - [HardHacker Theme](https://marketplace.visualstudio.com/items?itemName=HardHacker.hard-hacker-theme)
 - [Kanagawa Black](https://marketplace.visualstudio.com/items?itemName=Lamarcke.kanagawa-black)
 - [Material](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 - [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.material-theme)
 - [Ocean Theme](https://marketplace.visualstudio.com/items?itemName=alanlang.theme-ocean)

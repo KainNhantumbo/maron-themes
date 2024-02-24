@@ -200,7 +200,7 @@
     "terminalCursor.background": "#234d70",
     "textCodeBlock.background": "#4f4f4f",
     "titleBar.activeBackground": "#051520",
-    "titleBar.activeForeground": "#c5e4fdaa",
+    "titleBar.activeForeground": "#c5e4fdbb",
     "titleBar.inactiveBackground": "#051520",
     "walkThrough.embeddedEditorBackground": "#051520",
     "widget.shadow": "#05152000",
@@ -478,8 +478,8 @@
     "listFilterWidget.shadow": "#05152000",
     //"menu.background": "#051520",
     //"menu.foreground": "#ffffffcc",
-    //"menu.selectionBackground": "#234d708c",
-    //"menu.selectionForeground": "#ffffff",
+    "menu.selectionBackground": "#234d7040",
+    "menu.selectionForeground": "#c5e4fd",
     "menu.separatorBackground": "#5f7e9740",
     "menu.border": "#5f7e9740",
     //"menubar.selectionBackground": "#5a5d5e50",
@@ -2235,6 +2235,6 @@
       "settings": {
         "foreground": "#c5e4fd"
       }
-    },
+    }
   ]
 }
