@@ -2,6 +2,11 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.10.0
+
+- ✨ Added Maron Slime Theme (based on Slime theme).
+- 🔨 Fixed some inconsistences between color schemes.
+
 #### 1.9.0
 
 - ✨ Added Maron Owl Theme (based on Night Owl theme).
