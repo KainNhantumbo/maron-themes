@@ -61,6 +61,7 @@
     "rosetta",
     "fleet",
     "ocean",
+    "slime",
     "nord",
     "oceanic",
     "oceanic next",
@@ -141,6 +142,11 @@
         "label": "Maron Themes: Sandbox",
         "uiTheme": "vs-dark",
         "path": "./themes/sandbox.json"
+      },
+      {
+        "label": "Maron Themes: Slime",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slime.json"
       },
       {
         "label": "Maron Themes: Solaris",
