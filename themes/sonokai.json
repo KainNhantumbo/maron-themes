@@ -1488,9 +1488,9 @@
       }
     },
     {
+      "name": "text",
       "scope": "text",
       "settings": {
-        // "name": "text",
         "foreground": "#e2e2e3"
       }
     },

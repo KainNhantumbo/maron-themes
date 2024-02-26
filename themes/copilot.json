@@ -1,8 +1,0 @@
-{
-  "name": "Maron Copilot",
-  "type": "dark",
-  "$schema": "vscode://schemas/color-theme",
-  "author": "Kain Nhantumbo",
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
-  "semanticHighlighting": true
-}

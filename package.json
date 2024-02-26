@@ -90,11 +90,6 @@
         "path": "./themes/code.json"
       },
       {
-        "label": "Maron Themes: Copilot",
-        "uiTheme": "vs-dark",
-        "path": "./themes/copilot.json"
-      },
-      {
         "label": "Maron Themes: Dracula",
         "uiTheme": "vs-dark",
         "path": "./themes/dracula.json"
@@ -143,6 +138,11 @@
         "label": "Maron Themes: Owl",
         "uiTheme": "vs-dark",
         "path": "./themes/owl.json"
+      },
+      {
+        "label": "Maron Themes: Play Yard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/play-yard.json"
       },
       {
         "label": "Maron Themes: Sandbox",
