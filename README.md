@@ -53,26 +53,25 @@ You can install this awesome theme pack through the [Visual Studio Code Marketpl
 
 ### 🚀 Installation
 
-Launch Quick Open:
+👏 Launch Quick Open:
 
-- Linux Ctrl+P
-- macOS ⌘P
-- Windows Ctrl+P
+- Linux **Ctrl+P**
+- macOS **⌘P**
+- Windows **Ctrl+P**
 
-Then paste the following command and press Enter:
+Then paste the following command and press **Enter**:
 
 ```bash
 ext install KainNhantumbo.maron-themes
 ```
 
-Activate theme
-Launch Quick Open:
+👏 To Activate theme, launch Quick Open:
 
-- Linux Ctrl + Shift + P
-- macOS ⌘ + Shift + P
-- Windows Ctrl + Shift + P
+- Linux **Ctrl + Shift + P**
+- macOS **⌘ + Shift + P**
+- Windows **Ctrl + Shift + P**
 
-Type theme, choose `Preferences: Color Theme`, and select one of the **Maron Themes** variants from the list. Well done!
+Type **_theme_**, choose `Preferences: Color Theme`, and select one of the **Maron Themes** variants from the list. Well done!
 
 ### ⛵ Override Theme Colors
 
@@ -140,7 +139,7 @@ All contributors that this extension is based with, it would not be what it is w
 - [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)
 - [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 
-Something's missing? Create Issues so that I can make the theme as compatible as possible ! ❤️ ;)
+Something's missing? Create Issues so that I can make the each theme compatible as possible ! ❤️ ;)
 
 ## ☘️ Find me!
 
@@ -157,6 +156,6 @@ Best regards, Kain Nhantumbo.\
 ## 📜 License
 
 This theme pack extension is released under the MIT License.\
-Copyright &copy; 2023 Kain Nhantumbo.
+Copyright &copy; 2024 Kain Nhantumbo.
 
 > Refer to the [notice file](./NOTICE.md) for more information.

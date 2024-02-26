@@ -63,6 +63,7 @@
     "ocean",
     "slime",
     "nord",
+    "copilot",
     "oceanic",
     "oceanic next",
     "hacker",
@@ -87,6 +88,11 @@
         "label": "Maron Themes: Code",
         "uiTheme": "vs-dark",
         "path": "./themes/code.json"
+      },
+      {
+        "label": "Maron Themes: Copilot",
+        "uiTheme": "vs-dark",
+        "path": "./themes/copilot.json"
       },
       {
         "label": "Maron Themes: Dracula",
