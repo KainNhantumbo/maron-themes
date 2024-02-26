@@ -2,6 +2,12 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.11.0
+
+- ✨ Added Maron Play Yard Theme (based on the Copilot theme).
+- 🔨 Fixed word selection background color being too transparent of Oceanic Theme.
+- 🔨 Fixed some inconsistences between color schemes.
+
 #### 1.10.0
 
 - ✨ Added Maron Slime Theme (based on Slime theme).
