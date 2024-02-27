@@ -5,6 +5,7 @@ All changes to the "Maron Themes" extension will be documented here.
 #### 1.11.0
 
 - ✨ Added Maron Play Yard Theme (based on the Copilot theme).
+- ✨ Enhanced overall appearance for sidebar, icons and terminal panel.
 - 🔨 Fixed word selection background color being too transparent of Oceanic Theme.
 - 🔨 Fixed some inconsistences between color schemes.
 
