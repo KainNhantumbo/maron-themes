@@ -9,9 +9,9 @@
     "activityBar.foreground": "#38BBB0",
     "activityBar.inactiveForeground": "#275662",
     "activityBarBadge.background": "#38BBB0",
-    "activityBarBadge.foreground": "#000",
-    "badge.background": "#586e75",
-    "badge.foreground": "#eee8d5bb",
+    "activityBarBadge.foreground": "#0D1A20",
+    "badge.background": "#38BBB0",
+    "badge.foreground": "#0D1A20",
     "breadcrumb.activeSelectionForeground": "#e0e0e0be",
     "breadcrumb.background": "#0D1A20",
     "breadcrumb.focusForeground": "#eee8d5bb",
@@ -108,7 +108,7 @@
     "gitDecoration.modifiedResourceForeground": "#b58900",
     "gitDecoration.submoduleResourceForeground": "#2aa198",
     "gitDecoration.untrackedResourceForeground": "#859900",
-    "icon.foreground": "#eee8d5bb",
+    "icon.foreground": "#38BBB0",
     "input.background": "#0D1A20",
     "input.border": "#586e7540",
     "input.foreground": "#eee8d5bb",
@@ -140,7 +140,7 @@
     "panelInput.border": "#586e7540",
     "panelSectionHeader.border": "#0D1A20",
     "panelTitle.activeBorder": "#222f42",
-    "panelTitle.activeForeground": "#eee8d5bb",
+    "panelTitle.activeForeground": "#839496",
     "panelTitle.inactiveForeground": "#839496",
     "peekView.border": "#586e7590",
     "peekViewEditor.background": "#0D1A20",
@@ -168,7 +168,7 @@
     "sideBar.background": "#0D1A20",
     "sideBar.border": "#0D1A20",
     "sideBarSectionHeader.background": "#0D1A20",
-    "sideBarTitle.foreground": "#839496",
+    "sideBarTitle.foreground": "#38BBB0",
     "statusBar.background": "#0D1A20",
     "statusBar.border": "#0D1A20",
     "statusBar.debuggingBackground": "#cb4b16",
@@ -597,10 +597,7 @@
     },
     {
       "name": "Export, Default",
-      "scope": [
-        "keyword.control.export",
-        "keyword.control.default",
-      ],
+      "scope": ["keyword.control.export", "keyword.control.default"],
       "settings": {
         "foreground": "#DFBE5A"
       }
