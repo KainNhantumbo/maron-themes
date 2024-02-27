@@ -97,6 +97,7 @@
     "peekViewResult.background": "#141d26",
     "peekViewResult.selectionBackground": "#99dc9e40",
     "peekViewTitle.background": "#141d26",
+    "peekViewTitleLabel.foreground": "#99dc9e",
     "pickerGroup.border": "#99dc9e80",
     "pickerGroup.foreground": "#586e75",
     "progressBar.background": "#99dc9e",

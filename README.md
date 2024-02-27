@@ -82,7 +82,7 @@ Recommended settings that I use for a better experience:
 ```json
 {
   // Controls the font family.
-  "editor.fontFamily": "0xProto",
+  "editor.fontFamily": "Geist Mono",
 
   // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
   "editor.lineHeight": 24,
@@ -101,7 +101,7 @@ Recommended settings that I use for a better experience:
 }
 ```
 
-Since version 1.6.0, tab bar color position changed to be in the bottom instead of the top. If you prefer the _'old style'_, add the these lines below to your editor configuration file:
+Since version 1.6.0, tab bar color position changed to bottom instead of the top. If you prefer the _'old style'_, add the these lines below to your editor configuration file:
 
 ```json
 "workbench.colorCustomizations": {
@@ -140,7 +140,7 @@ All contributors that this extension is based with, it would not be what it is w
 - [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)
 - [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 
-Something's missing? Create Issues so that I can make the each theme compatible as possible ! ❤️ ;)
+Something's missing? Create Issues so that I can make the each theme compatible as possible! ❤️ ;)
 
 ## ☘️ Find me!
 

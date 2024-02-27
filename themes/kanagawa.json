@@ -118,6 +118,8 @@
     "peekViewEditorGutter.background": "#16161D",
     "peekViewResult.background": "#16161D",
     "peekViewTitle.background": "#16161D",
+    "peekViewResult.selectionBackground": "#6f6f9060",
+    "peekViewTitleLabel.foreground": "#FF9E3B",
     "scrollbar.shadow": "#ff000000",
     "scrollbarSlider.activeBackground": "#6f6f9080",
     "scrollbarSlider.background": "#54546D66",

@@ -90,6 +90,8 @@
     "peekViewEditor.background": "#1A1F1D",
     "peekViewResult.background": "#1A1F1D",
     "peekViewTitle.background": "#1A1F1D",
+    "peekViewTitleLabel.foreground": "#cef144",
+    "peekViewResult.selectionBackground": "#cef14420",
     "pickerGroup.border": "#3f3f46",
     "pickerGroup.foreground": "#3794ff",
     "scrollbar.shadow": "#ff000000",

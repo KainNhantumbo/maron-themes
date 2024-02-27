@@ -162,7 +162,7 @@
     "panelTitle.inactiveForeground": "#bbb1d7",
     "peekView.border": "#4c4c4c",
     "peekViewEditor.background": "#212121",
-    "peekViewEditor.matchHighlightBackground": "#00000000",
+    "peekViewEditor.matchHighlightBackground": "#4c4c4c80",
     "peekViewEditorGutter.background": "#212121",
     "peekViewResult.background": "#212121",
     "peekViewResult.fileForeground": "#eee9fcff",
