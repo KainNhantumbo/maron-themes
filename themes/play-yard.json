@@ -680,7 +680,7 @@
       }
     },
     {
-      "name": "Export",
+      "name": "Export, Default",
       "scope": [
         "keyword.control.export",
         "keyword.control.default",
