@@ -306,12 +306,40 @@
       "scope": [
         "storage.type.extends",
         "storage.type.cs",
-        "storage.type.function.name",
+        "storage.type.function",
         "entity.function",
-        "entity.name.function.static"
+        "entity.name.function.static",
+        "entity.name.function.operator",
+        "storage.type.function.arrow"
       ],
       "settings": {
         "foreground": "#38bdf8"
+      }
+    },
+    {
+      "name": "Punctuation template string (`example`)",
+      "scope": [
+        "punctuation.template-string.element.begin",
+        "punctuation.template-string.element.end",
+        "punctuation.definition.string.template.begin",
+        "punctuation.definition.string.template.end",
+        "string.quoted.template punctuation.definition.string.begin",
+        "string.quoted.template punctuation.definition.string.end",
+        "string source punctuation.section.embedded",
+        "string.regexp punctuation.definition.string.begin",
+        "string.regexp punctuation.definition.string.end",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "foreground": "#38bdf8"
+      }
+    },
+    {
+      "scope": ["storage.type", "storage.modifier", "storage.type.modifier"],
+      "settings": {
+        // "name": "Types and definition/declaration keywords should use the following scope. Examples include int, bool, char, func, function, class and def. Depending on the language and semantics, const may be this or storage.modifier.",
+        "fontStyle": "",
+        "foreground": "#76cce0"
       }
     },
     {
@@ -489,19 +517,19 @@
     {
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#94A3B8"
+        "foreground": "#38bdf8"
       }
     },
     {
       "scope": "keyword.operator.bitwise",
       "settings": {
-        "foreground": "#94A3B8"
+        "foreground": "#38bdf8"
       }
     },
     {
       "scope": "keyword.operator.channel",
       "settings": {
-        "foreground": "#94A3B8"
+        "foreground": "#38bdf8"
       }
     },
     {
@@ -513,7 +541,7 @@
     {
       "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
       "settings": {
-        "foreground": "#94A3B8"
+        "foreground": "#38bdf8"
       }
     },
     {
@@ -585,7 +613,7 @@
         "keyword.operator.expression.keyof"
       ],
       "settings": {
-        "foreground": "#ADB6C4"
+        "foreground": "#38bdf8"
       }
     },
     {
@@ -609,19 +637,19 @@
     {
       "scope": "keyword.operator.misc.rust",
       "settings": {
-        "foreground": "#64748B"
+        "foreground": "#38bdf8"
       }
     },
     {
       "scope": "keyword.operator.sigil.rust",
       "settings": {
-        "foreground": "#ADB6C4"
+        "foreground": "#38bdf8"
       }
     },
     {
       "scope": "keyword.operator.delete",
       "settings": {
-        "foreground": "#ADB6C4"
+        "foreground": "#F472B6"
       }
     },
     {
@@ -639,19 +667,19 @@
     {
       "scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
       "settings": {
-        "foreground": "#94A3B8"
+        "foreground": "#38bdf8"
       }
     },
     {
       "scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
       "settings": {
-        "foreground": "#ADB6C4"
+        "foreground": "#38bdf8"
       }
     },
     {
-      "scope": "punctuation.separator.delimiter, punctuation.separator.comma, keyword.operator.arithmetic, keyword.operator.bitwise, keyword.operator.relational, keyword.operator.comparison, keyword.operator.logical",
+      "scope": "punctuation.separator.delimiter, keyword.operator.arithmetic, keyword.operator.bitwise, keyword.operator.relational, keyword.operator.comparison, keyword.operator.logical",
       "settings": {
-        "foreground": "#64748B"
+        "foreground": "#38bdf8"
       }
     },
     {
@@ -717,19 +745,19 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#64748B"
+        "foreground": "#38bdf8"
       }
     },
     {
       "scope": "keyword.operator.assignment.compound",
       "settings": {
-        "foreground": "#ADB6C4"
+        "foreground": "#38bdf8"
       }
     },
     {
       "scope": "keyword.operator.assignment.compound.js,keyword.operator.assignment.compound.ts",
       "settings": {
-        "foreground": "#94A3B8"
+        "foreground": "#38bdf8"
       }
     },
     {
@@ -882,7 +910,7 @@
     {
       "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
       "settings": {
-        "foreground": "#ADB6C4"
+        "foreground": "#81b88b"
       }
     },
     {
@@ -1467,7 +1495,7 @@
     {
       "scope": ["keyword.operator.module"],
       "settings": {
-        "foreground": "#ADB6C4"
+        "foreground": "#F472B6"
       }
     },
     {
@@ -1521,7 +1549,7 @@
     {
       "scope": ["keyword.operator.assignment"],
       "settings": {
-        "foreground": "#64748B"
+        "foreground": "#38bdf8"
       }
     },
     {
@@ -1536,7 +1564,7 @@
         "keyword.operator.address.go"
       ],
       "settings": {
-        "foreground": "#ADB6C4"
+        "foreground": "#38bdf8"
       }
     },
     {
@@ -1837,7 +1865,6 @@
         "meta.brace.round",
         "meta.brace.square",
         "meta.brace.curly",
-        "storage.type.function",
         "constant.other.color",
         "punctuation.section.embedded",
         "keyword.other.template",
