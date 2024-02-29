@@ -36,7 +36,7 @@
     "editor.hoverHighlightBackground": "#8BE9FD50",
     "editor.lineHighlightBackground": "#08080840",
     "editor.rangeHighlightBackground": "#BD93F915",
-    "editor.selectionBackground": "#44475A",
+    "editor.selectionBackground": "#44475A90",
     "editor.selectionHighlightBackground": "#424450ee",
     "editor.snippetFinalTabstopHighlightBackground": "#222530",
     "editor.snippetFinalTabstopHighlightBorder": "#40D859",

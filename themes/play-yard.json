@@ -14,6 +14,7 @@
     "activityBarBadge.foreground": "#1a2023",
     "badge.background": "#ffea6b",
     "badge.foreground": "#1a2023",
+    "breadcrumb.foreground": "#939da5",
     "button.background": "#ffea6b",
     "button.foreground": "#1a2023",
     "checkbox.foreground": "#ffea6b",
