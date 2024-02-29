@@ -47,6 +47,8 @@
     "vscode",
     "modern",
     "dark plus",
+    "celeste",
+    "brownie",
     "material",
     "everforest",
     "tokyo night",
@@ -80,9 +82,19 @@
         "path": "./themes/atom.json"
       },
       {
+        "label": "Maron Themes: Brownie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brownie.json"
+      },
+      {
         "label": "Maron Themes: Catppuccin",
         "uiTheme": "vs-dark",
         "path": "./themes/catppuccin.json"
+      },
+      {
+        "label": "Maron Themes: Celeste",
+        "uiTheme": "vs-dark",
+        "path": "./themes/celeste.json"
       },
       {
         "label": "Maron Themes: Code",
