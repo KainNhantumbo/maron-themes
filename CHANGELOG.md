@@ -2,6 +2,13 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.12.0
+
+- ✨ Added Maron Brownie Theme.
+- ✨ Added Maron Celeste Theme.
+- ✨ Improved editor selection colors and fixed found issues related to it.
+- 🔨 Fixed some inconsistences between color schemes.
+
 #### 1.11.0
 
 - ✨ Added Maron Play Yard Theme (based on the Copilot theme).

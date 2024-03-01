@@ -135,9 +135,11 @@ All contributors that this extension is based with, it would not be what it is w
 - [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.material-theme)
 - [Ocean Theme](https://marketplace.visualstudio.com/items?itemName=alanlang.theme-ocean)
+- [React Theme](https://marketplace.visualstudio.com/items?itemName=MoonHealth.react-theme-faithful)
 - [Slime Theme](https://marketplace.visualstudio.com/items?itemName=smlombardi.slime)
 - [Solarized Dark Vim](https://marketplace.visualstudio.com/items?itemName=hkmix.solarized-dark-vim)
 - [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)
+- [Tailwind Theme](https://marketplace.visualstudio.com/items?itemName=WollaceBuarque.tailwind-theme)
 - [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
 
 Something's missing? Create Issues so that I can make the each theme compatible as possible! ❤️ ;)

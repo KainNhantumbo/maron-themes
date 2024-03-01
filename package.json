@@ -2,7 +2,7 @@
   "name": "maron-themes",
   "displayName": "Maron Themes",
   "description": "A slightly modified variants of some popular themes. Pick up and feel the new experience in your editor!",
-  "version": "1.11.0",
+  "version": "1.12.0",
   "icon": "icons/logo.png",
   "publisher": "KainNhantumbo",
   "engines": {
