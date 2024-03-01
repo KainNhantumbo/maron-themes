@@ -65,7 +65,7 @@
     "listFilterWidget.background": "#2f3b54",
     "listFilterWidget.outline": "#2f3b54",
     "listFilterWidget.noMatchesOutline": "#ef6b73",
-    "tree.indentGuidesStroke": "#2f3b54",
+    "tree.indentGuidesStroke": "#5ccfe660",
     "activityBar.background": "#171c28",
     "activityBar.foreground": "#5ccfe6",
     "activityBar.inactiveForeground": "#5ccfe660",

@@ -252,8 +252,7 @@
     "titleBar.activeBackground": "#161B21",
     "titleBar.activeForeground": "#8E96A1",
     "titleBar.inactiveBackground": "#161B21",
-    "tree.inactiveIndentGuidesStroke": "#2b2b2b",
-    "tree.indentGuidesStroke": "#3c3c3c",
+    "tree.indentGuidesStroke": "#58a6ff60",
     "widget.border": "#3c3c3c"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],

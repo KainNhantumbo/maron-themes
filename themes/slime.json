@@ -6,6 +6,7 @@
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "semanticHighlighting": true,
   "colors": {
+    "tree.indentGuidesStroke": "#8bac7860",
     "activityBar.activeBackground": "#1b2020",
     "activityBar.inactiveForeground": "#5e7373",
     "activityBar.activeBorder": "#8bac78",

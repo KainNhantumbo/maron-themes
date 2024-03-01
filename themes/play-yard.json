@@ -132,6 +132,7 @@
     "terminal.tab.activeBorder": "#ffea6b",
     "terminal.border": "#c5e4fd20",
     "toolbar.hoverBackground": "#707a8430",
+    "tree.indentGuidesStroke": "#ffea6b60",
     "widget.shadow": "#1a202300",
     "widget.border": "#c5e4fd20"
   },

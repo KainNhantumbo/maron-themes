@@ -135,6 +135,7 @@
     "terminal.tab.activeBorder": "#99dc9e",
     "titleBar.activeBackground": "#141d26",
     "titleBar.activeForeground": "#839496",
+    "tree.indentGuidesStroke": "#99dc9e60",
     "widget.border": "#99dc9e60",
     "widget.shadow": "#141d2600"
   },

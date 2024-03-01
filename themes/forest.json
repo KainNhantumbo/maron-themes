@@ -423,7 +423,7 @@
     "titleBar.activeForeground": "#9aa79d",
     "titleBar.inactiveBackground": "#141F1D",
     "toolbar.hoverBackground": "#343f44",
-    "tree.indentGuidesStroke": "#7f897d",
+    "tree.indentGuidesStroke": "#83c09260",
     "walkThrough.embeddedEditorBackground": "#272e33",
     "welcomePage.progress.foreground": "#a7c080",
     "welcomePage.tileHoverBackground": "#343f44",

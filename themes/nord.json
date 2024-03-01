@@ -299,7 +299,7 @@
     "titleBar.activeBackground": "#181d28",
     "titleBar.activeForeground": "#88c0d0",
     "titleBar.inactiveBackground": "#181d28",
-    "tree.indentGuidesStroke": "#616e88",
+    "tree.indentGuidesStroke": "#88c0d060",
     "walkThrough.embeddedEditorBackground": "#181d28",
     "widget.border": "#88c0d040",
     "widget.shadow": "#00000000"

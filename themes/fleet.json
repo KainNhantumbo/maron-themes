@@ -177,6 +177,7 @@
     "titleBar.activeBackground": "#181818",
     "titleBar.activeForeground": "#9d9d9d",
     "titleBar.inactiveBackground": "#181818",
+    "tree.indentGuidesStroke": "#bf8c2560",
     "welcomePage.progress.foreground": "#808080",
     "welcomePage.tileBackground": "#2b2b2b",
     "widget.border": "#313131",

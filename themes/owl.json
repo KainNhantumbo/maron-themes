@@ -203,8 +203,8 @@
     "titleBar.activeBackground": "#051520",
     "titleBar.activeForeground": "#c5e4fdbb",
     "titleBar.inactiveBackground": "#051520",
+    "tree.indentGuidesStroke": "#c5e4fd60",
     "walkThrough.embeddedEditorBackground": "#051520",
-    "widget.shadow": "#05152000",
     "editor.lineHighlightBorder": "#28282800",
     "editorOverviewRuler.border": "#7f7f7f00",
     "editorStickyScroll.shadow": "#010b1400",
@@ -226,6 +226,7 @@
     "terminal.tab.activeBorder": "#5f7e97",
     "editorCursor.background": "#051520",
     "editorOverviewRuler.background": "#05152000",
+    "widget.shadow": "#05152000",
     "widget.border": "#5f7e9740"
   },
   "tokenColors": [
