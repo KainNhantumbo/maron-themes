@@ -2,6 +2,12 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 1.12.1
+
+- ✨ Improved tree ident stroke colors.
+- ✨ Improved debugging statusbar colors.
+- 🔨 Fixed some inconsistences between color schemes.
+
 #### 1.12.0
 
 - ✨ Added Maron Brownie Theme.
