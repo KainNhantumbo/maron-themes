@@ -6,6 +6,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 - ✨ Improved tree ident stroke colors.
 - ✨ Improved debugging statusbar colors.
+- ✨ Improved Celeste Theme JSON syntax highlight.
 - ✨ Adjusted Maron Gruvbox Theme background color.
 - 🔨 Fixed some inconsistences between color schemes.
 
