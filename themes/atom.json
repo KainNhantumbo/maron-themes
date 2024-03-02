@@ -106,7 +106,7 @@
     "panel.border": "#343f4480",
     "panel.dropBorder": "#343f44",
     "panelTitle.activeForeground": "#9da5b4",
-    "panelTitle.inactiveForeground": "#9da5b4",
+    "panelTitle.inactiveForeground": "#9da5b4AA",
     "panelTitle.activeBorder": "#343f44",
     "panelSectionHeader.background": "#21252b",
     "peekView.border": "#343f44",

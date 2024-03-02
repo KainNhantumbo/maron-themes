@@ -222,7 +222,7 @@
     "panelSection.border": "#4e6ab2",
     "panelTitle.activeBorder": "#4e6ab240",
     "panelTitle.activeForeground": "#a9b1d6",
-    "panelTitle.inactiveForeground": "#a9b1d6",
+    "panelTitle.inactiveForeground": "#a9b1d6aa",
     "peekView.border": "#4e6ab240",
     "peekViewEditor.background": "#0F141C",
     "peekViewEditor.matchHighlightBackground": "#4e6ab240",

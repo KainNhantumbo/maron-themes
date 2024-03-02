@@ -273,7 +273,7 @@
     "panelSectionHeader.background": "#141F1D",
     "panelTitle.activeBorder": "#343f4480",
     "panelTitle.activeForeground": "#9aa79d",
-    "panelTitle.inactiveForeground": "#9aa79d",
+    "panelTitle.inactiveForeground": "#9aa79dAA",
     "peekView.border": "#343f4480",
     "peekViewEditor.background": "#141F1D",
     "peekViewEditor.matchHighlightBackground": "#bf983d50",

@@ -6,7 +6,7 @@
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "semanticHighlighting": true,
   "colors": {
-    "focusBorder": "#2f3b54",
+    "focusBorder": "#5ccfe660",
     "foreground": "#8695b7",
     "widget.shadow": "#00030F00",
     "selection.background": "#8695b777",
@@ -194,7 +194,7 @@
     "panel.dropBorder": "#2f3b54",
     "panelTitle.activeBorder": "#2f3b54",
     "panelTitle.activeForeground": "#8695b7",
-    "panelTitle.inactiveForeground": "#8695b7",
+    "panelTitle.inactiveForeground": "#8695b7AA",
     "panelInput.border": "#8695b7",
     "panelSection.border": "#2f3b54",
     "panelSection.dropBackground": "#2f3b54",
