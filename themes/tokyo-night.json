@@ -535,6 +535,18 @@
       }
     },
     {
+      "scope": [
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.new",
+        "keyword.operator.ternary",
+        "keyword.operator.optional",
+        "keyword.operator.expression.keyof"
+      ],
+      "settings": {
+        "foreground": "#e0687a"
+      }
+    },
+    {
       "name": "Export, Default",
       "scope": ["keyword.control.export", "keyword.control.default"],
       "settings": {

@@ -1116,6 +1116,13 @@
       "settings": {
         "foreground": "#F1FA8C"
       }
+    },
+    {
+      "name": "Export, Default",
+      "scope": ["keyword.control.export", "keyword.control.default"],
+      "settings": {
+        "foreground": "#BD93F9"
+      }
     }
   ],
   "type": "dark"
