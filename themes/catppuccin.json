@@ -2,6 +2,7 @@
   "$schema": "vscode://schemas/color-theme",
   "author": "Kain Nhantumbo",
   "colors": {
+    "editorStickyScroll.shadow": "#ff000000",
     "activityBar.activeBackground": "#22222f",
     "activityBar.activeBorder": "#cba6f7",
     "activityBar.activeFocusBorder": "#22222f",

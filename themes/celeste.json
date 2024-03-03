@@ -6,6 +6,7 @@
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "semanticHighlighting": true,
   "colors": {
+    "editorStickyScroll.shadow": "#ff000000",
     "activityBar.background": "#171c28",
     "activityBar.foreground": "#38bdf8",
     "activityBar.inactiveForeground": "#38bdf860",

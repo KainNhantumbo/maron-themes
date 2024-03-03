@@ -2,6 +2,7 @@
   "$schema": "vscode://schemas/color-theme",
   "author": "Kain Nhantumbo",
   "colors": {
+    "widget.shadow": "#ff000000",
     "activityBar.activeBorder": "#58a6ff",
     "activityBar.background": "#161B21",
     "activityBar.border": "#30363d00",
