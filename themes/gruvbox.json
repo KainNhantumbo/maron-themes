@@ -12,10 +12,10 @@
     "badge.background": "#689d6a",
     "badge.foreground": "#ffffff",
     "breadcrumb.foreground": "#a89984",
-    "button.background": "#fe8019",
+    "button.background": "#458588",
     "button.border": "#ffffff12",
-    "button.foreground": "#1B1C1D",
-    "button.hoverBackground": "#fe8019e6",
+    "button.foreground": "#ffffff",
+    "button.hoverBackground": "#458588cc",
     "button.secondaryBackground": "#ffffff0f",
     "button.secondaryForeground": "#ebdbb2",
     "button.secondaryHoverBackground": "#ffffff15",
@@ -1164,10 +1164,7 @@
     },
     {
       "name": "Export, Default",
-      "scope": [
-        "keyword.control.export",
-        "keyword.control.default",
-      ],
+      "scope": ["keyword.control.export", "keyword.control.default"],
       "settings": {
         "foreground": "#d3869b"
       }
