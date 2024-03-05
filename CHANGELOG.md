@@ -2,6 +2,12 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 2.0.0
+
+- ✨ Added Darcula Theme.
+- 🔨 Changed all theme names to funny nicknames (as intended in version 1.0.0) but all theme file names still the same.
+- 🔨 Fixed some inconsistences between color schemes.
+
 #### 1.12.1
 
 - ✨ Improved tree ident stroke colors.
