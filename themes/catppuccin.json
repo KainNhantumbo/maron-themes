@@ -778,13 +778,6 @@
       }
     },
     {
-      "name": "`new` as bold",
-      "scope": "keyword.operator.new",
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
-    {
       "name": "C++ extern keyword",
       "scope": "storage.modifier.specifier.extern.cpp",
       "settings": {

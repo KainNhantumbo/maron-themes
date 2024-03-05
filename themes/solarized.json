@@ -17,9 +17,9 @@
     "breadcrumb.background": "#0D1A20",
     "breadcrumb.focusForeground": "#eee8d5bb",
     "breadcrumb.foreground": "#839496",
-    "button.background": "#586e7599",
-    "button.foreground": "#839496",
-    "button.hoverBackground": "#073642",
+    "button.background": "#268bd2",
+    "button.foreground": "#eee8d5dd",
+    "button.hoverBackground": "#268bd2aa",
     "button.secondaryBackground": "#073642",
     "button.secondaryForeground": "#839496",
     "checkbox.background": "#07364200",
@@ -645,7 +645,7 @@
         "entity.source.cmake"
       ],
       "settings": {
-        "foreground": "#6c71c4"
+        "foreground": "#99BC7D"
       }
     },
     {
@@ -677,7 +677,8 @@
         "foreground": "#dc322f"
       }
     },
-    {"name": "Custom tags",
+    {
+      "name": "Custom tags",
       "scope": [
         "entity.name.tag.other.html",
         "entity.name.tag support.class.component",
@@ -691,7 +692,7 @@
       "name": "Control keywords examples include if, try, end and while. Some syntaxes prefer to mark if and else with the conditional variant. The import variant is often used in appropriate situations.",
       "scope": ["keyword.control"],
       "settings": {
-        "foreground": "#E54B95"
+        "foreground": "#FC5B60"
       }
     }
   ],
