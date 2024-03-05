@@ -63,6 +63,7 @@
     "rosetta",
     "fleet",
     "ocean",
+    "darcula",
     "slime",
     "nord",
     "copilot",
@@ -172,11 +173,6 @@
         "path": "./themes/sandbox.json"
       },
       {
-        "label": "Maron Themes: Undead Frost Slime",
-        "uiTheme": "vs-dark",
-        "path": "./themes/slime.json"
-      },
-      {
         "label": "Maron Themes: Stellar Angels",
         "uiTheme": "vs-dark",
         "path": "./themes/solaris.json"
@@ -190,6 +186,16 @@
         "label": "Maron Themes: Tokyo City Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-night.json"
+      },
+      {
+        "label": "Maron Themes: Undead Frost Slime",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slime.json"
+      },
+      {
+        "label": "Maron Themes: Unfair Deadly Hills",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darcula.json"
       }
     ]
   },
