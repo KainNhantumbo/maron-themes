@@ -77,17 +77,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Maron Themes: Atom",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom.json"
-      },
-      {
-        "label": "Maron Themes: Brownie",
-        "uiTheme": "vs-dark",
-        "path": "./themes/brownie.json"
-      },
-      {
-        "label": "Maron Themes: Catppuccin",
+        "label": "Maron Themes: Cappuccino",
         "uiTheme": "vs-dark",
         "path": "./themes/catppuccin.json"
       },
@@ -97,99 +87,109 @@
         "path": "./themes/celeste.json"
       },
       {
-        "label": "Maron Themes: Code",
-        "uiTheme": "vs-dark",
-        "path": "./themes/code.json"
-      },
-      {
-        "label": "Maron Themes: Dracula",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dracula.json"
-      },
-      {
-        "label": "Maron Themes: Fleet",
-        "uiTheme": "vs-dark",
-        "path": "./themes/fleet.json"
-      },
-      {
-        "label": "Maron Themes: Forest",
-        "uiTheme": "vs-dark",
-        "path": "./themes/forest.json"
-      },
-      {
-        "label": "Maron Themes: Github",
-        "uiTheme": "vs-dark",
-        "path": "./themes/github.json"
-      },
-      {
-        "label": "Maron Themes: Gruvbox",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gruvbox.json"
-      },
-      {
-        "label": "Maron Themes: Kanagawa",
-        "uiTheme": "vs-dark",
-        "path": "./themes/kanagawa.json"
-      },
-      {
-        "label": "Maron Themes: Material",
-        "uiTheme": "vs-dark",
-        "path": "./themes/material.json"
-      },
-      {
-        "label": "Maron Themes: Nord",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nord.json"
-      },
-      {
-        "label": "Maron Themes: Oceanic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/oceanic.json"
-      },
-      {
-        "label": "Maron Themes: Owl",
-        "uiTheme": "vs-dark",
-        "path": "./themes/owl.json"
-      },
-      {
-        "label": "Maron Themes: Play Yard",
-        "uiTheme": "vs-dark",
-        "path": "./themes/play-yard.json"
-      },
-      {
-        "label": "Maron Themes: Sandbox",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sandbox.json"
-      },
-      {
-        "label": "Maron Themes: Slime",
-        "uiTheme": "vs-dark",
-        "path": "./themes/slime.json"
-      },
-      {
-        "label": "Maron Themes: Solaris",
-        "uiTheme": "vs-dark",
-        "path": "./themes/solaris.json"
-      },
-      {
-        "label": "Maron Themes: Solarized",
-        "uiTheme": "vs-dark",
-        "path": "./themes/solarized.json"
-      },
-      {
-        "label": "Maron Themes: Sonokai",
+        "label": "Maron Themes: Colorful Park",
         "uiTheme": "vs-dark",
         "path": "./themes/sonokai.json"
       },
       {
-        "label": "Maron Themes: Rosetta",
+        "label": "Maron Themes: Dark Hole of Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code.json"
+      },
+      {
+        "label": "Maron Themes: Deep Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest.json"
+      },
+      {
+        "label": "Maron Themes: Earth Peace",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material.json"
+      },
+      {
+        "label": "Maron Themes: Garden of Roses",
         "uiTheme": "vs-dark",
         "path": "./themes/rosetta.json"
       },
       {
-        "label": "Maron Themes: Tokyo Night",
+        "label": "Maron Themes: Haunted Github",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github.json"
+      },
+      {
+        "label": "Maron Themes: Groove Box",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox.json"
+      },
+      {
+        "label": "Maron Themes: Hot Brownie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brownie.json"
+      },
+      {
+        "label": "Maron Themes: Imortal Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula.json"
+      },
+      {
+        "label": "Maron Themes: Kanagawa Party",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kanagawa.json"
+      },
+      {
+        "label": "Maron Themes: Spartan & Nordic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nord.json"
+      },
+      {
+        "label": "Maron Themes: Ocean Valley",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic.json"
+      },
+      {
+        "label": "Maron Themes: One Prime Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atom.json"
+      },
+      {
+        "label": "Maron Themes: Mountain Night Owls",
+        "uiTheme": "vs-dark",
+        "path": "./themes/owl.json"
+      },
+      {
+        "label": "Maron Themes: Fox Waves",
+        "uiTheme": "vs-dark",
+        "path": "./themes/play-yard.json"
+      },
+      {
+        "label": "Maron Themes: Little Bottle Box",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sandbox.json"
+      },
+      {
+        "label": "Maron Themes: Undead Frost Slime",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slime.json"
+      },
+      {
+        "label": "Maron Themes: Stellar Angels",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solaris.json"
+      },
+      {
+        "label": "Maron Themes: Solarized Planet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarized.json"
+      },
+      {
+        "label": "Maron Themes: Tokyo City Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-night.json"
+      },
+      {
+        "label": "Maron Themes: Unfair Deadly Hills",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fleet.json"
       }
     ]
   },
