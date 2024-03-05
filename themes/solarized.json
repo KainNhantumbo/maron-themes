@@ -382,9 +382,9 @@
       }
     },
     {
+      "name": "Tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        // "name": "Tag attribute",
         "fontStyle": "",
         "foreground": "#268bd2"
       }

@@ -148,7 +148,7 @@
         "path": "./themes/nord.json"
       },
       {
-        "label": "Maron Themes: Ocean Valley",
+        "label": "Maron Themes: Ocean Sharks Valley",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic.json"
       },
@@ -193,7 +193,7 @@
         "path": "./themes/slime.json"
       },
       {
-        "label": "Maron Themes: Unfair Deadly Hills",
+        "label": "Maron Themes: Unfair Deadly Spikes",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"
       }
