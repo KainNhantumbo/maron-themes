@@ -157,7 +157,7 @@
     "statusBar.background": "#212121",
     "statusBar.border": "#38383800",
     "statusBar.debuggingBackground": "#C792EA",
-    "statusBar.debuggingForeground": "#ffffff",
+    "statusBar.debuggingForeground": "#000",
     "statusBar.foreground": "#999999",
     "statusBar.noFolderBackground": "#212121",
     "statusBarItem.hoverBackground": "#54545420",

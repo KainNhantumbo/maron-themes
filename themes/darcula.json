@@ -37,6 +37,7 @@
     "editorIndentGuide.background4": "#BFD5DE18",
     "editorIndentGuide.background5": "#BFD5DE18",
     "editorIndentGuide.background6": "#BFD5DE18",
+    "editorLineNumber.foreground": "#BFD5DE40",
     "editorOverviewRuler.border": "#BFD5DE00",
     "editorSuggestWidget.background": "#242424",
     "editorSuggestWidget.border": "#BFD5DE18",
@@ -166,14 +167,6 @@
         "foreground": "#707070"
       }
     },
-
-    {
-      "name": "Operator Keywords",
-      "scope": "keyword.operator,keyword.operator.logical,keyword.operator.relational,keyword.operator.assignment,keyword.operator.comparison,keyword.operator.ternary,keyword.operator.arithmetic,keyword.operator.spread",
-      "settings": {
-        "foreground": "#e2e2e3"
-      }
-    },
     {
       "name": "Strings",
       "scope": "string,string.character.escape,string.template.quoted,string.template.quoted.punctuation,string.template.quoted.punctuation.single,string.template.quoted.punctuation.double,string.type.declaration.annotation,string.template.quoted.punctuation.tag",
@@ -217,13 +210,6 @@
       }
     },
     {
-      "name": "Keyword",
-      "scope": "keyword,keyword.operator.new,keyword.operator.delete,keyword.operator.static,keyword.operator.this,keyword.operator.expression",
-      "settings": {
-        "foreground": "#CC8242"
-      }
-    },
-    {
       "name": "Types, Class Types",
       "scope": "entity.name.type,meta.return.type,meta.type.annotation,meta.type.parameters,support.type.primitive",
       "settings": {
@@ -262,7 +248,7 @@
       "name": "Function Argument",
       "scope": "variable.parameter, operator.rest.parameters",
       "settings": {
-        "foreground": "#e2e2e3"
+        "foreground": "#BFD5DEEE"
       }
     },
     {
@@ -704,18 +690,36 @@
       }
     },
     {
+      "name": "Import, From",
+      "scope": [
+        "keyword.control.import",
+        "keyword.control.from",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "foreground": "#CC8242"
+      }
+    },
+    {
       "name": "Keyword Operator Logical, Arrow, Ternary, Comparison",
       "scope": [
         "keyword.operator.logical",
         "keyword.operator.bitwise",
-        "keyword.operator.ternary",
         "punctuation.accessor",
+        "keyword.operator",
+        "keyword.operator.arithmetic",
+        "keyword.operator.assignment",
         "keyword.operator.comparison",
         "keyword.operator.relational",
         "keyword.operator.or.regexp",
         "keyword.operator.quantifier.regexp",
         "keyword.operator.comparison.twig",
         "keyword.operator.spread",
+        "keyword.operator.delete",
+        "keyword.operator.static",
+        "keyword.operator.expression",
+        "keyword.operator.this",
         "keyword.operator.rest",
         "keyword.operator.bitwise.shift",
         "keyword.operator.expression.instanceof",
@@ -725,7 +729,6 @@
         "keyword.operator.expression.keyof",
         "source.js constant.other.object.key.js string.unquoted.label.js",
         "variable.language.this punctuation.definition.variable",
-        // "entity.name.type",
         "keyword.other.this"
       ],
       "settings": {
