@@ -77,6 +77,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Maron Themes: Burning Mint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fleet.json"
+      },
+      {
         "label": "Maron Themes: Cappuccino",
         "uiTheme": "vs-dark",
         "path": "./themes/catppuccin.json"
@@ -185,11 +190,6 @@
         "label": "Maron Themes: Tokyo City Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-night.json"
-      },
-      {
-        "label": "Maron Themes: Unfair Deadly Hills",
-        "uiTheme": "vs-dark",
-        "path": "./themes/fleet.json"
       }
     ]
   },
