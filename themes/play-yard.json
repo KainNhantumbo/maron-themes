@@ -114,7 +114,7 @@
     "statusBar.foreground": "#939da5",
     "statusBarItem.hoverForeground": "#c5e4fd",
     "statusBar.noFolderBackground": "#1a2023",
-    "statusBar.noFolderForeground": "#1a2023",
+    "statusBar.noFolderForeground": "#939da5",
     "statusBarItem.remoteBackground": "#ffea6b",
     "statusBarItem.remoteHoverBackground": "#c5e4fd",
     "statusBarItem.remoteHoverForeground": "#000",

@@ -88,6 +88,7 @@
     "sideBar.foreground": "#c9cacaAA",
     "statusBar.foreground": "#7A9EC2CC",
     "statusBar.background": "#202020",
+    "statusBar.noFolderBackground": "#202020",
     "statusBar.debuggingBackground": "#cc6e2f",
     "statusBar.debuggingForeground": "#202020",
     "statusBarItem.hoverBackground": "#BFD5DE18",

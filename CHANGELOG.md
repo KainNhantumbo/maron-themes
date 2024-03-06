@@ -5,10 +5,11 @@ All changes to the "Maron Themes" extension will be documented here.
 #### 2.0.0
 
 - ✨ Added Darcula Theme.
-- 🔨 All themes from previous versions are here, but with different names.
-- 🔨 Changed all theme names to funny nicknames (as intended in version 1.0.0) but all theme file names still the same.
+- ✨ Improved overall appearance and accessability of the welcome page components.
+- 💥 Breaking changes: nothing was ruined, be happy, teh he he!!
+- 💥 Removed some colors from Solarized Planet Theme, those that don't make part of solarized theme palette.
+- 🔨 All themes from previous versions are here, but with different names (actually some have funny nicknames as intended in version 1.0.0).
 - 🔨 Fixed some inconsistences between color schemes.
-- 💥 Too many breaking changes to fix known issues that remained unfixed across past versions.
 
 #### 1.12.1
 

@@ -134,7 +134,6 @@
     "statusBar.debuggingBackground": "#c5a5c5",
     "statusBar.debuggingForeground": "#20232a",
     "statusBar.noFolderBackground": "#20232a",
-    "statusBar.border": "#ff000000",
     "statusBarItem.remoteHoverBackground": "#c5a5c5",
     "statusBarItem.remoteHoverForeground": "#000",
     "tab.activeBorder": "#fac863",
