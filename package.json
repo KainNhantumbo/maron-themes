@@ -71,17 +71,13 @@
     "oceanic next",
     "hacker",
     "catppuccin",
+    "chocolate",
     "dark theme",
     "maron themes",
     "maron"
   ],
   "contributes": {
     "themes": [
-      {
-        "label": "Maron Themes: Burning Mint",
-        "uiTheme": "vs-dark",
-        "path": "./themes/fleet.json"
-      },
       {
         "label": "Maron Themes: Cappuccino",
         "uiTheme": "vs-dark",
@@ -91,6 +87,11 @@
         "label": "Maron Themes: Celeste",
         "uiTheme": "vs-dark",
         "path": "./themes/celeste.json"
+      },
+      {
+        "label": "Maron Themes: Chocolate & Mint",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fleet.json"
       },
       {
         "label": "Maron Themes: Colorful Park",

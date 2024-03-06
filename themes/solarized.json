@@ -604,7 +604,7 @@
       "name": "Export, Default",
       "scope": ["keyword.control.export", "keyword.control.default"],
       "settings": {
-        "foreground": "#DFBE5A"
+        "foreground": "#FC5B60"
       }
     },
     {
