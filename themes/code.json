@@ -139,7 +139,8 @@
     "titleBar.border": "#3c3c3c00",
     "titleBar.inactiveBackground": "#181818",
     "welcomePage.progress.foreground": "#0078d4",
-    "welcomePage.tileBackground": "#3c3c3c",
+    "welcomePage.progress.background": "#3c3c3c60",
+    "welcomePage.tileBackground": "#2c2c2c60",
     "widget.border": "#3c3c3c",
     "breadcrumbPicker.background": "#181818",
     "checkbox.selectBackground": "#181818",
@@ -170,6 +171,7 @@
     "listFilterWidget.shadow": "#00000000",
     "scrollbar.shadow": "#00000000",
     "widget.shadow": "#00000000",
+    "debugExceptionWidget.background": "#181818",
     "editor.lineHighlightBackground": "#08080880",
     "editor.lineHighlightBorder": "#08080800"
   },

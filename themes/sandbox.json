@@ -132,6 +132,9 @@
     "titleBar.activeBackground": "#1A1F1D",
     "titleBar.activeForeground": "#AAAAAA",
     "titleBar.inactiveBackground": "#1A1F1D",
+    "welcomePage.progress.foreground": "#a390ff",
+    "welcomePage.progress.background": "#AAAAAA40",
+    "welcomePage.tileBackground": "#cef14415",
     "widget.border": "#cef14440",
     "widget.shadow": "#00000000"
   },

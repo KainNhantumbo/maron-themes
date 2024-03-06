@@ -313,6 +313,9 @@
     "titleBar.inactiveBackground": "#0F141C",
     "tree.indentGuidesStroke": "#7AA2F760",
     "walkThrough.embeddedEditorBackground": "#0F141C",
+    "welcomePage.progress.background": "#c3c3c340",
+    "welcomePage.progress.foreground": "#2ac3de",
+    "welcomePage.tileBackground": "#2ac3de15",
     "widget.border": "#6183bb40",
     "widget.shadow": "#ffffff00"
   },

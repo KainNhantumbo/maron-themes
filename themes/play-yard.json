@@ -36,7 +36,7 @@
     "editorGroupHeader.tabsBackground": "#1a2023",
     "editorGroupHeader.tabsBorder": "#00000000",
     "editorLineNumber.activeForeground": "#ffea6b",
-    "editorLineNumber.foreground": "#707a84",
+    "editorLineNumber.foreground": "#707a8490",
     "editorIndentGuide.activeBackground1": "#BFD5DE25",
     "editorIndentGuide.activeBackground2": "#BFD5DE25",
     "editorIndentGuide.activeBackground3": "#BFD5DE25",
@@ -135,6 +135,8 @@
     "terminal.border": "#c5e4fd20",
     "toolbar.hoverBackground": "#707a8430",
     "tree.indentGuidesStroke": "#ffea6b60",
+    "welcomePage.progress.background": "#707a8430",
+    "welcomePage.tileBackground": "#707a8420",
     "widget.shadow": "#1a202300",
     "widget.border": "#c5e4fd20"
   },

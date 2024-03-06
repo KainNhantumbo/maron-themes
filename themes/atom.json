@@ -173,6 +173,9 @@
     "tree.indentGuidesStroke": "#61afef60",
     "tree.inactiveIndentGuidesStroke": "#343f44",
     "walkThrough.embeddedEditorBackground": "#2e3440",
+    "welcomePage.tileBackground": "#61afef15",
+    "welcomePage.progress.foreground": "#9A8BE5",
+    "welcomePage.progress.background": "#343f44",
     "widget.border": "#343f44",
     "widget.shadow": "#ff000000"
   },

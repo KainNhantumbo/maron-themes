@@ -72,6 +72,8 @@
     "panelInput.border": "#c5a5c520",
     "editorWidget.border": "#c5a5c520",
     "editorInfo.border": "#c5a5c520",
+        "editorGroupHeader.tabsBorder": "#ff000000",
+    "editorGroupHeader.border": "#ff000000",
     "panelSection.border": "#c5a5c520",
     "terminal.border": "#c5a5c520",
     "gitDecoration.conflictingResourceForeground": "#fc929e",
@@ -163,9 +165,11 @@
     "walkThrough.embeddedEditorBackground": "#20232a",
     "widget.shadow": "#ff000000",
     "widget.border": "#c5a5c520",
+    "welcomePage.tileBackground": "#c5a5c515",
+    "welcomePage.progress.foreground": "#c5a5c5",
+    "welcomePage.progress.background": "#f8f8f220",
     "scrollbar.shadow": "#ff000000",
-    "editorGroupHeader.tabsBorder": "#ff000000",
-    "editorGroupHeader.border": "#ff000000"
+
   },
   "tokenColors": [
     {

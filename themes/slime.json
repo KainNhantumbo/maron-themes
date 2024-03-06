@@ -169,6 +169,9 @@
     "titleBar.activeForeground": "#7f9494",
     "titleBar.border": "#22222200",
     "titleBar.inactiveBackground": "#1b2020",
+    "welcomePage.progress.foreground": "#AB6767",
+    "welcomePage.progress.background": "#7f949460",
+    "welcomePage.tileBackground": "#AB676715",
     "widget.border": "#5e737360"
   },
   "tokenColors": [

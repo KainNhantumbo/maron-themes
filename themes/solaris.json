@@ -300,6 +300,8 @@
     "breadcrumb.focusForeground": "#d7dce2",
     "breadcrumb.activeSelectionForeground": "#d7dce2",
     "breadcrumbPicker.background": "#171c28",
+    "welcomePage.progress.background": "#d7dce240",
+    "welcomePage.tileBackground": "#d7dce210",
     "widget.border": "#2f3b54"
   },
   "tokenColors": [

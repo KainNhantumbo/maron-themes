@@ -427,7 +427,8 @@
     "tree.indentGuidesStroke": "#83c09260",
     "walkThrough.embeddedEditorBackground": "#272e33",
     "welcomePage.progress.foreground": "#a7c080",
-    "welcomePage.tileHoverBackground": "#343f44",
+    "welcomePage.progress.background": "#343f44",
+    "welcomePage.tileBackground": "#a7c08015",
     "widget.border": "#343f4480",
     "widget.shadow": "#00000000"
   },

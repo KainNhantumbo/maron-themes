@@ -100,6 +100,9 @@
     "titleBar.inactiveBackground": "#202020",
     "titleBar.activeForeground": "#7A9EC2CC",
     "tree.indentGuidesStroke": "#6A8759",
+    "welcomePage.progress.background": "#7A9EC240",
+    "welcomePage.progress.foreground": "#CC8242",
+    "welcomePage.tileBackground": "#CC824215",
     "widget.border": "#BFD5DE18",
     "widget.shadow": "#ff000000"
   },

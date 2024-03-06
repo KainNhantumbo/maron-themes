@@ -249,6 +249,9 @@
     "titleBar.activeBackground": "#212121",
     "titleBar.activeForeground": "#bbb1d7",
     "titleBar.inactiveBackground": "#212121",
+    "welcomePage.progress.foreground": "#e965a5",
+    "welcomePage.progress.background": "#bbb1d790",
+    "welcomePage.tileBackground": "#e965a515",
     "widget.border": "#4c4c4c"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],

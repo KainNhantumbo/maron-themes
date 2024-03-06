@@ -182,8 +182,9 @@
     "titleBar.activeForeground": "#9d9d9d",
     "titleBar.inactiveBackground": "#181818",
     "tree.indentGuidesStroke": "#83D6C560",
-    "welcomePage.progress.foreground": "#808080",
-    "welcomePage.tileBackground": "#2b2b2b",
+    "welcomePage.progress.foreground": "#E0911A",
+    "welcomePage.progress.background": "#80808060",
+    "welcomePage.tileBackground": "#83D6C510",
     "widget.border": "#313131",
     "widget.shadow": "#00000000"
   },

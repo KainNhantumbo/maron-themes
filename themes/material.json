@@ -56,7 +56,7 @@
     "editorIndentGuide.background6": "#a8998420",
     "editorInfo.foreground": "#82AAFF70",
     "editorLineNumber.activeForeground": "#B3D385",
-    "editorLineNumber.foreground": "#424242",
+    "editorLineNumber.foreground": "#525252",
     "editorLink.activeForeground": "#EEFFFF",
     "editorMarkerNavigation.background": "#EEFFFF05",
     "editorOverviewRuler.border": "#21212100",
@@ -197,6 +197,9 @@
     "titleBar.activeForeground": "#999999",
     "titleBar.inactiveBackground": "#212121",
     "tree.indentGuidesStroke": "#B3D38560",
+    "welcomePage.progress.background": "#99999930",
+    "welcomePage.progress.foreground": "#FFCB6B",
+    "welcomePage.tileBackground": "#B3D38515",
     "widget.border": "#B3D38560",
     "widget.shadow": "#00000000"
   },

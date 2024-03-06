@@ -185,7 +185,10 @@
     "titleBar.inactiveBackground": "#16161D",
     "tree.indentGuidesStroke": "#957FB860",
     "walkThrough.embeddedEditorBackground": "#16161D",
-    "widget.border": "#3c3c3c"
+    "widget.border": "#3c3c3c",
+    "welcomePage.progress.foreground": "#C0A36E",
+    "welcomePage.progress.background": "#DCD7BA40",
+    "welcomePage.tileBackground": "#957FB815"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Kanagawa",

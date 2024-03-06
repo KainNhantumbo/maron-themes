@@ -315,6 +315,8 @@
     "titleBar.activeForeground": "#8f95b2",
     "titleBar.inactiveBackground": "#212226",
     "tree.indentGuidesStroke": "#76cce060",
+    "welcomePage.progress.background": "#76cce060",
+    "welcomePage.tileBackground": "#9ed07215",
     "widget.border": "#414550",
     "widget.shadow": "#00000000"
   },

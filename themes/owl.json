@@ -225,6 +225,9 @@
     "terminal.tab.activeBorder": "#5f7e97",
     "editorCursor.background": "#051520",
     "editorOverviewRuler.background": "#05152000",
+    "welcomePage.progress.background": "#ffffff20",
+    "welcomePage.progress.foreground": "#A2BFFC",
+    "welcomePage.tileBackground": "#5f7e9720",
     "widget.shadow": "#05152000",
     "widget.border": "#5f7e9740"
   },
