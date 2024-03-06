@@ -87,6 +87,7 @@
     "menubar.selectionBackground": "#e5e5e51a",
     "menubar.selectionForeground": "#c5c5c5",
     "notifications.background": "#1A1F1D",
+    "notificationCenterHeader.background": "#1A1F1D",
     "panelTitle.activeBorder": "#e5e5e550",
     "peekView.border": "#cef14480",
     "peekViewEditor.background": "#1A1F1D",

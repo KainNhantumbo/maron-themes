@@ -103,6 +103,7 @@
     "minimapGutter.modifiedBackground": "#948B60",
     "notificationToast.border": "#343f4480",
     "notifications.background": "#21252b",
+    "notificationCenterHeader.background": "#21252b",
     "notifications.border": "#343f4480",
     "panel.border": "#343f4480",
     "panel.dropBorder": "#343f44",

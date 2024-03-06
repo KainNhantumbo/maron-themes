@@ -116,6 +116,7 @@
     "notificationLink.foreground": "#B3D385",
     "notifications.background": "#212121",
     "notifications.foreground": "#EEFFFF",
+    "notificationCenterHeader.background": "#212121",
     "panel.background": "#212121",
     "panel.border": "#38383880",
     "panelTitle.activeBorder": "#383838",
@@ -196,7 +197,7 @@
     "titleBar.inactiveBackground": "#212121",
     "tree.indentGuidesStroke": "#B3D38560",
     "widget.border": "#B3D38560",
-    "widget.shadow": "#00000030"
+    "widget.shadow": "#00000000"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Material",

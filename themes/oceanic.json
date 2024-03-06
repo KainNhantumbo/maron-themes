@@ -85,6 +85,8 @@
     "menu.selectionBackground": "#343d46",
     "minimap.selectionHighlight": "#586e75ee",
     "notificationCenter.border": "#586e7590",
+    "notificationCenterHeader.background": "#141d26",
+    "notifications.background": "#141d26",
     "panel.background": "#141d26",
     "panel.border": "#586e7540",
     "panelInput.border": "#586e7540",

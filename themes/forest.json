@@ -257,7 +257,7 @@
     "notebookStatusErrorIcon.foreground": "#e67e80",
     "notebookStatusRunningIcon.foreground": "#7fbbb3",
     "notebookStatusSuccessIcon.foreground": "#a7c080",
-    "notificationCenterHeader.background": "#3d484d",
+    "notificationCenterHeader.background": "#141F1D",
     "notificationCenterHeader.foreground": "#d3c6aa",
     "notificationLink.foreground": "#a7c080",
     "notificationToast.border": "#343f4480",
@@ -429,7 +429,7 @@
     "welcomePage.progress.foreground": "#a7c080",
     "welcomePage.tileHoverBackground": "#343f44",
     "widget.border": "#343f4480",
-    "widget.shadow": "#00000070"
+    "widget.shadow": "#00000000"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Forest",
