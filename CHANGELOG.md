@@ -7,7 +7,7 @@ All changes to the "Maron Themes" extension will be documented here.
 - ✨ Added Darcula Theme.
 - ✨ Improved overall appearance and accessability of the welcome page components.
 - 💥 Breaking changes: nothing was ruined, be happy, teh he he!!
-- 💥 Removed some colors from Solarized Planet Theme, those that don't make part of solarized theme palette.
+- 💥 Removed some colors from Solarized Planets Theme, those that don't make part of solarized theme palette.
 - 🔨 All themes from previous versions are here, but with different names (actually some have funny nicknames as intended in version 1.0.0).
 - 🔨 Fixed some inconsistences between color schemes.
 

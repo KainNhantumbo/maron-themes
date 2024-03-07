@@ -94,22 +94,22 @@
         "path": "./themes/fleet.json"
       },
       {
-        "label": "Maron Themes: Colorful Park",
+        "label": "Maron Themes: Colorful Sweets Park",
         "uiTheme": "vs-dark",
         "path": "./themes/sonokai.json"
       },
       {
-        "label": "Maron Themes: Dark Hole of Code",
+        "label": "Maron Themes: Code Heroes Summoner",
         "uiTheme": "vs-dark",
         "path": "./themes/code.json"
       },
       {
-        "label": "Maron Themes: Deep Forest",
+        "label": "Maron Themes: Scary Monsters Forest",
         "uiTheme": "vs-dark",
         "path": "./themes/forest.json"
       },
       {
-        "label": "Maron Themes: Earth Peace",
+        "label": "Maron Themes: Crafter Materials",
         "uiTheme": "vs-dark",
         "path": "./themes/material.json"
       },
@@ -119,12 +119,12 @@
         "path": "./themes/rosetta.json"
       },
       {
-        "label": "Maron Themes: Haunted Github",
+        "label": "Maron Themes: Hidden Github Dungeon",
         "uiTheme": "vs-dark",
         "path": "./themes/github.json"
       },
       {
-        "label": "Maron Themes: Groove Box",
+        "label": "Maron Themes: Groove Box Party",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvbox.json"
       },
@@ -139,17 +139,17 @@
         "path": "./themes/dracula.json"
       },
       {
-        "label": "Maron Themes: Kanagawa Party",
+        "label": "Maron Themes: Kanagawa Legends",
         "uiTheme": "vs-dark",
         "path": "./themes/kanagawa.json"
       },
       {
-        "label": "Maron Themes: Spartan & Nordic",
+        "label": "Maron Themes: Nordic Warriors",
         "uiTheme": "vs-dark",
         "path": "./themes/nord.json"
       },
       {
-        "label": "Maron Themes: Ocean Sharks Valley",
+        "label": "Maron Themes: Oceanic Sharks Valley",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic.json"
       },
@@ -164,7 +164,7 @@
         "path": "./themes/owl.json"
       },
       {
-        "label": "Maron Themes: Fox Waves",
+        "label": "Maron Themes: Brave Fox Waves",
         "uiTheme": "vs-dark",
         "path": "./themes/play-yard.json"
       },
@@ -179,7 +179,7 @@
         "path": "./themes/solaris.json"
       },
       {
-        "label": "Maron Themes: Solarized Planet",
+        "label": "Maron Themes: Solarized Planets",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized.json"
       },
