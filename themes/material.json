@@ -80,7 +80,7 @@
     "focusBorder": "#B3D38560",
     "gitDecoration.conflictingResourceForeground": "#FFCB6B90",
     "gitDecoration.deletedResourceForeground": "#FF537090",
-    "gitDecoration.ignoredResourceForeground": "#99999990",
+    "gitDecoration.ignoredResourceForeground": "#99999980",
     "gitDecoration.modifiedResourceForeground": "#82AAFF90",
     "gitDecoration.untrackedResourceForeground": "#C3E88D90",
     "icon.foreground": "#B3D385",

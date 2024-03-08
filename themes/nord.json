@@ -140,7 +140,7 @@
     "foreground": "#c8ced9",
     "gitDecoration.conflictingResourceForeground": "#5e81ac",
     "gitDecoration.deletedResourceForeground": "#bf616a",
-    "gitDecoration.ignoredResourceForeground": "#c8ced966",
+    "gitDecoration.ignoredResourceForeground": "#5e81acaa",
     "gitDecoration.modifiedResourceForeground": "#ebcb8b",
     "gitDecoration.stageDeletedResourceForeground": "#bf616a",
     "gitDecoration.stageModifiedResourceForeground": "#ebcb8b",
@@ -305,9 +305,7 @@
     "widget.border": "#88c0d040",
     "widget.shadow": "#00000000"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Nord",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -372,10 +370,7 @@
     },
     {
       "name": "Entity Name Class/Type",
-      "scope": [
-        "entity.name.class",
-        "entity.name.type.class"
-      ],
+      "scope": ["entity.name.class", "entity.name.type.class"],
       "settings": {
         "foreground": "#8FBCBB"
       }
@@ -1283,9 +1278,7 @@
     },
     {
       "name": "[Python] Function Parameter",
-      "scope": [
-        "source.python variable.parameter.function.language"
-      ],
+      "scope": ["source.python variable.parameter.function.language"],
       "settings": {
         "foreground": "#c8cEd9"
       }
@@ -1382,10 +1375,7 @@
     },
     {
       "name": "[TypeScript] Variables",
-      "scope": [
-        "source.ts support.variable",
-        "source.tsx support.variable"
-      ],
+      "scope": ["source.ts support.variable", "source.tsx support.variable"],
       "settings": {
         "foreground": "#c8cEd9"
       }

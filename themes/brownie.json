@@ -12,7 +12,7 @@
     "breadcrumb.activeSelectionForeground": "#f8f8f2",
     "breadcrumb.background": "#20232a",
     "breadcrumb.focusForeground": "#f8f8f2",
-    "breadcrumb.foreground": "#c5a5c5",
+    "breadcrumb.foreground": "#c5a5c5bb",
     "breadcrumbPicker.background": "#191a21",
     "button.background": "#fac863",
     "button.border": "#c5a5c520",
@@ -70,7 +70,7 @@
     "foreground": "#f8f8f2",
     "gitDecoration.conflictingResourceForeground": "#fc929e",
     "gitDecoration.deletedResourceForeground": "#ffb86c",
-    "gitDecoration.ignoredResourceForeground": "#44475a",
+    "gitDecoration.ignoredResourceForeground": "#c5a5c560",
     "gitDecoration.modifiedResourceForeground": "#ffb86c",
     "gitDecoration.untrackedResourceForeground": "#8dc891",
     "icon.foreground": "#fac863",
@@ -122,13 +122,14 @@
     "settings.modifiedItemIndicator": "#c5a5c5",
     "sideBar.background": "#20232a",
     "sideBar.border": "#ff000000",
-    "sideBar.foreground": "#c5a5c5",
+    "sideBar.foreground": "#c5a5c5bb",
     "sideBarSectionHeader.background": "#20232a",
     "sideBarTitle.foreground": "#fac863",
     "statusBar.background": "#20232a",
     "statusBar.debuggingBackground": "#c5a5c5",
     "statusBar.debuggingForeground": "#20232a",
-    "statusBar.foreground": "#c5a5c5",
+    "statusBar.foreground": "#c5a5c5bb",
+    "statusBarItem.hoverForeground": "#eee",
     "statusBar.noFolderBackground": "#20232a",
     "statusBarItem.remoteHoverBackground": "#c5a5c5",
     "statusBarItem.remoteHoverForeground": "#000",
@@ -155,7 +156,7 @@
     "terminal.border": "#c5a5c520",
     "terminal.foreground": "#f8f8f2",
     "titleBar.activeBackground": "#20232a",
-    "titleBar.activeForeground": "#c5a5c5",
+    "titleBar.activeForeground": "#c5a5c5bb",
     "titleBar.inactiveBackground": "#20232a",
     "tree.indentGuidesStroke": "#fac86340",
     "walkThrough.embeddedEditorBackground": "#20232a",
@@ -165,9 +166,7 @@
     "widget.border": "#c5a5c520",
     "widget.shadow": "#ff000000"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Brownie",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -182,10 +181,7 @@
       }
     },
     {
-      "scope": [
-        "keyword",
-        "storage.type.class"
-      ],
+      "scope": ["keyword", "storage.type.class"],
       "settings": {
         "foreground": "#C5A5C5"
       }
@@ -197,10 +193,7 @@
       }
     },
     {
-      "scope": [
-        "variable",
-        "meta.jsx.children"
-      ],
+      "scope": ["variable", "meta.jsx.children"],
       "settings": {
         "foreground": "#D7DEEA"
       }
@@ -251,9 +244,7 @@
       }
     },
     {
-      "scope": [
-        "entity.name.tag"
-      ],
+      "scope": ["entity.name.tag"],
       "settings": {
         "foreground": "#FC929E"
       }
@@ -270,27 +261,19 @@
       }
     },
     {
-      "scope": [
-        "entity.other.inherited-class",
-        "entity.name.type"
-      ],
+      "scope": ["entity.other.inherited-class", "entity.name.type"],
       "settings": {
         "foreground": "#FAC863"
       }
     },
     {
-      "scope": [
-        "storage.modifier",
-        "storage.type"
-      ],
+      "scope": ["storage.modifier", "storage.type"],
       "settings": {
         "foreground": "#C5A5C5"
       }
     },
     {
-      "scope": [
-        "constructor"
-      ],
+      "scope": ["constructor"],
       "settings": {
         "foreground": "#79B6F2"
       }
@@ -308,9 +291,7 @@
       }
     },
     {
-      "scope": [
-        "constant.language.boolean"
-      ],
+      "scope": ["constant.language.boolean"],
       "settings": {
         "foreground": "#FF8B50"
       }
@@ -339,9 +320,7 @@
       }
     },
     {
-      "scope": [
-        "keyword.operator"
-      ],
+      "scope": ["keyword.operator"],
       "settings": {
         "foreground": "#fac863DD"
       }

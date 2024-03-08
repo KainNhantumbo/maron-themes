@@ -2,7 +2,7 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
-#### 2.0.0
+#### 2.0.0  `🐛 The Prime Edition`
 
 - ✨ Added Darcula Theme.
 - ✨ Improved overall appearance and accessability of the welcome page components.

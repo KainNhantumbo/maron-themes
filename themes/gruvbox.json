@@ -119,7 +119,7 @@
     "foreground": "#ebdbb2",
     "gitDecoration.conflictingResourceForeground": "#b16286",
     "gitDecoration.deletedResourceForeground": "#cc241d",
-    "gitDecoration.ignoredResourceForeground": "#7c6f64",
+    "gitDecoration.ignoredResourceForeground": "#7c6f64cc",
     "gitDecoration.modifiedResourceForeground": "#d79921",
     "gitDecoration.untrackedResourceForeground": "#98971a",
     "icon.foreground": "#689d6a",

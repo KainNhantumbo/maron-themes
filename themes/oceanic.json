@@ -121,6 +121,8 @@
     "settings.textInputForeground": "#839496",
     "sideBar.background": "#141d26",
     "sideBar.border": "#141d26",
+    "sideBar.foreground": "#839496",
+    "gitDecoration.ignoredResourceForeground": "#515670",
     "sideBarTitle.foreground": "#99dc9e",
     "statusBar.background": "#141d26",
     "statusBar.debuggingBackground": "#eab853",
@@ -145,9 +147,7 @@
     "widget.border": "#99dc9e60",
     "widget.shadow": "#141d2600"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Oceanic",
   "semanticHighlighting": true,
   "tokenColors": [
