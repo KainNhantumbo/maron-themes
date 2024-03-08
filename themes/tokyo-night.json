@@ -2,7 +2,6 @@
   "$schema": "vscode://schemas/color-theme",
   "author": "Kain Nhantumbo",
   "colors": {
-    "editorStickyScroll.shadow": "#ff000000",
     "activityBar.activeBackground": "#0F141C",
     "activityBar.activeBorder": "#7AA2F7",
     "activityBar.background": "#0F141C",
@@ -135,6 +134,7 @@
     "editorOverviewRuler.wordHighlightStrongForeground": "#bb9af766",
     "editorPane.background": "#0F141C",
     "editorRuler.foreground": "#0F141C",
+    "editorStickyScroll.shadow": "#ff000000",
     "editorSuggestWidget.background": "#0F141C",
     "editorSuggestWidget.border": "#6183bb40",
     "editorSuggestWidget.foreground": "#a9b1d6",
@@ -318,7 +318,9 @@
     "widget.border": "#6183bb40",
     "widget.shadow": "#ffffff00"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Tokyo Night",
   "semanticClass": "tokyo-night",
   "semanticHighlighting": true,
@@ -446,7 +448,10 @@
     },
     {
       "name": "Invalid",
-      "scope": ["invalid", "invalid.illegal"],
+      "scope": [
+        "invalid",
+        "invalid.illegal"
+      ],
       "settings": {
         "foreground": "#ff5370"
       }
@@ -467,7 +472,10 @@
     },
     {
       "name": "Storage - modifier, var, const, let",
-      "scope": ["meta.var.expr storage.type", "storage.modifier"],
+      "scope": [
+        "meta.var.expr storage.type",
+        "storage.modifier"
+      ],
       "settings": {
         "foreground": "#9d7cd8"
       }
@@ -501,7 +509,10 @@
     },
     {
       "name": "Spread",
-      "scope": ["keyword.operator.spread", "keyword.operator.rest"],
+      "scope": [
+        "keyword.operator.spread",
+        "keyword.operator.rest"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#e0687a"
@@ -551,7 +562,10 @@
     },
     {
       "name": "Export, Default",
-      "scope": ["keyword.control.export", "keyword.control.default"],
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.default"
+      ],
       "settings": {
         "foreground": "#7dcfff"
       }
@@ -569,7 +583,11 @@
     },
     {
       "name": "Keyword",
-      "scope": ["keyword", "keyword.control", "keyword.other.important"],
+      "scope": [
+        "keyword",
+        "keyword.control",
+        "keyword.other.important"
+      ],
       "settings": {
         "foreground": "#bb9af7"
       }
@@ -605,7 +623,10 @@
     },
     {
       "name": "Tag Component",
-      "scope": ["entity.name.tag support.class.component", "meta.tag"],
+      "scope": [
+        "entity.name.tag support.class.component",
+        "meta.tag"
+      ],
       "settings": {
         "foreground": "#de5971"
       }
@@ -836,7 +857,10 @@
     },
     {
       "name": "CSS Font",
-      "scope": ["support.constant.font-name", "meta.definition.variable"],
+      "scope": [
+        "support.constant.font-name",
+        "meta.definition.variable"
+      ],
       "settings": {
         "foreground": "#9ece6a"
       }
@@ -1074,7 +1098,9 @@
     },
     {
       "name": "Regular Expressions - Character Class",
-      "scope": ["constant.other.character-class.regexp"],
+      "scope": [
+        "constant.other.character-class.regexp"
+      ],
       "settings": {
         "foreground": "#bb9af7"
       }
@@ -1252,14 +1278,20 @@
     },
     {
       "name": "Markdown - Plain",
-      "scope": ["meta.jsx.children", "meta.embedded.block"],
+      "scope": [
+        "meta.jsx.children",
+        "meta.embedded.block"
+      ],
       "settings": {
         "foreground": "#c0caf5"
       }
     },
     {
       "name": "HTML text",
-      "scope": ["text.html", "text.log"],
+      "scope": [
+        "text.html",
+        "text.log"
+      ],
       "settings": {
         "foreground": "#9aa5ce"
       }
@@ -1346,7 +1378,10 @@
     },
     {
       "name": "Markup - Italic",
-      "scope": ["markup.italic", "markup.italic punctuation"],
+      "scope": [
+        "markup.italic",
+        "markup.italic punctuation"
+      ],
       "settings": {
         "fontStyle": "italic",
         "foreground": "#c0caf5"
@@ -1354,7 +1389,10 @@
     },
     {
       "name": "Markup - Bold",
-      "scope": ["markup.bold", "markup.bold punctuation"],
+      "scope": [
+        "markup.bold",
+        "markup.bold punctuation"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#c0caf5"
@@ -1373,7 +1411,10 @@
     },
     {
       "name": "Markup - Underline",
-      "scope": ["markup.underline", "markup.underline punctuation"],
+      "scope": [
+        "markup.underline",
+        "markup.underline punctuation"
+      ],
       "settings": {
         "fontStyle": "underline"
       }
@@ -1467,7 +1508,9 @@
     },
     {
       "name": "Preprocessor",
-      "scope": ["meta.preprocessor"],
+      "scope": [
+        "meta.preprocessor"
+      ],
       "settings": {
         "foreground": "#73daca"
       }

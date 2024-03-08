@@ -11,6 +11,7 @@
     "activityBarBadge.foreground": "#181d28",
     "badge.background": "#88c0d0",
     "badge.foreground": "#181d28",
+    "breadcrumb.foreground": "#88c0d0",
     "button.background": "#88c0d0ee",
     "button.foreground": "#181d28",
     "button.hoverBackground": "#88c0d0",
@@ -145,6 +146,7 @@
     "gitDecoration.stageModifiedResourceForeground": "#ebcb8b",
     "gitDecoration.submoduleResourceForeground": "#8fbcbb",
     "gitDecoration.untrackedResourceForeground": "#a3be8c",
+    "icon.foreground": "#88c0d0",
     "input.background": "#181d28",
     "input.border": "#88c0d040",
     "input.foreground": "#c8ced9",
@@ -176,7 +178,6 @@
     "list.inactiveSelectionBackground": "#434c5e90",
     "list.inactiveSelectionForeground": "#c8ced9",
     "list.warningForeground": "#ebcb8b",
-    "icon.foreground": "#88c0d0",
     "menu.border": "#88c0d040",
     "menu.selectionBackground": "#88c0d020",
     "menu.separatorBackground": "#88c0d040",
@@ -255,7 +256,6 @@
     "statusBarItem.prominentHoverBackground": "#434c5e",
     "statusBarItem.warningBackground": "#ebcb8b",
     "statusBarItem.warningForeground": "#181d28",
-    "breadcrumb.foreground": "#88c0d0",
     "tab.activeBackground": "#181d28",
     "tab.activeBorder": "#88c0d0",
     "tab.activeForeground": "#c8ced9",
@@ -299,13 +299,15 @@
     "titleBar.inactiveBackground": "#181d28",
     "tree.indentGuidesStroke": "#88c0d060",
     "walkThrough.embeddedEditorBackground": "#181d28",
-    "welcomePage.progress.foreground": "#b48ead",
     "welcomePage.progress.background": "#eceff420",
+    "welcomePage.progress.foreground": "#b48ead",
     "welcomePage.tileBackground": "#88c0d012",
     "widget.border": "#88c0d040",
     "widget.shadow": "#00000000"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Nord",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -370,7 +372,10 @@
     },
     {
       "name": "Entity Name Class/Type",
-      "scope": ["entity.name.class", "entity.name.type.class"],
+      "scope": [
+        "entity.name.class",
+        "entity.name.type.class"
+      ],
       "settings": {
         "foreground": "#8FBCBB"
       }
@@ -1278,7 +1283,9 @@
     },
     {
       "name": "[Python] Function Parameter",
-      "scope": ["source.python variable.parameter.function.language"],
+      "scope": [
+        "source.python variable.parameter.function.language"
+      ],
       "settings": {
         "foreground": "#c8cEd9"
       }
@@ -1375,7 +1382,10 @@
     },
     {
       "name": "[TypeScript] Variables",
-      "scope": ["source.ts support.variable", "source.tsx support.variable"],
+      "scope": [
+        "source.ts support.variable",
+        "source.tsx support.variable"
+      ],
       "settings": {
         "foreground": "#c8cEd9"
       }

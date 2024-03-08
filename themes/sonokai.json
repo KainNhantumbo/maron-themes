@@ -2,7 +2,6 @@
   "$schema": "vscode://schemas/color-theme",
   "author": "Kain Nhantumbo",
   "colors": {
-    "editorStickyScroll.shadow": "#ff000000",
     "activityBar.activeBorder": "#76cce0",
     "activityBar.activeFocusBorder": "#76cce0",
     "activityBar.background": "#212226",
@@ -99,6 +98,7 @@
     "editorOverviewRuler.wordHighlightForeground": "#7f849080",
     "editorOverviewRuler.wordHighlightStrongForeground": "#7f849060",
     "editorRuler.foreground": "#414550",
+    "editorStickyScroll.shadow": "#ff000000",
     "editorSuggestWidget.background": "#212226",
     "editorSuggestWidget.border": "#414550",
     "editorSuggestWidget.foreground": "#8f95b2",
@@ -145,8 +145,8 @@
     "list.dropBackground": "#30323a80",
     "list.errorForeground": "#fc5d7c",
     "list.focusBackground": "#363944aa",
-    "list.focusOutline": "#7f849060",
     "list.focusForeground": "#e2e2e3",
+    "list.focusOutline": "#7f849060",
     "list.highlightForeground": "#9ed072",
     "list.hoverBackground": "#2c2e34dd",
     "list.hoverForeground": "#76cce0",
@@ -158,9 +158,9 @@
     "menu.background": "#212226",
     "menu.border": "#414550e0",
     "menu.foreground": "#8f95b2",
-    "menu.separatorBackground": "#414550e0",
     "menu.selectionBackground": "#41455060",
     "menu.selectionForeground": "#76cce0",
+    "menu.separatorBackground": "#414550e0",
     "menubar.selectionBackground": "#212226",
     "merge.border": "#2c2e3400",
     "merge.currentContentBackground": "#76cce01a",
@@ -234,12 +234,12 @@
     "statusBar.debuggingBackground": "#fc5d7c",
     "statusBar.debuggingForeground": "#212226",
     "statusBar.foreground": "#8f95b2",
-    "statusBarItem.hoverForeground": "#c2c2c3",
     "statusBar.noFolderBackground": "#212226",
     "statusBar.noFolderBorder": "#212226",
     "statusBar.noFolderForeground": "#c2c2c3",
     "statusBarItem.activeBackground": "#363944a0",
     "statusBarItem.hoverBackground": "#363944",
+    "statusBarItem.hoverForeground": "#c2c2c3",
     "statusBarItem.remoteBackground": "#76cce0",
     "statusBarItem.remoteForeground": "#212226",
     "symbolIcon.arrayForeground": "#e2e2e3",
@@ -319,7 +319,9 @@
     "widget.border": "#414550",
     "widget.shadow": "#00000000"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Sonokai",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -353,7 +355,10 @@
       }
     },
     {
-      "scope": ["comment variable", "comment variable.other"],
+      "scope": [
+        "comment variable",
+        "comment variable.other"
+      ],
       "settings": {
         // "name": "JSDoc variable",
         "foreground": "#BFD5DE60"
@@ -493,7 +498,10 @@
       }
     },
     {
-      "scope": ["entity.name.function", "entity.name.function.templated"],
+      "scope": [
+        "entity.name.function",
+        "entity.name.function.templated"
+      ],
       "settings": {
         // "name": "Functions",
         "foreground": "#9ed072"
@@ -643,7 +651,10 @@
       }
     },
     {
-      "scope": ["entity.name.function", "support.function"],
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
       "settings": {
         // "name": "Function names / calls",
         "foreground": "#9ed072"
@@ -745,7 +756,10 @@
       }
     },
     {
-      "scope": ["keyword.other.template.begin", "keyword.other.template.end"],
+      "scope": [
+        "keyword.other.template.begin",
+        "keyword.other.template.end"
+      ],
       "settings": {
         // "name": "Template literal begin / end",
         "foreground": "#fc5d7c"
@@ -774,7 +788,10 @@
       }
     },
     {
-      "scope": ["keyword.control.rust", "keyword.operator.misc.rust"],
+      "scope": [
+        "keyword.control.rust",
+        "keyword.operator.misc.rust"
+      ],
       "settings": {
         // "name": "rust specific",
         "foreground": "#fc5d7c"
@@ -1030,7 +1047,10 @@
       }
     },
     {
-      "scope": ["entity.name.constant.preprocessor", "meta.preprocessor"],
+      "scope": [
+        "entity.name.constant.preprocessor",
+        "meta.preprocessor"
+      ],
       "settings": {
         // "name": "Preprocessor",
         "foreground": "#b39df3"
@@ -1051,7 +1071,10 @@
       }
     },
     {
-      "scope": ["meta.attribute.rust", "variable.language.rust"],
+      "scope": [
+        "meta.attribute.rust",
+        "variable.language.rust"
+      ],
       "settings": {
         // "name": "rust specific (variable.language.rust is 'self' keyword.",
         "foreground": "#f39660"
@@ -1194,7 +1217,10 @@
       }
     },
     {
-      "scope": ["source.scss", "source.sass"],
+      "scope": [
+        "source.scss",
+        "source.sass"
+      ],
       "settings": {
         // "name": "SASS, SCSS default",
         "foreground": "#e2e2e3"
@@ -1298,7 +1324,10 @@
       }
     },
     {
-      "scope": ["storage.modifier", "storage.type.modifier"],
+      "scope": [
+        "storage.modifier",
+        "storage.type.modifier"
+      ],
       "settings": {
         // "name": "Keywords that affect the storage of a variable, function or data structure should use the following scope. Examples include static, inline, const, public and private.",
         "fontStyle": "",
@@ -1381,7 +1410,10 @@
       }
     },
     {
-      "scope": ["string.other.link.title", "string.other.link.description"],
+      "scope": [
+        "string.other.link.title",
+        "string.other.link.description"
+      ],
       "settings": {
         // "name": "link title",
         "foreground": "#fc5d7c"
@@ -1405,7 +1437,10 @@
       }
     },
     {
-      "scope": ["string.other.ref", "string.other.restructuredtext.ref"],
+      "scope": [
+        "string.other.ref",
+        "string.other.restructuredtext.ref"
+      ],
       "settings": {
         // "name": "refs (Restructured text)",
         "foreground": "#9ed072"
@@ -1454,7 +1489,10 @@
       }
     },
     {
-      "scope": ["support.type", "entity.name.type.object.console"],
+      "scope": [
+        "support.type",
+        "entity.name.type.object.console"
+      ],
       "settings": {
         // "name": "Library type",
         "fontStyle": "",
@@ -1505,14 +1543,20 @@
       }
     },
     {
-      "scope": ["variable", "variable.other"],
+      "scope": [
+        "variable",
+        "variable.other"
+      ],
       "settings": {
         // "name": "Variable",
         "foreground": "#e2e2e3"
       }
     },
     {
-      "scope": ["variable.parameter", "parameters variable.function"],
+      "scope": [
+        "variable.parameter",
+        "parameters variable.function"
+      ],
       "settings": {
         // "name": "Function arguments",
         "fontStyle": "",

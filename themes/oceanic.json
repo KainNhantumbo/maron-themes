@@ -2,7 +2,6 @@
   "$schema": "vscode://schemas/color-theme",
   "author": "Kain Nhantumbo",
   "colors": {
-    "editorStickyScroll.shadow": "#ff000000",
     "activityBar.background": "#141d26",
     "activityBar.foreground": "#99dc9e",
     "activityBar.inactiveForeground": "#99dc9e70",
@@ -58,6 +57,7 @@
     "editorLineNumber.foreground": "#99dc9e40",
     "editorOverviewRuler.border": "#586e7500",
     "editorRuler.foreground": "#99dc9e80",
+    "editorStickyScroll.shadow": "#ff000000",
     "editorWhitespace.foreground": "#65737e",
     "editorWidget.background": "#141d26",
     "editorWidget.border": "#586e7590",
@@ -81,8 +81,8 @@
     "list.inactiveSelectionBackground": "#99dc9e20",
     "menu.background": "#141d26",
     "menu.border": "#343d46",
-    "menu.separatorBackground": "#343d46",
     "menu.selectionBackground": "#343d46",
+    "menu.separatorBackground": "#343d46",
     "minimap.selectionHighlight": "#586e75ee",
     "notificationCenter.border": "#586e7590",
     "notificationCenterHeader.background": "#141d26",
@@ -139,13 +139,15 @@
     "titleBar.activeBackground": "#141d26",
     "titleBar.activeForeground": "#839496",
     "tree.indentGuidesStroke": "#99dc9e60",
-    "welcomePage.tileBackground": "#99dc9e15",
     "welcomePage.progress.background": "#83949660",
     "welcomePage.progress.foreground": "#eab853",
+    "welcomePage.tileBackground": "#99dc9e15",
     "widget.border": "#99dc9e60",
     "widget.shadow": "#141d2600"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Oceanic",
   "semanticHighlighting": true,
   "tokenColors": [

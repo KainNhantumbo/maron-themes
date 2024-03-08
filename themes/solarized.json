@@ -2,7 +2,6 @@
   "$schema": "vscode://schemas/color-theme",
   "author": "Kain Nhantumbo",
   "colors": {
-    "editorStickyScroll.shadow": "#ff000000",
     "activityBar.activeBackground": "#0D1A20",
     "activityBar.activeBorder": "#38BBB0",
     "activityBar.background": "#0D1A20",
@@ -95,6 +94,7 @@
     "editorOverviewRuler.wordHighlightForeground": "#586e7599",
     "editorOverviewRuler.wordHighlightStrongForeground": "#cb4b1699",
     "editorRuler.foreground": "#073642",
+    "editorStickyScroll.shadow": "#ff000000",
     "editorSuggestWidget.selectedBackground": "#07364280",
     "editorWhitespace.foreground": "#073642",
     "editorWidget.background": "#0D1A20",
@@ -136,10 +136,10 @@
     "menu.separatorBackground": "#414550e0",
     "minimap.selectionHighlight": "#586e75aa",
     "notificationCenter.border": "#586e7590",
-    "notifications.background": "#0D1A20",
     "notificationCenterHeader.background": "#0D1A20",
-    "panel.border": "#586e7540",
+    "notifications.background": "#0D1A20",
     "panel.background": "#0D1A20",
+    "panel.border": "#586e7540",
     "panelInput.border": "#586e7540",
     "panelSectionHeader.border": "#0D1A20",
     "panelTitle.activeBorder": "#222f42",
@@ -149,10 +149,10 @@
     "peekViewEditor.background": "#0D1A20",
     "peekViewEditor.matchHighlightBackground": "#83949640",
     "peekViewResult.background": "#0D1A20",
-    "peekViewResult.selectionBackground": "#38BBB020",
-    "peekViewTitle.background": "#0D1A20",
     "peekViewResult.lineForeground": "#839496",
+    "peekViewResult.selectionBackground": "#38BBB020",
     "peekViewResult.selectionForeground": "#38BBB0",
+    "peekViewTitle.background": "#0D1A20",
     "peekViewTitleLabel.foreground": "#38BBB0",
     "pickerGroup.border": "#073642",
     "pickerGroup.foreground": "#586e75",
@@ -216,13 +216,15 @@
     "titleBar.activeForeground": "#839496",
     "titleBar.inactiveBackground": "#0D1A20",
     "tree.indentGuidesStroke": "#38BBB060",
-    "welcomePage.tileBackground": "#85990015",
     "welcomePage.progress.background": "#83949660",
     "welcomePage.progress.foreground": "#b58900",
+    "welcomePage.tileBackground": "#85990015",
     "widget.border": "#222f42",
     "widget.shadow": "#0D1A2000"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Solarized",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -311,7 +313,10 @@
       }
     },
     {
-      "scope": ["invalid", "invalid.illegal"],
+      "scope": [
+        "invalid",
+        "invalid.illegal"
+      ],
       "settings": {
         "foreground": "#dc322f"
       }
@@ -427,7 +432,10 @@
       }
     },
     {
-      "scope": ["variable.function", "entity.name.function"],
+      "scope": [
+        "variable.function",
+        "entity.name.function"
+      ],
       "settings": {
         // Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.
         "foreground": "#268bd2"
@@ -495,7 +503,9 @@
     },
     {
       "name": "Markup Quote - Bold",
-      "scope": ["markup.quote markup.bold"],
+      "scope": [
+        "markup.quote markup.bold"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -533,7 +543,10 @@
       }
     },
     {
-      "scope": ["keyword.other.documentation.javadoc", "markup.bold"],
+      "scope": [
+        "keyword.other.documentation.javadoc",
+        "markup.bold"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -604,7 +617,10 @@
     },
     {
       "name": "Export, Default",
-      "scope": ["keyword.control.export", "keyword.control.default"],
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.default"
+      ],
       "settings": {
         "foreground": "#FC5B60"
       }
@@ -654,21 +670,29 @@
     },
     {
       "name": "Import meta",
-      "scope": ["meta.import"],
+      "scope": [
+        "meta.import"
+      ],
       "settings": {
         "foreground": "#9DBFCD"
       }
     },
     {
       "name": "punctuation.accessor",
-      "scope": ["punctuation.accessor", "punctuation"],
+      "scope": [
+        "punctuation.accessor",
+        "punctuation"
+      ],
       "settings": {
         "foreground": "#BFD5DE60"
       }
     },
     {
       "name": "Function arguments",
-      "scope": ["variable.parameter", "parameters variable.function"],
+      "scope": [
+        "variable.parameter",
+        "parameters variable.function"
+      ],
       "settings": {
         "fontStyle": "",
         "foreground": "#2aa198"
@@ -694,7 +718,9 @@
     },
     {
       "name": "Control keywords examples include if, try, end and while. Some syntaxes prefer to mark if and else with the conditional variant. The import variant is often used in appropriate situations.",
-      "scope": ["keyword.control"],
+      "scope": [
+        "keyword.control"
+      ],
       "settings": {
         "foreground": "#FC5B60"
       }

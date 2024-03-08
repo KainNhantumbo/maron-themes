@@ -1,18 +1,13 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "author": "Kain Nhantumbo",
-  "name": "Maron Darcula Evolution",
-  "type": "dark",
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
-  "semanticHighlighting": true,
   "colors": {
-    "scrollbar.shadow": "#ff000000",
-    "badge.background": "#6A8759",
     "activityBar.activeBorder": "#6A8759",
-    "activityBar.foreground": "#6A8759",
-    "activityBarBadge.foreground": "#202020",
     "activityBar.background": "#202020",
+    "activityBar.foreground": "#6A8759",
     "activityBarBadge.background": "#6A8759",
+    "activityBarBadge.foreground": "#202020",
+    "badge.background": "#6A8759",
     "breadcrumb.foreground": "#7A9EC2CC",
     "button.background": "#6A8759",
     "dropdown.background": "#202020",
@@ -20,9 +15,8 @@
     "dropdown.listBackground": "#202020",
     "editor.background": "#202020",
     "editor.foreground": "#c9caca",
-    "editor.selectionBackground": "#20418260",
     "editor.lineHighlightBackground": "#08080845",
-    "editorStickyScroll.shadow": "#ff000000",
+    "editor.selectionBackground": "#20418260",
     "editorGroup.border": "#BFD5DE18",
     "editorGroupHeader.tabsBackground": "#202020",
     "editorGutter.background": "#202020",
@@ -40,6 +34,7 @@
     "editorIndentGuide.background6": "#BFD5DE18",
     "editorLineNumber.foreground": "#BFD5DE40",
     "editorOverviewRuler.border": "#BFD5DE00",
+    "editorStickyScroll.shadow": "#ff000000",
     "editorSuggestWidget.background": "#202020",
     "editorSuggestWidget.border": "#BFD5DE18",
     "editorSuggestWidget.highlightForeground": "#cc6e2f",
@@ -49,57 +44,59 @@
     "editorWidget.resizeBorder": "#BFD5DE18",
     "focusBorder": "#6A875990",
     "icon.foreground": "#6A8759",
-    "input.border": "#BFD5DE18",
     "input.background": "#202020",
+    "input.border": "#BFD5DE18",
     "list.activeSelectionBackground": "#BFD5DE18",
     "list.activeSelectionForeground": "#c9caca",
     "list.activeSelectionIconForeground": "#6A8759",
-    "list.inactiveSelectionBackground": "#BFD5DE10",
-    "list.hoverBackground": "#BFD5DE10",
     "list.dropBackground": "#202020",
+    "list.hoverBackground": "#BFD5DE10",
+    "list.inactiveSelectionBackground": "#BFD5DE10",
     "listFilterWidget.shadow": "#ff000000",
     "menu.background": "#202020",
-    "menu.foreground": "#7A9EC2",
     "menu.border": "#BFD5DE18",
-    "menu.separatorBackground": "#BFD5DE18",
+    "menu.foreground": "#7A9EC2",
     "menu.selectionForeground": "#c9caca",
+    "menu.separatorBackground": "#BFD5DE18",
     "notificationCenterHeader.background": "#202020",
     "notifications.background": "#202020",
     "notificationsInfoIcon.foreground": "#6A8759",
-    "panel.border": "#BFD5DE18",
     "panel.background": "#202020",
+    "panel.border": "#BFD5DE18",
     "panel.dropBorder": "#BFD5DE18",
+    "panelInput.border": "#BFD5DE18",
     "panelSection.border": "#BFD5DE18",
     "panelTitle.activeBorder": "#BFD5DE18",
-    "panelInput.border": "#BFD5DE18",
     "panelTitle.activeForeground": "#7A9EC2",
     "panelTitle.inactiveForeground": "#7A9EC2AA",
     "peekView.border": "#BFD5DE18",
     "peekViewEditor.background": "#202020",
-    "peekViewTitle.background": "#202020",
-    "peekViewResult.selectionBackground": "#BFD5DE18",
     "peekViewResult.background": "#202020",
+    "peekViewResult.selectionBackground": "#BFD5DE18",
+    "peekViewTitle.background": "#202020",
     "peekViewTitleLabel.foreground": "#6A8759",
+    "scrollbar.shadow": "#ff000000",
     "settings.headerForeground": "#6A8759",
     "settings.modifiedItemIndicator": "#7A9EC2",
-    "sideBarTitle.foreground": "#6A8759",
-    "sideBar.border": "#202020",
     "sideBar.background": "#202020",
+    "sideBar.border": "#202020",
     "sideBar.foreground": "#c9cacaAA",
-    "statusBar.foreground": "#7A9EC2CC",
+    "sideBarTitle.foreground": "#6A8759",
     "statusBar.background": "#202020",
-    "statusBar.noFolderBackground": "#202020",
     "statusBar.debuggingBackground": "#cc6e2f",
     "statusBar.debuggingForeground": "#202020",
+    "statusBar.foreground": "#7A9EC2CC",
+    "statusBar.noFolderBackground": "#202020",
     "statusBarItem.hoverBackground": "#BFD5DE18",
     "statusBarItem.hoverForeground": "#c9caca",
     "tab.activeBackground": "#202020",
-    "tab.inactiveBackground": "#202020",
     "tab.activeBorder": "#6A8759",
+    "tab.border": "#202020",
+    "tab.inactiveBackground": "#202020",
     "terminal.tab.activeBorder": "#6A8759",
     "titleBar.activeBackground": "#202020",
-    "titleBar.inactiveBackground": "#202020",
     "titleBar.activeForeground": "#7A9EC2CC",
+    "titleBar.inactiveBackground": "#202020",
     "tree.indentGuidesStroke": "#6A8759",
     "welcomePage.progress.background": "#7A9EC240",
     "welcomePage.progress.foreground": "#CC8242",
@@ -107,6 +104,11 @@
     "widget.border": "#BFD5DE18",
     "widget.shadow": "#ff000000"
   },
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
+  "name": "Maron Darcula Evolution",
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "name": "JSON Key - Level 0",
@@ -385,7 +387,11 @@
       }
     },
     {
-      "scope": ["*url*", "*link*", "*uri*"],
+      "scope": [
+        "*url*",
+        "*link*",
+        "*uri*"
+      ],
       "settings": {
         "fontStyle": "underline"
       }
@@ -598,28 +604,37 @@
     },
     {
       "name": "PHP variables",
-      "scope": ["variable.language.php", "variable.other.php"],
+      "scope": [
+        "variable.language.php",
+        "variable.other.php"
+      ],
       "settings": {
         "foreground": "#9E7BB0"
       }
     },
     {
       "name": "Perl specific",
-      "scope": ["variable.other.readwrite.perl"],
+      "scope": [
+        "variable.other.readwrite.perl"
+      ],
       "settings": {
         "foreground": "#9E7BB0"
       }
     },
     {
       "name": "PHP variables",
-      "scope": ["variable.other.property.php"],
+      "scope": [
+        "variable.other.property.php"
+      ],
       "settings": {
         "foreground": "#CC8242"
       }
     },
     {
       "name": "PHP variables",
-      "scope": ["support.variable.property.php"],
+      "scope": [
+        "support.variable.property.php"
+      ],
       "settings": {
         "foreground": "#FFC66D"
       }
@@ -746,5 +761,6 @@
         "foreground": "#9E7BB0"
       }
     }
-  ]
+  ],
+  "type": "dark"
 }
