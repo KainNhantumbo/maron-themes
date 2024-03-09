@@ -1,8 +1,8 @@
 {
   "name": "maron-themes",
   "displayName": "Maron Themes",
-  "description": "A slightly modified variants of some popular themes. Pick up and feel the new experience in your editor!",
-  "version": "2.0.0",
+  "description": "A list of well curated themes, backed with love for a seamless coding experience!",
+  "version": "2.0.1",
   "icon": "icons/logo.png",
   "publisher": "KainNhantumbo",
   "engines": {

@@ -2,6 +2,9 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 2.0.1
+- 🔨 Removed all screenshots (but one left), to reduce the packaged extension size.
+
 #### 2.0.0  `🐛 The Prime Edition`
 
 - ✨ Added Darcula Theme.
