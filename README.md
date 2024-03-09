@@ -29,27 +29,14 @@ Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https:
 
 You can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
 
-### 📷🥰 Here are some preview screenshots!
+#### This is my favorite among other 23 themes!
 
-|            Maron Fleet            |           Maron Forest            |
-| :-------------------------------: | :-------------------------------: |
-| ![](./previews/Screenshot_00.png) | ![](./previews/Screenshot_01.png) |
+<figure align="center">
 
-|           Maron Gruvbox           |          Maron Kanagawa           |
-| :-------------------------------: | :-------------------------------: |
-| ![](./previews/Screenshot_02.png) | ![](./previews/Screenshot_03.png) |
+![](./previews/Screenshot_Solarized.png)
 
-|            Maron Nord             |          Maron Solarized          |
-| :-------------------------------: | :-------------------------------: |
-| ![](./previews/Screenshot_04.png) | ![](./previews/Screenshot_05.png) |
-
-|           Maron Rosetta           |           Maron Oceanic           |
-| :-------------------------------: | :-------------------------------: |
-| ![](./previews/Screenshot_06.png) | ![](./previews/Screenshot_07.png) |
-
-|            Maron Atom             |         Maron Catppuccin          |
-| :-------------------------------: | :-------------------------------: |
-| ![](./previews/Screenshot_08.png) | ![](./previews/Screenshot_09.png) |
+<figcaption align="center">Maron: Solarized Planets!</figcaption>
+</figure>
 
 ### 🚀 Installation
 
