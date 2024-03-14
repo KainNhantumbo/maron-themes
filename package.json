@@ -55,6 +55,7 @@
     "sandbox",
     "mozambique",
     "github",
+    "vitesse",
     "gruvbox",
     "halcyon",
     "solaris",
@@ -82,6 +83,11 @@
         "label": "Maron Themes: Cappuccino",
         "uiTheme": "vs-dark",
         "path": "./themes/catppuccin.json"
+      },
+      {
+        "label": "Maron Themes: Beyond The Fog",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitesse.json"
       },
       {
         "label": "Maron Themes: Celeste",
