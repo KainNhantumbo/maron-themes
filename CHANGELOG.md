@@ -2,12 +2,15 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 2.1.0
+- ✨ Added Maron Beyond The Fog Theme (based on Vitesse Theme).
+
 #### 2.0.1
 - 🔨 Removed all screenshots (but one left), to reduce the packaged extension size.
 
 #### 2.0.0  `🐛 The Prime Edition`
 
-- ✨ Added Darcula Theme.
+- ✨ Added Maron Darcula Imortal Theme (based on Dracula Theme).
 - ✨ Improved overall appearance and accessability of the welcome page components.
 - 💥 Breaking changes: nothing was ruined, be happy, teh he he!!
 - 💥 Removed some colors from Solarized Planets Theme, those that don't make part of solarized theme palette.

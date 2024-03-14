@@ -29,7 +29,7 @@ Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https:
 
 You can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
 
-#### This is my favorite among other 23 themes!
+#### This is my favorite among other 24 themes!
 
 <figure align="center">
 
@@ -128,6 +128,7 @@ All contributors that this extension is based with, it would not be what it is w
 - [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)
 - [Tailwind Theme](https://marketplace.visualstudio.com/items?itemName=WollaceBuarque.tailwind-theme)
 - [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+- [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse)
 
 Something's missing? Create Issues so that I can make the each theme compatible as possible! ❤️ ;)
 

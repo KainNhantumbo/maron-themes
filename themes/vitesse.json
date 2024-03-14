@@ -1004,7 +1004,6 @@
         "punctuation.definition.deleted"
       ],
       "settings": {
-        "background": "#86181d",
         "foreground": "#fdaeb7"
       }
     },
