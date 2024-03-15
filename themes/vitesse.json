@@ -203,7 +203,9 @@
     "editorIndentGuide.background3": "#BFD5DE18",
     "editorIndentGuide.background4": "#BFD5DE18",
     "editorIndentGuide.background5": "#BFD5DE18",
-    "editorIndentGuide.background6": "#BFD5DE18"
+    "editorIndentGuide.background6": "#BFD5DE18",
+    "welcomePage.tileBackground": "#4d937515",
+    "welcomePage.progress.background": "#BFD5DE28"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Vitesse",

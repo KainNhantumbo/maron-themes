@@ -65,6 +65,7 @@
     "list.focusBackground": "#232a2f",
     "list.focusOutline": "#707a84",
     "list.hoverBackground": "#232a2f",
+    "list.hoverForeground": "#ffea6b",
     "list.inactiveSelectionBackground": "#c5e4fd10",
     "menu.border": "#c5e4fd20",
     "menu.foreground": "#c5e4fdaa",
