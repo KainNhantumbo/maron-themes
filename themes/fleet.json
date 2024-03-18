@@ -17,7 +17,7 @@
     "button.secondaryBackground": "#313131",
     "button.secondaryForeground": "#cccccc",
     "button.secondaryHoverBackground": "#3c3c3c",
-    "breadcrumb.foreground": "#A0908D",
+    "breadcrumb.foreground": "#A0908DBB",
     "chat.slashCommandBackground": "#34414b",
     "chat.slashCommandForeground": "#83D6C5",
     "checkbox.background": "#181818",
@@ -62,7 +62,7 @@
     "editorIndentGuide.background5": "#a8998420",
     "editorIndentGuide.background6": "#a8998420",
     "editorLineNumber.activeForeground": "#E0911A",
-    "editorLineNumber.foreground": "#83D6C560",
+    "editorLineNumber.foreground": "#A0908D60",
     "editorOverviewRuler.border": "#01040900",
     "editorStickyScroll.shadow": "#ff000000",
     "editorWidget.background": "#181818",
@@ -133,7 +133,8 @@
     "statusBar.debuggingBackground": "#AA9BF5",
     "statusBar.debuggingForeground": "#000",
     "statusBar.focusBorder": "#808080",
-    "statusBar.foreground": "#A0908D",
+    "statusBar.foreground": "#A0908DBB",
+    "statusBarItem.hoverForeground": "#A0908D",
     "statusBar.noFolderBackground": "#181818",
     "statusBarItem.focusBorder": "#808080",
     "statusBarItem.prominentBackground": "#6e768166",
@@ -318,12 +319,6 @@
       }
     },
     {
-      "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
-      "settings": {
-        "foreground": "#E394DC"
-      }
-    },
-    {
       "scope": "variable.parameter.function",
       "settings": {
         "foreground": "#D6D6DD"
@@ -449,25 +444,25 @@
     {
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#D6D6DD"
+        "foreground": "#EFB080"
       }
     },
     {
       "scope": "keyword.operator.bitwise",
       "settings": {
-        "foreground": "#D6D6DD"
+        "foreground": "#EFB080"
       }
     },
     {
       "scope": "keyword.operator.channel",
       "settings": {
-        "foreground": "#D6D6DD"
+        "foreground": "#EFB080"
       }
     },
     {
       "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
       "settings": {
-        "foreground": "#D6D6DD"
+        "foreground": "#EFB080"
       }
     },
     {
@@ -587,7 +582,7 @@
     {
       "scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
       "settings": {
-        "foreground": "#D6D6DD"
+        "foreground": "#EFB080"
       }
     },
     {
@@ -665,7 +660,7 @@
     {
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#D6D6DD"
+        "foreground": "#EFB080"
       }
     },
     {

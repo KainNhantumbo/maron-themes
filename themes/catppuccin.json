@@ -9,7 +9,6 @@
     "activityBar.border": "#22222f",
     "activityBar.dropBorder": "#22222f00",
     "activityBar.foreground": "#cba6f7",
-    "activityBar.inactiveForeground": "#cba6f760",
     "activityBarBadge.background": "#cba6f7",
     "activityBarBadge.foreground": "#22222f",
     "badge.background": "#cba6f7",
@@ -132,7 +131,7 @@
     "editorGutter.foldingControlForeground": "#9399b2",
     "editorGutter.modifiedBackground": "#f9e2af",
     "editorHoverWidget.background": "#22222f",
-    "editorHoverWidget.border": "#cba6f795",
+    "editorHoverWidget.border": "#cba6f740",
     "editorHoverWidget.foreground": "#cdd6f4",
     "editorIndentGuide.activeBackground1": "#cba6f735",
     "editorIndentGuide.activeBackground2": "#cba6f735",
@@ -170,8 +169,11 @@
     "editorStickyScroll.shadow": "#ff000000",
     "editorStickyScrollHover.background": "#313244",
     "editorSuggestWidget.background": "#22222f",
-    "editorSuggestWidget.border": "#cba6f795",
+    "editorSuggestWidget.border": "#cba6f740",
     "editorSuggestWidget.foreground": "#cdd6f4",
+    "editorSuggestWidget.focusHighlightForeground": "#fab387",
+    "editorSuggestWidget.selectedIconForeground": "#fab387",
+
     "editorSuggestWidget.highlightForeground": "#cba6f7",
     "editorSuggestWidget.selectedBackground": "#313244",
     "editorWarning.background": "#00000000",
@@ -205,7 +207,7 @@
     "gitDecoration.untrackedResourceForeground": "#a6e3a1",
     "icon.foreground": "#cba6f7",
     "input.background": "#22222f",
-    "input.border": "#cba6f760",
+    "input.border": "#cba6f720",
     "input.foreground": "#cdd6f4",
     "input.placeholderForeground": "#cdd6f472",
     "inputOption.activeBackground": "#22222f",
@@ -275,7 +277,6 @@
     "notificationsWarningIcon.foreground": "#fab387",
     "panel.background": "#22222f",
     "panel.border": "#cba6f725",
-    "panelInput.border": "#cba6f7",
     "panelSection.border": "#cba6f725",
     "panelSection.dropBackground": "#22222f",
     "panelTitle.activeBorder": "#cba6f725",
@@ -427,12 +428,10 @@
     "welcomePage.progress.background": "#c2c2c240",
     "welcomePage.progress.foreground": "#cba6f7",
     "welcomePage.tileBackground": "#f5c2e710",
-    "widget.border": "#cba6f760",
+    "widget.border": "#cba6f740",
     "widget.shadow": "#22222f00"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Catppuccin",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -545,20 +544,14 @@
     },
     {
       "name": "Comments",
-      "scope": [
-        "comment",
-        "punctuation.definition.comment"
-      ],
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "",
         "foreground": "#6c7086"
       }
     },
     {
-      "scope": [
-        "string",
-        "punctuation.definition.string"
-      ],
+      "scope": ["string"],
       "settings": {
         "foreground": "#a6e3a1"
       }
@@ -706,10 +699,7 @@
       }
     },
     {
-      "scope": [
-        "variable.parameter",
-        "meta.function.parameters"
-      ],
+      "scope": ["variable.parameter", "meta.function.parameters"],
       "settings": {
         "fontStyle": "",
         "foreground": "#eba0ac"
@@ -717,10 +707,7 @@
     },
     {
       "name": "Built-ins",
-      "scope": [
-        "constant.language",
-        "support.function.builtin"
-      ],
+      "scope": ["constant.language", "support.function.builtin"],
       "settings": {
         "foreground": "#f38ba8"
       }
@@ -782,10 +769,7 @@
     },
     {
       "name": "String template interpolation",
-      "scope": [
-        "string.template variable",
-        "string variable"
-      ],
+      "scope": ["string.template variable", "string variable"],
       "settings": {
         "foreground": "#cdd6f4"
       }
@@ -818,9 +802,7 @@
     },
     {
       "name": "C++ operators",
-      "scope": [
-        "storage.modifier.reference.cpp"
-      ],
+      "scope": ["storage.modifier.reference.cpp"],
       "settings": {
         "foreground": "#94e2d5"
       }
@@ -868,9 +850,7 @@
     },
     {
       "name": "CSS vendored property names",
-      "scope": [
-        "support.type.vendored.property-name"
-      ],
+      "scope": ["support.type.vendored.property-name"],
       "settings": {
         "foreground": "#89dceb"
       }
@@ -931,20 +911,14 @@
     },
     {
       "name": "JSON/YAML constants",
-      "scope": [
-        "constant.language.json",
-        "constant.language.yaml"
-      ],
+      "scope": ["constant.language.json", "constant.language.yaml"],
       "settings": {
         "foreground": "#fab387"
       }
     },
     {
       "name": "YAML anchors",
-      "scope": [
-        "entity.name.type.anchor.yaml",
-        "variable.other.alias.yaml"
-      ],
+      "scope": ["entity.name.type.anchor.yaml", "variable.other.alias.yaml"],
       "settings": {
         "fontStyle": "",
         "foreground": "#f9e2af"
@@ -1019,18 +993,14 @@
     },
     {
       "name": "dotenv left-hand side assignments",
-      "scope": [
-        "variable.other.env"
-      ],
+      "scope": ["variable.other.env"],
       "settings": {
         "foreground": "#89b4fa"
       }
     },
     {
       "name": "dotenv reference to existing env variable",
-      "scope": [
-        "string.quoted variable.other.env"
-      ],
+      "scope": ["string.quoted variable.other.env"],
       "settings": {
         "foreground": "#cdd6f4"
       }
@@ -1112,9 +1082,7 @@
     },
     {
       "name": "HTML/XML-like <tags/>",
-      "scope": [
-        "entity.name.tag"
-      ],
+      "scope": ["entity.name.tag"],
       "settings": {
         "fontStyle": "",
         "foreground": "#89b4fa"
@@ -1138,18 +1106,14 @@
     },
     {
       "name": "HTML/XML tag attribute values",
-      "scope": [
-        "entity.other.attribute-name"
-      ],
+      "scope": ["entity.other.attribute-name"],
       "settings": {
         "foreground": "#f9e2af"
       }
     },
     {
       "name": "Components",
-      "scope": [
-        "meta.tag support.class.component"
-      ],
+      "scope": ["meta.tag support.class.component"],
       "settings": {
         "fontStyle": "",
         "foreground": "#89b4fa"
@@ -1157,10 +1121,7 @@
     },
     {
       "name": "Annotations",
-      "scope": [
-        "punctuation.definition.annotation",
-        "storage.type.annotation"
-      ],
+      "scope": ["punctuation.definition.annotation", "storage.type.annotation"],
       "settings": {
         "foreground": "#fab387"
       }
@@ -1231,10 +1192,7 @@
     },
     {
       "name": "Node constants as keywords (module, etc.)",
-      "scope": [
-        "support.constant.node",
-        "support.type.object.module.js"
-      ],
+      "scope": ["support.constant.node", "support.type.object.module.js"],
       "settings": {
         "foreground": "#cba6f7"
       }
@@ -1298,9 +1256,7 @@
     },
     {
       "name": "Vue components",
-      "scope": [
-        "support.class.component.vue"
-      ],
+      "scope": ["support.class.component.vue"],
       "settings": {
         "foreground": "#89b4fa"
       }
@@ -1463,10 +1419,7 @@
     },
     {
       "name": "Markdown auto links",
-      "scope": [
-        "punctuation.definition.link",
-        "markup.underline.link"
-      ],
+      "scope": ["punctuation.definition.link", "markup.underline.link"],
       "settings": {
         "foreground": "#89b4fa"
       }
@@ -1515,10 +1468,7 @@
     },
     {
       "name": "Markdown quotes",
-      "scope": [
-        "markup.quote",
-        "punctuation.definition.quote.begin"
-      ],
+      "scope": ["markup.quote", "punctuation.definition.quote.begin"],
       "settings": {
         "foreground": "#f5c2e7"
       }
@@ -1568,10 +1518,7 @@
     },
     {
       "name": "PHP Attributes",
-      "scope": [
-        "support.attribute.builtin",
-        "meta.attribute.php"
-      ],
+      "scope": ["support.attribute.builtin", "meta.attribute.php"],
       "settings": {
         "foreground": "#f9e2af"
       }
@@ -1616,9 +1563,7 @@
     },
     {
       "name": "Python double underscore functions",
-      "scope": [
-        "support.function.magic.python"
-      ],
+      "scope": ["support.function.magic.python"],
       "settings": {
         "fontStyle": "",
         "foreground": "#89dceb"
@@ -1664,9 +1609,7 @@
     },
     {
       "name": "python function calls",
-      "scope": [
-        "meta.function-call.python"
-      ],
+      "scope": ["meta.function-call.python"],
       "settings": {
         "foreground": "#89b4fa"
       }
@@ -1701,9 +1644,7 @@
     },
     {
       "name": "entity.name.type",
-      "scope": [
-        "support.type.python"
-      ],
+      "scope": ["support.type.python"],
       "settings": {
         "foreground": "#fab387"
       }
@@ -1717,10 +1658,7 @@
     },
     {
       "name": "Arguments accessed later in the function body",
-      "scope": [
-        "meta.indexed-name.python",
-        "meta.item-access.python"
-      ],
+      "scope": ["meta.indexed-name.python", "meta.item-access.python"],
       "settings": {
         "fontStyle": "",
         "foreground": "#eba0ac"
@@ -1857,10 +1795,7 @@
     },
     {
       "name": "Rust lifetime",
-      "scope": [
-        "storage.modifier.lifetime.rust",
-        "entity.name.type.lifetime"
-      ],
+      "scope": ["storage.modifier.lifetime.rust", "entity.name.type.lifetime"],
       "settings": {
         "fontStyle": "",
         "foreground": "#89b4fa"
@@ -1903,9 +1838,7 @@
     },
     {
       "name": "Rust function parameters",
-      "scope": [
-        "meta.function.definition.rust variable.other.rust"
-      ],
+      "scope": ["meta.function.definition.rust variable.other.rust"],
       "settings": {
         "foreground": "#eba0ac"
       }

@@ -712,12 +712,11 @@
         "punctuation.separator.dictionary.key-value",
         "punctuation.separator.hash",
         "punctuation.separator.inheritance",
-        "punctuation.separator.key-value",
         "punctuation.separator.key-value.mapping.yaml",
         "punctuation.separator.namespace",
         "punctuation.separator.pointer-access",
         "punctuation.separator.slice",
-        "string.unquoted.heredoc punctuation.definition.string",
+        "string.unquoted.heredoc string",
         "support.other.chomping-indicator.yaml",
         "punctuation.separator.annotation"
       ],
@@ -798,7 +797,7 @@
         "punctuation.definition.group.end.ruby",
         "punctuation.definition.group.begin.css",
         "punctuation.definition.group.end.css",
-        "punctuation.definition.string.end.html source.css"
+        "punctuation.definition.string.html source.css"
       ],
       "settings": {
         "foreground": "#BFD5DE60"

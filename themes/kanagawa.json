@@ -426,7 +426,6 @@
       "name": "String, Symbols, Inherited Class, Markup Heading",
       "scope": [
         "string",
-        "punctuation.definition.string",
         "constant.other.symbol",
         "constant.other.key",
         "entity.other.inherited-class",

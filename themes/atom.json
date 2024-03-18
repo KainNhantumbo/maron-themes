@@ -1144,7 +1144,7 @@
         "punctuation.definition.metadata.markdown"
       ],
       "settings": {
-        "foreground": "#ef596f"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1320,7 +1320,7 @@
       "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#ef596f"
+        "foreground": "#BFD5DE60"
       }
     },
     {

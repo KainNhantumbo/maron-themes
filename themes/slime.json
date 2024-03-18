@@ -170,9 +170,7 @@
     "widget.border": "#5e737360",
     "widget.shadow": "#ff000000"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Slime",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -982,9 +980,9 @@
       }
     },
     {
-      "scope": "  meta.structure.dictionary.json support.type.property-name.json punctuation.support.type.property-name.begin.json,  meta.structure.dictionary.json support.type.property-name.json punctuation.support.type.property-name.end.json,  meta.structure.dictionary.value.json string.quoted.double.json punctuation.definition.string.begin.json,  meta.structure.dictionary.value.json string.quoted.double.json punctuation.definition.string.end.json",
+      "scope": "meta.structure.dictionary.json support.type.property-name.json punctuation.support.type.property-name.begin.json,  meta.structure.dictionary.json support.type.property-name.json punctuation.support.type.property-name.end.json",
       "settings": {
-        "foreground": "#AFAFAF"
+        "foreground": "#BFD5DE60"
       }
     },
     {
@@ -1033,12 +1031,6 @@
       "scope": "meta.template.expression.js punctuation.definition.template-expression, punctuation.definition.template-expression.begin.ts, punctuation.definition.template-expression.end.ts ",
       "settings": {
         "foreground": "#B4CE84"
-      }
-    },
-    {
-      "scope": "punctuation.definition.string.template.begin.js, punctuation.definition.string.template.end.js",
-      "settings": {
-        "foreground": "#DA7979"
       }
     },
     {
@@ -1100,7 +1092,7 @@
         "punctuation.definition.group.end.ruby",
         "punctuation.definition.group.begin.css",
         "punctuation.definition.group.end.css",
-        "punctuation.definition.string.end.html source.css"
+        "punctuation.definition.string.html source.css"
       ],
       "settings": {
         "foreground": "#BFD5DE60"

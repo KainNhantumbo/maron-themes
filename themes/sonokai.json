@@ -1117,16 +1117,12 @@
       }
     },
     {
+      "name": "Punctuation template string (`example`)",
       "scope": [
         "punctuation.template-string.element.begin",
         "punctuation.template-string.element.end",
-        "punctuation.definition.string.template.begin",
-        "punctuation.definition.string.template.end",
-        "string.quoted.template punctuation.definition.string.begin",
-        "string.quoted.template punctuation.definition.string.end"
       ],
       "settings": {
-        // "name": "Punctuation template string (`example`)",
         "foreground": "#fc5d7c"
       }
     },

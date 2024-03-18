@@ -383,24 +383,6 @@
       }
     },
     {
-      "name": "Punctuation template string (`example`)",
-      "scope": [
-        "punctuation.template-string.element.begin",
-        "punctuation.template-string.element.end",
-        "punctuation.definition.string.template.begin",
-        "punctuation.definition.string.template.end",
-        "string.quoted.template punctuation.definition.string.begin",
-        "string.quoted.template punctuation.definition.string.end",
-        "string source punctuation.section.embedded",
-        "string.regexp punctuation.definition.string.begin",
-        "string.regexp punctuation.definition.string.end",
-        "entity.name.function.operator"
-      ],
-      "settings": {
-        "foreground": "#38bdf8"
-      }
-    },
-    {
       "scope": ["storage.type", "storage.modifier", "storage.type.modifier"],
       "settings": {
         // "name": "Types and definition/declaration keywords should use the following scope. Examples include int, bool, char, func, function, class and def. Depending on the language and semantics, const may be this or storage.modifier.",

@@ -84,7 +84,7 @@
     "gitDecoration.modifiedResourceForeground": "#82AAFF90",
     "gitDecoration.untrackedResourceForeground": "#C3E88D90",
     "icon.foreground": "#B3D385",
-    "input.background": "#2B2B2B",
+    "input.background": "#212121",
     "input.border": "#FFFFFF10",
     "input.foreground": "#EEFFFF",
     "input.placeholderForeground": "#EEFFFF60",

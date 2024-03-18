@@ -431,9 +431,7 @@
     "widget.border": "#343f4480",
     "widget.shadow": "#00000000"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Forest",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -495,7 +493,7 @@
     },
     {
       "name": "String",
-      "scope": "string, punctuation.definition.string.end, punctuation.definition.string.begin, punctuation.definition.string.template.begin, punctuation.definition.string.template.end",
+      "scope": "string",
       "settings": {
         "foreground": "#dbbc7f"
       }
@@ -2331,7 +2329,7 @@
     },
     {
       "name": "JSON grey",
-      "scope": "punctuation.support.type.property-name.begin.json, punctuation.support.type.property-name.end.json, punctuation.separator.dictionary.key-value.json, punctuation.definition.string.begin.json, punctuation.definition.string.end.json, punctuation.separator.dictionary.pair.json, punctuation.separator.array.json",
+      "scope": "punctuation.support.type.property-name.begin.json, punctuation.support.type.property-name.end.json, punctuation.separator.dictionary.key-value.json, punctuation.separator.dictionary.pair.json, punctuation.separator.array.json",
       "settings": {
         "foreground": "#859289"
       }

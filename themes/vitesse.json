@@ -697,6 +697,18 @@
   "semanticHighlighting": true,
   "tokenColors": [
     {
+      "name": "JSON Strings quotes",
+      "scope": [
+        "punctuation.definition.string.begin.json",
+        "punctuation.string.end.json",
+        "punctuation.definition.quote.begin",
+        "punctuation.definition.quote.end"
+      ],
+      "settings": {
+        "foreground": "#BFD5DE60",
+      }
+    },
+    {
       "scope": ["comment", "punctuation.definition.comment", "string.comment"],
       "settings": {
         "foreground": "#758575dd"
@@ -803,7 +815,6 @@
     },
     {
       "scope": [
-        "punctuation.definition.string",
         "punctuation.support.type.property-name"
       ],
       "settings": {
@@ -1098,7 +1109,7 @@
         "punctuation.definition.group.end.ruby",
         "punctuation.definition.group.begin.css",
         "punctuation.definition.group.end.css",
-        "punctuation.definition.string.end.html source.css"
+        "punctuation.definition.string.html source.css"
       ],
       "settings": {
         "foreground": "#BFD5DE60"

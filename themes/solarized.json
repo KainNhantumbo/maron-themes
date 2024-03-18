@@ -444,7 +444,6 @@
         "constant.language",
         "constant.numeric",
         "keyword.other.unit",
-        "punctuation.definition.string",
         "punctuation.quoted.docstring",
         "storage.type.string",
         "string",
@@ -476,20 +475,7 @@
         "foreground": "#268bd2"
       }
     },
-    {
-      "name": "Punctuation template string (`example`)",
-      "scope": [
-        "punctuation.template-string.element.begin",
-        "punctuation.template-string.element.end",
-        "punctuation.definition.string.template.begin",
-        "punctuation.definition.string.template.end",
-        "string.quoted.template punctuation.definition.string.begin",
-        "string.quoted.template punctuation.definition.string.end"
-      ],
-      "settings": {
-        "foreground": "#38BBB0"
-      }
-    },
+
     {
       "name": "Markdown Quote",
       "scope": "markup.quote.markdown",

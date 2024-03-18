@@ -220,15 +220,6 @@
       }
     },
     {
-      "name": "punctuation.definition.string",
-      "scope": [
-        "punctuation.definition.string"
-      ],
-      "settings": {
-        "foreground": "#BFD084"
-      }
-    },
-    {
       "name": "constant.character.escape",
       "scope": [
         "constant.character.escape"
@@ -942,15 +933,6 @@
       "name": "punctuation.definition.markdown",
       "scope": [
         "punctuation.definition.markdown"
-      ],
-      "settings": {
-        "foreground": "#b3e8b4"
-      }
-    },
-    {
-      "name": "punctuation.definition.string",
-      "scope": [
-        "punctuation.definition.string"
       ],
       "settings": {
         "foreground": "#b3e8b4"
