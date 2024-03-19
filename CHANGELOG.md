@@ -2,8 +2,8 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
-#### 2.2.0  Return of The Legacy's Update
-- ✨ Added Maron Solarized Theme (Legacy).
+#### 2.2.0  `🎒 Return of The Classic's Update`
+- ✨ Added Maron Solarized Planets Theme (Classic).
 - 🔨 Remixed string quote colors to match with other themes.
 - 🔨 Remixed Maron Kanagawa Legend Theme colors for better appearance.
 - 🔨 Remixed Maron Choco & Mint Theme colors for better appearance.
@@ -14,7 +14,7 @@ All changes to the "Maron Themes" extension will be documented here.
 #### 2.0.1
 - 🔨 Removed all screenshots (but one left), to reduce the packaged extension size.
 
-#### 2.0.0  `🐛 The Prime Edition`
+#### 2.0.0  `🦸 The Prime Edition`
 
 - ✨ Added Maron Darcula Imortal Theme (based on Dracula Theme).
 - ✨ Improved overall appearance and accessability of the welcome page components.

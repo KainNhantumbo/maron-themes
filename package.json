@@ -191,9 +191,9 @@
         "path": "./themes/solarized.json"
       },
       {
-        "label": "Maron Themes: Solarized Planets (Legacy)",
+        "label": "Maron Themes: Solarized Planets (Classic)",
         "uiTheme": "vs-dark",
-        "path": "./themes/solarized-legacy.json"
+        "path": "./themes/solarized-classic.json"
       },
       {
         "label": "Maron Themes: Tokyo City Lights",
