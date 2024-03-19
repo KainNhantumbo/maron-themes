@@ -4,6 +4,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 #### 2.2.0  `🎒 Return of The Classic's Update`
 - ✨ Added Maron Solarized Planets Theme (Classic).
+- ✨ Added Maron Solarized Planets Theme (Classic - "Special Edition").
 - 🔨 Remixed string quote colors to match with other themes.
 - 🔨 Remixed Maron Kanagawa Legend Theme colors for better appearance.
 - 🔨 Remixed Maron Choco & Mint Theme colors for better appearance.

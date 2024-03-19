@@ -29,7 +29,7 @@ Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https:
 
 You can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
 
-#### This is my favorite among other 25 themes!
+#### This is my favorite among other 26 themes!
 
 <figure align="center">
 
@@ -64,7 +64,7 @@ Type **_theme_**, choose `Preferences: Color Theme`, and select one of the **Mar
 
 You can override the **Maron Themes** and schemes colors by adding theme-specific settings to your configuration. For advanced customisation please check the relative section on the [VS Code documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme).
 
-Recommended settings that I use for a better experience:
+Recommended settings I use for better experience:
 
 ```json
 {
@@ -94,7 +94,7 @@ Since version 1.6.0, tab bar color position changed to bottom instead of the top
 "workbench.colorCustomizations": {
     // you can change this color to whatever you want
    "tab.activeBorderTop": "#ffffff80",
-    // leave as is here to maintain bottom color invisible
+    // leave "as is" here to maintain bottom color invisible
    "tab.activeBorder": "#00000000"
   },
 ```
