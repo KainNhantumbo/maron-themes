@@ -196,6 +196,11 @@
         "path": "./themes/solarized-classic.json"
       },
       {
+        "label": "Maron Themes: Solarized Planets (Classic - \"Special Edition\")",
+        "uiTheme": "vs-dark",
+        "path": "./themes/variants/solarized-classic-variant.json"
+      },
+      {
         "label": "Maron Themes: Tokyo City Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-night.json"
