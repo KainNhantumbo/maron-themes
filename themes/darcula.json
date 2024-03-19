@@ -709,7 +709,7 @@
       }
     },
     {
-      "name": "Custom tags",
+      "name": "Custom tags JSX",
       "scope": [
         "entity.name.tag.other.html",
         "entity.name.tag support.class.component",

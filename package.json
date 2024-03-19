@@ -2,7 +2,7 @@
   "name": "maron-themes",
   "displayName": "Maron Themes",
   "description": "A list of well curated themes, backed with love for a seamless coding experience!",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "icon": "icons/logo.png",
   "publisher": "KainNhantumbo",
   "engines": {
@@ -29,6 +29,7 @@
   ],
   "scripts": {
     "build": "vsce package",
+    "format": "npx prettier --write \"**/*.{js,mjs,cjs,ts,mts,cts,jsx,tsx,json}\"",
     "push": "vsce publish"
   },
   "keywords": [
@@ -188,6 +189,11 @@
         "label": "Maron Themes: Solarized Planets",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized.json"
+      },
+      {
+        "label": "Maron Themes: Solarized Planets (Legacy)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarized-legacy.json"
       },
       {
         "label": "Maron Themes: Tokyo City Lights",

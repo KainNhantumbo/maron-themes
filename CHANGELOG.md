@@ -2,6 +2,12 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 2.2.0  Return of The Legacy's Update
+- ✨ Added Maron Solarized Theme (Legacy).
+- 🔨 Remixed string quote colors to match with other themes.
+- 🔨 Remixed Maron Kanagawa Legend Theme colors for better appearance.
+- 🔨 Remixed Maron Choco & Mint Theme colors for better appearance.
+
 #### 2.1.0
 - ✨ Added Maron Beyond The Fog Theme (based on Vitesse Theme).
 

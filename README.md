@@ -29,7 +29,7 @@ Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https:
 
 You can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
 
-#### This is my favorite among other 24 themes!
+#### This is my favorite among other 25 themes!
 
 <figure align="center">
 
