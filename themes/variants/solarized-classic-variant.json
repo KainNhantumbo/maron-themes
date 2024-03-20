@@ -1,121 +1,36 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "colors": {
-    "activityBar.activeBackground": "#10313B",
-    "activityBar.activeFocusBorder": "#ffffffcc",
-    "activityBar.border": "#586e7545",
-    "activityBar.dropBorder": "#586e7545",
-    "activityBarTop.activeBorder": "#586e7545",
-    "activityBarTop.dropBorder": "#586e7545",
-    "editorGroup.border": "#586e7545",
-    "editorGroup.dropIntoPromptBorder": "#586e7545",
-    "editorGroupHeader.border": "#586e7545",
-    "editorGroupHeader.tabsBorder": "#586e7545",
+    "activityBar.border": "#586e7535",
+    "activityBar.dropBorder": "#586e7535",
+    "activityBarTop.activeBorder": "#586e7535",
+    "activityBarTop.dropBorder": "#586e7535",
+    "editorGroup.border": "#586e7535",
+    "editorGroup.dropIntoPromptBorder": "#586e7535",
+    "editorGroupHeader.border": "#586e7535",
+    "editorGroupHeader.tabsBackground": "#0A1016",
+    "editorGroupHeader.tabsBorder": "#586e7535",
+    "editorHoverWidget.background": "#0A1016",
     "editorWidget.background": "#1F252C",
-    "panel.border": "#586e7545",
-    "panel.dropBorder": "#586e7545",
-    "panelInput.border": "#586e7545",
-    "panelSection.border": "#586e7545",
+    "panel.background": "#0A1016",
+    "panel.border": "#586e7535",
+    "panel.dropBorder": "#586e7535",
+    "panelInput.border": "#586e7535",
+    "panelSection.border": "#586e7535",
+    "peekViewResult.background": "#0A1016",
+    "scrollbar.shadow": "#000000",
     "sideBar.background": "#0A1016",
-    "sideBar.border": "#586e7545",
-    "sideBarSectionHeader.border": "#586e7545",
-    "statusBar.border": "#586e7545",
-    "tab.border": "#586e7545",
-    "terminal.border": "#586e7545",
-    "titleBar.border": "#586e7545",
-    "widget.border": "#586e7545"
+    "sideBar.border": "#586e7535",
+    "sideBarSectionHeader.border": "#586e7535",
+    "statusBar.border": "#586e7535",
+    "tab.activeBorder": "#586e7500",
+    "tab.activeBorderTop": "#2AA198",
+    "tab.inactiveBackground": "#0A1016",
+    "terminal.background": "#0A1016",
+    "terminal.border": "#586e7535",
+    "titleBar.border": "#586e7535",
+    "widget.border": "#586e7535"
   },
   "include": "../solarized-classic.json",
-  "name": "Maron Solarized Classic Variant",
-  "tokenColors": [
-    {
-      "name": "Comments",
-      "scope": [
-        "comment punctuation.definition.comment, string.quoted.docstring",
-        "comment"
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "markup.italic",
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "markup.bold markup.italic, markup.italic markup.bold",
-      "settings": {
-        "fontStyle": "italic bold"
-      }
-    },
-    {
-      "scope": "constant.keyword",
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Function declarations",
-      "scope": [
-        "support.function",
-        "support.constant.handlebars",
-        "source.powershell variable.other.member",
-        "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Control flow / Special keywords",
-      "scope": [
-        "keyword.control",
-        "source.cpp keyword.operator.new",
-        "keyword.operator.delete",
-        "keyword.other.using",
-        "keyword.other.directive.using",
-        "keyword.other.operator",
-        "entity.name.operator",
-        "support.module, support.node",
-        "entity.name.type, entity.other.inherited-class, entity.other"
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Custom tags JSX",
-      "scope": [
-        "entity.name.tag.other.html",
-        "entity.name.tag support.class.component",
-        "support.class.component.html"
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": ["markup.quote"],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#89DDFF"
-      }
-    },
-    {
-      "name": "Variable and parameter name",
-      "scope": [
-        "meta.definition.variable.name",
-        "support.variable",
-        "variable.parameter",
-        "variable.parameter.function.language.special.self.python",
-        "entity.name.variable",
-        "constant.other.placeholder"
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    }
-  ]
+  "name": "Maron Solarized Classic Variant"
 }
