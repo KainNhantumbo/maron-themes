@@ -2,6 +2,9 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 2.2.1
+- 🔨 Remixed Maron Solarized Planets Classic Theme and Solarized Planets Classic "Special Edition" Theme colors for better appearance.
+
 #### 2.2.0  `🎒 Return of The Classic's Update`
 - ✨ Added Maron Solarized Planets Theme (Classic).
 - ✨ Added Maron Solarized Planets Theme (Classic - "Special Edition").
