@@ -34,7 +34,7 @@
     "editor.wordHighlightStrongBackground": "#99dc9e40",
     "editor.wordHighlightTextBackground": "#99dc9e10",
     "editorCursor.background": "#141d26",
-    "editorCursor.foreground": "#eab853ee",
+    "editorCursor.foreground": "#99dc9e",
     "editorGroup.border": "#85858520",
     "editorGroupHeader.noTabsBackground": "#141d26",
     "editorGroupHeader.tabsBackground": "#141d26",
