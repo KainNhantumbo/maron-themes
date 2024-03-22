@@ -165,7 +165,7 @@
     "statusBarItem.remoteBackground": "#B3D385",
     "statusBarItem.remoteForeground": "#000000",
     "tab.activeBorder": "#B3D385",
-    "tab.activeForeground": "#FFFFFF",
+    "tab.activeForeground": "#B3D385",
     "tab.activeModifiedBorder": "#999999",
     "tab.inactiveBackground": "#212121",
     "tab.inactiveForeground": "#999999",

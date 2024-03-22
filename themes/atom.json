@@ -136,7 +136,7 @@
     "statusBarItem.remoteHoverForeground": "#21252b",
     "tab.activeBackground": "#21252b",
     "tab.activeBorder": "#61afefcc",
-    "tab.activeForeground": "#dcdcdc",
+    "tab.activeForeground": "#61afefcc",
     "tab.inactiveBackground": "#21252b",
     "tab.inactiveForeground": "#9da5b4",
     "terminal.ansiBlack": "#3f4451",

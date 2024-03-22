@@ -26,6 +26,7 @@
     "tab.activeBorder": "#586e7500",
     "tab.activeBorderTop": "#2AA198",
     "tab.inactiveBackground": "#0A1016",
+    "tab.border": "#586e7535",
     "terminal.background": "#0A1016",
     "terminal.border": "#586e7535",
     "titleBar.border": "#586e7535",

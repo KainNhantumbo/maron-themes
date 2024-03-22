@@ -277,7 +277,7 @@
     "symbolIcon.variableForeground": "#e2e2e3",
     "tab.activeBackground": "#212226",
     "tab.activeBorder": "#76cce0",
-    "tab.activeForeground": "#e2e2e3",
+    "tab.activeForeground": "#76cce0",
     "tab.border": "#212226",
     "tab.hoverBackground": "#212226",
     "tab.inactiveBackground": "#212226",

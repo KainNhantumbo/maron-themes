@@ -146,7 +146,7 @@
     "statusBarItem.remoteForeground": "#ffffff",
     "tab.activeBackground": "#181818",
     "tab.activeBorder": "#ffffffaa",
-    "tab.activeForeground": "#ffffff",
+    "tab.activeForeground": "#ffffffaa",
     "tab.border": "#3c3c3c00",
     "tab.hoverBackground": "#181818",
     "tab.inactiveBackground": "#181818",
@@ -392,7 +392,7 @@
       }
     },
     {
-      "scope": ["storage.modifier", "keyword.operator.noexcept"],
+      "scope": ["storage.modifier", "keyword.operator.noexcept9"],
       "settings": {
         "foreground": "#569CD6"
       }

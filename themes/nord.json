@@ -258,7 +258,7 @@
     "statusBarItem.warningForeground": "#181d28",
     "tab.activeBackground": "#181d28",
     "tab.activeBorder": "#88c0d0",
-    "tab.activeForeground": "#c8ced9",
+    "tab.activeForeground": "#88c0d0",
     "tab.border": "#181d2800",
     "tab.hoverBackground": "#181d28",
     "tab.inactiveBackground": "#181d28",
