@@ -9,11 +9,10 @@
     "activityBarBadge.foreground": "#1a1a1a",
     "badge.background": "#fac863",
     "badge.foreground": "#1a1a1a",
-    "breadcrumb.activeSelectionForeground": "#f8f8f2",
+    "breadcrumb.activeSelectionForeground": "#fac863",
     "breadcrumb.background": "#20232a",
-    "breadcrumb.focusForeground": "#f8f8f2",
+    "breadcrumb.focusForeground": "#fac863",
     "breadcrumb.foreground": "#9397A0",
-    "breadcrumbPicker.background": "#191a21",
     "button.background": "#fac863",
     "button.border": "#c5a5c520",
     "button.foreground": "#20232a",
@@ -95,8 +94,8 @@
     "list.inactiveSelectionBackground": "#44475a75",
     "list.warningForeground": "#f8f8f2",
     "menu.background": "#20232a",
-    "menu.foreground": "#9397A0",
     "menu.border": "#c5a5c520",
+    "menu.foreground": "#9397A0",
     "menu.selectionForeground": "#fac863",
     "menu.separatorBackground": "#c5a5c520",
     "notificationCenter.border": "#c5a5c520",
@@ -130,8 +129,10 @@
     "statusBar.debuggingBackground": "#c5a5c5",
     "statusBar.debuggingForeground": "#20232a",
     "statusBar.foreground": "#9397A0",
-    "statusBarItem.hoverForeground": "#eee",
     "statusBar.noFolderBackground": "#20232a",
+    "statusBarItem.compactHoverBackground": "#20232a",
+    "statusBarItem.hoverBackground": "#20232aaa",
+    "statusBarItem.hoverForeground": "#fac863",
     "statusBarItem.remoteHoverBackground": "#c5a5c5",
     "statusBarItem.remoteHoverForeground": "#000",
     "tab.activeBorder": "#fac863",
@@ -168,7 +169,9 @@
     "widget.border": "#c5a5c520",
     "widget.shadow": "#ff000000"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Brownie",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -183,7 +186,10 @@
       }
     },
     {
-      "scope": ["keyword", "storage.type.class"],
+      "scope": [
+        "keyword",
+        "storage.type.class"
+      ],
       "settings": {
         "foreground": "#C5A5C5"
       }
@@ -195,7 +201,10 @@
       }
     },
     {
-      "scope": ["variable", "meta.jsx.children"],
+      "scope": [
+        "variable",
+        "meta.jsx.children"
+      ],
       "settings": {
         "foreground": "#D7DEEA"
       }
@@ -246,7 +255,9 @@
       }
     },
     {
-      "scope": ["entity.name.tag"],
+      "scope": [
+        "entity.name.tag"
+      ],
       "settings": {
         "foreground": "#FC929E"
       }
@@ -263,19 +274,27 @@
       }
     },
     {
-      "scope": ["entity.other.inherited-class", "entity.name.type"],
+      "scope": [
+        "entity.other.inherited-class",
+        "entity.name.type"
+      ],
       "settings": {
         "foreground": "#FAC863"
       }
     },
     {
-      "scope": ["storage.modifier", "storage.type"],
+      "scope": [
+        "storage.modifier",
+        "storage.type"
+      ],
       "settings": {
         "foreground": "#C5A5C5"
       }
     },
     {
-      "scope": ["constructor"],
+      "scope": [
+        "constructor"
+      ],
       "settings": {
         "foreground": "#79B6F2"
       }
@@ -293,7 +312,9 @@
       }
     },
     {
-      "scope": ["constant.language.boolean"],
+      "scope": [
+        "constant.language.boolean"
+      ],
       "settings": {
         "foreground": "#FF8B50"
       }
@@ -322,7 +343,9 @@
       }
     },
     {
-      "scope": ["keyword.operator"],
+      "scope": [
+        "keyword.operator"
+      ],
       "settings": {
         "foreground": "#fac863DD"
       }

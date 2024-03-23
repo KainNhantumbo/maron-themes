@@ -11,7 +11,9 @@
     "activityBarBadge.foreground": "#181d28",
     "badge.background": "#88c0d0",
     "badge.foreground": "#181d28",
-    "breadcrumb.foreground": "#88c0d0",
+    "breadcrumb.activeSelectionForeground": "#88c0d0",
+    "breadcrumb.focusForeground": "#88c0d0",
+    "breadcrumb.foreground": "#88c0d0bb",
     "button.background": "#88c0d0ee",
     "button.foreground": "#181d28",
     "button.hoverBackground": "#88c0d0",
@@ -237,21 +239,22 @@
     "selection.background": "#88c0d080",
     "settings.headerForeground": "#88c0d0",
     "sideBar.background": "#181d28",
-    "sideBar.border": "#181d28",
-    "sideBar.foreground": "#88c0d0",
+    "sideBar.foreground": "#88c0d0bb",
     "sideBarSectionHeader.background": "#181d28",
     "sideBarSectionHeader.foreground": "#c8ced9",
     "sideBarTitle.foreground": "#88c0d0",
     "statusBar.background": "#181d28",
     "statusBar.debuggingBackground": "#b48ead",
     "statusBar.debuggingForeground": "#181d28",
-    "statusBar.foreground": "#88c0d0",
+    "statusBar.foreground": "#88c0d0bb",
     "statusBar.noFolderBackground": "#181d28",
     "statusBar.noFolderForeground": "#c8ced9",
     "statusBarItem.activeBackground": "#4c566a",
+    "statusBarItem.compactHoverBackground": "#181d28",
     "statusBarItem.errorBackground": "#181d28",
     "statusBarItem.errorForeground": "#bf616a",
-    "statusBarItem.hoverBackground": "#434c5e",
+    "statusBarItem.hoverBackground": "#181d2890",
+    "statusBarItem.hoverForeground": "#88c0d0",
     "statusBarItem.prominentBackground": "#181d28",
     "statusBarItem.prominentHoverBackground": "#434c5e",
     "statusBarItem.warningBackground": "#ebcb8b",
@@ -262,9 +265,8 @@
     "tab.border": "#181d2800",
     "tab.hoverBackground": "#181d28",
     "tab.inactiveBackground": "#181d28",
-    "tab.inactiveForeground": "#88c0d0",
+    "tab.inactiveForeground": "#88c0d0bb",
     "tab.lastPinnedBorder": "#4c566a",
-    "tab.unfocusedActiveBorder": "#88c0d000",
     "tab.unfocusedHoverBackground": "#181d28b3",
     "tab.unfocusedHoverBorder": "#88c0d000",
     "tab.unfocusedInactiveForeground": "#c8ced966",
@@ -295,7 +297,7 @@
     "textPreformat.foreground": "#8fbcbb",
     "textSeparator.foreground": "#eceff4",
     "titleBar.activeBackground": "#181d28",
-    "titleBar.activeForeground": "#88c0d0",
+    "titleBar.activeForeground": "#88c0d0bb",
     "titleBar.inactiveBackground": "#181d28",
     "tree.indentGuidesStroke": "#88c0d060",
     "walkThrough.embeddedEditorBackground": "#181d28",
@@ -305,7 +307,9 @@
     "widget.border": "#88c0d040",
     "widget.shadow": "#00000000"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Nord",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -370,7 +374,10 @@
     },
     {
       "name": "Entity Name Class/Type",
-      "scope": ["entity.name.class", "entity.name.type.class"],
+      "scope": [
+        "entity.name.class",
+        "entity.name.type.class"
+      ],
       "settings": {
         "foreground": "#8FBCBB"
       }
@@ -1278,7 +1285,9 @@
     },
     {
       "name": "[Python] Function Parameter",
-      "scope": ["source.python variable.parameter.function.language"],
+      "scope": [
+        "source.python variable.parameter.function.language"
+      ],
       "settings": {
         "foreground": "#c8cEd9"
       }
@@ -1375,7 +1384,10 @@
     },
     {
       "name": "[TypeScript] Variables",
-      "scope": ["source.ts support.variable", "source.tsx support.variable"],
+      "scope": [
+        "source.ts support.variable",
+        "source.tsx support.variable"
+      ],
       "settings": {
         "foreground": "#c8cEd9"
       }

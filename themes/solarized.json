@@ -2,18 +2,15 @@
   "$schema": "vscode://schemas/color-theme",
   "author": "Kain Nhantumbo",
   "colors": {
-    "activityBar.activeBackground": "#0D1A20",
     "activityBar.activeBorder": "#38BBB0",
     "activityBar.background": "#0D1A20",
-    "activityBar.border": "#0D1A20",
     "activityBar.foreground": "#38BBB0",
     "activityBarBadge.background": "#38BBB0",
     "activityBarBadge.foreground": "#0D1A20",
     "badge.background": "#38BBB0",
     "badge.foreground": "#0D1A20",
-    "breadcrumb.activeSelectionForeground": "#e0e0e0be",
-    "breadcrumb.background": "#0D1A20",
-    "breadcrumb.focusForeground": "#eee8d5bb",
+    "breadcrumb.activeSelectionForeground": "#38BBB0",
+    "breadcrumb.focusForeground": "#38BBB0",
     "breadcrumb.foreground": "#516E7A",
     "button.background": "#268bd2",
     "button.foreground": "#eee8d5dd",
@@ -23,7 +20,7 @@
     "checkbox.background": "#07364200",
     "checkbox.foreground": "#eee8d5bb",
     "debugExceptionWidget.background": "#0D1A20",
-    "debugExceptionWidget.border": "#38BBB0",
+    "debugExceptionWidget.border": "#275662",
     "debugToolBar.background": "#1d232c",
     "debugToolBar.border": "#073642",
     "descriptionForeground": "#eee8d5bb",
@@ -59,7 +56,7 @@
     "editorHint.border": "#ff000000",
     "editorHint.foreground": "#dc322f",
     "editorHoverWidget.background": "#0D1A20",
-    "editorHoverWidget.border": "#586e7590",
+    "editorHoverWidget.border": "#275662",
     "editorIndentGuide.activeBackground1": "#38BBB030",
     "editorIndentGuide.activeBackground2": "#38BBB030",
     "editorIndentGuide.activeBackground3": "#38BBB030",
@@ -94,11 +91,12 @@
     "editorOverviewRuler.wordHighlightStrongForeground": "#cb4b1699",
     "editorRuler.foreground": "#073642",
     "editorStickyScroll.shadow": "#ff000000",
+    "editorSuggestWidget.border": "#275662",
     "editorSuggestWidget.foreground": "#516E7A",
     "editorSuggestWidget.selectedBackground": "#07364280",
     "editorWhitespace.foreground": "#073642",
     "editorWidget.background": "#0D1A20",
-    "editorWidget.border": "#586e7590",
+    "editorWidget.border": "#275662",
     "errorForeground": "#dc322f",
     "focusBorder": "#275662",
     "foreground": "#849496",
@@ -182,10 +180,11 @@
     "statusBar.debuggingForeground": "#0D1A20",
     "statusBar.foreground": "#516E7A",
     "statusBar.noFolderBackground": "#0D1A20",
+    "statusBarItem.compactHoverBackground": "#0D1A20",
+    "statusBarItem.hoverBackground": "#0D1A2090",
+    "statusBarItem.hoverForeground": "#38BBB0",
     "statusBarItem.remoteBackground": "#38BBB0",
     "statusBarItem.remoteForeground": "#0D1A20",
-    "statusBarItem.hoverBackground": "#b58900",
-    "statusBarItem.hoverForeground": "#000",
     "statusBarItem.remoteHoverBackground": "#38BBB0",
     "statusBarItem.remoteHoverForeground": "#fff",
     "tab.activeBackground": "#0D1A20",
@@ -215,8 +214,8 @@
     "terminal.border": "#586e7540",
     "terminal.foreground": "#839496",
     "terminal.selectionBackground": "#586e7599",
-    "terminalCursor.foreground": "#38BBB0",
     "terminal.tab.activeBorder": "#38BBB0",
+    "terminalCursor.foreground": "#38BBB0",
     "titleBar.activeBackground": "#0D1A20",
     "titleBar.activeForeground": "#516E7A",
     "titleBar.inactiveBackground": "#0D1A20",
@@ -224,10 +223,12 @@
     "welcomePage.progress.background": "#83949660",
     "welcomePage.progress.foreground": "#b58900",
     "welcomePage.tileBackground": "#85990015",
-    "widget.border": "#222f42",
+    "widget.border": "#275662",
     "widget.shadow": "#0D1A2000"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Solarized Planets Legacy",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -316,7 +317,10 @@
       }
     },
     {
-      "scope": ["invalid", "invalid.illegal"],
+      "scope": [
+        "invalid",
+        "invalid.illegal"
+      ],
       "settings": {
         "foreground": "#dc322f"
       }
@@ -432,7 +436,10 @@
       }
     },
     {
-      "scope": ["variable.function", "entity.name.function"],
+      "scope": [
+        "variable.function",
+        "entity.name.function"
+      ],
       "settings": {
         // Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.
         "foreground": "#268bd2"
@@ -476,7 +483,6 @@
         "foreground": "#268bd2"
       }
     },
-
     {
       "name": "Markdown Quote",
       "scope": "markup.quote.markdown",
@@ -486,7 +492,9 @@
     },
     {
       "name": "Markup Quote - Bold",
-      "scope": ["markup.quote markup.bold"],
+      "scope": [
+        "markup.quote markup.bold"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -524,7 +532,10 @@
       }
     },
     {
-      "scope": ["keyword.other.documentation.javadoc", "markup.bold"],
+      "scope": [
+        "keyword.other.documentation.javadoc",
+        "markup.bold"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -595,7 +606,10 @@
     },
     {
       "name": "Export, Default",
-      "scope": ["keyword.control.export", "keyword.control.default"],
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.default"
+      ],
       "settings": {
         "foreground": "#FC5B60"
       }
@@ -645,21 +659,29 @@
     },
     {
       "name": "Import meta",
-      "scope": ["meta.import"],
+      "scope": [
+        "meta.import"
+      ],
       "settings": {
         "foreground": "#9DBFCD"
       }
     },
     {
       "name": "punctuation.accessor",
-      "scope": ["punctuation.accessor", "punctuation"],
+      "scope": [
+        "punctuation.accessor",
+        "punctuation"
+      ],
       "settings": {
         "foreground": "#BFD5DE60"
       }
     },
     {
       "name": "Function arguments",
-      "scope": ["variable.parameter", "parameters variable.function"],
+      "scope": [
+        "variable.parameter",
+        "parameters variable.function"
+      ],
       "settings": {
         "fontStyle": "",
         "foreground": "#2aa198"
@@ -685,7 +707,9 @@
     },
     {
       "name": "Control keywords examples include if, try, end and while. Some syntaxes prefer to mark if and else with the conditional variant. The import variant is often used in appropriate situations.",
-      "scope": ["keyword.control"],
+      "scope": [
+        "keyword.control"
+      ],
       "settings": {
         "foreground": "#FC5B60"
       }

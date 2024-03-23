@@ -8,7 +8,8 @@
     "activityBarBadge.background": "#7A9769",
     "activityBarBadge.foreground": "#202020",
     "badge.background": "#7A9769",
-    "breadcrumb.focusForeground": "#98C2CA",
+    "breadcrumb.focusForeground": "#7A9769",
+    "breadcrumb.activeSelectionForeground": "#7A9769",
     "breadcrumb.foreground": "#98C2CAAA",
     "button.background": "#7A9769",
     "dropdown.background": "#202020",
@@ -91,12 +92,13 @@
     "sideBar.foreground": "#98C2CAAA",
     "sideBarTitle.foreground": "#7A9769",
     "statusBar.background": "#202020",
-    "statusBar.debuggingBackground": "#cc6e2f",
+    "statusBar.debuggingBackground": "#9E7BB0",
     "statusBar.debuggingForeground": "#202020",
     "statusBar.foreground": "#98C2CAAA",
     "statusBar.noFolderBackground": "#202020",
-    "statusBarItem.hoverBackground": "#BFD5DE18",
-    "statusBarItem.hoverForeground": "#98C2CA",
+    "statusBarItem.hoverBackground": "#20202090",
+    "statusBarItem.compactHoverBackground": "#202020AA",
+    "statusBarItem.hoverForeground": "#7A9769",
     "statusBarItem.remoteHoverBackground": "#98C2CA",
     "statusBarItem.remoteHoverForeground": "#202020",
     "tab.activeBackground": "#202020",
@@ -116,9 +118,7 @@
     "widget.border": "#BFD5DE18",
     "widget.shadow": "#ff000000"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Darcula Evolution",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -399,11 +399,7 @@
       }
     },
     {
-      "scope": [
-        "*url*",
-        "*link*",
-        "*uri*"
-      ],
+      "scope": ["*url*", "*link*", "*uri*"],
       "settings": {
         "fontStyle": "underline"
       }
@@ -616,37 +612,28 @@
     },
     {
       "name": "PHP variables",
-      "scope": [
-        "variable.language.php",
-        "variable.other.php"
-      ],
+      "scope": ["variable.language.php", "variable.other.php"],
       "settings": {
         "foreground": "#9E7BB0"
       }
     },
     {
       "name": "Perl specific",
-      "scope": [
-        "variable.other.readwrite.perl"
-      ],
+      "scope": ["variable.other.readwrite.perl"],
       "settings": {
         "foreground": "#9E7BB0"
       }
     },
     {
       "name": "PHP variables",
-      "scope": [
-        "variable.other.property.php"
-      ],
+      "scope": ["variable.other.property.php"],
       "settings": {
         "foreground": "#CC8242"
       }
     },
     {
       "name": "PHP variables",
-      "scope": [
-        "support.variable.property.php"
-      ],
+      "scope": ["support.variable.property.php"],
       "settings": {
         "foreground": "#FFC66D"
       }
@@ -724,7 +711,7 @@
         "support.class.component.html"
       ],
       "settings": {
-        "foreground": "#6A8759"
+        "foreground": "#C9CACA"
       }
     },
     {
@@ -732,6 +719,7 @@
       "scope": [
         "keyword.control.import",
         "keyword.control.from",
+        "keyword.control.as",
         "keyword.import",
         "entity.name.function.operator"
       ],
