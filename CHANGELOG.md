@@ -5,7 +5,10 @@ All changes to the "Maron Themes" extension will be documented here.
 #### 2.2.2 `🪄 The Fixer Magic Wand Update`
 
 - ✨ Enhanced some highlighting colors in "Hot Brownie", "Undead Frost Slime", "Unfair Deadly Spikes 🤣🤣" and "Celeste" themes.
+- ✨ Propagated "Solarized Planets Theme (Classic - "Special Edition")" sidebar background color to activityBar, notification center, inputs, dropdowns, menus and statusbar background colors.
 - 🔨 Fixed "Solarized Planets Theme (Classic - "Special Edition")" activityBar activeBorder being undesirably transparent issue.
+- 🔨 Fixed markup semantic issues like the appearance of the bold, italic, strike and link in markdown and other text files.
+- 🔨 Fixed the appearance of some html tags colors being transparent and darky in "Scary Monsters Forest".
 - 🔨 Fixed foreground color issues on statusbar, specially on debug mode colors.
 - 🔨 Fixed foreground color issues in breadcrumbs.
 - 🔨 Fixed inconsistences of cursor and line number colors.
