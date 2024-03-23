@@ -32,6 +32,6 @@
     "titleBar.border": "#586e7535",
     "widget.border": "#586e7535"
   },
-  "include": "../solarized-classic.json",
-  "name": "Maron Solarized Classic Variant"
+  "include": "./solarized-classic.json",
+  "name": "Maron Solarized Planets Classic (Special Edition)"
 }

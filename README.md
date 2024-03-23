@@ -68,18 +68,12 @@ Recommended settings I use for better experience:
 
 ```json
 {
-  // Controls the font family.
-  "editor.fontFamily": "Geist Mono",
-
+  // Controls the font family (you can get it on https://nerdfonts.com).
+  "editor.fontFamily": "MesloLGL Nerd Font Mono",
   // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
   "editor.lineHeight": 24,
-
   // Enables font ligatures
-  "editor.fontLigatures": true,
-
-  // Controls if file decorations should use badges.
-  "explorer.decorations.badges": false,
-
+  "editor.fontLigatures": false,
   // cursor customizations
   "editor.cursorBlinking": "phase",
   "editor.cursorSmoothCaretAnimation": "on",

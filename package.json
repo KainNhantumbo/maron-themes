@@ -2,7 +2,7 @@
   "name": "maron-themes",
   "displayName": "Maron Themes",
   "description": "A list of well curated themes, backed with love for a seamless coding experience!",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "icon": "icons/logo.png",
   "publisher": "KainNhantumbo",
   "engines": {
@@ -173,7 +173,7 @@
       {
         "label": "Maron Themes: Brave Fox Waves",
         "uiTheme": "vs-dark",
-        "path": "./themes/play-yard.json"
+        "path": "./themes/copilot.json"
       },
       {
         "label": "Maron Themes: Little Bottle Box",
@@ -198,7 +198,7 @@
       {
         "label": "Maron Themes: Solarized Planets (Classic - \"Special Edition\")",
         "uiTheme": "vs-dark",
-        "path": "./themes/variants/solarized-classic-variant.json"
+        "path": "./themes/solarized-classic-special.json"
       },
       {
         "label": "Maron Themes: Tokyo City Lights",

@@ -2,10 +2,22 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 2.2.2 `🪄 The Fixer Magic Wand Update`
+
+- ✨ Enhanced some highlighting colors in "Hot Brownie", "Undead Frost Slime", "Unfair Deadly Spikes 🤣🤣" and "Celeste" themes.
+- 🔨 Fixed "Solarized Planets Theme (Classic - "Special Edition")" activityBar activeBorder being undesirably transparent issue.
+- 🔨 Fixed foreground color issues on statusbar, specially on debug mode colors.
+- 🔨 Fixed foreground color issues in breadcrumbs.
+- 🔨 Fixed inconsistences of cursor and line number colors.
+- 🔨 Fixed inconsistences of tab caret color and active tab foreground color.
+- 🔨 Other minor fixes and patches applied.
+
 #### 2.2.1
+
 - 🔨 Remixed Maron Solarized Planets Classic Theme and Solarized Planets Classic "Special Edition" Theme colors for better appearance.
 
-#### 2.2.0  `🎒 Return of The Classic's Update`
+#### 2.2.0 `🎒 Return of The Classic's Update`
+
 - ✨ Added Maron Solarized Planets Theme (Classic).
 - ✨ Added Maron Solarized Planets Theme (Classic - "Special Edition").
 - 🔨 Remixed string quote colors to match with other themes.
@@ -13,12 +25,14 @@ All changes to the "Maron Themes" extension will be documented here.
 - 🔨 Remixed Maron Choco & Mint Theme colors for better appearance.
 
 #### 2.1.0
+
 - ✨ Added Maron Beyond The Fog Theme (based on Vitesse Theme).
 
 #### 2.0.1
+
 - 🔨 Removed all screenshots (but one left), to reduce the packaged extension size.
 
-#### 2.0.0  `🦸 The Prime Edition`
+#### 2.0.0 `🦸 The Prime Edition`
 
 - ✨ Added Maron Darcula Imortal Theme (based on Dracula Theme).
 - ✨ Improved overall appearance and accessability of the welcome page components.
