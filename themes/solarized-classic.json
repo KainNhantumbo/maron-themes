@@ -189,7 +189,7 @@
     "tab.activeBorder": "#2AA198",
     "tab.activeForeground": "#2AA198",
     "tab.border": "#12181F",
-    "tab.inactiveBackground": "#12131d",
+    "tab.inactiveBackground": "#12181F",
     "tab.inactiveForeground": "#839496",
     "tab.unfocusedHoverBackground": "#12131d",
     "terminal.ansiBlack": "#073642",
@@ -569,6 +569,40 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#6c71c4"
+      }
+    },
+    {
+      "scope": "markup.strikethrough",
+      "settings": {
+        "fontStyle": "strikethrough",
+        "foreground": "#268bd2"
+      }
+    },
+    {
+      "scope": "markup.underline",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": "markup.underline.link",
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "#4cb4ff"
+      }
+    },
+    {
+      "scope": "markup.italic",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#6c71c4"
+      }
+    },
+    {
+      "scope": "markup.bold",
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#d33682"
       }
     },
     {

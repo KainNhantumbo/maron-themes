@@ -226,9 +226,7 @@
     "widget.border": "#275662AA",
     "widget.shadow": "#0D1A2000"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Solarized Planets Legacy",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -317,10 +315,7 @@
       }
     },
     {
-      "scope": [
-        "invalid",
-        "invalid.illegal"
-      ],
+      "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "foreground": "#dc322f"
       }
@@ -436,10 +431,7 @@
       }
     },
     {
-      "scope": [
-        "variable.function",
-        "entity.name.function"
-      ],
+      "scope": ["variable.function", "entity.name.function"],
       "settings": {
         // Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.
         "foreground": "#268bd2"
@@ -484,6 +476,40 @@
       }
     },
     {
+      "scope": "markup.strikethrough",
+      "settings": {
+        "fontStyle": "strikethrough",
+        "foreground": "#268bd2"
+      }
+    },
+    {
+      "scope": "markup.underline",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": "markup.underline.link",
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "#4cb4ff"
+      }
+    },
+    {
+      "scope": "markup.italic",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#6c71c4"
+      }
+    },
+    {
+      "scope": "markup.bold",
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#d33682"
+      }
+    },
+    {
       "name": "Markdown Quote",
       "scope": "markup.quote.markdown",
       "settings": {
@@ -492,9 +518,7 @@
     },
     {
       "name": "Markup Quote - Bold",
-      "scope": [
-        "markup.quote markup.bold"
-      ],
+      "scope": ["markup.quote markup.bold"],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -532,10 +556,7 @@
       }
     },
     {
-      "scope": [
-        "keyword.other.documentation.javadoc",
-        "markup.bold"
-      ],
+      "scope": ["keyword.other.documentation.javadoc", "markup.bold"],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -606,10 +627,7 @@
     },
     {
       "name": "Export, Default",
-      "scope": [
-        "keyword.control.export",
-        "keyword.control.default"
-      ],
+      "scope": ["keyword.control.export", "keyword.control.default"],
       "settings": {
         "foreground": "#FC5B60"
       }
@@ -659,29 +677,21 @@
     },
     {
       "name": "Import meta",
-      "scope": [
-        "meta.import"
-      ],
+      "scope": ["meta.import"],
       "settings": {
         "foreground": "#9DBFCD"
       }
     },
     {
       "name": "punctuation.accessor",
-      "scope": [
-        "punctuation.accessor",
-        "punctuation"
-      ],
+      "scope": ["punctuation.accessor", "punctuation"],
       "settings": {
         "foreground": "#BFD5DE60"
       }
     },
     {
       "name": "Function arguments",
-      "scope": [
-        "variable.parameter",
-        "parameters variable.function"
-      ],
+      "scope": ["variable.parameter", "parameters variable.function"],
       "settings": {
         "fontStyle": "",
         "foreground": "#2aa198"
@@ -707,9 +717,7 @@
     },
     {
       "name": "Control keywords examples include if, try, end and while. Some syntaxes prefer to mark if and else with the conditional variant. The import variant is often used in appropriate situations.",
-      "scope": [
-        "keyword.control"
-      ],
+      "scope": ["keyword.control"],
       "settings": {
         "foreground": "#FC5B60"
       }

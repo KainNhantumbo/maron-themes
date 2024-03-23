@@ -169,9 +169,7 @@
     "widget.border": "#c5a5c520",
     "widget.shadow": "#ff000000"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Brownie",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -186,10 +184,7 @@
       }
     },
     {
-      "scope": [
-        "keyword",
-        "storage.type.class"
-      ],
+      "scope": ["keyword", "storage.type.class"],
       "settings": {
         "foreground": "#C5A5C5"
       }
@@ -201,10 +196,7 @@
       }
     },
     {
-      "scope": [
-        "variable",
-        "meta.jsx.children"
-      ],
+      "scope": ["variable", "meta.jsx.children"],
       "settings": {
         "foreground": "#D7DEEA"
       }
@@ -255,9 +247,43 @@
       }
     },
     {
-      "scope": [
-        "entity.name.tag"
-      ],
+      "scope": "markup.strikethrough",
+      "settings": {
+        "fontStyle": "strikethrough"
+      }
+    },
+    {
+      "scope": "markup.italic",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "markup.bold",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "markup.quote",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "markup.underline",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": "markup.underline.link",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": ["entity.name.tag"],
       "settings": {
         "foreground": "#FC929E"
       }
@@ -274,27 +300,19 @@
       }
     },
     {
-      "scope": [
-        "entity.other.inherited-class",
-        "entity.name.type"
-      ],
+      "scope": ["entity.other.inherited-class", "entity.name.type"],
       "settings": {
         "foreground": "#FAC863"
       }
     },
     {
-      "scope": [
-        "storage.modifier",
-        "storage.type"
-      ],
+      "scope": ["storage.modifier", "storage.type"],
       "settings": {
         "foreground": "#C5A5C5"
       }
     },
     {
-      "scope": [
-        "constructor"
-      ],
+      "scope": ["constructor"],
       "settings": {
         "foreground": "#79B6F2"
       }
@@ -312,9 +330,7 @@
       }
     },
     {
-      "scope": [
-        "constant.language.boolean"
-      ],
+      "scope": ["constant.language.boolean"],
       "settings": {
         "foreground": "#FF8B50"
       }
@@ -343,9 +359,7 @@
       }
     },
     {
-      "scope": [
-        "keyword.operator"
-      ],
+      "scope": ["keyword.operator"],
       "settings": {
         "foreground": "#fac863DD"
       }

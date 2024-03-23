@@ -1065,6 +1065,12 @@
       }
     },
     {
+      "scope": "markup.strikethrough",
+      "settings": {
+        "fontStyle": "strikethrough"
+      }
+    },
+    {
       "name": "Operator, Misc",
       "scope": [
         "constant.other.color",

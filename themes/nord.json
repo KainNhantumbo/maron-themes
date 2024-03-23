@@ -307,9 +307,7 @@
     "widget.border": "#88c0d040",
     "widget.shadow": "#00000000"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Nord",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -374,10 +372,7 @@
     },
     {
       "name": "Entity Name Class/Type",
-      "scope": [
-        "entity.name.class",
-        "entity.name.type.class"
-      ],
+      "scope": ["entity.name.class", "entity.name.type.class"],
       "settings": {
         "foreground": "#8FBCBB"
       }
@@ -1163,6 +1158,12 @@
       }
     },
     {
+      "scope": "markup.strikethrough",
+      "settings": {
+        "fontStyle": "strikethrough"
+      }
+    },
+    {
       "name": "[Markdown] Markup List Numbered/Unnumbered",
       "scope": "text.html.markdown beginning.punctuation.definition.list",
       "settings": {
@@ -1285,9 +1286,7 @@
     },
     {
       "name": "[Python] Function Parameter",
-      "scope": [
-        "source.python variable.parameter.function.language"
-      ],
+      "scope": ["source.python variable.parameter.function.language"],
       "settings": {
         "foreground": "#c8cEd9"
       }
@@ -1384,10 +1383,7 @@
     },
     {
       "name": "[TypeScript] Variables",
-      "scope": [
-        "source.ts support.variable",
-        "source.tsx support.variable"
-      ],
+      "scope": ["source.ts support.variable", "source.tsx support.variable"],
       "settings": {
         "foreground": "#c8cEd9"
       }

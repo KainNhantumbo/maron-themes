@@ -9,9 +9,9 @@
     "activityBarBadge.foreground": "#141d26",
     "badge.background": "#99dc9e",
     "badge.foreground": "#141d26",
-    "breadcrumb.foreground": "#839496",
     "breadcrumb.activeSelectionForeground": "#99dc9e",
     "breadcrumb.focusForeground": "#99dc9e",
+    "breadcrumb.foreground": "#839496",
     "button.background": "#99dc9e80",
     "button.foreground": "#141d26",
     "button.hoverBackground": "#99dc9e",
@@ -67,6 +67,7 @@
     "errorForeground": "#dc322f",
     "focusBorder": "#99dc9e80",
     "foreground": "#849496",
+    "gitDecoration.ignoredResourceForeground": "#515670",
     "icon.foreground": "#99dc9e",
     "input.background": "#141d26",
     "input.border": "#586e7540",
@@ -124,17 +125,16 @@
     "sideBar.background": "#141d26",
     "sideBar.border": "#141d26",
     "sideBar.foreground": "#839496",
-    "gitDecoration.ignoredResourceForeground": "#515670",
     "sideBarTitle.foreground": "#99dc9e",
     "statusBar.background": "#141d26",
     "statusBar.debuggingBackground": "#eab853",
     "statusBar.debuggingForeground": "#141d26",
     "statusBar.foreground": "#839496",
     "statusBar.noFolderBackground": "#141d26",
-    "statusBarItem.remoteBackground": "#99dc9ecc",
-    "statusBarItem.hoverForeground": "#99dc9e",
-    "statusBarItem.hoverBackground": "#141d2690",
     "statusBarItem.compactHoverBackground": "#141d26",
+    "statusBarItem.hoverBackground": "#141d2690",
+    "statusBarItem.hoverForeground": "#99dc9e",
+    "statusBarItem.remoteBackground": "#99dc9ecc",
     "statusBarItem.remoteHoverBackground": "#99dc9e",
     "statusBarItem.remoteHoverForeground": "#000000",
     "tab.activeBorder": "#99dc9ecc",
@@ -153,7 +153,9 @@
     "widget.border": "#99dc9e60",
     "widget.shadow": "#141d2600"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Oceanic",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -494,6 +496,12 @@
       "settings": {
         "fontStyle": "underline",
         "foreground": "#99c794"
+      }
+    },
+    {
+      "scope": "markup.strikethrough",
+      "settings": {
+        "fontStyle": "strikethrough"
       }
     },
     {
