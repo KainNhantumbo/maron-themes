@@ -317,13 +317,6 @@
       }
     },
     {
-      "name": "Keyword Control",
-      "scope": ["keyword.control"],
-      "settings": {
-        // "fontStyle": ""
-      }
-    },
-    {
       "name": "Tag",
       "scope": [
         "entity.name.tag",
