@@ -2,6 +2,11 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 2.3.0 `⛳ The End is Near Update`
+
+- ✨ Added Maron Origins Theme (original maron theme and the final one).
+- 🔨 Fixed found cursor foreground color issues.
+
 #### 2.2.2 `🪄 The Fixer Magic Wand Update`
 
 - ✨ Enhanced some highlighting colors in "Hot Brownie", "Undead Frost Slime", "Unfair Deadly Spikes 🤣🤣" and "Celeste" themes.
