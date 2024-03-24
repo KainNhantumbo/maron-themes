@@ -73,6 +73,7 @@
     "editorSuggestWidget.background": "#141414",
     "editorSuggestWidget.border": "#DCDCAA30",
     "editorSuggestWidget.selectedBackground": "#FBAF3820",
+    "editorSuggestWidget.selectedIconForeground": "#FBAF38",
     "editorWidget.background": "#141414",
     "editorWidget.border": "#DCDCAA30",
     "editorWidget.foreground": "#DCDCAAAA",
@@ -138,7 +139,7 @@
     "scrollbar.shadow": "#00000000",
     "settings.checkboxBackground": "#DCDCAA30",
     "settings.headerForeground": "#FBAF38",
-    "settings.modifiedItemIndicator": "#DCDCAA90",
+    "settings.modifiedItemIndicator": "#CB767690",
     "sideBar.background": "#141414",
     "sideBar.border": "#141414",
     "sideBar.foreground": "#DCDCAA90",
@@ -169,9 +170,28 @@
     "tab.inactiveBackground": "#141414",
     "tab.inactiveForeground": "#DCDCAAAA",
     "tab.unfocusedHoverBackground": "#141414",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiBlue": "#8AAFAB",
+    "terminal.ansiBrightBlack": "#545454",
+    "terminal.ansiBrightBlue": "#8AAFAB",
+    "terminal.ansiBrightCyan": "#88C0D0",
+    "terminal.ansiBrightGreen": "#7AA89F",
+    "terminal.ansiBrightMagenta": "#d699b6",
+    "terminal.ansiBrightRed": "#e67e80",
+    "terminal.ansiBrightWhite": "#DCDCAA",
+    "terminal.ansiBrightYellow": "#FBAF38",
+    "terminal.ansiCyan": "#88C0D0",
+    "terminal.ansiGreen": "#7AA89F",
+    "terminal.ansiMagenta": "#d699b6",
+    "terminal.ansiRed": "#e67e80",
+    "terminal.ansiWhite": "#DCDCAA",
+    "terminal.ansiYellow": "#FBAF38",
+    "terminal.border": "#DCDCAA30",
     "terminal.foreground": "#DCDCAAAA",
     "terminal.inactiveSelectionBackground": "#3a3d41",
     "terminal.tab.activeBorder": "#FBAF38",
+    "terminalCursor.background": "#000000",
+    "terminalCursor.foreground": "#FBAF38",
     "textBlockQuote.background": "#DCDCAA30",
     "textBlockQuote.border": "#616161",
     "textCodeBlock.background": "#DCDCAA30",
@@ -190,7 +210,9 @@
     "widget.border": "#DCDCAA30",
     "widget.shadow": "#00000000"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Origins",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -259,7 +281,10 @@
       }
     },
     {
-      "scope": ["entity.name.tag.css", "entity.name.tag.less"],
+      "scope": [
+        "entity.name.tag.css",
+        "entity.name.tag.less"
+      ],
       "settings": {
         "foreground": "#D7BA7D"
       }
@@ -367,7 +392,10 @@
       }
     },
     {
-      "scope": ["meta.preprocessor", "entity.name.function.preprocessor"],
+      "scope": [
+        "meta.preprocessor",
+        "entity.name.function.preprocessor"
+      ],
       "settings": {
         "foreground": "#569CD6"
       }
@@ -409,20 +437,28 @@
       }
     },
     {
-      "scope": ["storage.modifier", "keyword.operator.noexcept9"],
+      "scope": [
+        "storage.modifier",
+        "keyword.operator.noexcept9"
+      ],
       "settings": {
         "foreground": "#94A3B8"
       }
     },
     {
       "name": "async function",
-      "scope": ["storage.modifier.async"],
+      "scope": [
+        "storage.modifier.async"
+      ],
       "settings": {
         "foreground": "#8AAFAB"
       }
     },
     {
-      "scope": ["string", "meta.embedded.assembly"],
+      "scope": [
+        "string",
+        "meta.embedded.assembly"
+      ],
       "settings": {
         "foreground": "#CE9178"
       }
@@ -456,7 +492,9 @@
       }
     },
     {
-      "scope": ["meta.template.expression"],
+      "scope": [
+        "meta.template.expression"
+      ],
       "settings": {
         "foreground": "#D4D4D4"
       }
@@ -641,13 +679,18 @@
       }
     },
     {
-      "scope": ["variable.other.constant", "variable.other.enummember"],
+      "scope": [
+        "variable.other.constant",
+        "variable.other.enummember"
+      ],
       "settings": {
         "foreground": "#CB7676"
       }
     },
     {
-      "scope": ["meta.object-literal.key"],
+      "scope": [
+        "meta.object-literal.key"
+      ],
       "settings": {
         "foreground": "#DCDCAAAA"
       }
@@ -692,7 +735,10 @@
       }
     },
     {
-      "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
+      "scope": [
+        "keyword.operator.or.regexp",
+        "keyword.control.anchor.regexp"
+      ],
       "settings": {
         "foreground": "#DCDCAA"
       }
@@ -704,7 +750,10 @@
       }
     },
     {
-      "scope": ["constant.character", "constant.other.option"],
+      "scope": [
+        "constant.character",
+        "constant.other.option"
+      ],
       "settings": {
         "foreground": "#569CD6"
       }
@@ -761,7 +810,9 @@
     },
     {
       "name": "Import meta",
-      "scope": ["meta.import"],
+      "scope": [
+        "meta.import"
+      ],
       "settings": {
         "foreground": "#DCDCAA"
       }
