@@ -800,6 +800,23 @@
       "settings": {
         "foreground": "#BFD5DE60"
       }
+    },
+    {
+      "name": "Number, Boolean, Undefined, Null",
+      "scope": [
+        "punctuation.definition.constant",
+        "constant.language",
+        "constant.numeric",
+        "support.constant",
+        "constant.language.null",
+        "constant.language.undefined",
+        "constant.language.boolean",
+        "constant.language.infinity",
+        "constant.language.nan"
+      ],
+      "settings": {
+        "foreground": "#c0768e"
+      }
     }
   ],
   "type": "dark"
