@@ -6,6 +6,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 - ✨ Added Maron Origins Theme (original maron theme and the final one).
 - 🔨 Fixed found cursor foreground color issues.
+- 🔨 Redesigned the logo to meet the current standards.
 
 #### 2.2.2 `🪄 The Fixer Magic Wand Update`
 
