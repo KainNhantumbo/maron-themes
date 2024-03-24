@@ -22,21 +22,30 @@
 
 A set of themes that contains consistent highlighting. Each theme uses no or less italics, underscores, bold, etc. for code and editor.
 
-I optimized these themes to be fully compatible with blur or transparency window effects that you can get using vibrancy or [vscode-blur-linux](https://marketplace.visualstudio.com/items?itemName=mhabrar.vscode-blur-linux) (makes the vscode background blurry in KDE Plasma linux distros).
+I designed all themes to be compatible with blur or window transparency effects that you can get using vibrancy or [vscode-blur-linux](https://marketplace.visualstudio.com/items?itemName=mhabrar.vscode-blur-linux) (makes the vscode background blurry in KDE Plasma linux distros).
+
+> 🪁 Learn more in this comprehensive (and funny) [changelog](./CHANGELOG.md).
 
 Feel free use, reuse and fork.\
 Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https://github.com/KainNhantumbo/maron-themes)
 
 You can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
 
-#### This is my favorite among other 26 themes!
+>🪁 **Just a slice of 28 colorful theme flavors! I bet you will like it.**
 
 <figure align="center">
 
 ![](./previews/Screenshot_Solarized.png)
 
-<figcaption align="center">Maron: Solarized Planets!</figcaption>
+<figcaption align="center">Maron Solarized Planets!</figcaption>
 </figure>
+<figure align="center">
+
+![](./previews/Screenshot_Maron-Origins-Pro.png)
+
+<figcaption align="center">Maron Origins Pro! (ORIGINAL)</figcaption>
+</figure>
+
 
 ### 🚀 Installation
 

@@ -51,9 +51,7 @@
     "editorGroup.dropIntoPromptBackground": "#141414",
     "editorGroupHeader.tabsBackground": "#141414",
     "editorGroupHeader.tabsBorder": "#DCDCAA00",
-    "editorGutter.addedBackground": "#2ea043",
-    "editorGutter.deletedBackground": "#f85149",
-    "editorGutter.modifiedBackground": "#0078d4",
+
     "editorHint.foreground": "#DCDCAA",
     "editorHoverWidget.background": "#141414",
     "editorHoverWidget.border": "#DCDCAA30",

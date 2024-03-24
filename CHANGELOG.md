@@ -4,7 +4,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 #### 2.3.0 `⛳🪁 "The End of Fantasy is Near" Update`
 
-- ✨ Added Maron Origins Pro Theme (an original maron theme, and the final one), only true hackers are allowed to code using this theme 🤣.
+- ✨ Added Maron Origins Pro Theme (an original maron theme, and the final one), only true hackers are allowed to code using this theme, I do not recommend it for babies 🤣🤣.
 - 🔨 Fixed found cursor foreground color issues.
 - 🔨 Redesigned the logo to meet the current standards.
 
