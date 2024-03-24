@@ -1,0 +1,8 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "author": "Kain Nhantumbo",
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "name": "Maron Origins",
+  "semanticHighlighting": true,
+  "type": "dark"
+}

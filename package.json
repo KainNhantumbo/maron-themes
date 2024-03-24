@@ -44,6 +44,7 @@
     "owl",
     "atom",
     "one dark",
+    "origins",
     "code",
     "vscode",
     "modern",
@@ -179,6 +180,11 @@
         "label": "Maron Themes: Little Bottle Box",
         "uiTheme": "vs-dark",
         "path": "./themes/sandbox.json"
+      },
+      {
+        "label": "Maron Themes: Maron Origins (Experimental)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/origins.json"
       },
       {
         "label": "Maron Themes: Stellar Angels",
