@@ -182,7 +182,7 @@
         "path": "./themes/sandbox.json"
       },
       {
-        "label": "Maron Themes: Maron Origins (Original - Experimental)",
+        "label": "Maron Themes: Maron Origins Pro (Original)",
         "uiTheme": "vs-dark",
         "path": "./themes/origins.json"
       },

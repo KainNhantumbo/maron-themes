@@ -2,13 +2,13 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
-#### 2.3.0 `⛳ The End is Near Update`
+#### 2.3.0 `⛳🪁 "The End of Fantasy is Near" Update`
 
-- ✨ Added Maron Origins Theme (original maron theme and the final one).
+- ✨ Added Maron Origins Pro Theme (an original maron theme, and the final one), only true hackers are allowed to code using this theme 🤣.
 - 🔨 Fixed found cursor foreground color issues.
 - 🔨 Redesigned the logo to meet the current standards.
 
-#### 2.2.2 `🪄 The Fixer Magic Wand Update`
+#### 2.2.2 `🪄 "The Fixer Magic Wand" Update`
 
 - ✨ Enhanced some highlighting colors in "Hot Brownie", "Undead Frost Slime", "Unfair Deadly Spikes 🤣🤣" and "Celeste" themes.
 - ✨ Propagated "Solarized Planets Theme (Classic - "Special Edition")" sidebar background color to activityBar, notification center, inputs, dropdowns, menus and statusbar background colors.
