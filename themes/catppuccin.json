@@ -411,7 +411,7 @@
     "terminalCommandDecoration.errorBackground": "#f38ba8",
     "terminalCommandDecoration.successBackground": "#a6e3a1",
     "terminalCursor.background": "#22222f",
-    "terminalCursor.foreground": "#f5e0dc",
+    "terminalCursor.foreground": "#cba6f7",
     "textBlockQuote.background": "#19191f",
     "textBlockQuote.border": "#cba6f7",
     "textCodeBlock.background": "#19191f",

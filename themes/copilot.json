@@ -130,6 +130,8 @@
     "tab.unfocusedHoverBackground": "#1a2023",
     "terminal.border": "#c5e4fd20",
     "terminal.tab.activeBorder": "#ffea6b",
+    "terminalCursor.background": "#232a2f",
+    "terminalCursor.foreground": "#ffea6b",
     "textBlockQuote.background": "#181818",
     "textBlockQuote.border": "#ffea6b",
     "textCodeBlock.background": "#181818",

@@ -53,6 +53,8 @@
     "editorCodeLens.foreground": "#a8998490",
     "editorCursor.background": "#1B1C1D",
     "editorCursor.foreground": "#fe8019",
+    "terminalCursor.background": "#1B1C1D",
+    "terminalCursor.foreground": "#fe8019",
     "editorError.foreground": "#cc241d",
     "editorGroup.border": "#ffffff10",
     "editorGroup.dropBackground": "#3c383660",

@@ -42,6 +42,8 @@
     "editor.wordHighlightTextBackground": "#e3b70740",
     "editorCursor.background": "#12181F",
     "editorCursor.foreground": "#b58900",
+    "terminalCursor.background": "#12181F",
+    "terminalCursor.foreground": "#b58900",
     "editorGroup.border": "#85858520",
     "editorGroup.dropBackground": "#2aa19844",
     "editorGroup.dropIntoPromptBorder": "#222f42",
