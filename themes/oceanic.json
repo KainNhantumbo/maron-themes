@@ -37,9 +37,6 @@
     "editor.wordHighlightTextBackground": "#99dc9e20",
     "editorCursor.background": "#141d26",
     "editorCursor.foreground": "#99dc9e",
-    "terminalCursor.background": "#141d26",
-    "terminalCursor.foreground": "#99dc9e",
-    "terminalOverviewRuler.cursorForeground": "#99dc9e",
     "editorGroup.border": "#85858520",
     "editorGroupHeader.noTabsBackground": "#141d26",
     "editorGroupHeader.tabsBackground": "#141d26",
@@ -147,6 +144,12 @@
     "tab.inactiveForeground": "#839496",
     "terminal.border": "#586e7540",
     "terminal.tab.activeBorder": "#99dc9e",
+    "terminalCommandDecoration.defaultBackground": "#99dc9e",
+    "terminalCommandDecoration.errorBackground": "#ec5f67",
+    "terminalCommandDecoration.successBackground": "#6699CC",
+    "terminalCursor.background": "#141d26",
+    "terminalCursor.foreground": "#99dc9e",
+    "terminalOverviewRuler.cursorForeground": "#99dc9e",
     "textBlockQuote.background": "#10151B",
     "textBlockQuote.border": "#99dc9e",
     "textCodeBlock.background": "#10151B",
@@ -163,7 +166,9 @@
     "widget.border": "#99dc9e60",
     "widget.shadow": "#141d2600"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Oceanic",
   "semanticHighlighting": true,
   "tokenColors": [

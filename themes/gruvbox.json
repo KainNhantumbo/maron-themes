@@ -53,8 +53,6 @@
     "editorCodeLens.foreground": "#a8998490",
     "editorCursor.background": "#1B1C1D",
     "editorCursor.foreground": "#fe8019",
-    "terminalCursor.background": "#1B1C1D",
-    "terminalCursor.foreground": "#fe8019",
     "editorError.foreground": "#cc241d",
     "editorGroup.border": "#ffffff10",
     "editorGroup.dropBackground": "#3c383660",
@@ -254,6 +252,11 @@
     "terminal.foreground": "#ebdbb2",
     "terminal.inactiveSelectionBackground": "#3a3d41",
     "terminal.tab.activeBorder": "#689d6a",
+    "terminalCommandDecoration.defaultBackground": "#689d6a",
+    "terminalCommandDecoration.errorBackground": "#cc241d",
+    "terminalCommandDecoration.successBackground": "#98971a",
+    "terminalCursor.background": "#1B1C1D",
+    "terminalCursor.foreground": "#fe8019",
     "textBlockQuote.background": "#141414",
     "textBlockQuote.border": "#689d6a",
     "textCodeBlock.background": "#141414",
@@ -842,8 +845,8 @@
     {
       "scope": "markup.underline.link",
       "settings": {
-        "foreground": "#d3869b",
-        "fontStyle": "underline"
+        "fontStyle": "underline",
+        "foreground": "#d3869b"
       }
     },
     {

@@ -6,7 +6,8 @@ All changes to the "Maron Themes" extension will be documented here.
 
 - ✨ Added Maron Origins Pro Theme (an original maron theme, and the final one), only true hackers are allowed to code using this theme, I do not recommend it for babies 🤣🤣.
 - ✨ Added "text code block", "text quote" and "link" custom colors to power consistency (e.g. affects the markdown editor previewer).
-- 🔨 Fixed found cursor foreground color issues.
+- 🔨 Fixed cursor color mismatches between the editor and
+terminal.
 - 🔨 Redesigned the logo to meet the current standards.
 
 #### 2.2.2 `🪄 "The Fixer Magic Wand" Update`
