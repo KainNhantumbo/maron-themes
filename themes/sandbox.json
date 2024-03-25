@@ -730,7 +730,7 @@
       "name": "markup.heading.markdown",
       "scope": ["markup.heading.markdown"],
       "settings": {
-        "foreground": "#b3e8b4",
+        "foreground": "#b3e8b4"
       }
     },
     {
@@ -761,6 +761,16 @@
       "scope": ["meta.paragraph.markdown"],
       "settings": {
         "foreground": "#e5e5e5"
+      }
+    },
+    {
+      "name": "Markdown - Fenced Code Block Variable",
+      "scope": [
+        "markup.fenced_code.block.markdown",
+        "markup.inline.raw.string.markdown"
+      ],
+      "settings": {
+        "foreground": "#A390FF"
       }
     },
     {

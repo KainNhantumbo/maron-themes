@@ -28,6 +28,10 @@
     "checkbox.border": "#DCDCAA30",
     "checkbox.selectBackground": "#141414",
     "debugExceptionWidget.background": "#141414",
+    "editorInlayHint.background": "#141414",
+    "notebook.editorBackground": "#141414",
+    "commandCenter.background": "#141414",
+    "outputView.background": "#141414",
     "debugToolBar.background": "#141414",
     "descriptionForeground": "#DCDCAAAA",
     "diffEditor.unchangedRegionShadow": "#00000000",
@@ -227,9 +231,7 @@
     "widget.border": "#DCDCAA30",
     "widget.shadow": "#00000000"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Origins",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -298,10 +300,7 @@
       }
     },
     {
-      "scope": [
-        "entity.name.tag.css",
-        "entity.name.tag.less"
-      ],
+      "scope": ["entity.name.tag.css", "entity.name.tag.less"],
       "settings": {
         "foreground": "#D7BA7D"
       }
@@ -409,10 +408,7 @@
       }
     },
     {
-      "scope": [
-        "meta.preprocessor",
-        "entity.name.function.preprocessor"
-      ],
+      "scope": ["meta.preprocessor", "entity.name.function.preprocessor"],
       "settings": {
         "foreground": "#569CD6"
       }
@@ -454,28 +450,20 @@
       }
     },
     {
-      "scope": [
-        "storage.modifier",
-        "keyword.operator.noexcept9"
-      ],
+      "scope": ["storage.modifier", "keyword.operator.noexcept9"],
       "settings": {
         "foreground": "#94A3B8"
       }
     },
     {
       "name": "async function",
-      "scope": [
-        "storage.modifier.async"
-      ],
+      "scope": ["storage.modifier.async"],
       "settings": {
         "foreground": "#8AAFAB"
       }
     },
     {
-      "scope": [
-        "string",
-        "meta.embedded.assembly"
-      ],
+      "scope": ["string", "meta.embedded.assembly"],
       "settings": {
         "foreground": "#CE9178"
       }
@@ -509,9 +497,7 @@
       }
     },
     {
-      "scope": [
-        "meta.template.expression"
-      ],
+      "scope": ["meta.template.expression"],
       "settings": {
         "foreground": "#D4D4D4"
       }
@@ -696,18 +682,13 @@
       }
     },
     {
-      "scope": [
-        "variable.other.constant",
-        "variable.other.enummember"
-      ],
+      "scope": ["variable.other.constant", "variable.other.enummember"],
       "settings": {
         "foreground": "#CB7676"
       }
     },
     {
-      "scope": [
-        "meta.object-literal.key"
-      ],
+      "scope": ["meta.object-literal.key"],
       "settings": {
         "foreground": "#DCDCAAAA"
       }
@@ -752,10 +733,7 @@
       }
     },
     {
-      "scope": [
-        "keyword.operator.or.regexp",
-        "keyword.control.anchor.regexp"
-      ],
+      "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
       "settings": {
         "foreground": "#DCDCAA"
       }
@@ -767,10 +745,7 @@
       }
     },
     {
-      "scope": [
-        "constant.character",
-        "constant.other.option"
-      ],
+      "scope": ["constant.character", "constant.other.option"],
       "settings": {
         "foreground": "#569CD6"
       }
@@ -827,9 +802,7 @@
     },
     {
       "name": "Import meta",
-      "scope": [
-        "meta.import"
-      ],
+      "scope": ["meta.import"],
       "settings": {
         "foreground": "#DCDCAA"
       }

@@ -793,6 +793,16 @@
       "settings": {
         "foreground": "#9E7BB0"
       }
+    },
+    {
+      "name": "Markdown - Fenced Code Block Variable",
+      "scope": [
+        "markup.fenced_code.block.markdown",
+        "markup.inline.raw.string.markdown"
+      ],
+      "settings": {
+        "foreground": "#9E7BB0"
+      }
     }
   ],
   "type": "dark"

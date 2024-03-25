@@ -806,7 +806,7 @@
       "name": "Heading",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#e7c664",
+        "foreground": "#e7c664"
       }
     },
     {
@@ -1615,6 +1615,16 @@
       "scope": "source.jinja2 variable.other.jinja2.block",
       "settings": {
         // "name": "jinja2 variable block",
+        "foreground": "#9ed072"
+      }
+    },
+    {
+      "name": "Markdown - Fenced Bode Block Variable",
+      "scope": [
+        "markup.fenced_code.block.markdown",
+        "markup.inline.raw.string.markdown"
+      ],
+      "settings": {
         "foreground": "#9ed072"
       }
     },

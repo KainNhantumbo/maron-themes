@@ -82,14 +82,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Maron Themes: Cappuccino",
-        "uiTheme": "vs-dark",
-        "path": "./themes/catppuccin.json"
-      },
-      {
         "label": "Maron Themes: Beyond The Fog",
         "uiTheme": "vs-dark",
         "path": "./themes/vitesse.json"
+      },
+      {
+        "label": "Maron Themes: Cappuccino",
+        "uiTheme": "vs-dark",
+        "path": "./themes/catppuccin.json"
       },
       {
         "label": "Maron Themes: Celeste",
@@ -102,19 +102,14 @@
         "path": "./themes/fleet.json"
       },
       {
-        "label": "Maron Themes: Colorful Sweets Park",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sonokai.json"
-      },
-      {
         "label": "Maron Themes: Code Heroes Summoner",
         "uiTheme": "vs-dark",
         "path": "./themes/code.json"
       },
       {
-        "label": "Maron Themes: Scary Monsters Forest",
+        "label": "Maron Themes: Colorful Sweets Park",
         "uiTheme": "vs-dark",
-        "path": "./themes/forest.json"
+        "path": "./themes/sonokai.json"
       },
       {
         "label": "Maron Themes: Crafter Materials",
@@ -145,6 +140,11 @@
         "label": "Maron Themes: Imortal Dracula",
         "uiTheme": "vs-dark",
         "path": "./themes/dracula.json"
+      },
+      {
+        "label": "Maron Themes: Scary Monsters Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest.json"
       },
       {
         "label": "Maron Themes: Kanagawa Legends",

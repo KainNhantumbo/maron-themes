@@ -578,6 +578,16 @@
       }
     },
     {
+      "name": "Markdown - Fenced Code Block Variable",
+      "scope": [
+        "markup.fenced_code.block.markdown",
+        "markup.inline.raw.string.markdown"
+      ],
+      "settings": {
+        "foreground": "#6796E6"
+      }
+    },
+    {
       "name": "Export, Default",
       "scope": [
         "keyword.control.export",

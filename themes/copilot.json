@@ -703,6 +703,16 @@
       }
     },
     {
+      "name": "Markdown - Fenced Code Block Variable",
+      "scope": [
+        "markup.fenced_code.block.markdown",
+        "markup.inline.raw.string.markdown"
+      ],
+      "settings": {
+        "foreground": "#FFEA6B"
+      }
+    },
+    {
       "name": "Export, Default",
       "scope": [
         "keyword.control.export",
