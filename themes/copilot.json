@@ -130,7 +130,13 @@
     "tab.unfocusedHoverBackground": "#1a2023",
     "terminal.border": "#c5e4fd20",
     "terminal.tab.activeBorder": "#ffea6b",
+    "textBlockQuote.background": "#181818",
+    "textBlockQuote.border": "#ffea6b",
+    "textCodeBlock.background": "#181818",
+    "textLink.activeForeground": "#ffea6b",
     "textLink.foreground": "#89ddff",
+    "textPreformat.background": "#181818",
+    "textPreformat.foreground": "#ffea6b",
     "titleBar.activeBackground": "#1a2023",
     "titleBar.activeForeground": "#c5e4fdaa",
     "titleBar.border": "#00000000",
@@ -550,8 +556,8 @@
     {
       "scope": ["markup.quote punctuation.definition.blockquote.markdown"],
       "settings": {
-        "foreground": "#939DA5",
-        "fontStyle": "italic"
+        "fontStyle": "italic",
+        "foreground": "#939DA5"
       }
     },
     {

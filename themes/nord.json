@@ -289,12 +289,13 @@
     "terminal.background": "#181d28",
     "terminal.foreground": "#c8ced9",
     "terminal.tab.activeBorder": "#88c0d0",
-    "textBlockQuote.background": "#181d28",
-    "textBlockQuote.border": "#81a1c1",
-    "textCodeBlock.background": "#4c566a",
-    "textLink.activeForeground": "#88c0d0",
+    "textBlockQuote.background": "#080d18",
+    "textBlockQuote.border": "#88c0d0",
+    "textCodeBlock.background": "#080d18",
+    "textLink.activeForeground": "#b48ead",
     "textLink.foreground": "#88c0d0",
-    "textPreformat.foreground": "#8fbcbb",
+    "textPreformat.background": "#080d18",
+    "textPreformat.foreground": "#b48ead",
     "textSeparator.foreground": "#eceff4",
     "titleBar.activeBackground": "#181d28",
     "titleBar.activeForeground": "#88c0d0bb",
@@ -1154,7 +1155,8 @@
       "name": "[Markdown] Markup Link",
       "scope": "text.html.markdown markup.underline.link",
       "settings": {
-        "fontStyle": "underline"
+        "fontStyle": "underline",
+        "foreground": "#b48ead"
       }
     },
     {

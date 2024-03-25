@@ -164,10 +164,13 @@
     "terminal.foreground": "#abb2bf",
     "terminal.selectionBackground": "#abb2bf30",
     "terminal.tab.activeBorder": "#61afef",
-    "textBlockQuote.background": "#2e3440",
-    "textBlockQuote.border": "#4b5362",
+    "textBlockQuote.background": "#181A1E",
+    "textBlockQuote.border": "#61afef",
+    "textCodeBlock.background": "#181A1E",
+    "textLink.activeForeground": "#9A8BE5",
     "textLink.foreground": "#61afef",
-    "textPreformat.foreground": "#d19a66",
+    "textPreformat.background": "#181A1E",
+    "textPreformat.foreground": "#61afef",
     "titleBar.activeBackground": "#21252b",
     "titleBar.activeForeground": "#9da5b4",
     "titleBar.inactiveBackground": "#21252b",
@@ -180,9 +183,7 @@
     "widget.border": "#343f44",
     "widget.shadow": "#ff000000"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Atom",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -340,8 +341,8 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#5c6370",
-        "fontStyle": "underline"
+        "fontStyle": "underline",
+        "foreground": "#5c6370"
       }
     },
     {
@@ -1031,7 +1032,7 @@
       "name": "Headings",
       "scope": "markup.heading",
       "settings": {
-        "foreground": "#ef596f",
+        "foreground": "#ef596f"
       }
     },
     {
@@ -1052,32 +1053,32 @@
       "name": "Bold",
       "scope": "markup.bold,todo.bold",
       "settings": {
-        "foreground": "#d19a66",
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "foreground": "#d19a66"
       }
     },
     {
       "name": "Bold",
       "scope": "punctuation.definition.bold",
       "settings": {
-        "foreground": "#e5c07b",
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "foreground": "#e5c07b"
       }
     },
     {
       "name": "markup Italic",
       "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
       "settings": {
-        "foreground": "#9A8BE5",
-        "fontStyle": "italic"
+        "fontStyle": "italic",
+        "foreground": "#9A8BE5"
       }
     },
     {
       "name": "emphasis md",
       "scope": "emphasis md",
       "settings": {
-        "foreground": "#9A8BE5",
-        "fontStyle": "italic"
+        "fontStyle": "italic",
+        "foreground": "#9A8BE5"
       }
     },
     {

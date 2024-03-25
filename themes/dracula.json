@@ -229,6 +229,13 @@
     "terminal.background": "#222530",
     "terminal.foreground": "#E8E8E2",
     "terminal.tab.activeBorder": "#BD93F9",
+    "textBlockQuote.background": "#181A21",
+    "textBlockQuote.border": "#BD93F9",
+    "textCodeBlock.background": "#181A21",
+    "textLink.activeForeground": "#FF92DF",
+    "textLink.foreground": "#8BE9FD",
+    "textPreformat.background": "#181A21",
+    "textPreformat.foreground": "#BD93F9",
     "titleBar.activeBackground": "#222530",
     "titleBar.activeForeground": "#95A5D7",
     "titleBar.inactiveBackground": "#222530",
@@ -375,7 +382,7 @@
       "name": "Markup headings",
       "scope": ["markup.heading"],
       "settings": {
-        "foreground": "#BD93F9",
+        "foreground": "#BD93F9"
       }
     },
     {

@@ -178,8 +178,8 @@
     "statusBar.debuggingForeground": "#12181F",
     "statusBar.foreground": "#839496",
     "statusBar.noFolderBackground": "#12181F",
-    "statusBarItem.hoverBackground": "#12181FAA",
     "statusBarItem.compactHoverBackground": "#12181F",
+    "statusBarItem.hoverBackground": "#12181FAA",
     "statusBarItem.hoverForeground": "#2AA198",
     "statusBarItem.remoteBackground": "#2AA198",
     "statusBarItem.remoteForeground": "#000",
@@ -213,6 +213,13 @@
     "terminal.foreground": "#839496",
     "terminal.selectionBackground": "#586e7599",
     "terminal.tab.activeBorder": "#196E6C",
+    "textBlockQuote.background": "#0A1114",
+    "textBlockQuote.border": "#2AA198",
+    "textCodeBlock.background": "#0A1114",
+    "textLink.activeForeground": "#2AA198",
+    "textLink.foreground": "#268bd2",
+    "textPreformat.background": "#0A1114",
+    "textPreformat.foreground": "#2AA198",
     "titleBar.activeBackground": "#12181F",
     "titleBar.activeForeground": "#839496",
     "titleBar.inactiveBackground": "#12181F",
@@ -648,6 +655,13 @@
       ],
       "settings": {
         "foreground": "#C54433"
+      }
+    },
+    {
+      "name": "Markdown - Fenced Code Block Variable",
+      "scope": ["markup.inline.raw.string.markdown"],
+      "settings": {
+        "foreground": "#268bd2"
       }
     },
     {

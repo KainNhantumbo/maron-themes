@@ -413,11 +413,12 @@
     "testing.iconSkipped": "#d699b6",
     "testing.iconUnset": "#dbbc7f",
     "testing.runAction": "#83c092",
-    "textBlockQuote.background": "#272e33",
-    "textBlockQuote.border": "#475258",
-    "textCodeBlock.background": "#272e33",
-    "textLink.activeForeground": "#a7c080c0",
+    "textBlockQuote.background": "#0F1615",
+    "textBlockQuote.border": "#83c092",
+    "textCodeBlock.background": "#0F1615",
+    "textLink.activeForeground": "#d699b6",
     "textLink.foreground": "#a7c080",
+    "textPreformat.background": "#0F1615",
     "textPreformat.foreground": "#dbbc7f",
     "titleBar.activeBackground": "#141F1D",
     "titleBar.activeForeground": "#9aa79d",
@@ -431,9 +432,7 @@
     "widget.border": "#343f4480",
     "widget.shadow": "#00000000"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Forest",
   "semanticHighlighting": true,
   "semanticTokenColors": {

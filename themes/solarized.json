@@ -216,6 +216,13 @@
     "terminal.selectionBackground": "#586e7599",
     "terminal.tab.activeBorder": "#38BBB0",
     "terminalCursor.foreground": "#38BBB0",
+    "textBlockQuote.background": "#0A1114",
+    "textBlockQuote.border": "#38BBB0",
+    "textCodeBlock.background": "#0A1114",
+    "textLink.activeForeground": "#38BBB0",
+    "textLink.foreground": "#268bd2",
+    "textPreformat.background": "#0A1114",
+    "textPreformat.foreground": "#38BBB0",
     "titleBar.activeBackground": "#0D1A20",
     "titleBar.activeForeground": "#516E7A",
     "titleBar.inactiveBackground": "#0D1A20",
@@ -312,6 +319,13 @@
       ],
       "settings": {
         "foreground": "#586e75"
+      }
+    },
+    {
+      "name": "Markdown - Fenced Code Block Variable",
+      "scope": ["markup.inline.raw.string.markdown"],
+      "settings": {
+        "foreground": "#268bd2"
       }
     },
     {
