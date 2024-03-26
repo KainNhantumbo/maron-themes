@@ -82,6 +82,8 @@
     "list.highlightForeground": "#99dc9e",
     "list.hoverBackground": "#4a596160",
     "list.inactiveSelectionBackground": "#99dc9e20",
+    "list.inactiveSelectionForeground": "#99dc9e",
+    "list.inactiveSelectionIconForeground": "#99dc9e",
     "menu.background": "#141d26",
     "menu.border": "#343d46",
     "menu.selectionBackground": "#343d46",

@@ -128,6 +128,8 @@
     "list.highlightForeground": "#38BBB0",
     "list.hoverBackground": "#07364260",
     "list.inactiveSelectionBackground": "#07364260",
+    "list.inactiveSelectionForeground": "#38BBB0",
+    "list.inactiveSelectionIconForeground": "#38BBB0",
     "menu.background": "#0D1A20",
     "menu.border": "#516E7A60",
     "menu.foreground": "#516E7A",

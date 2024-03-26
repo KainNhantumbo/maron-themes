@@ -87,6 +87,8 @@
     "list.dropBackground": "#383b3d",
     "list.hoverBackground": "#38383890",
     "list.inactiveSelectionBackground": "#83D6C520",
+    "list.inactiveSelectionForeground": "#83D6C5",
+    "list.inactiveSelectionIconForeground": "#83D6C5",
     "menu.background": "#181818",
     "menu.border": "#414550e0",
     "menu.foreground": "#cccccc",

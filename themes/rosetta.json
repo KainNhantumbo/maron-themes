@@ -142,6 +142,8 @@
     "list.highlightForeground": "#e965a5",
     "list.hoverBackground": "#50486533",
     "list.inactiveSelectionBackground": "#383348ff",
+    "list.inactiveSelectionForeground": "#e965a5",
+    "list.inactiveSelectionIconForeground": "#e965a5",
     "list.warningForeground": "#ebde76ff",
     "listFilterWidget.shadow": "#00000000",
     "menu.border": "#414550e0",

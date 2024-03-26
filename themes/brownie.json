@@ -92,6 +92,8 @@
     "list.hoverBackground": "#44475a75",
     "list.hoverForeground": "#f8f8f2",
     "list.inactiveSelectionBackground": "#44475a75",
+    "list.inactiveSelectionForeground": "#fac863",
+    "list.inactiveSelectionIconForeground": "#fac863",
     "list.warningForeground": "#f8f8f2",
     "menu.background": "#20232a",
     "menu.border": "#c5a5c520",

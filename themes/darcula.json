@@ -60,6 +60,8 @@
     "list.hoverBackground": "#BFD5DE10",
     "list.hoverForeground": "#98C2CA",
     "list.inactiveSelectionBackground": "#BFD5DE10",
+    "list.inactiveSelectionForeground": "#7A9769",
+    "list.inactiveSelectionIconForeground": "#7A9769",
     "listFilterWidget.shadow": "#ff000000",
     "menu.background": "#202020",
     "menu.border": "#BFD5DE18",
