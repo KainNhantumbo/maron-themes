@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/KainNhantumbo/maron-themes" alt="Mozambique Message">
+    <a href="https://github.com/KainNhantumbo/maron-themes" alt="Mozambique Developer Message">
         <img src="https://img.shields.io/badge/ FROM-🇲🇿MOZAMBIQUE%20WITH%20LOVE-red?style=for-the-badge&labelColor=066767&color=f0134d" /></a>
 </p>
 
@@ -19,8 +19,9 @@
 </p>
 
 > 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
-
-A set of themes that contains consistent highlighting. Each theme uses no or less italics, underscores, bold, etc. for code and editor.
+>
+>This is a pack of themes that contains consistent highlighting and **UI Look n' Feel** for coding and markdown editing.\
+>Each theme uses no or less italics, underscores, bold, etc. (leaving only what needed for semantic purposes) for code and editor.
 
 I designed all themes to be compatible with blur or window transparency effects that you can get using vibrancy or [vscode-blur-linux](https://marketplace.visualstudio.com/items?itemName=mhabrar.vscode-blur-linux) (makes the vscode background blurry in KDE Plasma linux distros).
 
@@ -29,25 +30,26 @@ I designed all themes to be compatible with blur or window transparency effects 
 Feel free use, reuse and fork.\
 Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https://github.com/KainNhantumbo/maron-themes)
 
-You can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
+Also, you can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
+> This project is currently receiving weekly updates and patches, you really don't want to miss out!
 
->🪁 **Just a slice of 28 colorful theme flavors! I bet you will like it.**
+> 🪁 **Just a slice of 28 colorful theme flavors! I bet you will like it.**
+
+<figure align="center">
+
+![](./previews/Screenshot_Maron-Origins-Pro.png)
+
+<figcaption align="center">Maron Origins Pro! (ORIGINAL PALETTE)</figcaption>
+</figure>
 
 <figure align="center">
 
 ![](./previews/Screenshot_Solarized.png)
 
-<figcaption align="center">Maron Solarized Planets!</figcaption>
-</figure>
-<figure align="center">
-
-![](./previews/Screenshot_Maron-Origins-Pro.png)
-
-<figcaption align="center">Maron Origins Pro! (ORIGINAL)</figcaption>
+<figcaption align="center">Maron Solarized Planets! (SOLARIZED PALETTE)</figcaption>
 </figure>
 
-
-### 🚀 Installation
+## 🚀 Installation
 
 👏 Launch Quick Open:
 
@@ -69,7 +71,7 @@ ext install KainNhantumbo.maron-themes
 
 Type **_theme_**, choose `Preferences: Color Theme`, and select one of the **Maron Themes** variants from the list. Well done!
 
-### ⛵ Override Theme Colors
+## ⛵ Override Theme Colors
 
 You can override the **Maron Themes** and schemes colors by adding theme-specific settings to your configuration. For advanced customisation please check the relative section on the [VS Code documentation](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme).
 
@@ -77,8 +79,8 @@ Recommended settings I use for better experience:
 
 ```json
 {
-  // Controls the font family (you can get it on https://nerdfonts.com).
-  "editor.fontFamily": "MesloLGL Nerd Font Mono",
+  // Controls the font family (you can get this font on https://nerdfonts.com).
+  "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
   // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
   "editor.lineHeight": 24,
   // Enables font ligatures
@@ -137,15 +139,18 @@ Something's missing? Create Issues so that I can make the each theme compatible 
 
 ## ☘️ Find me!
 
-E-mail: [nhantumbok@gmail.com](nhantumbok@gmail.com 'Send an e-mail')\
-Github: [https://github.com/KainNhantumbo](https://github.com/KainNhantumbo 'See my github profile')
-Portfolio: [https://codenut-dev.vercel.app/en/](https://codenut-dev.vercel.app/en/ 'See my portfolio website')\
-My Blog: [https://codenut-dev.vercel.app/en/blog](https://codenut-dev.vercel.app/en/blog 'Visit my blog site')
+**E-mail:** [nhantumbok@gmail.com](nhantumbok@gmail.com 'Send an e-mail')\
+**Github:** [https://github.com/KainNhantumbo](https://github.com/KainNhantumbo 'See my github profile')\
+**Portfolio:** [https://codenut-dev.vercel.app/en](https://codenut-dev.vercel.app/en 'See my portfolio website')\
+**My Blog:**[https://codenut-dev.vercel.app/en/blog](https://codenut-dev.vercel.app/en/blog 'Visit my blog site')
 
-#### If you like this project, let me know by leaving a star on this repository so I can keep improving this extension.😊😘
+**If you like this project, let me know by leaving a star on this repository so I can keep improving this extension.😊😘**
 
 Best regards, Kain Nhantumbo.\
 ✌️🇲🇿 **Made for Visual Studio Code**
+
+## 🎒 Changelog
+See all changes documented on this awesome changelog right [here](./CHANGELOG.md).
 
 ## 📜 License
 
