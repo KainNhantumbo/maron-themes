@@ -20,7 +20,7 @@
 
 > 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
 >
->This is a pack of themes that contains consistent highlighting and **UI Look n' Feel** for coding and markdown editing.\
+>This is a pack of themes that contains consistent highlighting and better  **UI Look n' Feel** for coding and markdown editing.\
 >Each theme uses no or less italics, underscores, bold, etc. (leaving only what needed for semantic purposes) for code and editor.
 
 I designed all themes to be compatible with blur or window transparency effects that you can get using vibrancy or [vscode-blur-linux](https://marketplace.visualstudio.com/items?itemName=mhabrar.vscode-blur-linux) (makes the vscode background blurry in KDE Plasma linux distros).

@@ -269,19 +269,21 @@
     {
       "scope": "markup.italic",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "italic",
+        "foreground": "#79B6F2"
       }
     },
     {
       "scope": "markup.bold",
       "settings": {
-        "fontStyle": "bold"
+        "fontStyle": "bold",
+        "foreground": "#FAC863"
       }
     },
     {
       "scope": "markup.quote",
       "settings": {
-        "fontStyle": "italic"
+        "foreground": "#FC929E"
       }
     },
     {

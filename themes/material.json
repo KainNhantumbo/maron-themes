@@ -736,15 +736,8 @@
       "name": "Markdown - Blockquote",
       "scope": ["markup.quote punctuation.definition.blockquote.markdown"],
       "settings": {
-        "foreground": "#65737E"
-        // "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Markup - Quote",
-      "scope": ["markup.quote"],
-      "settings": {
-        "fontStyle": "italic"
+        "foreground": "#65737E",
+        "fontStyle": ""
       }
     },
     {

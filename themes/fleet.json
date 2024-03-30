@@ -1708,7 +1708,6 @@
     {
       "scope": "markup.quote",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#6D6D6D"
       }
     },

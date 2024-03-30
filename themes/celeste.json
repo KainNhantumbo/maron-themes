@@ -1861,7 +1861,6 @@
     {
       "scope": "markup.quote.markdown",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#7F848E"
       }
     },
