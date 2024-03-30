@@ -851,6 +851,13 @@
       }
     },
     {
+      "name": "This keyword",
+      "scope": "variable.language.this, meta.block, meta.method.declaration,meta.class",
+      "settings": {
+        "foreground": "#c0768e"
+      }
+    },
+    {
       "name": "Number, Boolean, Undefined, Null",
       "scope": [
         "punctuation.definition.constant",

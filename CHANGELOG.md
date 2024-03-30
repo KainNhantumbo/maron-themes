@@ -2,9 +2,14 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 2.3.1
+
+- 🔨 Removed unnecessary italicization from
+  markdown quotes remained in some themes.
+
 #### 2.3.0 `⛳🪁 "The End of Fantasy is Near" Update`
 
-- ✨ Added Maron Origins Pro Theme (an original maron theme, and the final one), only true hackers are allowed to code using this theme, I do not recommend it for babies 🤣🤣.
+- ✨ Added Maron Origins Pro Theme (an original maron theme, and the final one), only true hackers are allowed to code using this theme, I do not recommend it for enthusiasts 🤣🤣.
 - ✨ Added "text code block", "text quote" and "link" custom colors to power consistency (e.g. affects the markdown editor previewer).
 - ✨ Added "terminalCommandDecoration" custom colors (inferred from the theme palette) for each theme accordingly to enhance consistency.
 - ✨ Added custom colors for inactive lists foreground and icon foreground.
@@ -45,7 +50,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 - 🔨 Removed all screenshots (but one left), to reduce the packaged extension size.
 
-#### 2.0.0 `🦸 The Prime Edition`
+### 2.0.0 `🦸 The Prime Edition Update`
 
 - ✨ Added Maron Darcula Imortal Theme (based on Dracula Theme).
 - ✨ Improved overall appearance and accessability of the welcome page components.
@@ -159,7 +164,7 @@ All changes to the "Maron Themes" extension will be documented here.
 - ✨ Enhanced Maron Solarized Theme colors.
 - 🔨 Fixed some inconsistences between color schemes.
 
-### 1.0.0 `🐛 First stable`
+### 1.0.0 `🐛 First stable Release (The Minion Update)`
 
 - 🔨 Fixed some inconsistences between color schemes.
 - 💥 Removed Monokai theme in favor of Sonokai.
@@ -170,6 +175,6 @@ All changes to the "Maron Themes" extension will be documented here.
 - 🔨 Fix various issues related to markdown files.
 - ✨ New widget, terminal, panel and tab colors for each theme.
 
-#### 0.0.1 `🐛 First release`
+#### 0.0.1 `🐛 First Release`
 
 - ✨ Initial release.
