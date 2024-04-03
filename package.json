@@ -40,6 +40,8 @@
     "monokai",
     "dracula",
     "drakula",
+    "flat",
+    "collection",
     "night owl",
     "owl",
     "atom",
@@ -100,7 +102,7 @@
         "path": "./themes/celeste.json"
       },
       {
-        "id": "JetBrains Fleet Theme",
+        "id": "Fleet Theme",
         "label": "Maron Theme: Choco & Mint",
         "uiTheme": "vs-dark",
         "path": "./themes/fleet.json"
@@ -244,7 +246,7 @@
         "path": "./themes/slime.json"
       },
       {
-        "id": "JetBrains Darcula Theme",
+        "id": "Darcula Theme",
         "label": "Maron Theme: Unfair Deadly Spikes",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"

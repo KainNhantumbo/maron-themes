@@ -4,6 +4,9 @@ All changes to the "Maron Themes" extension will be documented here.
 
 #### 2.3.2
 - ✨ Remixed some colors of solarized classic theme for better appearance.
+- 🔨 Added id as a custom description for each
+theme.
+- 🔨 "Celeste Theme" changed to "Moon Stars Theme" (name only).
 
 #### 2.3.1
 
