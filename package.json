@@ -82,142 +82,170 @@
   "contributes": {
     "themes": [
       {
-        "label": "Maron Themes: Beyond The Fog",
+        "id": "Vitesse Theme",
+        "label": "Maron Theme: Beyond The Fog",
         "uiTheme": "vs-dark",
         "path": "./themes/vitesse.json"
       },
       {
-        "label": "Maron Themes: Cappuccino",
+        "id": "Catppuccin Theme",
+        "label": "Maron Theme: Cappuccino",
         "uiTheme": "vs-dark",
         "path": "./themes/catppuccin.json"
       },
       {
-        "label": "Maron Themes: Celeste",
+        "id": "Celeste + Tailwind Theme",
+        "label": "Maron Theme: Moon Stars",
         "uiTheme": "vs-dark",
         "path": "./themes/celeste.json"
       },
       {
-        "label": "Maron Themes: Choco & Mint",
+        "id": "JetBrains Fleet Theme",
+        "label": "Maron Theme: Choco & Mint",
         "uiTheme": "vs-dark",
         "path": "./themes/fleet.json"
       },
       {
-        "label": "Maron Themes: Code Heroes Summoner",
+        "id": "Dark Modern Theme",
+        "label": "Maron Theme: Code Heroes Summoner",
         "uiTheme": "vs-dark",
         "path": "./themes/code.json"
       },
       {
-        "label": "Maron Themes: Colorful Sweets Park",
+        "id": "Sonokai Theme",
+        "label": "Maron Theme: Colorful Sweets Park",
         "uiTheme": "vs-dark",
         "path": "./themes/sonokai.json"
       },
       {
-        "label": "Maron Themes: Crafter Materials",
+        "id": "Material Theme",
+        "label": "Maron Theme: Crafter Materials",
         "uiTheme": "vs-dark",
         "path": "./themes/material.json"
       },
       {
-        "label": "Maron Themes: Garden of Roses",
+        "id": "Material + HardHacker Theme",
+        "label": "Maron Theme: Garden of Roses",
         "uiTheme": "vs-dark",
         "path": "./themes/rosetta.json"
       },
       {
-        "label": "Maron Themes: Github Hidden Dungeon",
+        "id": "Github Default Theme",
+        "label": "Maron Theme: Github Hidden Dungeon",
         "uiTheme": "vs-dark",
         "path": "./themes/github.json"
       },
       {
-        "label": "Maron Themes: Groove Box Party",
+        "id": "Gruvbox Theme",
+        "label": "Maron Theme: Groove Box Party",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvbox.json"
       },
       {
-        "label": "Maron Themes: Hot Brownie",
+        "id": "React Theme",
+        "label": "Maron Theme: Hot Brownie",
         "uiTheme": "vs-dark",
         "path": "./themes/brownie.json"
       },
       {
-        "label": "Maron Themes: Imortal Dracula",
+        "id": "Dracula Theme",
+        "label": "Maron Theme: Imortal Dracula",
         "uiTheme": "vs-dark",
         "path": "./themes/dracula.json"
       },
       {
-        "label": "Maron Themes: Scary Monsters Forest",
+        "id": "Forest Theme",
+        "label": "Maron Theme: Scary Monsters Forest",
         "uiTheme": "vs-dark",
         "path": "./themes/forest.json"
       },
       {
-        "label": "Maron Themes: Kanagawa Legends",
+        "id": "Kanagawa Theme",
+        "label": "Maron Theme: Kanagawa Legends",
         "uiTheme": "vs-dark",
         "path": "./themes/kanagawa.json"
       },
       {
-        "label": "Maron Themes: Nordic Warriors",
+        "id": "Nord Theme",
+        "label": "Maron Theme: Nordic Warriors",
         "uiTheme": "vs-dark",
         "path": "./themes/nord.json"
       },
       {
-        "label": "Maron Themes: Oceanic Sharks Valley",
+        "id": "Oceanic Theme",
+        "label": "Maron Theme: Oceanic Sharks Valley",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic.json"
       },
       {
-        "label": "Maron Themes: One Prime Pro",
+        "id": "One Dark Pro Theme",
+        "label": "Maron Theme: One Prime Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/atom.json"
       },
       {
-        "label": "Maron Themes: Mountain Night Owls",
+        "id": "Night Owls Theme",
+        "label": "Maron Theme: Mountain Night Owls",
         "uiTheme": "vs-dark",
         "path": "./themes/owl.json"
       },
       {
-        "label": "Maron Themes: Brave Fox Waves",
+        "id": "Copilot Theme",
+        "label": "Maron Theme: Brave Fox Waves",
         "uiTheme": "vs-dark",
         "path": "./themes/copilot.json"
       },
       {
-        "label": "Maron Themes: Little Bottle Box",
+        "id": "Sand Box Theme",
+        "label": "Maron Theme: Little Bottle Box",
         "uiTheme": "vs-dark",
         "path": "./themes/sandbox.json"
       },
       {
-        "label": "Maron Themes: Maron Origins Pro (Original)",
+        "id": "Maron Original Theme",
+        "label": "Maron Theme: Maron Origins Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/origins.json"
       },
       {
-        "label": "Maron Themes: Stellar Angels",
+        "id": "Ayu Theme",
+        "label": "Maron Theme: Stellar Angels",
         "uiTheme": "vs-dark",
         "path": "./themes/solaris.json"
       },
       {
-        "label": "Maron Themes: Solarized Planets",
+        "id": "Solarized Theme",
+        "label": "Maron Theme: Solarized Planets",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized.json"
       },
       {
-        "label": "Maron Themes: Solarized Planets (Classic)",
+        "id": "Solarized Classic Theme",
+        "label": "Maron Theme: Solarized Planets",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic.json"
       },
       {
-        "label": "Maron Themes: Solarized Planets (Classic - \"Special Edition\")",
+        "id": "Solarized Classic Theme",
+        "label": "Maron Theme: Solarized Planets \"Special Edition\"",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic-special.json"
       },
       {
-        "label": "Maron Themes: Tokyo City Lights",
+        "id": "Tokyo Night Theme",
+        "label": "Maron Theme: Tokyo City Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-night.json"
       },
       {
-        "label": "Maron Themes: Undead Frost Slime",
+        "id": "Slime Theme",
+        "label": "Maron Theme: Undead Frost Slime",
         "uiTheme": "vs-dark",
         "path": "./themes/slime.json"
       },
       {
-        "label": "Maron Themes: Unfair Deadly Spikes",
+        "id": "JetBrains Darcula Theme",
+        "label": "Maron Theme: Unfair Deadly Spikes",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"
       }
