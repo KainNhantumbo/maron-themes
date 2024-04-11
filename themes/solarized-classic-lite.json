@@ -25,10 +25,17 @@
     "editorHoverWidget.background": "#0A1016",
     "editorLineNumber.activeForeground": "#93A1A1",
     "editorPane.background": "#0A1016",
+    "editorWidget.foreground": "#586E75",
     "focusBorder": "#93A1A140",
     "icon.foreground": "#586E75",
     "input.background": "#0A1016",
+    "list.activeSelectionBackground": "#586E7545",
+    "list.hoverBackground": "#586E7525",
+    "list.inactiveSelectionBackground": "#586E7525",
+    "list.inactiveSelectionForeground": "#93A1A1",
     "menu.background": "#0A1016",
+    "menu.foreground": "#586E75",
+    "menu.selectionBackground": "#586E7520",
     "notificationCenterHeader.background": "#0A1016",
     "notifications.background": "#0A1016",
     "panel.background": "#0A1016",
@@ -38,19 +45,24 @@
     "panelSection.border": "#586e7530",
     "panelSectionHeader.background": "#0A1016",
     "peekViewResult.background": "#0A1016",
+    "scrollbar.shadow": "#000000",
     "settings.checkboxBackground": "#0A1016",
     "settings.dropdownBackground": "#0A1016",
+    "settings.headerForeground": "#586E75",
+    "settings.modifiedItemIndicator": "#586E7590",
     "settings.numberInputBackground": "#0A1016",
     "settings.textInputBackground": "#0A1016",
     "sideBar.background": "#0A1016",
     "sideBar.border": "#586e7530",
     "sideBar.foreground": "#586E75",
     "sideBarSectionHeader.border": "#586e7530",
+    "sideBarTitle.foreground": "#93A1A1",
     "statusBar.background": "#0A1016",
     "statusBar.border": "#586e7530",
     "statusBar.foreground": "#586E75",
     "statusBarItem.compactHoverBackground": "#0A1016",
     "statusBarItem.hoverBackground": "#0A1016AA",
+    "statusBarItem.hoverForeground": "#93A1A1",
     "statusBarItem.remoteBackground": "#586E75",
     "tab.activeBorder": "#586e7500",
     "tab.activeBorderTop": "#586E75",
@@ -60,7 +72,9 @@
     "tab.inactiveForeground": "#586E75",
     "terminal.background": "#0A1016",
     "terminal.border": "#586e7530",
+    "titleBar.activeForeground": "#586E75",
     "titleBar.border": "#586e7530",
+    "titleBar.inactiveForeground": "#586E75",
     "widget.border": "#586e7530"
   },
   "include": "./solarized-classic.json",
@@ -132,10 +146,7 @@
     },
     {
       "name": "punctuation.accessor",
-      "scope": [
-        "punctuation.accessor",
-        "punctuation"
-      ],
+      "scope": ["punctuation.accessor", "punctuation"],
       "settings": {
         "foreground": "#586E75"
       }
@@ -186,18 +197,14 @@
     },
     {
       "name": "Meta import type keyword",
-      "scope": [
-        "keyword.control.type"
-      ],
+      "scope": ["keyword.control.type"],
       "settings": {
         "foreground": "#859900"
       }
     },
     {
       "name": "Import meta",
-      "scope": [
-        "meta.import"
-      ],
+      "scope": ["meta.import"],
       "settings": {
         "foreground": "#93A1A1"
       }
