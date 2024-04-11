@@ -17,6 +17,12 @@
     "button.hoverBackground": "#268bd2aa",
     "button.secondaryBackground": "#073642",
     "button.secondaryForeground": "#839496",
+    "charts.blue": "#2aa198",
+    "charts.green": "#859900",
+    "charts.orange": "#b58900",
+    "charts.purple": "#6c71c4",
+    "charts.red": "#dc322f",
+    "charts.yellow": "#FFCB6B",
     "checkbox.background": "#07364200",
     "checkbox.foreground": "#eee8d5bb",
     "debugExceptionWidget.background": "#0D1A20",
@@ -217,11 +223,11 @@
     "terminal.foreground": "#839496",
     "terminal.selectionBackground": "#586e7599",
     "terminal.tab.activeBorder": "#38BBB0",
-    "terminalCursor.background": "#0D1A20",
-    "terminalCursor.foreground": "#b58900",
     "terminalCommandDecoration.defaultBackground": "#38BBB0",
     "terminalCommandDecoration.errorBackground": "#dc322f",
     "terminalCommandDecoration.successBackground": "#9ad83e",
+    "terminalCursor.background": "#0D1A20",
+    "terminalCursor.foreground": "#b58900",
     "textBlockQuote.background": "#0A1114",
     "textBlockQuote.border": "#38BBB0",
     "textCodeBlock.background": "#0A1114",
@@ -239,7 +245,9 @@
     "widget.border": "#275662AA",
     "widget.shadow": "#0D1A2000"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Solarized Planets Legacy",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -329,13 +337,18 @@
     },
     {
       "name": "Markdown - Fenced Code Block Variable",
-      "scope": ["markup.inline.raw.string.markdown"],
+      "scope": [
+        "markup.inline.raw.string.markdown"
+      ],
       "settings": {
         "foreground": "#268bd2"
       }
     },
     {
-      "scope": ["invalid", "invalid.illegal"],
+      "scope": [
+        "invalid",
+        "invalid.illegal"
+      ],
       "settings": {
         "foreground": "#dc322f"
       }
@@ -451,7 +464,10 @@
       }
     },
     {
-      "scope": ["variable.function", "entity.name.function"],
+      "scope": [
+        "variable.function",
+        "entity.name.function"
+      ],
       "settings": {
         // Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.
         "foreground": "#268bd2"
@@ -538,7 +554,9 @@
     },
     {
       "name": "Markup Quote - Bold",
-      "scope": ["markup.quote markup.bold"],
+      "scope": [
+        "markup.quote markup.bold"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -576,7 +594,10 @@
       }
     },
     {
-      "scope": ["keyword.other.documentation.javadoc", "markup.bold"],
+      "scope": [
+        "keyword.other.documentation.javadoc",
+        "markup.bold"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -647,7 +668,10 @@
     },
     {
       "name": "Export, Default",
-      "scope": ["keyword.control.export", "keyword.control.default"],
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.default"
+      ],
       "settings": {
         "foreground": "#FC5B60"
       }
@@ -697,21 +721,29 @@
     },
     {
       "name": "Import meta",
-      "scope": ["meta.import"],
+      "scope": [
+        "meta.import"
+      ],
       "settings": {
         "foreground": "#9DBFCD"
       }
     },
     {
       "name": "punctuation.accessor",
-      "scope": ["punctuation.accessor", "punctuation"],
+      "scope": [
+        "punctuation.accessor",
+        "punctuation"
+      ],
       "settings": {
         "foreground": "#BFD5DE60"
       }
     },
     {
       "name": "Function arguments",
-      "scope": ["variable.parameter", "parameters variable.function"],
+      "scope": [
+        "variable.parameter",
+        "parameters variable.function"
+      ],
       "settings": {
         "fontStyle": "",
         "foreground": "#2aa198"
@@ -737,7 +769,9 @@
     },
     {
       "name": "Control keywords examples include if, try, end and while. Some syntaxes prefer to mark if and else with the conditional variant. The import variant is often used in appropriate situations.",
-      "scope": ["keyword.control"],
+      "scope": [
+        "keyword.control"
+      ],
       "settings": {
         "foreground": "#FC5B60"
       }
