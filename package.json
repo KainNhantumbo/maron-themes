@@ -216,25 +216,25 @@
         "path": "./themes/solaris.json"
       },
       {
-        "id": "Solarized Theme",
+        "id": "Solarized Planets Theme",
         "label": "Maron Theme: Solarized Planets",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized.json"
       },
       {
-        "id": "Solarized Classic Theme",
+        "id": "Solarized Planets Classic",
         "label": "Maron Theme: Solarized Planets",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic.json"
       },
       {
-        "id": "Solarized Classic Theme",
+        "id": "Solarized Planets Classic SE",
         "label": "Maron Theme: Solarized Planets \"Special Edition\"",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic-special.json"
       },
       {
-        "id": "Solarized Classic Theme",
+        "id": "Solarized Planets Classic LE",
         "label": "Maron Theme: Solarized Planets \"Lite Edition\"",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic-lite.json"

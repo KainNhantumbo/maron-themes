@@ -3,6 +3,7 @@
 All changes to the "Maron Themes" extension will be documented here.
 
 #### 2.3.2
+- ✨ Added new theme variant: Solarized Planets Classic "Lite Edition".
 - ✨ Remixed some colors of solarized classic theme for better appearance.
 - 🔨 Added id as a custom description for each
 theme.

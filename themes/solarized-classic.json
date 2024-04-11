@@ -42,8 +42,6 @@
     "editor.wordHighlightTextBackground": "#e3b70740",
     "editorCursor.background": "#12181F",
     "editorCursor.foreground": "#b58900",
-    "terminalCursor.background": "#12181F",
-    "terminalCursor.foreground": "#b58900",
     "editorGroup.border": "#85858520",
     "editorGroup.dropBackground": "#2aa19844",
     "editorGroup.dropIntoPromptBorder": "#222f42",
@@ -74,7 +72,7 @@
     "editorInlayHint.background": "#12181F",
     "editorInlayHint.foreground": "#586e75",
     "editorLineNumber.activeForeground": "#b58900",
-    "editorLineNumber.foreground": "#93A1A180",
+    "editorLineNumber.foreground": "#586E7590",
     "editorOverviewRuler.addedForeground": "#859900",
     "editorOverviewRuler.border": "#586e7500",
     "editorOverviewRuler.bracketMatchForeground": "#586e75",
@@ -220,6 +218,8 @@
     "terminalCommandDecoration.defaultBackground": "#196E6C",
     "terminalCommandDecoration.errorBackground": "#DC322F",
     "terminalCommandDecoration.successBackground": "#9ad83e",
+    "terminalCursor.background": "#12181F",
+    "terminalCursor.foreground": "#b58900",
     "textBlockQuote.background": "#0A1114",
     "textBlockQuote.border": "#2AA198",
     "textCodeBlock.background": "#0A1114",
@@ -237,7 +237,9 @@
     "widget.border": "#586e7540",
     "widget.shadow": "#12181F00"
   },
-  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "maintainers": [
+    "Kain Nhantumbo <nahantumbok@gmail.com>"
+  ],
   "name": "Maron Solarized Classic",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -326,7 +328,10 @@
       }
     },
     {
-      "scope": ["invalid", "invalid.illegal"],
+      "scope": [
+        "invalid",
+        "invalid.illegal"
+      ],
       "settings": {
         "foreground": "#DC322F"
       }
@@ -443,9 +448,12 @@
       }
     },
     {
-      "scope": ["variable.function", "entity.name.function"],
+      "name": "Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.",
+      "scope": [
+        "variable.function",
+        "entity.name.function"
+      ],
       "settings": {
-        // Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.
         "foreground": "#268bd2"
       }
     },
@@ -521,7 +529,9 @@
     },
     {
       "name": "Markup Quote - Bold",
-      "scope": ["markup.quote markup.bold"],
+      "scope": [
+        "markup.quote markup.bold"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -559,7 +569,10 @@
       }
     },
     {
-      "scope": ["keyword.other.documentation.javadoc", "markup.bold"],
+      "scope": [
+        "keyword.other.documentation.javadoc",
+        "markup.bold"
+      ],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -675,36 +688,61 @@
       }
     },
     {
+      "scope": [
+        "constant.character",
+        "constant.escape",
+        "constant.numeric",
+        "constant.language",
+        "keyword.other.unit",
+        "text.tex support.class.math"
+      ],
+      "settings": {
+        "foreground": "#D33682"
+      }
+    },
+    {
       "name": "Meta import type keyword",
-      "scope": ["keyword.control.type"],
+      "scope": [
+        "keyword.control.type"
+      ],
       "settings": {
         "foreground": "#FA973A"
       }
     },
     {
       "name": "Markdown - Fenced Code Block Variable",
-      "scope": ["markup.inline.raw.string.markdown"],
+      "scope": [
+        "markup.inline.raw.string.markdown"
+      ],
       "settings": {
         "foreground": "#268bd2"
       }
     },
     {
       "name": "Import meta",
-      "scope": ["meta.import"],
+      "scope": [
+        "meta.import"
+      ],
       "settings": {
         "foreground": "#DC322F"
       }
     },
     {
       "name": "punctuation.accessor",
-      "scope": ["punctuation.accessor", "punctuation"],
+      "scope": [
+        "punctuation.accessor",
+        "punctuation"
+      ],
       "settings": {
         "foreground": "#b58900"
       }
     },
     {
       "name": "Function arguments",
-      "scope": ["variable.parameter", "parameters variable.function"],
+      "scope": [
+        "variable.parameter",
+        "parameters variable.function"
+      ],
       "settings": {
         "fontStyle": "",
         "foreground": "#2aa198"

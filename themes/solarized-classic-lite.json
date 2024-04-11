@@ -1,12 +1,104 @@
 {
   "$schema": "vscode://schemas/color-theme",
+  "colors": {
+    "activityBar.activeBorder": "#586E75",
+    "activityBar.background": "#0A1016",
+    "activityBar.border": "#586e7530",
+    "activityBar.dropBorder": "#586e7530",
+    "activityBar.foreground": "#586E75",
+    "activityBarBadge.background": "#586E75",
+    "activityBarTop.activeBorder": "#586e7530",
+    "activityBarTop.dropBorder": "#586e7530",
+    "badge.background": "#93A1A1",
+    "breadcrumb.foreground": "#586E75",
+    "breadcrumbPicker.background": "#0A1016",
+    "commandCenter.background": "#0A1016",
+    "dropdown.background": "#0A1016",
+    "editor.lineHighlightBackground": "#0A1016",
+    "editorCursor.foreground": "#93A1A1",
+    "editorGroup.border": "#586e7530",
+    "editorGroup.dropIntoPromptBorder": "#586e7530",
+    "editorGroupHeader.border": "#586e7530",
+    "editorGroupHeader.tabsBackground": "#0A1016",
+    "editorGroupHeader.tabsBorder": "#586e7530",
+    "editorGutter.background": "#0A1016",
+    "editorHoverWidget.background": "#0A1016",
+    "editorLineNumber.activeForeground": "#93A1A1",
+    "editorPane.background": "#0A1016",
+    "focusBorder": "#93A1A140",
+    "icon.foreground": "#586E75",
+    "input.background": "#0A1016",
+    "menu.background": "#0A1016",
+    "notificationCenterHeader.background": "#0A1016",
+    "notifications.background": "#0A1016",
+    "panel.background": "#0A1016",
+    "panel.border": "#586e7530",
+    "panel.dropBorder": "#586e7530",
+    "panelInput.border": "#586e7530",
+    "panelSection.border": "#586e7530",
+    "panelSectionHeader.background": "#0A1016",
+    "peekViewResult.background": "#0A1016",
+    "settings.checkboxBackground": "#0A1016",
+    "settings.dropdownBackground": "#0A1016",
+    "settings.numberInputBackground": "#0A1016",
+    "settings.textInputBackground": "#0A1016",
+    "sideBar.background": "#0A1016",
+    "sideBar.border": "#586e7530",
+    "sideBar.foreground": "#586E75",
+    "sideBarSectionHeader.border": "#586e7530",
+    "statusBar.background": "#0A1016",
+    "statusBar.border": "#586e7530",
+    "statusBar.foreground": "#586E75",
+    "statusBarItem.compactHoverBackground": "#0A1016",
+    "statusBarItem.hoverBackground": "#0A1016AA",
+    "statusBarItem.remoteBackground": "#586E75",
+    "tab.activeBorder": "#586e7500",
+    "tab.activeBorderTop": "#586E75",
+    "tab.activeForeground": "#93A1A1",
+    "tab.border": "#586e7530",
+    "tab.inactiveBackground": "#0A1016",
+    "tab.inactiveForeground": "#586E75",
+    "terminal.background": "#0A1016",
+    "terminal.border": "#586e7530",
+    "titleBar.border": "#586e7530",
+    "widget.border": "#586e7530"
+  },
   "include": "./solarized-classic.json",
   "name": "Maron Solarized Planets Classic (Lite Edition)",
-  "colors": {
-    "editorCursor.background": "#ff0000",
-    "editorCursor.foreground": "#ff0000"
-  },
   "tokenColors": [
+    {
+      "name": "Export, Default",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "foreground": "#268bd2"
+      }
+    },
+    {
+      "name": "Punctuation Terminators",
+      "scope": [
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end"
+      ],
+      "settings": {
+        "foreground": "#2AA198"
+      }
+    },
+    {
+      "name": "Arrow Functions",
+      "scope": [
+        "storage.type.cs",
+        "storage.type.function.arrow",
+        "storage.type.function.name"
+      ],
+      "settings": {
+        "foreground": "#586E75"
+      }
+    },
     {
       "scope": [
         "constant.character.entity",
@@ -39,8 +131,73 @@
       }
     },
     {
+      "name": "punctuation.accessor",
+      "scope": [
+        "punctuation.accessor",
+        "punctuation"
+      ],
+      "settings": {
+        "foreground": "#586E75"
+      }
+    },
+    {
+      "name": "Braces, delimiters",
+      "scope": [
+        "meta.brace.round",
+        "meta.brace.square",
+        "meta.brace.curly",
+        "constant.other.color",
+        "punctuation.section.embedded",
+        "keyword.other.template",
+        "keyword.other.substitution",
+        "meta.delimiter.comma",
+        "meta.function-call.without-arguments.js",
+        "meta.function-call.method.without-arguments.js"
+      ],
+      "settings": {
+        "foreground": "#586E75"
+      }
+    },
+    {
+      "name": "Punctuation tags",
+      "scope": [
+        "punctuation.definition.tag",
+        "punctuation.definition.tag source",
+        "punctuation.definition.group.begin.ruby",
+        "punctuation.definition.group.end.ruby",
+        "punctuation.definition.group.begin.css",
+        "punctuation.definition.group.end.css",
+        "punctuation.definition.string.end.html source.css"
+      ],
+      "settings": {
+        "foreground": "#586E75"
+      }
+    },
+    {
+      "name": "Custom tags JSX",
+      "scope": [
+        "entity.name.tag.other.html",
+        "entity.name.tag support.class.component",
+        "support.class.component.html"
+      ],
+      "settings": {
+        "foreground": "#859900"
+      }
+    },
+    {
+      "name": "Meta import type keyword",
+      "scope": [
+        "keyword.control.type"
+      ],
+      "settings": {
+        "foreground": "#859900"
+      }
+    },
+    {
       "name": "Import meta",
-      "scope": ["meta.import"],
+      "scope": [
+        "meta.import"
+      ],
       "settings": {
         "foreground": "#93A1A1"
       }
