@@ -46,6 +46,12 @@
     "editor.wordHighlightBackground": "#e3b70740",
     "editor.wordHighlightStrongBackground": "#00586e75",
     "editor.wordHighlightTextBackground": "#e3b70740",
+    "editorBracketHighlight.foreground1": "#D33682",
+    "editorBracketHighlight.foreground2": "#b58900",
+    "editorBracketHighlight.foreground3": "#859900",
+    "editorBracketHighlight.foreground4": "#38BBB0",
+    "editorBracketHighlight.foreground5": "#6c71c4",
+    "editorBracketHighlight.foreground6": "#047aa6",
     "editorCursor.background": "#12181F",
     "editorCursor.foreground": "#b58900",
     "editorGroup.border": "#85858520",
@@ -243,9 +249,7 @@
     "widget.border": "#586e7540",
     "widget.shadow": "#12181F00"
   },
-  "maintainers": [
-    "Kain Nhantumbo <nahantumbok@gmail.com>"
-  ],
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Solarized Classic",
   "semanticHighlighting": true,
   "tokenColors": [
@@ -334,10 +338,7 @@
       }
     },
     {
-      "scope": [
-        "invalid",
-        "invalid.illegal"
-      ],
+      "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "foreground": "#DC322F"
       }
@@ -455,10 +456,7 @@
     },
     {
       "name": "Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.",
-      "scope": [
-        "variable.function",
-        "entity.name.function"
-      ],
+      "scope": ["variable.function", "entity.name.function"],
       "settings": {
         "foreground": "#268bd2"
       }
@@ -535,9 +533,7 @@
     },
     {
       "name": "Markup Quote - Bold",
-      "scope": [
-        "markup.quote markup.bold"
-      ],
+      "scope": ["markup.quote markup.bold"],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -575,10 +571,7 @@
       }
     },
     {
-      "scope": [
-        "keyword.other.documentation.javadoc",
-        "markup.bold"
-      ],
+      "scope": ["keyword.other.documentation.javadoc", "markup.bold"],
       "settings": {
         "fontStyle": "bold",
         "foreground": "#cb4b16"
@@ -708,47 +701,35 @@
     },
     {
       "name": "Meta import type keyword",
-      "scope": [
-        "keyword.control.type"
-      ],
+      "scope": ["keyword.control.type"],
       "settings": {
         "foreground": "#FA973A"
       }
     },
     {
       "name": "Markdown - Fenced Code Block Variable",
-      "scope": [
-        "markup.inline.raw.string.markdown"
-      ],
+      "scope": ["markup.inline.raw.string.markdown"],
       "settings": {
         "foreground": "#268bd2"
       }
     },
     {
       "name": "Import meta",
-      "scope": [
-        "meta.import"
-      ],
+      "scope": ["meta.import"],
       "settings": {
         "foreground": "#DC322F"
       }
     },
     {
       "name": "punctuation.accessor",
-      "scope": [
-        "punctuation.accessor",
-        "punctuation"
-      ],
+      "scope": ["punctuation.accessor", "punctuation"],
       "settings": {
         "foreground": "#b58900"
       }
     },
     {
       "name": "Function arguments",
-      "scope": [
-        "variable.parameter",
-        "parameters variable.function"
-      ],
+      "scope": ["variable.parameter", "parameters variable.function"],
       "settings": {
         "fontStyle": "",
         "foreground": "#2aa198"
