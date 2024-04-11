@@ -2,7 +2,7 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
-### 3.0.0 `🍔🧋 "Everyone is Here for Colored Burger with Milky Soda"`
+### 3.0.0 `🍔🧋 "Everyone is Here for a Colored Burger with Milky Soda"`
 - ✨ Every theme now has a custom bracket highlight colors.
 - ✨ Added new theme variant: Solarized Planets Classic "Lite Edition".
 - ✨ Remixed some colors of Solarized Planets Classic for better appearance.
@@ -172,7 +172,7 @@ All changes to the "Maron Themes" extension will be documented here.
 - ✨ Enhanced Maron Solarized Theme colors.
 - 🔨 Fixed some inconsistences between color schemes.
 
-### 1.0.0 `🐛 First stable Release (The Minion Update)`
+### 1.0.0 `🐛 "A Minion is Born Update" (Stable Edition)`
 
 - 🔨 Fixed some inconsistences between color schemes.
 - 💥 Removed Monokai theme in favor of Sonokai.
