@@ -2,11 +2,12 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
-#### 2.3.2
+### 3.0.0 `🍔🧋 "Everyone is Here for Colored Burger with Milky Soda"`
+- ✨ Every theme now has a custom bracket highlight colors.
 - ✨ Added new theme variant: Solarized Planets Classic "Lite Edition".
-- ✨ Remixed some colors of solarized classic theme for better appearance.
-- 🔨 Added id as a custom description for each
-theme.
+- ✨ Remixed some colors of Solarized Planets Classic for better appearance.
+- ✨ Added gutter background color for Solarized Planets Classic "Special Edition".
+- 🔨 Added "ID" as a custom description for each theme.
 - 🔨 "Celeste Theme" changed to "Moon Stars Theme" (name only).
 
 #### 2.3.1
