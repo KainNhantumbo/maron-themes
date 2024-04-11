@@ -223,19 +223,19 @@
       },
       {
         "id": "Solarized Planets Classic",
-        "label": "Maron Theme: Solarized Planets",
+        "label": "Maron Theme: Solarized Planets Classic",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic.json"
       },
       {
-        "id": "Solarized Planets Classic SE",
-        "label": "Maron Theme: Solarized Planets \"Special Edition\"",
+        "id": "Solarized Planets Classic SE Theme",
+        "label": "Maron Theme: Solarized Operator",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic-special.json"
       },
       {
-        "id": "Solarized Planets Classic LE",
-        "label": "Maron Theme: Solarized Planets \"Lite Edition\"",
+        "id": "Solarized Planets Classic LE Theme",
+        "label": "Maron Theme: Solarized Operator \"Lite Edition\"",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic-lite.json"
       },
