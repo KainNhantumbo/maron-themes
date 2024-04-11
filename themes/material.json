@@ -30,6 +30,12 @@
     "editor.lineHighlightBorder": "#00000000",
     "editor.selectionBackground": "#99999920",
     "editor.selectionHighlightBackground": "#FFCC0020",
+    "editorBracketHighlight.foreground1": "#C3E88D",
+    "editorBracketHighlight.foreground2": "#89DDFF",
+    "editorBracketHighlight.foreground3": "#FFCB6B",
+    "editorBracketHighlight.foreground4": "#82AAFF",
+    "editorBracketHighlight.foreground5": "#FF5370",
+    "editorBracketHighlight.foreground6": "#C792EA",
     "editorBracketMatch.background": "#212121",
     "editorBracketMatch.border": "#FFCC0050",
     "editorCursor.background": "#212121",
@@ -736,8 +742,8 @@
       "name": "Markdown - Blockquote",
       "scope": ["markup.quote punctuation.definition.blockquote.markdown"],
       "settings": {
-        "foreground": "#65737E",
-        "fontStyle": ""
+        "fontStyle": "",
+        "foreground": "#65737E"
       }
     },
     {
