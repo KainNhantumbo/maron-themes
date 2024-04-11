@@ -1,0 +1,49 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "include": "./solarized-classic.json",
+  "name": "Maron Solarized Planets Classic (Lite Edition)",
+  "colors": {
+    "editorCursor.background": "#ff0000",
+    "editorCursor.foreground": "#ff0000"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "constant.character.entity",
+        "constant.character.escape",
+        "constant.character.format.placeholder.other",
+        "entity.name.function.preprocessor",
+        "entity.name.section.group-title",
+        "keyword.control.directive",
+        "meta.attribute",
+        "meta.preprocessor.conditional",
+        "meta.preprocessor.cs",
+        "meta.preprocessor.pragma",
+        "punctuation.definition.directive",
+        "punctuation.definition.entity",
+        "punctuation.definition.variable",
+        "punctuation.definition.block",
+        "punctuation.separator.continuation",
+        "source.c constant.other.placeholder",
+        "source.rust support.function.std",
+        "storage.modifier.lifetime",
+        "string.regexp.quoted.single",
+        "support.function.core.rust",
+        "variable.other.bracket",
+        "variable.other.normal",
+        "variable.other.positional",
+        "variable.other.special"
+      ],
+      "settings": {
+        "foreground": "#268bd2"
+      }
+    },
+    {
+      "name": "Import meta",
+      "scope": ["meta.import"],
+      "settings": {
+        "foreground": "#93A1A1"
+      }
+    }
+  ]
+}

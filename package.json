@@ -234,6 +234,12 @@
         "path": "./themes/solarized-classic-special.json"
       },
       {
+        "id": "Solarized Classic Theme",
+        "label": "Maron Theme: Solarized Planets \"Lite Edition\"",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarized-classic-lite.json"
+      },
+      {
         "id": "Tokyo Night Theme",
         "label": "Maron Theme: Tokyo City Lights",
         "uiTheme": "vs-dark",
