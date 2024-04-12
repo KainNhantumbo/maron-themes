@@ -12,6 +12,7 @@ All changes to the "Maron Themes" extension will be documented here.
 - ✨ Added gutter background color for Solarized Planets Operator.
 - 🔨 Remixed "Github Hidden Dungeon Theme" background to look like the original one.
 - 🔨 Renamed "Celeste Theme" changed to "Moon Stars Theme".
+- 🔨 Fixed some inconsistences between color schemes.
 
 #### 2.3.1
 

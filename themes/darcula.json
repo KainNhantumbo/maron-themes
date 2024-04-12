@@ -207,13 +207,6 @@
       }
     },
     {
-      "name": "Comment",
-      "scope": "comment",
-      "settings": {
-        "foreground": "#707070"
-      }
-    },
-    {
       "name": "Strings",
       "scope": "string,string.character.escape,string.template.quoted,string.template.quoted.punctuation,string.template.quoted.punctuation.single,string.template.quoted.punctuation.double,string.type.declaration.annotation,string.template.quoted.punctuation.tag",
       "settings": {
@@ -372,10 +365,24 @@
       }
     },
     {
-      "name": "Documentation Block",
-      "scope": "comment.block.documentation",
+      "name": "JSDoc storage type",
+      "scope": "punctuation.definition.block.tag.jsdoc",
       "settings": {
         "foreground": "#6A8759"
+      }
+    },
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "foreground": "#e0af68"
+      }
+    },
+    {
+      "name": "JSDoc variable",
+      "scope": ["comment variable", "comment variable.other"],
+      "settings": {
+        "foreground": "#c9caca"
       }
     },
     {
@@ -813,6 +820,13 @@
       ],
       "settings": {
         "foreground": "#9E7BB0"
+      }
+    },
+    {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "foreground": "#BFD5DE90"
       }
     },
     {

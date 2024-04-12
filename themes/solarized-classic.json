@@ -330,11 +330,24 @@
         "markup.raw",
         "punctuation.definition.comment",
         "punctuation.definition.markdown",
-        "punctuation.definition.raw",
-        "storage.type.class.jsdoc"
+        "punctuation.definition.raw"
       ],
       "settings": {
         "foreground": "#586e75"
+      }
+    },
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "foreground": "#859900"
+      }
+    },
+    {
+      "name": "JSDoc variable",
+      "scope": ["comment variable", "comment variable.other"],
+      "settings": {
+        "foreground": "#268bd2"
       }
     },
     {

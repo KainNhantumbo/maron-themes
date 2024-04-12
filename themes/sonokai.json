@@ -339,6 +339,7 @@
   "semanticHighlighting": true,
   "tokenColors": [
     {
+      "name": "Comments and overrides inside comments",
       "scope": [
         "comment",
         "comment keyword",
@@ -349,8 +350,7 @@
         "comment text"
       ],
       "settings": {
-        // "name": "Comments and overrides inside comments",
-        "foreground": "#BFD5DE60"
+        "foreground": "#BFD5DE90"
       }
     },
     {
@@ -360,30 +360,30 @@
       }
     },
     {
+      "name": "JSDoc storage type",
       "scope": "comment storage.type",
       "settings": {
-        // "name": "JSDoc storage type",
-        "foreground": "#BFD5DE60"
+        "foreground": "#fc5d7c"
       }
     },
     {
-      "scope": "comment entity.name.type",
-      "settings": {
-        // "name": "JSDoc entity name",
-        "foreground": "#BFD5DE60"
-      }
-    },
-    {
+      "name": "JSDoc variable",
       "scope": ["comment variable", "comment variable.other"],
       "settings": {
-        // "name": "JSDoc variable",
-        "foreground": "#BFD5DE60"
+        "foreground": "#76cce0"
       }
     },
     {
+      "name": "JSDoc entity name",
+      "scope": "comment entity.name.type",
+      "settings": {
+        "foreground": "#76cce0"
+      }
+    },
+    {
+      "name": "Comment TODO / FIXME (at least in VSCode Python)",
       "scope": "comment keyword.codetag.notation",
       "settings": {
-        // "name": "Comment TODO / FIXME (at least in VSCode Python)",
         "foreground": "#b39df3"
       }
     },

@@ -163,7 +163,7 @@
     "terminal.tab.activeBorder": "#ffffffaa",
     "terminalCommandDecoration.defaultBackground": "#d7d7d7",
     "terminalCommandDecoration.errorBackground": "#f85149",
-    "terminalCommandDecoration.successBackground": "#369432",
+    "terminalCommandDecoration.successBackground": "#6A9955",
     "terminalCursor.background": "#181818",
     "terminalCursor.foreground": "#d7d7d7",
     "textBlockQuote.background": "#121212",
@@ -220,7 +220,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#6A9955"
+        "foreground": "#BFD5DE90"
       }
     },
     {
