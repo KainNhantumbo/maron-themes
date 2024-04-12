@@ -7,6 +7,7 @@ All changes to the "Maron Themes" extension will be documented here.
 - ✨ Now, every theme has a custom brackets highlight colors that match with the palette (activate "Bracket Pair Colorization" in your settings to see this in action).
 - 🔨 Renamed "Solarized Planets Classic (Special Edition)" to "Solarized Planets Operator".
 - ✨ Added new theme variant: Solarized Planets Operator "Lite Edition".
+- ✨ Added new theme variant: Maron Origins Operator "Lite Edition".
 - ✨ Remixed some colors of "Solarized Planets Classic" for better appearance.
 - ✨ Added gutter background color for Solarized Planets Operator.
 - 🔨 Remixed "Github Hidden Dungeon Theme" background to look like the original one.
