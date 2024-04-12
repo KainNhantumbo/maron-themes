@@ -17,8 +17,8 @@
     "editorGroupHeader.tabsBorder": "#586e7530",
     "editorGutter.background": "#0A1016",
     "editorHoverWidget.background": "#0A1016",
+    "editorWidget.background": "#0A1016",
     "editorPane.background": "#0A1016",
-    "editorWidget.background": "#1F252C",
     "input.background": "#0A1016",
     "menu.background": "#0A1016",
     "notificationCenterHeader.background": "#0A1016",
@@ -27,6 +27,7 @@
     "panel.border": "#586e7530",
     "panel.dropBorder": "#586e7530",
     "panelInput.border": "#586e7530",
+    "quickInput.background": "#0A1016",
     "panelSection.border": "#586e7530",
     "panelSectionHeader.background": "#0A1016",
     "peekViewResult.background": "#0A1016",
@@ -52,5 +53,5 @@
     "widget.border": "#586e7530"
   },
   "include": "./solarized-classic.json",
-  "name": "Maron Solarized Planets Classic (Special Edition)"
+  "name": "Maron Solarized Planets Operator"
 }

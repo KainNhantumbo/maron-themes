@@ -75,6 +75,7 @@
     "oceanic",
     "oceanic next",
     "hacker",
+    "operator",
     "catppuccin",
     "chocolate",
     "dark theme",
@@ -210,6 +211,12 @@
         "path": "./themes/origins.json"
       },
       {
+        "id": "Maron Original OP",
+        "label": "Maron Theme: Maron Origins Pro \"Operator\"",
+        "uiTheme": "vs-dark",
+        "path": "./themes/origins-operator.json"
+      },
+      {
         "id": "Ayu Theme",
         "label": "Maron Theme: Stellar Angels",
         "uiTheme": "vs-dark",
@@ -229,13 +236,13 @@
       },
       {
         "id": "Solarized Planets Classic SE Theme",
-        "label": "Maron Theme: Solarized Operator",
+        "label": "Maron Theme: Solarized Planets Operator",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic-special.json"
       },
       {
         "id": "Solarized Planets Classic LE Theme",
-        "label": "Maron Theme: Solarized Operator \"Lite Edition\"",
+        "label": "Maron Theme: Solarized Planets Operator \"Lite Edition\"",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic-lite.json"
       },
