@@ -39,6 +39,7 @@
     "editorCursor.foreground": "#61afef",
     "editorError.foreground": "#c24038",
     "editorGroup.border": "#343f4480",
+    "editorGroup.dropBackground": "#61afef20",
     "editorGroup.dropIntoPromptBorder": "#343f4480",
     "editorGroup.focusedEmptyBorder": "#343f4480",
     "editorGroupHeader.tabsBackground": "#21252b",
@@ -84,6 +85,7 @@
     "inputOption.activeBorder": "#343f44",
     "list.activeSelectionBackground": "#2c313a",
     "list.activeSelectionForeground": "#61afef",
+    "list.dropBackground": "#61afef20",
     "list.focusBackground": "#323842",
     "list.focusForeground": "#f0f0f0",
     "list.highlightForeground": "#ecebeb",
@@ -105,6 +107,7 @@
     "notifications.border": "#343f4480",
     "panel.border": "#343f4480",
     "panel.dropBorder": "#343f44",
+    "panelSection.dropBackground": "#61afef20",
     "panelSectionHeader.background": "#21252b",
     "panelTitle.activeBorder": "#343f44",
     "panelTitle.activeForeground": "#9da5b4",
@@ -123,6 +126,7 @@
     "settings.focusedRowBackground": "#343f4460",
     "settings.headerForeground": "#61afef",
     "sideBar.background": "#21252b",
+    "sideBar.dropBackground": "#61afef20",
     "sideBar.foreground": "#abb2bf",
     "sideBarSectionHeader.background": "#21252b",
     "sideBarSectionHeader.foreground": "#abb2bf",
@@ -162,6 +166,7 @@
     "terminal.ansiYellow": "#d18f52",
     "terminal.background": "#21252b",
     "terminal.border": "#343f4480",
+    "terminal.dropBackground": "#61afef20",
     "terminal.foreground": "#abb2bf",
     "terminal.selectionBackground": "#abb2bf30",
     "terminal.tab.activeBorder": "#61afef",
@@ -190,7 +195,7 @@
     "widget.shadow": "#ff000000"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
-  "name": "Maron Atom",
+  "name": "Maron One Prime Pro",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "annotation:dart": {
