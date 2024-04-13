@@ -92,12 +92,12 @@
       {
         "label": "Maron Theme: Cappuccino",
         "uiTheme": "vs-dark",
-        "path": "./themes/catppuccin.json"
+        "path": "./themes/cappuccino.json"
       },
       {
         "label": "Maron Theme: Moon Stars",
         "uiTheme": "vs-dark",
-        "path": "./themes/celeste.json"
+        "path": "./themes/moon-stars.json"
       },
       {
         "label": "Maron Theme: Choco & Mint",
@@ -112,12 +112,12 @@
       {
         "label": "Maron Theme: Colorful Sweets Park",
         "uiTheme": "vs-dark",
-        "path": "./themes/sonokai.json"
+        "path": "./themes/sweets-park.json"
       },
       {
         "label": "Maron Theme: Crafter Materials",
         "uiTheme": "vs-dark",
-        "path": "./themes/material.json"
+        "path": "./themes/crafter-materials.json"
       },
       {
         "label": "Maron Theme: Garden of Roses",
@@ -167,7 +167,7 @@
       {
         "label": "Maron Theme: One Prime Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/atom.json"
+        "path": "./themes/one-prime.json"
       },
       {
         "label": "Maron Theme: Mountain Night Owls",
@@ -182,7 +182,7 @@
       {
         "label": "Maron Theme: Little Bottle Box",
         "uiTheme": "vs-dark",
-        "path": "./themes/sandbox.json"
+        "path": "./themes/little-box.json"
       },
       {
         "label": "Maron Theme: Maron Origins Pro",
@@ -197,7 +197,7 @@
       {
         "label": "Maron Theme: Stellar Angels",
         "uiTheme": "vs-dark",
-        "path": "./themes/solaris.json"
+        "path": "./themes/stellar-angels.json"
       },
       {
         "label": "Maron Theme: Solarized Planets",

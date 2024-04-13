@@ -441,7 +441,7 @@
     "widget.shadow": "#00000000"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
-  "name": "Maron Forest",
+  "name": "Maron Scary Monsters Forest",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "class:python": "#83c092",

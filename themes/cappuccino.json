@@ -433,7 +433,7 @@
     "widget.shadow": "#22222f00"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
-  "name": "Maron Catppuccin",
+  "name": "Maron Cappuccino",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "builtinAttribute.attribute.library:rust": {

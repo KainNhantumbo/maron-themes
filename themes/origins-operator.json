@@ -2,12 +2,11 @@
   "$schema": "vscode://schemas/color-theme",
   "include": "./origins.json",
   "name": "Maron Origins Operator",
-  "colors":{
+  "colors": {
     "activityBar.background": "#0D1013",
     "breadcrumbPicker.background": "#0D1013",
     "commandCenter.background": "#0D1013",
     "dropdown.background": "#0D1013",
-    "editor.lineHighlightBackground": "#0D1013",
     "editorGroupHeader.tabsBackground": "#0D1013",
     "editorGutter.background": "#0D1013",
     "editorHoverWidget.background": "#0D1013",
