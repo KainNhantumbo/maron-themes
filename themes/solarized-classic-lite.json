@@ -220,6 +220,56 @@
       "settings": {
         "foreground": "#93A1A1"
       }
+    },
+    // italicization
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["invalid", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["variable.parameter", "parameters variable.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Export, Type, Default,This, Async, Import, From",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.import",
+        "keyword.control.type",
+        "keyword.control.as",
+        "keyword.control.conditional",
+        "keyword.control.flow",
+        "keyword.control.trycatch",
+        "keyword.control.from",
+        "variable.language.this",
+        "storage.modifier.async",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Tag attribute",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "fontStyle": "italic"
+      }
     }
+
   ]
 }
