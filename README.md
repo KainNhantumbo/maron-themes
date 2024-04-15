@@ -20,8 +20,8 @@
 
 > 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
 >
->This is a pack of themes that contains consistent highlighting and better  **UI Look n' Feel** for coding and markdown editing.\
->Each theme uses no or less italics, underscores, bold, etc. (leaving only what needed for semantic purposes) for code and editor.
+>This is a pack of themes that contains consistent highlighting and better  **UI Look n' Feel** motion for coding and markdown editing.\
+>Each theme uses no or less italics, underscores, bold, etc. (leaving only what needed for semantic purposes or in the new "Operator" labeled themes) for code and editor.
 
 I designed all themes to be compatible with blur or window transparency effects that you can get using vibrancy or [vscode-blur-linux](https://marketplace.visualstudio.com/items?itemName=mhabrar.vscode-blur-linux) (makes the vscode background blurry in KDE Plasma linux distros).
 
@@ -80,7 +80,7 @@ Recommended settings I use for better experience:
 ```json
 {
   // Controls the font family (you can get this font on https://nerdfonts.com).
-  "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "editor.fontFamily": "JetBrainsMono Nerd Font Mono, IBM Plex Mono, Geist Mono",
   // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
   "editor.lineHeight": 24,
   // Enables font ligatures
@@ -89,6 +89,7 @@ Recommended settings I use for better experience:
   "editor.cursorBlinking": "phase",
   "editor.cursorSmoothCaretAnimation": "on",
   "terminal.integrated.cursorStyle": "block",
+  "editor.bracketPairColorization.enabled": true,
   "editor.cursorStyle": "block"
 }
 ```

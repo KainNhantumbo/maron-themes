@@ -251,6 +251,15 @@
         "keyword.control.as",
         "keyword.control.conditional",
         "keyword.control.flow",
+        "keyword.control.or",
+        "keyword.control.and",
+        "keyword.control.loop",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.keyof",
+        "keyword.operator.expression.delete",
         "keyword.control.trycatch",
         "keyword.control.from",
         "variable.language.this",
@@ -264,12 +273,11 @@
       }
     },
     {
-      "name": "Tag attribute",
-      "scope": "entity.other.attribute-name",
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
       "settings": {
         "fontStyle": "italic"
       }
     }
-
   ]
 }
