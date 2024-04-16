@@ -2,7 +2,7 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
-### 3.0.0 `🍔🧋 "Everyone is Here for a Colored Burger with Milky Soda"`
+### 3.0.0 `🍔🧋 "Everyone is Here for a Colored Burger with Milky Soda" Update`
 
 - ✨ Now, every theme has a custom brackets highlight colors that match with the palette (activate "Bracket Pair Colorization" in your settings to see this in action).
 - 🔨 Renamed "Solarized Planets Classic (Special Edition)" to "Solarized Planets Operator".
