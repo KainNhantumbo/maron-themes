@@ -20,8 +20,8 @@
 
 > 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
 >
->This is a pack of themes that contains consistent highlighting and better  **UI Look n' Feel** motion for coding and markdown editing.\
->Each theme uses no or less italics, underscores, bold, etc. (leaving only what needed for semantic purposes) for code and editor.
+> This is a pack of themes that contains consistent highlighting and better **UI Look n' Feel** motion for coding and markdown editing.\
+> Each theme uses no or less italics, underscores, bold, etcetera, leaving only what needed for semantic purposes (except for newly custom "operator" labeled themes, which contain italicizations).
 
 I designed all themes to be compatible with blur or window transparency effects that you can get using vibrancy or [vscode-blur-linux](https://marketplace.visualstudio.com/items?itemName=mhabrar.vscode-blur-linux) (makes the vscode background blurry in KDE Plasma linux distros).
 
@@ -31,6 +31,7 @@ Feel free use, reuse and fork.\
 Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https://github.com/KainNhantumbo/maron-themes)
 
 Also, you can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
+
 > This project is currently receiving weekly updates and patches, you really don't want to miss out!
 
 > 🪁 **Just a slice of 28 colorful theme flavors! I bet you will like it.**
@@ -151,6 +152,7 @@ Best regards, Kain Nhantumbo.\
 ✌️🇲🇿 **Made for Visual Studio Code**
 
 ## 🎒 Changelog
+
 See all changes documented on this awesome changelog right [here](./CHANGELOG.md).
 
 ## 📜 License
