@@ -715,28 +715,26 @@
     {
       "scope": "entity.name.lifetime.rust",
       "settings": {
-        // "name": "rust specific",
         "foreground": "#fc5d7c"
       }
     },
     {
       "scope": "invalid",
       "settings": {
-        // "name": "Invalid",
-        "fontStyle": ""
-      }
-    },
-    {
-      "scope": "keyword",
-      "settings": {
-        // "name": "Keyword",
         "foreground": "#fc5d7c"
       }
     },
     {
+      "name": "Keyword",
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#fc5d7c"
+      }
+    },
+    {
+      "name": "Control keywords examples include if, try, end and while. Some syntaxes prefer to mark if and else with the conditional variant. The import variant is often used in appropriate situations.",
       "scope": "keyword.control",
       "settings": {
-        // "name": "Control keywords examples include if, try, end and while. Some syntaxes prefer to mark if and else with the conditional variant. The import variant is often used in appropriate situations.",
         "foreground": "#fc5d7c"
       }
     },

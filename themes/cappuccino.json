@@ -544,6 +544,12 @@
       }
     },
     {
+      "scope": ["invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "foreground": "#f38ba8"
+      }
+    },
+    {
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
@@ -968,7 +974,7 @@
     },
     {
       "name": "Markup Diff",
-      "scope": "markup.changed.diff",
+      "scope": "markup.changed",
       "settings": {
         "foreground": "#fab387"
       }
@@ -987,14 +993,14 @@
     },
     {
       "name": "Diff Inserted",
-      "scope": "markup.inserted.diff",
+      "scope": "markup.inserted",
       "settings": {
         "foreground": "#a6e3a1"
       }
     },
     {
       "name": "Diff Deleted",
-      "scope": "markup.deleted.diff",
+      "scope": "markup.deleted",
       "settings": {
         "foreground": "#f38ba8"
       }

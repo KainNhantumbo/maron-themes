@@ -390,15 +390,15 @@
       }
     },
     {
-      "scope": "markup.deleted",
+      "scope": "markup.changed",
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#FFC353"
       }
     },
     {
-      "scope": "markup.changed",
+      "scope": "markup.deleted",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#F44747"
       }
     },
     {

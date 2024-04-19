@@ -774,6 +774,18 @@
       }
     },
     {
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "#e67e80"
+      }
+    },
+    {
+      "scope": ["invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "foreground": "#da6362"
+      }
+    },
+    {
       "name": "reStructuredText heading",
       "scope": "punctuation.definition.heading.restructuredtext",
       "settings": {
@@ -2260,14 +2272,14 @@
     },
     {
       "name": "Diff green",
-      "scope": "markup.inserted.diff, punctuation.definition.inserted.diff",
+      "scope": "markup.inserted, punctuation.definition.inserted.diff",
       "settings": {
         "foreground": "#a7c080"
       }
     },
     {
       "name": "Diff blue",
-      "scope": "markup.changed.diff, punctuation.definition.changed.diff",
+      "scope": "markup.changed, punctuation.definition.changed.diff",
       "settings": {
         "foreground": "#7fbbb3"
       }

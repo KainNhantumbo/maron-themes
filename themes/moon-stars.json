@@ -465,7 +465,7 @@
       }
     },
     {
-      "scope": "markup.changed.diff",
+      "scope": "markup.deleted",
       "settings": {
         "foreground": "#F472B6"
       }
@@ -477,15 +477,15 @@
       }
     },
     {
-      "scope": "markup.inserted.diff",
+      "scope": "markup.inserted",
       "settings": {
         "foreground": "#7DD3FC"
       }
     },
     {
-      "scope": "markup.deleted.diff",
+      "scope": "markup.changed",
       "settings": {
-        "foreground": "#EFEFF1"
+        "foreground": "#f5f543bb"
       }
     },
     {
@@ -1245,7 +1245,7 @@
     {
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#F472B6"
       }
     },
     {
@@ -1257,13 +1257,13 @@
     {
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#F472B6"
       }
     },
     {
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#F472B6"
       }
     },
     {

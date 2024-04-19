@@ -297,6 +297,30 @@
       }
     },
     {
+      "scope": ["invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "foreground": "#FC929E"
+      }
+    },
+    {
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "#FC929E"
+      }
+    },
+    {
+      "scope": "markup.changed",
+      "settings": {
+        "foreground": "#FAC863"
+      }
+    },
+    {
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "#79B6F2"
+      }
+    },
+    {
       "scope": "markup.underline",
       "settings": {
         "fontStyle": "underline"

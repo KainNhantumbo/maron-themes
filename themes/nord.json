@@ -420,14 +420,14 @@
       "name": "Invalid Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#c8cEd9"
+        "foreground": "#BF616A"
       }
     },
     {
       "name": "Invalid Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#c8cEd9"
+        "foreground": "#BF616A"
       }
     },
     {

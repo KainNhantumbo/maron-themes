@@ -262,13 +262,13 @@
       }
     },
     {
-      "scope": "markup.deleted.diff",
+      "scope": "markup.deleted",
       "settings": {
-        "foreground": "#EF535090"
+        "foreground": "#EF5350"
       }
     },
     {
-      "scope": "markup.inserted.diff",
+      "scope": "markup.inserted",
       "settings": {
         "foreground": "#C5E478"
       }
@@ -456,13 +456,13 @@
     {
       "scope": "invalid",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#EF5350"
       }
     },
     {
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#EF5350"
       }
     },
     {
@@ -739,7 +739,7 @@
     {
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#EF5350"
       }
     },
     {

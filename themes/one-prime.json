@@ -358,7 +358,7 @@
     },
     {
       "name": "markup diff",
-      "scope": "markup.changed.diff",
+      "scope": "markup.changed",
       "settings": {
         "foreground": "#e5c07b"
       }
@@ -1253,14 +1253,14 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#ef596f"
       }
     },
     {
       "name": "illegal",
       "scope": "invalid.illegal.bad-ampersand.html",
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#ef596f"
       }
     },
     {
@@ -1280,7 +1280,7 @@
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#ef596f"
       }
     },
     {
@@ -1386,6 +1386,12 @@
       "scope": "punctuation.section.array.end.php",
       "settings": {
         "foreground": "#abb2bf"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#ef596f",
       }
     },
     {

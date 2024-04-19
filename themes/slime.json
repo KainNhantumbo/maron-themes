@@ -861,15 +861,9 @@
       }
     },
     {
-      "scope": "invalid.illegal",
+      "scope": ["invalid", "invalid.deprecated", "invalid.illegal"],
       "settings": {
-        "foreground": "#F8F8F0"
-      }
-    },
-    {
-      "scope": "invalid.deprecated",
-      "settings": {
-        "foreground": "#F8F8F0"
+        "foreground": "#E06060"
       }
     },
     {
@@ -911,6 +905,24 @@
       "settings": {
         "fontStyle": "",
         "foreground": "#C0C0C0"
+      }
+    },
+    {
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "#7DA85C"
+      }
+    },
+    {
+      "scope": "markup.changed",
+      "settings": {
+        "foreground": "#BF93B5"
+      }
+    },
+    {
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "#E78484"
       }
     },
     {

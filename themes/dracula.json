@@ -359,7 +359,7 @@
       "scope": ["invalid.deprecated"],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#E8E8E2"
+        "foreground": "#FF5555"
       }
     },
     {
