@@ -11,6 +11,7 @@ All changes to the "Maron Themes" extension will be documented here.
 - ✨ Remixed some colors of "Solarized Planets Classic" for better appearance.
 - ✨ Added custom gutter (line numbers) background color "Operator" themes.
 - ✨ Added support for italicized keywords for "Operator" labeled themes.
+- ✨ Added added syntax highlight for git markup deleted, inserted and changed and, for markup invalid and deprecated.
 - ✨ Added syntax highlighting for "JSDoc" directives, variables and parameters.
 - ✨ Added custom colors to drop containers backgrounds (appear on drag and drop): lists, editor group, terminal, panel and sidebar.
 - 🔨 Remixed "Github Hidden Dungeon Theme" background to look like the original one.
