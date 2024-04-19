@@ -110,6 +110,12 @@
       "settings": {
         "fontStyle": "italic"
       }
+    },
+    {
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
     }
   ]
 }
