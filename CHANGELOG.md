@@ -2,6 +2,10 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 3.1.0 `💀 "The Dark and Dark" Update`
+
+- ✨ Added new theme: Maron Soul Reaper.
+
 ### 3.0.0 `🍔🧋 "Everyone is Here for a Colored Burger with Milky Soda" Update`
 
 - ✨ Now, every theme has a custom brackets highlight colors that match with the current selected theme color palette (activate "Bracket Pair Colorization" in your settings to see this in action!).
