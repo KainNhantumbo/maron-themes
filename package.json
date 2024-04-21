@@ -45,6 +45,7 @@
     "flat",
     "collection",
     "night owl",
+    "soul reaper",
     "owl",
     "atom",
     "one dark",
@@ -148,6 +149,11 @@
         "label": "Maron Theme: Scary Monsters Forest",
         "uiTheme": "vs-dark",
         "path": "./themes/forest.json"
+      },
+      {
+        "label": "Maron Theme: Soul Reaper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soul-reaper.json"
       },
       {
         "label": "Maron Theme: Kanagawa Legends",
