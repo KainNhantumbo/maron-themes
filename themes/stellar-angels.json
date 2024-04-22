@@ -370,6 +370,17 @@
       }
     },
     {
+      "name": "Custom tags JSX",
+      "scope": [
+        "entity.name.tag.other.html",
+        "entity.name.tag support.class.component",
+        "support.class.component.html"
+      ],
+      "settings": {
+        "foreground": "#c3a6ff"
+      }
+    },
+    {
       "name": "Operator, Misc",
       "scope": [
         "punctuation",

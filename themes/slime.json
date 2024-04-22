@@ -63,6 +63,9 @@
     "editorIndentGuide.background6": "#BFD5DE18",
     "editorLineNumber.activeForeground": "#8bac78",
     "editorLineNumber.foreground": "#5e737390",
+    "editorLightBulb.foreground": "#8bac78",
+    "editorLightBulbAi.foreground": "#8bac78",
+    "editorLightBulbAutoFix.foreground": "#8bac78",
     "editorOverviewRuler.border": "#5e737300",
     "editorSuggestWidget.background": "#1b2020",
     "editorSuggestWidget.border": "#5e737360",
@@ -344,6 +347,17 @@
       "scope": "variable, variable.other.readwrite.js, punctuation.definition.variable.php, variable.other, support.variable",
       "settings": {
         "foreground": "#BE9296"
+      }
+    },
+    {
+      "name": "Custom tags JSX",
+      "scope": [
+        "entity.name.tag.other.html",
+        "entity.name.tag support.class.component",
+        "support.class.component.html"
+      ],
+      "settings": {
+        "foreground": "#AEC199"
       }
     },
     {

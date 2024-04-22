@@ -2,6 +2,9 @@
   "$schema": "vscode://schemas/color-theme",
   "author": "Kain Nhantumbo",
   "colors": {
+    "editorLightBulb.foreground": "#cef144",
+    "editorLightBulbAi.foreground": "#cef144",
+    "editorLightBulbAutoFix.foreground": "#cef144",
     "activityBar.activeBackground": "#1A1F1D",
     "activityBar.background": "#1A1F1D",
     "activityBar.border": "#1A1F1D",
@@ -977,6 +980,17 @@
       ],
       "settings": {
         "foreground": "#BFD5DE60"
+      }
+    },
+    {
+      "name": "Custom tags JSX",
+      "scope": [
+        "entity.name.tag.other.html",
+        "entity.name.tag support.class.component",
+        "support.class.component.html"
+      ],
+      "settings": {
+        "foreground": "#7AD9FB"
       }
     }
   ],

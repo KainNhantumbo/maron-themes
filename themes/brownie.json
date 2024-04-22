@@ -648,6 +648,17 @@
       "settings": {
         "foreground": "#fac863"
       }
+    },
+    {
+      "name": "Custom tags JSX",
+      "scope": [
+        "entity.name.tag.other.html",
+        "entity.name.tag support.class.component",
+        "support.class.component.html"
+      ],
+      "settings": {
+        "foreground": "#fac863"
+      }
     }
   ],
   "type": "dark"

@@ -2,6 +2,9 @@
   "$schema": "vscode://schemas/color-theme",
   "author": "Kain Nhantumbo",
   "colors": {
+    "editorLightBulb.foreground": "#B79FDA",
+    "editorLightBulbAi.foreground": "#B79FDA",
+    "editorLightBulbAutoFix.foreground": "#B79FDA",
     "activityBar.activeBorder": "#B79FDA",
     "activityBar.background": "#16161D",
     "activityBar.foreground": "#B79FDA",

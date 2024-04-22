@@ -14,7 +14,7 @@
     "badge.foreground": "#212226",
     "breadcrumb.activeSelectionForeground": "#76cce0",
     "breadcrumb.focusForeground": "#76cce0",
-    "breadcrumb.foreground": "#8f95b2",
+    "breadcrumb.foreground": "#707A8C",
     "button.background": "#85d3f2",
     "button.foreground": "#212226",
     "button.hoverBackground": "#76cce0",
@@ -80,8 +80,9 @@
     "editorIndentGuide.background5": "#7f849030",
     "editorIndentGuide.background6": "#7f849030",
     "editorInfo.foreground": "#76cce0",
-    "editorLightBulb.foreground": "#f39660",
-    "editorLightBulbAutoFix.foreground": "#9ed072",
+    "editorLightBulb.foreground": "#76cce0",
+    "editorLightBulbAi.foreground": "#76cce0",
+    "editorLightBulbAutoFix.foreground": "#76cce0",
     "editorLineNumber.activeForeground": "#76cce0",
     "editorLineNumber.foreground": "#7f849090",
     "editorLink.activeForeground": "#9ed072",
@@ -234,17 +235,17 @@
     "settings.textInputBorder": "#414550",
     "settings.textInputForeground": "#76cce0",
     "sideBar.background": "#212226",
-    "sideBar.foreground": "#8f95b2",
+    "sideBar.foreground": "#707A8C",
     "sideBarSectionHeader.background": "#2c2e3400",
     "sideBarSectionHeader.foreground": "#7f8490",
     "sideBarTitle.foreground": "#76cce0",
     "statusBar.background": "#212226",
     "statusBar.debuggingBackground": "#fc5d7c",
     "statusBar.debuggingForeground": "#212226",
-    "statusBar.foreground": "#8f95b2",
+    "statusBar.foreground": "#707A8C",
     "statusBar.noFolderBackground": "#212226",
     "statusBar.noFolderBorder": "#212226",
-    "statusBar.noFolderForeground": "#c2c2c3",
+    "statusBar.noFolderForeground": "#707A8C",
     "statusBarItem.activeBackground": "#363944a0",
     "statusBarItem.compactHoverBackground": "#212226",
     "statusBarItem.hoverBackground": "#21222690",
@@ -326,7 +327,7 @@
     "textPreformat.background": "#1B1B1E",
     "textPreformat.foreground": "#76cce0",
     "titleBar.activeBackground": "#212226",
-    "titleBar.activeForeground": "#8f95b2",
+    "titleBar.activeForeground": "#707A8C",
     "titleBar.inactiveBackground": "#212226",
     "tree.indentGuidesStroke": "#76cce060",
     "welcomePage.progress.background": "#76cce060",
@@ -596,14 +597,20 @@
       }
     },
     {
+      "name": "Tag name",
+      "scope": ["entity.name.tag"],
+      "settings": {
+        "foreground": "#fc5d7c"
+      }
+    },
+    {
+      "name": "Tag name JSX",
       "scope": [
-        "entity.name.tag",
         "entity.name.tag.js.jsx support.class.component.js.jsx",
         "entity.name.tag support.class.component"
       ],
       "settings": {
-        // "name": "Tag name",
-        "foreground": "#fc5d7c"
+        "foreground": "#8BCCD6"
       }
     },
     {

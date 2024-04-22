@@ -1992,6 +1992,17 @@
       "settings": {
         "foreground": "#fab387"
       }
+    },
+    {
+      "name": "Custom tags JSX",
+      "scope": [
+        "entity.name.tag.other.html",
+        "entity.name.tag support.class.component",
+        "support.class.component.html"
+      ],
+      "settings": {
+        "foreground": "#fab387"
+      }
     }
   ],
   "type": "dark"
