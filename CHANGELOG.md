@@ -6,9 +6,11 @@ All changes to the "Maron Themes" extension will be documented here.
 
 - ✨ Added new original theme: Maron Soul Reaper.
 - ✨ Added new original theme variant: Maron Soul Reaper "Operator".
+- ✨ Finally!!! Remixed "Code Heroes Summoner" theme with a new accent colors.
 - ✨ Added custom light bulb colors to match the selected theme palette.
 - ✨ Improved custom JSX/TSX tag colors to differentiate from normal tags.
 - 🔨 Removed underlines from invalid keywords in "Imortal Dracula".
+- 🔨 Fixed some inconsistences between color schemes and other found bugs.
 - 🔨 Fixed some typos in readme file.
 
 ### 3.0.0 `🍔🧋 "Everyone is Here for a Colored Burger with Milky Soda" Update`
