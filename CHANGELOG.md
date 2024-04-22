@@ -6,6 +6,8 @@ All changes to the "Maron Themes" extension will be documented here.
 
 - ✨ Added new original theme: Maron Soul Reaper.
 - ✨ Added new original theme variant: Maron Soul Reaper "Operator".
+- ✨ Added custom light bulb colors to match the selected theme palette.
+- ✨ Improved custom JSX/TSX tag colors to differentiate from normal tags.
 - 🔨 Removed underlines from invalid keywords in "Imortal Dracula".
 - 🔨 Fixed some typos in readme file.
 
