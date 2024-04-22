@@ -1,0 +1,121 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "include": "./soul-reaper.json",
+  "name": "Maron Soul Reaper Operator",
+  "colors": {
+    "activityBar.background": "#011015",
+    "breadcrumbPicker.background": "#011015",
+    "commandCenter.background": "#011015",
+    "dropdown.background": "#011015",
+    "editorGroupHeader.tabsBackground": "#011015",
+    "editorGutter.background": "#011015",
+    "editorHoverWidget.background": "#011015",
+    "editorPane.background": "#011015",
+    "input.background": "#011015",
+    "menu.background": "#011015",
+    "notificationCenterHeader.background": "#011015",
+    "notifications.background": "#011015",
+    "panel.background": "#011015",
+    "panelSectionHeader.background": "#011015",
+    "peekViewResult.background": "#011015",
+    "settings.checkboxBackground": "#011015",
+    "settings.dropdownBackground": "#011015",
+    "settings.numberInputBackground": "#011015",
+    "settings.textInputBackground": "#011015",
+    "sideBar.background": "#011015",
+    "statusBar.background": "#011015",
+    "statusBarItem.compactHoverBackground": "#011015",
+    "statusBarItem.hoverBackground": "#011015AA",
+    "tab.inactiveBackground": "#011015",
+    "terminal.background": "#011015",
+    "activityBar.border": "#045B6230",
+    "activityBar.dropBorder": "#045B6230",
+    "editorWidget.background": "#011015",
+    "activityBarTop.activeBorder": "#045B6230",
+    "activityBarTop.dropBorder": "#045B6230",
+    "editorGroup.border": "#045B6230",
+    "editorGroup.dropIntoPromptBorder": "#045B6230",
+    "editorGroupHeader.border": "#045B6230",
+    "editorGroupHeader.tabsBorder": "#045B6230",
+    "panel.border": "#045B6230",
+    "panel.dropBorder": "#045B6230",
+    "panelInput.border": "#045B6230",
+    "panelSection.border": "#045B6230",
+    "sideBar.border": "#045B6230",
+    "sideBarSectionHeader.border": "#045B6230",
+    "statusBar.border": "#045B6230",
+    "tab.border": "#045B6230",
+    "tab.activeBorder": "#060D0F00",
+    "tab.activeBorderTop": "#4DDD05",
+    "quickInput.background": "#011015",
+    "scrollbar.shadow": "#000000",
+    "terminal.border": "#045B6230",
+    "titleBar.border": "#045B6230",
+    "widget.border": "#045B6230"
+  },
+  "tokenColors": [
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["invalid", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["variable.parameter", "parameters variable.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Export, Type, Default,This, Async, Import, From",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.import",
+        "keyword.control.type",
+        "keyword.control.as",
+        "keyword.control.conditional",
+        "keyword.control.flow",
+        "keyword.control.or",
+        "keyword.control.and",
+        "keyword.control.loop",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.keyof",
+        "keyword.operator.expression.delete",
+        "keyword.control.trycatch",
+        "keyword.control.from",
+        "variable.language.this",
+        "storage.modifier.async",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}

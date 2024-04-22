@@ -156,6 +156,11 @@
         "path": "./themes/soul-reaper.json"
       },
       {
+        "label": "Maron Theme: Maron Soul Reaper Operator",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soul-reaper-operator.json"
+      },
+      {
         "label": "Maron Theme: Kanagawa Legends",
         "uiTheme": "vs-dark",
         "path": "./themes/kanagawa.json"
