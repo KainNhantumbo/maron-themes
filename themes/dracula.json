@@ -351,14 +351,12 @@
     {
       "scope": ["invalid"],
       "settings": {
-        "fontStyle": "underline",
         "foreground": "#FF5555"
       }
     },
     {
       "scope": ["invalid.deprecated"],
       "settings": {
-        "fontStyle": "underline",
         "foreground": "#FF5555"
       }
     },
@@ -852,7 +850,6 @@
       "name": "YAML aliases",
       "scope": ["variable.other.alias.yaml"],
       "settings": {
-        "fontStyle": " underline",
         "foreground": "#40D859"
       }
     },

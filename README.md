@@ -27,14 +27,21 @@ I designed all themes to be compatible with blur or window transparency effects 
 
 > 🪁 Learn more in this comprehensive (and funny) [changelog](./CHANGELOG.md).
 
-Feel free use, reuse and fork.\
+Feel free to use, reuse and fork.\
 Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https://github.com/KainNhantumbo/maron-themes)
 
 Also, you can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
 
-> This project is currently receiving weekly updates and patches, you really don't want to miss out!
+> This project is currently receiving weekly updates and patches so you don't really want to miss out!
 
 > 🪁 **Just a slice of 28 colorful theme flavors! I bet you will like it.**
+
+<figure align="center">
+
+![](./previews/Screenshot_20240422_114310.png)
+
+<figcaption align="center">Maron Soul Reaper! (ORIGINAL PALETTE)</figcaption>
+</figure>
 
 <figure align="center">
 
@@ -80,7 +87,7 @@ Recommended settings I use for better experience:
 
 ```json
 {
-  // Controls the font family (you can get this font on https://nerdfonts.com).
+  // Controls the font family (you can get those on https://nerdfonts.com).
   "editor.fontFamily": "JetBrainsMono Nerd Font Mono, IBM Plex Mono, Geist Mono",
   // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
   "editor.lineHeight": 24,
@@ -144,7 +151,7 @@ Something's missing? Create Issues so that I can make the each theme compatible 
 **E-mail:** [nhantumbok@gmail.com](nhantumbok@gmail.com 'Send an e-mail')\
 **Github:** [https://github.com/KainNhantumbo](https://github.com/KainNhantumbo 'See my github profile')\
 **Portfolio:** [https://codenut-dev.vercel.app/en](https://codenut-dev.vercel.app/en 'See my portfolio website')\
-**My Blog:**[https://codenut-dev.vercel.app/en/blog](https://codenut-dev.vercel.app/en/blog 'Visit my blog site')
+**My Blog:** [https://codenut-dev.vercel.app/en/blog](https://codenut-dev.vercel.app/en/blog 'Visit my blog site')
 
 **If you like this project, let me know by leaving a star on this repository so I can keep improving this extension.😊😘**
 
