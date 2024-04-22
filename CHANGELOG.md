@@ -4,7 +4,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 #### 3.1.0 `💀 "The Dark and Dark" Update`
 
-- ✨ Added new theme: Maron Soul Reaper.
+- ✨ Added new original theme: Maron Soul Reaper.
 
 ### 3.0.0 `🍔🧋 "Everyone is Here for a Colored Burger with Milky Soda" Update`
 
