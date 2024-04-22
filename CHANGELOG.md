@@ -5,6 +5,7 @@ All changes to the "Maron Themes" extension will be documented here.
 #### 3.1.0 `💀 "The Dark and Dark" Update`
 
 - ✨ Added new original theme: Maron Soul Reaper.
+- ✨ Added new original theme variant: Maron Soul Reaper "Operator".
 
 ### 3.0.0 `🍔🧋 "Everyone is Here for a Colored Burger with Milky Soda" Update`
 
@@ -37,7 +38,7 @@ All changes to the "Maron Themes" extension will be documented here.
   terminal.
 - 🔨 Redesigned the logo to meet the current standards.
 
-#### 2.2.2 `🪄 "The Fixer Magic Wand" Update`
+#### 2.2.2 `🛠️🪄 "The Fixer Magic Wand" Update`
 
 - ✨ Enhanced some highlighting colors in "Hot Brownie", "Undead Frost Slime", "Unfair Deadly Spikes 🤣🤣" and "Celeste" themes.
 - ✨ Propagated "Solarized Planets Theme (Classic - "Special Edition")" sidebar background color to activityBar, notification center, inputs, dropdowns, menus and statusbar background colors.
