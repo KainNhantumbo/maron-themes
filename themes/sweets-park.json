@@ -112,8 +112,6 @@
     "editorSuggestWidget.foreground": "#8f95b2",
     "editorSuggestWidget.highlightForeground": "#9ed072",
     "editorSuggestWidget.selectedBackground": "#3b3e48",
-    "editorUnnecessaryCode.border": "#7f8490",
-    "editorUnnecessaryCode.opacity": "#ffffffff",
     "editorWarning.foreground": "#e7c664",
     "editorWhitespace.foreground": "#7f8490",
     "editorWidget.background": "#212226",
@@ -841,16 +839,16 @@
       }
     },
     {
+      "name": "Underline",
       "scope": "markup.underline",
       "settings": {
-        // "name": "Underline",
         "fontStyle": "underline"
       }
     },
     {
+      "name": "Link",
       "scope": "markup.underline.link",
       "settings": {
-        // "name": "Link",
         "foreground": "#9ed072"
       }
     },

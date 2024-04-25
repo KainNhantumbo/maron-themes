@@ -9,7 +9,9 @@ All changes to the "Maron Themes" extension will be documented here.
 - ✨ Finally!!! Remixed "Code Heroes Summoner" theme with a new accent colors.
 - ✨ Added custom light bulb colors to match the selected theme palette.
 - ✨ Improved custom JSX/TSX tag colors to differentiate from normal tags.
-- 🔨 Removed underlines from invalid keywords in "Imortal Dracula".
+- 🔨 Removed underlines from invalid keywords in "Imortal Dracula" theme.
+- 🔨 Removed "the persistent" underline from warning keywords in "Colorful Sweets Park" theme.
+- 🔨 Added proper editor warning keywords color for "Crafter Materials" theme.
 - 🔨 Fixed some inconsistences between color schemes and other found bugs.
 - 🔨 Fixed some typos in readme file.
 

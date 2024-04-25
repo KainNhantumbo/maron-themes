@@ -229,12 +229,6 @@
       }
     },
     {
-      "scope": ["invalid", "invalid.illegal"],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
       "name": "Function arguments",
       "scope": ["variable.parameter", "parameters variable.function"],
       "settings": {
@@ -242,7 +236,7 @@
       }
     },
     {
-      "name": "Export, Type, Default,This, Async, Import, From",
+      "name": "Keywords and Expressions",
       "scope": [
         "keyword.control.export",
         "keyword.control.import",
