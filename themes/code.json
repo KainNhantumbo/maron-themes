@@ -170,6 +170,7 @@
     "terminal.foreground": "#9D9D9D",
     "terminal.inactiveSelectionBackground": "#3a3d41",
     "terminal.tab.activeBorder": "#D7BA7D",
+    "gitDecoration.ignoredResourceForeground": "#606060BB",
     "terminalCommandDecoration.defaultBackground": "#D7BA7D",
     "terminalCommandDecoration.errorBackground": "#f85149",
     "terminalCommandDecoration.successBackground": "#6A9955",
