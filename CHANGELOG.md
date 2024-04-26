@@ -2,6 +2,9 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+#### 3.2.0 `🍫🍵 The chief brought a Chromium Matte au Chocolate for us!`
+- 🔨 Fixed gitDecoration ignored resource foreground color in the sidebar for "Code Heroes Summoner" and "Colorful Sweets Park" themes.
+
 #### 3.1.0 `💀 "The Dark and Dark" Update`
 
 - ✨ Added new original theme: Maron Soul Reaper.
