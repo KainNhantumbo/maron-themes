@@ -108,7 +108,7 @@
         "path": "./themes/fleet.json"
       },
       {
-        "label": "Maron Theme: Maron Chromium Matte",
+        "label": "Maron Theme: Maron Chromium Matte (Experimental)",
         "uiTheme": "vs-dark",
         "path": "./themes/chromium-matte.json"
       },
