@@ -2,8 +2,12 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
-#### 3.2.0 `🍫🍵 The chief brought a Chromium Matte au Chocolate for us!`
+#### 3.2.0 `🍫🍵 The chief brought Café au Latte for us!!`
+- ✨ Added new original theme: Maron Chromium Matte.
+- ✨ Enhanced terminal highlighting in solarized themes.
+- ✨ Added colors to markdown headings and inline code blocks for solarized themes.
 - 🔨 Fixed gitDecoration ignored resource foreground color in the sidebar for "Code Heroes Summoner" and "Colorful Sweets Park" themes.
+- 🔨 Fixed some inconsistences between color schemes and other minor found bugs.
 
 #### 3.1.0 `💀 "The Dark and Dark" Update`
 
