@@ -64,8 +64,6 @@
     "vitesse",
     "gruvbox",
     "halcyon",
-    "chromium",
-    "matte",
     "solaris",
     "forest",
     "rosetta",
@@ -106,11 +104,6 @@
         "label": "Maron Theme: Choco & Mint",
         "uiTheme": "vs-dark",
         "path": "./themes/fleet.json"
-      },
-      {
-        "label": "Maron Theme: Maron Chromium Matte (Experimental)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/chromium-matte.json"
       },
       {
         "label": "Maron Theme: Code Heroes Summoner",
