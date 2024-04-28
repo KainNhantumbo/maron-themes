@@ -8,6 +8,9 @@ devDependencies:
   '@vscode/vsce':
     specifier: ^2.24.0
     version: 2.24.0
+  prettier:
+    specifier: ^3.2.5
+    version: 3.2.5
 
 packages:
 
@@ -556,6 +559,12 @@ packages:
       tunnel-agent: 0.6.0
     dev: true
     optional: true
+
+  /prettier@3.2.5:
+    resolution: {integrity: sha512-3/GWa9aOC0YeD7LUfvOG2NiDyhOWRvt1k+rcKhOuYnMY24iiCphgneUfJDyFXd6rZCAnuLBv6UeAULtrhT/F4A==}
+    engines: {node: '>=14'}
+    hasBin: true
+    dev: true
 
   /pump@3.0.0:
     resolution: {integrity: sha512-LwZy+p3SFs1Pytd/jYct4wpv49HiYCqd9Rlc5ZVdk0V+8Yzv6jR5Blk3TRmPL1ft69TxP0IMZGJ+WPFU2BFhww==}

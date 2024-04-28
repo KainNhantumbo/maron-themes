@@ -31,7 +31,7 @@
   ],
   "scripts": {
     "build": "vsce package",
-    "format": "npx prettier --write \"**/*.{js,mjs,cjs,ts,mts,cts,jsx,tsx,json}\"",
+    "format": "npx prettier --write \"**/*.{md,json}\"",
     "push": "vsce publish"
   },
   "keywords": [
@@ -258,6 +258,7 @@
     "preRelease": false
   },
   "devDependencies": {
-    "@vscode/vsce": "^2.24.0"
+    "@vscode/vsce": "^2.24.0",
+    "prettier": "^3.2.5"
   }
 }
