@@ -2,6 +2,9 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+### 3.3.0
+- ✨ Added more colors to solarized themes: minimap, brackets, merge editor, git decorations, etc.
+
 ### 3.2.1
 
 - 💥 Breaking changes: removed Maron Chromium Matte.
