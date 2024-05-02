@@ -53,7 +53,7 @@
     "editor.focusedStackFrameHighlightBackground": "#2ea04366",
     "editor.foldBackground": "#6e76811a",
     "editor.foreground": "#e6edf3",
-    "editor.lineHighlightBackground": "#08080890",
+    "editor.lineHighlightBackground": "#080808BB",
     "editor.linkedEditingBackground": "#2f81f712",
     "editor.selectionBackground": "#31363B80",
     "editor.selectionHighlightBackground": "#3fb95040",
