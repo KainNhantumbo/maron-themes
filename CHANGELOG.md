@@ -2,8 +2,10 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
-### 3.3.0
+### 3.3.0 `🍬🍭 Colouring Pine Roulette`
+
 - ✨ Added more colors to solarized themes: minimap, brackets, merge editor, git decorations, etc.
+- ✨ Added colors to markdown headings and inline code blocks for: Moon Stars, Soul Reaper and Origins Pro.
 
 ### 3.2.1
 
@@ -24,7 +26,7 @@ All changes to the "Maron Themes" extension will be documented here.
 - ✨ Finally!!! Remixed "Code Heroes Summoner" theme with a new accent colors.
 - ✨ Added custom light bulb colors to match the selected theme palette.
 - ✨ Improved custom JSX/TSX tag colors to differentiate from normal tags.
-- 🔨 Removed underlines from invalid keywords in "Imortal Dracula" theme.
+- 🔨 Removed underlines from invalid keywords in "Immortal Dracula" theme.
 - 🔨 Removed "the persistent" underline from warning keywords in "Colorful Sweets Park" theme.
 - 🔨 Added proper editor warning keywords color for "Crafter Materials" theme.
 - 🔨 Fixed some inconsistences between color schemes and other found bugs.
@@ -96,7 +98,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 ## 2.0.0 `🦸 The Prime Edition Update`
 
-- ✨ Added Maron Darcula Imortal Theme (based on Dracula Theme).
+- ✨ Added Maron Darcula Immortal Theme (based on Dracula Theme).
 - ✨ Improved overall appearance and accessability of the welcome page components.
 - 💥 Breaking changes: nothing was ruined, be happy, teh he he!!
 - 💥 Removed some colors from Solarized Planets Theme, those that don't make part of solarized theme palette.

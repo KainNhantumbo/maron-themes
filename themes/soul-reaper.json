@@ -257,8 +257,8 @@
     "titleBar.border": "#A9D9BE00",
     "titleBar.inactiveBackground": "#02171D",
     "tree.indentGuidesStroke": "#4DDD0580",
-    "welcomePage.progress.background": "#BAEBE260",
-    "welcomePage.progress.foreground": "#045B62",
+    "welcomePage.progress.background": "#045B62",
+    "welcomePage.progress.foreground": "#BAEBE2AA",
     "welcomePage.tileBackground": "#BAEBE215",
     "widget.border": "#045B6260",
     "widget.shadow": "#00000000"
@@ -399,6 +399,13 @@
       }
     },
     {
+      "scope": "markup.underline.link",
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "#73D5E2"
+      }
+    },
+    {
       "scope": "invalid",
       "settings": {
         "foreground": "#e67e80"
@@ -469,7 +476,7 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#A9D9BE"
+        "foreground": "#DAD38F"
       }
     },
     {
@@ -855,6 +862,60 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#B267E6"
+      }
+    },
+    {
+      "scope": [
+        "heading.1.markdown entity.name",
+        "heading.1.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#6394bf"
+      }
+    },
+    {
+      "scope": [
+        "heading.2.markdown entity.name",
+        "heading.2.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#85D0B7"
+      }
+    },
+    {
+      "scope": [
+        "heading.3.markdown entity.name",
+        "heading.3.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#D7BA7D"
+      }
+    },
+    {
+      "scope": [
+        "heading.4.markdown entity.name",
+        "heading.4.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#e67e80"
+      }
+    },
+    {
+      "scope": [
+        "heading.5.markdown entity.name",
+        "heading.5.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#73D5E2"
+      }
+    },
+    {
+      "scope": [
+        "heading.6.markdown entity.name",
+        "heading.6.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "#4DDD05EE"
       }
     },
     {

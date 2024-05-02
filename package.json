@@ -141,7 +141,7 @@
         "path": "./themes/brownie.json"
       },
       {
-        "label": "Maron Theme: Imortal Dracula",
+        "label": "Maron Theme: Immortal Dracula",
         "uiTheme": "vs-dark",
         "path": "./themes/dracula.json"
       },
