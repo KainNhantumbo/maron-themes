@@ -207,6 +207,7 @@
         "foreground": "#859900"
       }
     },
+
     {
       "name": "Meta import type keyword",
       "scope": ["keyword.control.type"],
@@ -276,6 +277,16 @@
       "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
       "settings": {
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "",
+      "scope": [
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end"
+      ],
+      "settings": {
+        "foreground": "#268bd2"
       }
     }
   ]

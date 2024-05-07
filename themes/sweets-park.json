@@ -1379,9 +1379,9 @@
       }
     },
     {
+      "name": "String",
       "scope": "string",
       "settings": {
-        // "name": "String",
         "foreground": "#e7c664"
       }
     },

@@ -2,7 +2,7 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
-### 3.3.0 `🍬🍭 Colouring Pine Roulette`
+### 3.3.0 `🍬🍭 "Colouring Pine Roulette" Update`
 
 - ✨ Added more colors to solarized themes: minimap, brackets, merge editor, git decorations, etc.
 - ✨ Added colors to markdown headings and inline code blocks for: Moon Stars, Soul Reaper and Origins Pro.
@@ -11,7 +11,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 - 💥 Breaking changes: removed Maron Chromium Matte.
 
-### 3.2.0 `🍫🍵 The chief brought Café au Latte for us!!`
+### 3.2.0 `🍫🍵 "The chief brought Café au Latte for us!!" Update`
 
 - ✨ Added new original theme: Maron Chromium Matte (Experimental).
 - ✨ Enhanced terminal highlighting in solarized themes.
