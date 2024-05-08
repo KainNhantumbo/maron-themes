@@ -6,6 +6,7 @@ All changes to the "Maron Themes" extension will be documented here.
 
 - ✨ Added more colors to solarized themes: minimap, brackets, merge editor, git decorations, etc.
 - ✨ Added colors to markdown headings and inline code blocks for: Moon Stars, Soul Reaper and Origins Pro.
+- 🔨 Fixed some inconsistences between color schemes and other minor found bugs.
 
 ### 3.2.1
 

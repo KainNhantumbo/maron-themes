@@ -147,7 +147,7 @@
     "panel.background": "#051520",
     "panel.border": "#5f7e9740",
     "panelSection.dropBackground": "#c5e4fd20",
-    "panelTitle.activeBorder": "#5f7e9740",
+    "panelTitle.activeBorder": "#c5e4fd",
     "panelTitle.activeForeground": "#c5e4fd",
     "panelTitle.inactiveForeground": "#5f7e97",
     "peekView.border": "#5f7e9740",
