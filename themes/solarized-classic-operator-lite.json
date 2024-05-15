@@ -75,7 +75,7 @@
     "statusBarItem.compactHoverBackground": "#0A1016",
     "statusBarItem.hoverBackground": "#0A1016AA",
     "statusBarItem.hoverForeground": "#93A1A1",
-    "statusBarItem.remoteBackground": "#586E75",
+    "statusBarItem.remoteBackground": "#0A1016",
     "tab.activeBorder": "#586e7500",
     "tab.activeBorderTop": "#586E75",
     "tab.activeForeground": "#93A1A1",
