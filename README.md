@@ -32,7 +32,7 @@ Get the source code here: [https://github.com/KainNhantumbo/maron-themes](https:
 
 Also, you can install this awesome theme pack through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=KainNhantumbo.maron-themes).
 
-> This project is currently receiving weekly updates and patches so you don't really want to miss out!
+> This project is currently receiving updates and patches so you don't really want to miss out!
 
 > 🪁 **Just a slice of 28 colorful theme flavors! I bet you will like it.**
 
