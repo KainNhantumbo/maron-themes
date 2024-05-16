@@ -44,6 +44,8 @@
     "sideBar.border": "#586e7530",
     "sideBarSectionHeader.border": "#586e7530",
     "statusBar.border": "#586e7530",
+    "statusBarItem.remoteBackground": "#0D1013",
+    "statusBarItem.remoteHoverBackground": "#0D1013",
     "tab.border": "#586e7530",
     "tab.activeBorder": "#586e7500",
     "tab.activeBorderTop": "#FBAF38",

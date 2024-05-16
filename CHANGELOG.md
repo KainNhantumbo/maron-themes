@@ -3,10 +3,10 @@
 All changes to the "Maron Themes" extension will be documented here.
 
 ### 3.4.0 `🔮🪩 "Refresh Party" Update`
+
 - ✨ Added type name colors to "Little Box Theme".
 - ✨ Remixed status bar remote button background colors for more cleaner UI.
 - 🔨 Fixed some inconsistences between color schemes and other minor found bugs.
-
 
 ### 3.3.0 `🍬🍭 "Colouring Pine Roulette" Update`
 

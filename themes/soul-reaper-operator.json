@@ -26,6 +26,8 @@
     "statusBar.background": "#011015",
     "statusBarItem.compactHoverBackground": "#011015",
     "statusBarItem.hoverBackground": "#011015AA",
+    "statusBarItem.remoteBackground": "#011015",
+    "statusBarItem.remoteHoverBackground": "#011015",
     "tab.inactiveBackground": "#011015",
     "terminal.background": "#011015",
     "activityBar.border": "#045B6230",
