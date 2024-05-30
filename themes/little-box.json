@@ -26,7 +26,7 @@
     "dropdown.border": "#eeeeee30",
     "dropdown.listBackground": "#1A1F1D",
     "editor.background": "#1A1F1D",
-    "editor.lineHighlightBackground": "#08080840",
+    "editor.lineHighlightBackground": "#08080860",
     "editor.lineHighlightBorder": "#AAAAAA00",
     "editor.selectionBackground": "#eeeeee15",
     "editorBracketHighlight.foreground1": "#cef144",
