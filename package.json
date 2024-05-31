@@ -198,7 +198,7 @@
       {
         "label": "Maron Theme: Little Bottle Box Operator",
         "uiTheme": "vs-dark",
-        "path": "./themes/little-box.json"
+        "path": "./themes/little-box-operator.json"
       },
       {
         "label": "Maron Theme: Maron Origins Pro",

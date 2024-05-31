@@ -2,6 +2,9 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+### 3.5.0 `🛣️ "Carbon Roads Rage"`
+- ✨ Added new original theme variant: Little Box Operator.
+
 ### 3.4.0 `🔮🪩 "Refresh Party" Update`
 
 - ✨ Added type name colors to "Little Box Theme".
