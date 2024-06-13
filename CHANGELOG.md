@@ -2,6 +2,11 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+### 3.6.0 `🎉 "The Party is not over!"`
+
+- ✨ Added new original theme variant: Groove Box Party Operator.
+
+
 ### 3.5.0 `🛣️ "Carbon Roads Rage"`
 
 - ✨ Added new original theme variant: Little Box Operator.
