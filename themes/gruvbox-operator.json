@@ -1,0 +1,73 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "include": "./gruvbox.json",
+  "name": "Gruvbox Operator",
+  "colors": {
+    
+  },
+  "tokenColors": [
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["invalid", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["variable.parameter", "parameters variable.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Export, Type, Default,This, Async, Import, From",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.import",
+        "keyword.control.type",
+        "keyword.control.as",
+        "keyword.control.conditional",
+        "keyword.control.flow",
+        "keyword.control.or",
+        "keyword.control.and",
+        "keyword.control.loop",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.keyof",
+        "keyword.operator.expression.delete",
+        "keyword.control.trycatch",
+        "keyword.control.from",
+        "variable.language.this",
+        "storage.modifier.async",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}

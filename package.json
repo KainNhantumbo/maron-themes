@@ -136,6 +136,11 @@
         "path": "./themes/gruvbox.json"
       },
       {
+        "label": "Maron Theme: Groove Box Party Operator",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-operator.json"
+      },
+      {
         "label": "Maron Theme: Hot Brownie",
         "uiTheme": "vs-dark",
         "path": "./themes/brownie.json"
