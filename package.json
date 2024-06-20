@@ -176,6 +176,11 @@
         "path": "./themes/nord.json"
       },
       {
+        "label": "Maron Theme: Nordic Warriors Operator",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nord-operator.json"
+      },
+      {
         "label": "Maron Theme: Oceanic Sharks Valley",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic.json"
