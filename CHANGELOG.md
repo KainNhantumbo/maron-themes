@@ -2,14 +2,13 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
-### 3.7.0 `🐳 "Glup Glup Glop! It's Fresh!!"`
+### 3.7.0 `🐳 "Glup... Glup... Glop! It's Fresh!!"`
 
 - ✨ Added new theme variant: Nordic Warriors Operator.
 
 ### 3.6.0 `🎉 "The Party is not over!"`
 
 - ✨ Added new theme variant: Groove Box Party Operator.
-
 
 ### 3.5.0 `🛣️ "Carbon Roads Rage"`
 
