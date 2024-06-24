@@ -1,0 +1,7 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "include": "./oceanic.json",
+  "name": "Oceanic Sharks Valley Operator",
+  "colors": {},
+  "tokenColors": []
+}

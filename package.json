@@ -186,6 +186,11 @@
         "path": "./themes/oceanic.json"
       },
       {
+        "label": "Maron Theme: Oceanic Sharks Valley Operator",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic-operator.json"
+      },
+      {
         "label": "Maron Theme: One Prime Pro",
         "uiTheme": "vs-dark",
         "path": "./themes/one-prime.json"
