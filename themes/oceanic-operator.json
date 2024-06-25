@@ -2,6 +2,122 @@
   "$schema": "vscode://schemas/color-theme",
   "include": "./oceanic.json",
   "name": "Oceanic Sharks Valley Operator",
-  "colors": {},
-  "tokenColors": []
+  "colors": {
+    "activityBar.background": "#0E141F",
+    "breadcrumbPicker.background": "#0E141F",
+    "commandCenter.background": "#0E141F",
+    "dropdown.background": "#0E141F",
+    "editorGroupHeader.tabsBackground": "#0E141F",
+    "editorGutter.background": "#0E141F",
+    "editorHoverWidget.background": "#0E141F",
+    "editorPane.background": "#0E141F",
+    "input.background": "#0E141F",
+    "menu.background": "#0E141F",
+    "notificationCenterHeader.background": "#0E141F",
+    "notifications.background": "#0E141F",
+    "panel.background": "#0E141F",
+    "panelSectionHeader.background": "#0E141F",
+    "peekViewResult.background": "#0E141F",
+    "settings.checkboxBackground": "#0E141F",
+    "settings.dropdownBackground": "#0E141F",
+    "settings.numberInputBackground": "#0E141F",
+    "settings.textInputBackground": "#0E141F",
+    "sideBar.background": "#0E141F",
+    "statusBar.background": "#0E141F",
+    "statusBarItem.compactHoverBackground": "#0E141F",
+    "statusBarItem.hoverBackground": "#0E141FAA",
+    "statusBarItem.remoteBackground": "#0E141F",
+    "statusBarItem.remoteHoverBackground": "#0E141F",
+    "tab.inactiveBackground": "#0E141F",
+    "terminal.background": "#0E141F",
+    "activityBar.border": "#99dc9e28",
+    "activityBar.dropBorder": "#99dc9e28",
+    "editorWidget.background": "#0E141F",
+    "activityBarTop.activeBorder": "#99dc9e28",
+    "activityBarTop.dropBorder": "#99dc9e28",
+    "editorGroup.border": "#99dc9e28",
+    "editorGroup.dropIntoPromptBorder": "#99dc9e28",
+    "editorGroupHeader.border": "#99dc9e28",
+    "editorGroupHeader.tabsBorder": "#99dc9e28",
+    "panel.border": "#99dc9e28",
+    "panel.dropBorder": "#99dc9e28",
+    "panelInput.border": "#99dc9e28",
+    "panelSection.border": "#99dc9e28",
+    "sideBar.border": "#99dc9e28",
+    "sideBarSectionHeader.border": "#99dc9e28",
+    "statusBar.border": "#99dc9e28",
+    "tab.border": "#99dc9e28",
+    "tab.activeBorder": "#060D0F00",
+    "tab.activeBorderTop": "#99dc9e",
+    "quickInput.background": "#0E141F",
+    "scrollbar.shadow": "#000000",
+    "terminal.border": "#99dc9e28",
+    "titleBar.border": "#99dc9e28",
+    "widget.border": "#99dc9e28"
+  },
+  "tokenColors": [
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["invalid", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["variable.parameter", "parameters variable.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Export, Type, Default,This, Async, Import, From",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.import",
+        "keyword.control.type",
+        "keyword.control.as",
+        "keyword.control.conditional",
+        "keyword.control.flow",
+        "keyword.control.or",
+        "keyword.control.and",
+        "keyword.control.loop",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.keyof",
+        "keyword.operator.expression.delete",
+        "keyword.control.trycatch",
+        "keyword.control.from",
+        "variable.language.this",
+        "storage.modifier.async",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
 }
