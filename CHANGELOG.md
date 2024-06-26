@@ -2,6 +2,11 @@
 
 All changes to the "Maron Themes" extension will be documented here.
 
+### 3.8.0 `🌊 "Welcome to our Holy Fresh Springs! You won't be alone!"`
+
+- ✨ Added new theme variant: Oceanic Sharks Valley Operator.
+- 🔨 Fixed some inconsistences and found bugs.
+
 ### 3.7.0 `🐳 "Glup... Glup... Glop! It's Fresh!!"`
 
 - ✨ Added new theme variant: Nordic Warriors Operator.
