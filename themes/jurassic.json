@@ -1,0 +1,10 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "author": "Kain Nhantumbo",
+  "type": "dark",
+  "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
+  "name": "Maron Jurassic [Experimental]",
+  "semanticHighlighting": true,
+  "colors": {},
+  "tokenColors": []
+}
