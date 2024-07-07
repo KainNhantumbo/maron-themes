@@ -1,0 +1,123 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "include": "./dracula.json",
+  "name": "Imortal Dracula Operator",
+  "colors": {
+    "activityBar.background": "#151824",
+    "breadcrumbPicker.background": "#151824",
+    "commandCenter.background": "#151824",
+    "dropdown.background": "#151824",
+    "editorGroupHeader.tabsBackground": "#151824",
+    "editorGutter.background": "#151824",
+    "editorHoverWidget.background": "#151824",
+    "editorPane.background": "#151824",
+    "input.background": "#151824",
+    "menu.background": "#151824",
+    "notificationCenterHeader.background": "#151824",
+    "notifications.background": "#151824",
+    "panel.background": "#151824",
+    "panelSectionHeader.background": "#151824",
+    "peekViewResult.background": "#151824",
+    "settings.checkboxBackground": "#151824",
+    "settings.dropdownBackground": "#151824",
+    "settings.numberInputBackground": "#151824",
+    "settings.textInputBackground": "#151824",
+    "sideBar.background": "#151824",
+    "statusBar.background": "#151824",
+    "statusBarItem.compactHoverBackground": "#151824",
+    "statusBarItem.hoverBackground": "#151824AA",
+    "statusBarItem.remoteBackground": "#151824",
+    "statusBarItem.remoteHoverBackground": "#151824",
+    "tab.inactiveBackground": "#151824",
+    "terminal.background": "#151824",
+    "activityBar.border": "#BD93F920",
+    "activityBar.dropBorder": "#BD93F920",
+    "editorWidget.background": "#151824",
+    "activityBarTop.activeBorder": "#BD93F920",
+    "activityBarTop.dropBorder": "#BD93F920",
+    "editorGroup.border": "#BD93F920",
+    "editorGroup.dropIntoPromptBorder": "#BD93F920",
+    "editorGroupHeader.border": "#BD93F920",
+    "editorGroupHeader.tabsBorder": "#BD93F920",
+    "panel.border": "#BD93F920",
+    "panel.dropBorder": "#BD93F920",
+    "panelInput.border": "#BD93F920",
+    "panelSection.border": "#BD93F920",
+    "sideBar.border": "#BD93F920",
+    "sideBarSectionHeader.border": "#BD93F920",
+    "statusBar.border": "#BD93F920",
+    "tab.border": "#BD93F920",
+    "tab.activeBorder": "#060D0F00",
+    "tab.activeBorderTop": "#BD93F9",
+    "quickInput.background": "#151824",
+    "scrollbar.shadow": "#000000",
+    "terminal.border": "#BD93F920",
+    "titleBar.border": "#BD93F920",
+    "widget.border": "#BD93F920"
+  },
+  "tokenColors": [
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["invalid", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["variable.parameter", "parameters variable.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Export, Type, Default,This, Async, Import, From",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.import",
+        "keyword.control.type",
+        "keyword.control.as",
+        "keyword.control.conditional",
+        "keyword.control.flow",
+        "keyword.control.or",
+        "keyword.control.and",
+        "keyword.control.loop",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.keyof",
+        "keyword.operator.expression.delete",
+        "keyword.control.trycatch",
+        "keyword.control.from",
+        "variable.language.this",
+        "storage.modifier.async",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}

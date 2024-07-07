@@ -94,7 +94,7 @@
       {
         "label": "Maron Theme: Maron Jurassic (Experimental)",
         "uiTheme": "vs-dark",
-        "path": "./themes/jurassic.json"
+        "path": "./themes/jurassic[skip].json"
       },
       {
         "label": "Maron Theme: Cappuccino",
@@ -155,6 +155,11 @@
         "label": "Maron Theme: Immortal Dracula",
         "uiTheme": "vs-dark",
         "path": "./themes/dracula.json"
+      },
+      {
+        "label": "Maron Theme: Immortal Dracula Operator",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula-operator.json"
       },
       {
         "label": "Maron Theme: Scary Monsters Forest",
