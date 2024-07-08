@@ -1,10 +1,13 @@
 # Change Log
 
+### 3.10.0 `🤴 "A Brand new Skin for the Prime Kings!" Update`
+
+- ✨ Added new theme variant: One Prime Pro Operator.
+
 ### 3.9.0 `🩸🩸🩸 "I need more of your blood, Lord Dracula!"`
 
 - ✨ Added new theme variant: Imortal Dracula Operator.
 - 🔨 Fixed some inconsistences and found bugs.
-
 
 ### 3.8.0 `🌊 "Welcome to our Holy Fresh Springs! You won't be alone!"`
 
