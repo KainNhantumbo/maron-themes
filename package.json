@@ -207,6 +207,11 @@
         "path": "./themes/one-prime.json"
       },
       {
+        "label": "Maron Theme: One Prime Pro Operator",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-prime-operator.json"
+      },
+      {
         "label": "Maron Theme: Mountain Night Owls",
         "uiTheme": "vs-dark",
         "path": "./themes/owl.json"
@@ -289,7 +294,7 @@
     "preRelease": false
   },
   "devDependencies": {
-    "@vscode/vsce": "^2.27.0",
+    "@vscode/vsce": "^2.29.0",
     "prettier": "^3.3.2"
   }
 }

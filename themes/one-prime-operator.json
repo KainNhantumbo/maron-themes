@@ -1,0 +1,117 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "include": "./one-prime.json",
+  "name": "One Prime Pro Operator",
+  "colors": {
+    "activityBar.background": "#17191E",
+    "breadcrumbPicker.background": "#17191E",
+    "commandCenter.background": "#17191E",
+    "dropdown.background": "#17191E",
+    "editorGroupHeader.tabsBackground": "#17191E",
+    "editorGutter.background": "#17191E",
+    "editorHoverWidget.background": "#17191E",
+    "editorPane.background": "#17191E",
+    "input.background": "#17191E",
+    "menu.background": "#17191E",
+    "notificationCenterHeader.background": "#17191E",
+    "notifications.background": "#17191E",
+    "panel.background": "#17191E",
+    "panelSectionHeader.background": "#17191E",
+    "peekViewResult.background": "#17191E",
+    "settings.checkboxBackground": "#17191E",
+    "settings.dropdownBackground": "#17191E",
+    "settings.numberInputBackground": "#17191E",
+    "settings.textInputBackground": "#17191E",
+    "sideBar.background": "#17191E",
+    "statusBar.background": "#17191E",
+    "statusBarItem.compactHoverBackground": "#17191E",
+    "statusBarItem.hoverBackground": "#17191EAA",
+    "tab.inactiveBackground": "#17191E",
+    "terminal.background": "#17191E",
+    "activityBar.border": "#515a6b30",
+    "activityBar.dropBorder": "#515a6b30",
+    "editorWidget.background": "#17191E",
+    "activityBarTop.activeBorder": "#515a6b30",
+    "activityBarTop.dropBorder": "#515a6b30",
+    "editorGroup.border": "#515a6b30",
+    "editorGroup.dropIntoPromptBorder": "#515a6b30",
+    "editorGroupHeader.border": "#515a6b30",
+    "editorGroupHeader.tabsBorder": "#515a6b30",
+    "panel.border": "#515a6b30",
+    "panel.dropBorder": "#515a6b30",
+    "panelInput.border": "#515a6b30",
+    "panelSection.border": "#515a6b30",
+    "sideBar.border": "#515a6b30",
+    "sideBarSectionHeader.border": "#515a6b30",
+    "statusBar.border": "#515a6b30",
+    "statusBarItem.remoteBackground": "#17191E",
+    "statusBarItem.remoteHoverBackground": "#17191E",
+    "tab.border": "#515a6b30",
+    "tab.activeBorder": "#515a6b00",
+    "tab.activeBorderTop": "#61afef",
+    "quickInput.background": "#17191E",
+    "scrollbar.shadow": "#000000",
+    "terminal.border": "#515a6b30",
+    "titleBar.border": "#515a6b30",
+    "widget.border": "#515a6b30"
+  },
+  "tokenColors": [
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["variable.parameter", "parameters variable.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Keywords and Expressions",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.import",
+        "keyword.control.type",
+        "keyword.control.as",
+        "keyword.control.conditional",
+        "keyword.control.flow",
+        "keyword.control.or",
+        "keyword.control.and",
+        "keyword.control.loop",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.keyof",
+        "keyword.operator.expression.delete",
+        "keyword.control.trycatch",
+        "keyword.control.from",
+        "variable.language.this",
+        "storage.modifier.async",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}
