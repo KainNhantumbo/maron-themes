@@ -132,6 +132,11 @@
         "path": "./themes/rosetta.json"
       },
       {
+        "label": "Maron Theme: Garden of Roses Operator",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rosetta-operator.json"
+      },
+      {
         "label": "Maron Theme: Github Hidden Dungeon",
         "uiTheme": "vs-dark",
         "path": "./themes/github.json"
