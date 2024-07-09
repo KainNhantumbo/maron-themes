@@ -1,5 +1,9 @@
 # Change Log
 
+### 3.11.0 `🌹 "Not only ladies deserve roses" Update`
+
+- ✨ Added new theme variant: Garden of Roses Operator.
+
 ### 3.10.0 `🤴 "A Brand new Skin for the Prime Kings!" Update`
 
 - ✨ Added new theme variant: One Prime Pro Operator.
