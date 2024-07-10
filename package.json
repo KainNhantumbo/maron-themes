@@ -127,6 +127,11 @@
         "path": "./themes/crafter-materials.json"
       },
       {
+        "label": "Maron Theme: Crafter Materials Operator",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crafter-materials-operator.json"
+      },
+      {
         "label": "Maron Theme: Garden of Roses",
         "uiTheme": "vs-dark",
         "path": "./themes/rosetta.json"
