@@ -1,5 +1,9 @@
 # Change Log
 
+### 3.12.0 `🌹 "Now we have all the tools to start building!" Update`
+
+- ✨ Added new theme variant: Crafter Materials Operator.
+
 ### 3.11.0 `🌹 "Not only ladies deserve roses" Update`
 
 - ✨ Added new theme variant: Garden of Roses Operator.
