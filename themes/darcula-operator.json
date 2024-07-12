@@ -1,0 +1,123 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "include": "./darcula.json",
+  "name": "Maron Unfair Deadly Spikes Operator",
+  "colors": {
+    "activityBar.background": "#151515",
+    "breadcrumbPicker.background": "#151515",
+    "commandCenter.background": "#151515",
+    "dropdown.background": "#151515",
+    "editorGroupHeader.tabsBackground": "#151515",
+    "editorGutter.background": "#151515",
+    "editorHoverWidget.background": "#151515",
+    "editorPane.background": "#151515",
+    "input.background": "#151515",
+    "menu.background": "#151515",
+    "notificationCenterHeader.background": "#151515",
+    "notifications.background": "#151515",
+    "panel.background": "#151515",
+    "panelSectionHeader.background": "#151515",
+    "peekViewResult.background": "#151515",
+    "settings.checkboxBackground": "#151515",
+    "settings.dropdownBackground": "#151515",
+    "settings.numberInputBackground": "#151515",
+    "settings.textInputBackground": "#151515",
+    "sideBar.background": "#151515",
+    "statusBar.background": "#151515",
+    "statusBarItem.compactHoverBackground": "#151515",
+    "statusBarItem.hoverBackground": "#151515AA",
+    "statusBarItem.remoteBackground": "#151515",
+    "statusBarItem.remoteHoverBackground": "#151515",
+    "tab.inactiveBackground": "#151515",
+    "terminal.background": "#151515",
+    "activityBar.border": "#98C2CA15",
+    "activityBar.dropBorder": "#98C2CA15",
+    "editorWidget.background": "#151515",
+    "activityBarTop.activeBorder": "#98C2CA15",
+    "activityBarTop.dropBorder": "#98C2CA15",
+    "editorGroup.border": "#98C2CA15",
+    "editorGroup.dropIntoPromptBorder": "#98C2CA15",
+    "editorGroupHeader.border": "#98C2CA15",
+    "editorGroupHeader.tabsBorder": "#98C2CA15",
+    "panel.border": "#98C2CA15",
+    "panel.dropBorder": "#98C2CA15",
+    "panelInput.border": "#98C2CA15",
+    "panelSection.border": "#98C2CA15",
+    "sideBar.border": "#98C2CA15",
+    "sideBarSectionHeader.border": "#98C2CA15",
+    "statusBar.border": "#98C2CA15",
+    "tab.border": "#98C2CA15",
+    "tab.activeBorder": "#060D0F00",
+    "tab.activeBorderTop": "#7A9769",
+    "quickInput.background": "#151515",
+    "scrollbar.shadow": "#000000",
+    "terminal.border": "#98C2CA15",
+    "titleBar.border": "#98C2CA15",
+    "widget.border": "#98C2CA15"
+  },
+  "tokenColors": [
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["invalid", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["variable.parameter", "parameters variable.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Export, Type, Default,This, Async, Import, From",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.import",
+        "keyword.control.type",
+        "keyword.control.as",
+        "keyword.control.conditional",
+        "keyword.control.flow",
+        "keyword.control.or",
+        "keyword.control.and",
+        "keyword.control.loop",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.keyof",
+        "keyword.operator.expression.delete",
+        "keyword.control.trycatch",
+        "keyword.control.from",
+        "variable.language.this",
+        "storage.modifier.async",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}

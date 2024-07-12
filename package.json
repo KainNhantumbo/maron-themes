@@ -267,12 +267,12 @@
         "path": "./themes/solarized-classic.json"
       },
       {
-        "label": "Maron Theme: Solarized Planets Classic Operator",
+        "label": "Maron Theme: Solarized Planets Classic [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic-operator.json"
       },
       {
-        "label": "Maron Theme: Solarized Planets Classic Operator \"Lite Edition\"",
+        "label": "Maron Theme: Solarized Planets Classic [Operator] \"Lite Edition\"",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic-operator-lite.json"
       },
@@ -290,6 +290,11 @@
         "label": "Maron Theme: Unfair Deadly Spikes",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"
+      },
+      {
+        "label": "Maron Theme: Unfair Deadly Spikes [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darcula-operator.json"
       }
     ]
   },

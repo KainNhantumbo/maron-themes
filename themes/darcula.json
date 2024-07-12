@@ -21,7 +21,7 @@
     "editor.background": "#202020",
     "editor.findMatchBackground": "#CC824260",
     "editor.foreground": "#c9caca",
-    "editor.lineHighlightBackground": "#08080860",
+    "editor.lineHighlightBackground": "#151515",
     "editor.selectionBackground": "#20418260",
     "editorBracketHighlight.foreground1": "#CC8242",
     "editorBracketHighlight.foreground2": "#98C2CA",
@@ -149,7 +149,7 @@
     "widget.shadow": "#ff000000"
   },
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
-  "name": "Maron Darcula Evolution",
+  "name": "Maron Unfair Deadly Spikes",
   "semanticHighlighting": true,
   "tokenColors": [
     {
