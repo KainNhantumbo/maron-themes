@@ -1,5 +1,10 @@
 # Change Log
 
+### 3.13.0 `🕷️ "Watch yourself!" Update`
+
+- ✨ Added new theme variant: Unfair Deadly Spikes Operator.
+- 🔨 Fixed some inconsistences and found bugs.
+
 ### 3.12.0 `🌹 "Now we have all the tools to start building!" Update`
 
 - ✨ Added new theme variant: Crafter Materials Operator.
