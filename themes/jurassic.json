@@ -5,7 +5,7 @@
   "maintainers": ["Kain Nhantumbo <nahantumbok@gmail.com>"],
   "name": "Maron Jurassic [Experimental]",
   "semanticHighlighting": true,
-  "colors":{
+  "colors": {
     "activityBar.background": "#23262e",
     "activityBar.foreground": "#baafc0",
     "activityBarBadge.background": "#00b0ff",
