@@ -1,5 +1,10 @@
 # Change Log
 
+### 3.14.0 `🥐🥐 "There a lot of croissant for everyone!" Update`
+
+- ✨ Added new theme variant: Hot Brownie Operator.
+- 🔨 Fixed some inconsistences and found bugs.
+
 ### 3.13.0 `🕷️ "Watch yourself!" Update`
 
 - ✨ Added new theme variant: Unfair Deadly Spikes Operator.
