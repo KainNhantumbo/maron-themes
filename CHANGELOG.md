@@ -1,24 +1,24 @@
 # Change Log
 
-### 3.14.0 `🥐🥐 "There a lot of croissant for everyone!" Update`
+### 3.14.0 `🥐🥐 "There a lot of croissant for everyone!"`
 
 - ✨ Added new theme variant: Hot Brownie Operator.
 - 🔨 Fixed some inconsistences and found bugs.
 
-### 3.13.0 `🕷️ "Watch yourself!" Update`
+### 3.13.0 `🕷️ "Watch yourself!"`
 
 - ✨ Added new theme variant: Unfair Deadly Spikes Operator.
 - 🔨 Fixed some inconsistences and found bugs.
 
-### 3.12.0 `🌹 "Now we have all the tools to start building!" Update`
+### 3.12.0 `🧰 "Now we have all the tools to start building!"`
 
 - ✨ Added new theme variant: Crafter Materials Operator.
 
-### 3.11.0 `🌹 "Not only ladies deserve roses" Update`
+### 3.11.0 `🌹 "Not only ladies deserve roses"`
 
 - ✨ Added new theme variant: Garden of Roses Operator.
 
-### 3.10.0 `🤴 "A Brand new Skin for the Prime Kings!" Update`
+### 3.10.0 `🤴 "A Brand new Skin for the Prime Kings!"`
 
 - ✨ Added new theme variant: One Prime Pro Operator.
 
@@ -44,13 +44,13 @@
 
 - ✨ Added new original theme variant: Little Box Operator.
 
-### 3.4.0 `🔮🪩 "Refresh Party" Update`
+### 3.4.0 `🔮🪩 "Refresh Party"`
 
 - ✨ Added type name colors to "Little Box Theme".
 - ✨ Remixed status bar remote button background colors for more cleaner UI.
 - 🔨 Fixed some inconsistences between color schemes and other minor found bugs.
 
-### 3.3.0 `🍬🍭 "Colouring Pine Roulette" Update`
+### 3.3.0 `🍬🍭 "Colouring Pine Roulette"`
 
 - ✨ Added more colors to solarized themes: minimap, brackets, merge editor, git decorations, etc.
 - ✨ Added colors to markdown headings and inline code blocks for: Moon Stars, Soul Reaper and Origins Pro.
@@ -61,7 +61,7 @@
 
 - 💥 Breaking changes: removed Maron Chromium Matte.
 
-### 3.2.0 `🍫🍵 "The chief brought Café au Latte for us!!" Update`
+### 3.2.0 `🍫🍵 "The chief brought Café au Latte for us!!"`
 
 - ✨ Added new original theme: Maron Chromium Matte (Experimental).
 - ✨ Enhanced terminal highlighting in solarized themes.
@@ -69,7 +69,7 @@
 - 🔨 Fixed gitDecoration ignored resource foreground color in the sidebar for "Code Heroes Summoner" and "Colorful Sweets Park" themes.
 - 🔨 Fixed some inconsistences between color schemes and other minor found bugs.
 
-### 3.1.0 `💀 "The Dark and Dark" Update`
+### 3.1.0 `💀 "The Dark and Dark"`
 
 - ✨ Added new original theme: Maron Soul Reaper.
 - ✨ Added new original theme variant: Maron Soul Reaper "Operator".
@@ -82,7 +82,7 @@
 - 🔨 Fixed some inconsistences between color schemes and other found bugs.
 - 🔨 Fixed some typos in readme file.
 
-## 3.0.0 `🍔🧋 "Everyone is Here for a Colored Burger with Milky Soda" Update`
+## 3.0.0 `🍔🧋 "Everyone is Here for a Colored Burger with Milky Soda"`
 
 - ✨ Now, every theme has a custom brackets highlight colors that match with the current selected theme color palette (activate "Bracket Pair Colorization" in your settings to see this in action!).
 - 🔨 Renamed "Solarized Planets Classic (Special Edition)" to "Solarized Planets Operator".
@@ -103,7 +103,7 @@
 - 🔨 Removed unnecessary italicization from
   markdown quotes remained in some themes.
 
-### 2.3.0 `⛳🪁 "The End of Fantasy is Near" Update`
+### 2.3.0 `⛳🪁 "The End of Fantasy is Near"`
 
 - ✨ Added Maron Origins Pro Theme (an original maron theme, and the final one), only true hackers are allowed to code using this theme, I do not recommend it for enthusiasts 🤣🤣.
 - ✨ Added "text code block", "text quote" and "link" custom colors to power consistency (e.g. affects the markdown editor previewer).
@@ -113,7 +113,7 @@
   terminal.
 - 🔨 Redesigned the logo to meet the current standards.
 
-### 2.2.2 `🛠️🪄 "The Fixer Magic Wand" Update`
+### 2.2.2 `🛠️🪄 "The Fixer Magic Wand"`
 
 - ✨ Enhanced some highlighting colors in "Hot Brownie", "Undead Frost Slime", "Unfair Deadly Spikes 🤣🤣" and "Celeste" themes.
 - ✨ Propagated "Solarized Planets Theme (Classic - "Special Edition")" sidebar background color to activityBar, notification center, inputs, dropdowns, menus and statusbar background colors.
@@ -130,7 +130,7 @@
 
 - 🔨 Remixed Maron Solarized Planets Classic Theme and Solarized Planets Classic "Special Edition" Theme colors for better appearance.
 
-### 2.2.0 `🎒 Return of The Classic's Update`
+### 2.2.0 `🎒 "Return of The Classic's"`
 
 - ✨ Added Maron Solarized Planets Theme (Classic).
 - ✨ Added Maron Solarized Planets Theme (Classic - "Special Edition").
@@ -146,7 +146,7 @@
 
 - 🔨 Removed all screenshots (but one left), to reduce the packaged extension size.
 
-## 2.0.0 `🦸 The Prime Edition Update`
+## 2.0.0 `🦸 "The Prime Edition"`
 
 - ✨ Added Maron Darcula Immortal Theme (based on Dracula Theme).
 - ✨ Improved overall appearance and accessability of the welcome page components.
@@ -260,7 +260,7 @@
 - ✨ Enhanced Maron Solarized Theme colors.
 - 🔨 Fixed some inconsistences between color schemes.
 
-## 1.0.0 `🐛 "A Minion is Born Update" (Stable Edition)`
+## 1.0.0 `🐛 "A Minion is Born" (Stable Edition)`
 
 - 🔨 Fixed some inconsistences between color schemes.
 - 💥 Removed Monokai theme in favor of Sonokai.

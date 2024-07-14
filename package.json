@@ -39,7 +39,6 @@
     "theme pack",
     "solarized",
     "sonokai",
-    "jurassic",
     "monokai",
     "dracula",
     "drakula",
@@ -90,11 +89,6 @@
         "label": "Maron Theme: Beyond The Fog",
         "uiTheme": "vs-dark",
         "path": "./themes/vitesse.json"
-      },
-      {
-        "label": "Maron Theme: Maron Jurassic (Experimental)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/jurassic[skip].json"
       },
       {
         "label": "Maron Theme: Cappuccino",
