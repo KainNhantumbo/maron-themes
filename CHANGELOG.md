@@ -1,5 +1,10 @@
 # Change Log
 
+### 3.15.0 `🦸🦸 "Hey Kids, Heroes came back!"`
+
+- ✨ Added new theme variant: Code Heroes Summoner Operator.
+- 🔨 Fixed some inconsistences and found bugs.
+
 ### 3.14.0 `🥐🥐 "There a lot of croissant for everyone!"`
 
 - ✨ Added new theme variant: Hot Brownie Operator.
