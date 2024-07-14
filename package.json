@@ -111,6 +111,11 @@
         "path": "./themes/code.json"
       },
       {
+        "label": "Maron Theme: Code Heroes Summoner [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code-operator.json"
+      },
+      {
         "label": "Maron Theme: Colorful Sweets Park",
         "uiTheme": "vs-dark",
         "path": "./themes/sweets-park.json"
@@ -121,7 +126,7 @@
         "path": "./themes/crafter-materials.json"
       },
       {
-        "label": "Maron Theme: Crafter Materials Operator",
+        "label": "Maron Theme: Crafter Materials [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/crafter-materials-operator.json"
       },
@@ -131,7 +136,7 @@
         "path": "./themes/rosetta.json"
       },
       {
-        "label": "Maron Theme: Garden of Roses Operator",
+        "label": "Maron Theme: Garden of Roses [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/rosetta-operator.json"
       },
@@ -146,7 +151,7 @@
         "path": "./themes/gruvbox.json"
       },
       {
-        "label": "Maron Theme: Groove Box Party Operator",
+        "label": "Maron Theme: Groove Box Party [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvbox-operator.json"
       },
@@ -156,7 +161,7 @@
         "path": "./themes/brownie.json"
       },
       {
-        "label": "Maron Theme: Hot Brownie Operator",
+        "label": "Maron Theme: Hot Brownie [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/brownie-operator.json"
       },
@@ -166,7 +171,7 @@
         "path": "./themes/dracula.json"
       },
       {
-        "label": "Maron Theme: Immortal Dracula Operator",
+        "label": "Maron Theme: Immortal Dracula [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/dracula-operator.json"
       },
@@ -181,7 +186,7 @@
         "path": "./themes/soul-reaper.json"
       },
       {
-        "label": "Maron Theme: Maron Soul Reaper Operator",
+        "label": "Maron Theme: Maron Soul Reaper [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/soul-reaper-operator.json"
       },
@@ -196,7 +201,7 @@
         "path": "./themes/nord.json"
       },
       {
-        "label": "Maron Theme: Nordic Warriors Operator",
+        "label": "Maron Theme: Nordic Warriors [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/nord-operator.json"
       },
@@ -206,7 +211,7 @@
         "path": "./themes/oceanic.json"
       },
       {
-        "label": "Maron Theme: Oceanic Sharks Valley Operator",
+        "label": "Maron Theme: Oceanic Sharks Valley [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic-operator.json"
       },
@@ -216,7 +221,7 @@
         "path": "./themes/one-prime.json"
       },
       {
-        "label": "Maron Theme: One Prime Pro Operator",
+        "label": "Maron Theme: One Prime Pro [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/one-prime-operator.json"
       },
@@ -236,7 +241,7 @@
         "path": "./themes/little-box.json"
       },
       {
-        "label": "Maron Theme: Little Bottle Box Operator",
+        "label": "Maron Theme: Little Bottle Box [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/little-box-operator.json"
       },
@@ -246,7 +251,7 @@
         "path": "./themes/origins.json"
       },
       {
-        "label": "Maron Theme: Maron Origins Pro Operator",
+        "label": "Maron Theme: Maron Origins Pro [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/origins-operator.json"
       },
@@ -266,12 +271,12 @@
         "path": "./themes/solarized-classic.json"
       },
       {
-        "label": "Maron Theme: Solarized Planets Classic Operator",
+        "label": "Maron Theme: Solarized Planets Classic [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic-operator.json"
       },
       {
-        "label": "Maron Theme: Solarized Planets Classic Operator \"Lite Edition\"",
+        "label": "Maron Theme: Solarized Planets Classic [Operator] \"Lite Edition\"",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized-classic-operator-lite.json"
       },
@@ -291,7 +296,7 @@
         "path": "./themes/darcula.json"
       },
       {
-        "label": "Maron Theme: Unfair Deadly Spikes Operator",
+        "label": "Maron Theme: Unfair Deadly Spikes [Operator]",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula-operator.json"
       }
