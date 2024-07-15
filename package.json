@@ -96,6 +96,11 @@
         "path": "./themes/cappuccino.json"
       },
       {
+        "label": "Maron Theme: Cappuccino [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cappuccino-operator.json"
+      },
+      {
         "label": "Maron Theme: Moon Stars",
         "uiTheme": "vs-dark",
         "path": "./themes/moon-stars.json"

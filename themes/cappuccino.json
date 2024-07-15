@@ -2,7 +2,6 @@
   "$schema": "vscode://schemas/color-theme",
   "author": "Kain Nhantumbo",
   "colors": {
-    "activityBar.activeBackground": "#15151E",
     "activityBar.activeBorder": "#cba6f7",
     "activityBar.activeFocusBorder": "#15151E",
     "activityBar.background": "#15151E",
