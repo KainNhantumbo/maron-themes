@@ -1,0 +1,117 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "include": "./moon-stars.json",
+  "name": "Maron Moon Stars Operator",
+  "colors": {
+    "activityBar.background": "#0A1020",
+    "breadcrumbPicker.background": "#0A1020",
+    "commandCenter.background": "#0A1020",
+    "dropdown.background": "#0A1020",
+    "editorGroupHeader.tabsBackground": "#0A1020",
+    "editorGutter.background": "#0A1020",
+    "editorHoverWidget.background": "#0A1020",
+    "editorPane.background": "#0A1020",
+    "input.background": "#0A1020",
+    "menu.background": "#0A1020",
+    "notificationCenterHeader.background": "#0A1020",
+    "notifications.background": "#0A1020",
+    "panel.background": "#0A1020",
+    "panelSectionHeader.background": "#0A1020",
+    "peekViewResult.background": "#0A1020",
+    "settings.checkboxBackground": "#0A1020",
+    "settings.dropdownBackground": "#0A1020",
+    "settings.numberInputBackground": "#0A1020",
+    "settings.textInputBackground": "#0A1020",
+    "sideBar.background": "#0A1020",
+    "statusBar.background": "#0A1020",
+    "statusBarItem.compactHoverBackground": "#0A1020",
+    "statusBarItem.hoverBackground": "#0A1020AA",
+    "tab.inactiveBackground": "#0A1020",
+    "terminal.background": "#0A1020",
+    "activityBar.border": "#515a6b30",
+    "activityBar.dropBorder": "#515a6b30",
+    "editorWidget.background": "#0A1020",
+    "activityBarTop.activeBorder": "#515a6b30",
+    "activityBarTop.dropBorder": "#515a6b30",
+    "editorGroup.border": "#515a6b30",
+    "editorGroup.dropIntoPromptBorder": "#515a6b30",
+    "editorGroupHeader.border": "#515a6b30",
+    "editorGroupHeader.tabsBorder": "#515a6b30",
+    "panel.border": "#515a6b30",
+    "panel.dropBorder": "#515a6b30",
+    "panelInput.border": "#515a6b30",
+    "panelSection.border": "#515a6b30",
+    "sideBar.border": "#515a6b30",
+    "sideBarSectionHeader.border": "#515a6b30",
+    "statusBar.border": "#515a6b30",
+    "statusBarItem.remoteBackground": "#0A1020",
+    "statusBarItem.remoteHoverBackground": "#0A1020",
+    "tab.border": "#515a6b30",
+    "tab.activeBorder": "#515a6b00",
+    "tab.activeBorderTop": "#38bdf8",
+    "quickInput.background": "#0A1020",
+    "scrollbar.shadow": "#000000",
+    "terminal.border": "#515a6b30",
+    "titleBar.border": "#515a6b30",
+    "widget.border": "#515a6b30"
+  },
+  "tokenColors": [
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["variable.parameter", "parameters variable.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Keywords and Expressions",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.import",
+        "keyword.control.type",
+        "keyword.control.as",
+        "keyword.control.conditional",
+        "keyword.control.flow",
+        "keyword.control.or",
+        "keyword.control.and",
+        "keyword.control.loop",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.keyof",
+        "keyword.operator.expression.delete",
+        "keyword.control.trycatch",
+        "keyword.control.from",
+        "variable.language.this",
+        "storage.modifier.async",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}
