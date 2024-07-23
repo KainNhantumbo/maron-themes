@@ -1,8 +1,9 @@
 # Change Log
 
-### 3.15.0 `🦸🦸 "Hey Kids, Heroes came back!"`
+### 3.16.0 `🦸🦸 "Hey Kids, Heroes came back!"`
 
 - ✨ Added new theme variant: Cappuccino Operator.
+- ✨ Added new theme variant: Moon Stars Operator.
 - 🔨 Fixed some inconsistences and found bugs.
 
 ### 3.15.0 `🦸🦸 "Hey Kids, Heroes came back!"`
