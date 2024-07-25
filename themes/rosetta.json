@@ -60,7 +60,7 @@
     "editor.findRangeHighlightBackground": "#b3f4f333",
     "editor.foreground": "#eee9fcff",
     "editor.hoverHighlightBackground": "#b1baf433",
-    "editor.lineHighlightBackground": "#141414",
+    "editor.lineHighlightBackground": "#181818",
     "editor.selectionBackground": "#383348ff",
     "editor.wordHighlightBackground": "#FFFFFF18",
     "editorBracketHighlight.foreground1": "#eee9fcff",
