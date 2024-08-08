@@ -1,0 +1,123 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "include": "./vitesse.json",
+  "name": "Beyond The Fog Operator",
+  "colors": {
+    "activityBar.background": "#171717",
+    "breadcrumbPicker.background": "#171717",
+    "commandCenter.background": "#171717",
+    "dropdown.background": "#171717",
+    "editorGroupHeader.tabsBackground": "#171717",
+    "editorGutter.background": "#171717",
+    "editorHoverWidget.background": "#171717",
+    "editorPane.background": "#171717",
+    "input.background": "#171717",
+    "menu.background": "#171717",
+    "notificationCenterHeader.background": "#171717",
+    "notifications.background": "#171717",
+    "panel.background": "#171717",
+    "panelSectionHeader.background": "#171717",
+    "peekViewResult.background": "#171717",
+    "settings.checkboxBackground": "#171717",
+    "settings.dropdownBackground": "#171717",
+    "settings.numberInputBackground": "#171717",
+    "settings.textInputBackground": "#171717",
+    "sideBar.background": "#171717",
+    "statusBar.background": "#171717",
+    "statusBarItem.compactHoverBackground": "#171717",
+    "statusBarItem.hoverBackground": "#171717AA",
+    "statusBarItem.remoteBackground": "#171717",
+    "statusBarItem.remoteHoverBackground": "#171717",
+    "tab.inactiveBackground": "#171717",
+    "terminal.background": "#171717",
+    "activityBar.border": "#282828",
+    "activityBar.dropBorder": "#282828",
+    "editorWidget.background": "#171717",
+    "activityBarTop.activeBorder": "#282828",
+    "activityBarTop.dropBorder": "#282828",
+    "editorGroup.border": "#282828",
+    "editorGroup.dropIntoPromptBorder": "#282828",
+    "editorGroupHeader.border": "#282828",
+    "editorGroupHeader.tabsBorder": "#282828",
+    "panel.border": "#282828",
+    "panel.dropBorder": "#282828",
+    "panelInput.border": "#282828",
+    "panelSection.border": "#282828",
+    "sideBar.border": "#282828",
+    "sideBarSectionHeader.border": "#282828",
+    "statusBar.border": "#282828",
+    "tab.border": "#282828",
+    "tab.activeBorder": "#060D0F00",
+    "tab.activeBorderTop": "#CB7676",
+    "quickInput.background": "#171717",
+    "scrollbar.shadow": "#000000",
+    "terminal.border": "#282828",
+    "titleBar.border": "#282828",
+    "widget.border": "#282828"
+  },
+  "tokenColors": [
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["invalid", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["variable.parameter", "parameters variable.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Export, Type, Default,This, Async, Import, From",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.import",
+        "keyword.control.type",
+        "keyword.control.as",
+        "keyword.control.conditional",
+        "keyword.control.flow",
+        "keyword.control.or",
+        "keyword.control.and",
+        "keyword.control.loop",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.keyof",
+        "keyword.operator.expression.delete",
+        "keyword.control.trycatch",
+        "keyword.control.from",
+        "variable.language.this",
+        "storage.modifier.async",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}

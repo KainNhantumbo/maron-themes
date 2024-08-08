@@ -91,6 +91,11 @@
         "path": "./themes/vitesse.json"
       },
       {
+        "label": "Maron Theme: Beyond The Fog [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitesse-operator.json"
+      },
+      {
         "label": "Maron Theme: Cappuccino",
         "uiTheme": "vs-dark",
         "path": "./themes/cappuccino.json"
