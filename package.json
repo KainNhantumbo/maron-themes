@@ -136,6 +136,11 @@
         "path": "./themes/sweets-park.json"
       },
       {
+        "label": "Maron Theme: Colorful Sweets Park [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sweets-park-operator.json"
+      },
+      {
         "label": "Maron Theme: Crafter Materials",
         "uiTheme": "vs-dark",
         "path": "./themes/crafter-materials.json"
