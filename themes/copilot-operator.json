@@ -1,0 +1,117 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "include": "./copilot-operator.json",
+  "name": "Maron Brave Fox Waves Operator",
+  "colors": {
+    "activityBar.background": "#c5e4fd20",
+    "breadcrumbPicker.background": "#c5e4fd20",
+    "commandCenter.background": "#c5e4fd20",
+    "dropdown.background": "#c5e4fd20",
+    "editorGroupHeader.tabsBackground": "#c5e4fd20",
+    "editorGutter.background": "#c5e4fd20",
+    "editorHoverWidget.background": "#c5e4fd20",
+    "editorPane.background": "#c5e4fd20",
+    "input.background": "#c5e4fd20",
+    "menu.background": "#c5e4fd20",
+    "notificationCenterHeader.background": "#c5e4fd20",
+    "notifications.background": "#c5e4fd20",
+    "panel.background": "#c5e4fd20",
+    "panelSectionHeader.background": "#c5e4fd20",
+    "peekViewResult.background": "#c5e4fd20",
+    "settings.checkboxBackground": "#c5e4fd20",
+    "settings.dropdownBackground": "#c5e4fd20",
+    "settings.numberInputBackground": "#c5e4fd20",
+    "settings.textInputBackground": "#c5e4fd20",
+    "sideBar.background": "#c5e4fd20",
+    "statusBar.background": "#c5e4fd20",
+    "statusBarItem.compactHoverBackground": "#c5e4fd20",
+    "statusBarItem.hoverBackground": "#c5e4fd20",
+    "tab.inactiveBackground": "#c5e4fd20",
+    "terminal.background": "#c5e4fd20",
+    "activityBar.border": "#515a6b30",
+    "activityBar.dropBorder": "#515a6b30",
+    "editorWidget.background": "#c5e4fd20",
+    "activityBarTop.activeBorder": "#515a6b30",
+    "activityBarTop.dropBorder": "#515a6b30",
+    "editorGroup.border": "#515a6b30",
+    "editorGroup.dropIntoPromptBorder": "#515a6b30",
+    "editorGroupHeader.border": "#515a6b30",
+    "editorGroupHeader.tabsBorder": "#515a6b30",
+    "panel.border": "#515a6b30",
+    "panel.dropBorder": "#515a6b30",
+    "panelInput.border": "#515a6b30",
+    "panelSection.border": "#515a6b30",
+    "sideBar.border": "#515a6b30",
+    "sideBarSectionHeader.border": "#515a6b30",
+    "statusBar.border": "#515a6b30",
+    "statusBarItem.remoteBackground": "#c5e4fd20",
+    "statusBarItem.remoteHoverBackground": "#c5e4fd20",
+    "tab.border": "#515a6b30",
+    "tab.activeBorder": "#515a6b00",
+    "tab.activeBorderTop": "#ffea6b",
+    "quickInput.background": "#c5e4fd20",
+    "scrollbar.shadow": "#000000",
+    "terminal.border": "#515a6b30",
+    "titleBar.border": "#515a6b30",
+    "widget.border": "#515a6b30"
+  },
+  "tokenColors": [
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["variable.parameter", "parameters variable.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Keywords and Expressions",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.import",
+        "keyword.control.type",
+        "keyword.control.as",
+        "keyword.control.conditional",
+        "keyword.control.flow",
+        "keyword.control.or",
+        "keyword.control.and",
+        "keyword.control.loop",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.keyof",
+        "keyword.operator.expression.delete",
+        "keyword.control.trycatch",
+        "keyword.control.from",
+        "variable.language.this",
+        "storage.modifier.async",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}

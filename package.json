@@ -266,6 +266,11 @@
         "path": "./themes/copilot.json"
       },
       {
+        "label": "Maron Theme: Brave Fox Waves [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/copilot-operator.json"
+      },
+      {
         "label": "Maron Theme: Little Bottle Box",
         "uiTheme": "vs-dark",
         "path": "./themes/little-box.json"
