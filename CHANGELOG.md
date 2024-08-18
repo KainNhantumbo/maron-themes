@@ -1,8 +1,12 @@
 # Change Log
 
+### 3.18.0 `🛩️🪐 "Too High to Believe!"`
+- ✨ Added new theme variant: Brave Fox Waves Operator.
+- ✨ Added new theme variant: Beyond The Fog Operator.
+- 🔨 Fixed some inconsistences and found bugs.
+
 ### 3.17.0 `🍀🦊 "Together in The Jungle!"`
 
-- ✨ Added new theme variant: Hot Brownie Operator.
 - ✨ Added new theme variant: Scary Monsters Forest Operator.
 - 🔨 Fixed some inconsistences and found bugs.
 

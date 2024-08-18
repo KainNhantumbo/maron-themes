@@ -2,7 +2,7 @@
   "name": "maron-themes",
   "displayName": "Maron Themes",
   "description": "Pack of well curated themes with Editor UI and Semantics consistency in mind, backed with love for a seamless coding experience!",
-  "version": "3.17.0",
+  "version": "3.18.0",
   "icon": "icons/logo.png",
   "publisher": "KainNhantumbo",
   "engines": {
