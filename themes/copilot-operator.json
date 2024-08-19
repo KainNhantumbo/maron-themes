@@ -84,7 +84,6 @@
         "keyword.control.loop",
         "keyword.operator.new",
         "keyword.operator.expression.of",
-        "keyword.operator.expression.instanceof",
         "keyword.operator.expression.typeof",
         "keyword.operator.expression.keyof",
         "keyword.operator.expression.delete",

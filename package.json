@@ -296,6 +296,11 @@
         "path": "./themes/stellar-angels.json"
       },
       {
+        "label": "Maron Theme: Stellar Angels [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/stellar-angels-operator.json"
+      },
+      {
         "label": "Maron Theme: Solarized Planets",
         "uiTheme": "vs-dark",
         "path": "./themes/solarized.json"
