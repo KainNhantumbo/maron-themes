@@ -2,6 +2,8 @@
 
 ### 3.19.0 `👼🏻 "Saints! I see angels floating in the clouds!"`
 - ✨ Added new theme variant: Stellar Angels Operator.
+- ✨ Added new theme variant: Undead Frost Slime Operator.
+- ✨ Added new theme variant: Choco & Mint Operator.
 
 ### 3.18.0 `🛩️🪐 "Too High to Believe!"`
 - ✨ Added new theme variant: Brave Fox Waves Operator.

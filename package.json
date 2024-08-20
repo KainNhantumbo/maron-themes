@@ -121,6 +121,11 @@
         "path": "./themes/fleet.json"
       },
       {
+        "label": "Maron Theme: Choco & Mint [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fleet-operator.json"
+      },
+      {
         "label": "Maron Theme: Code Heroes Summoner",
         "uiTheme": "vs-dark",
         "path": "./themes/code.json"

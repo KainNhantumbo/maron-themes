@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "include": "./dracula.json",
-  "name": "Imortal Dracula Operator",
+  "name": "Maron Imortal Dracula Operator",
   "colors": {
     "activityBar.background": "#151824",
     "breadcrumbPicker.background": "#151824",
