@@ -331,6 +331,11 @@
         "path": "./themes/slime.json"
       },
       {
+        "label": "Maron Theme: Undead Frost Slime [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slime-operator.json"
+      },
+      {
         "label": "Maron Theme: Unfair Deadly Spikes",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"
