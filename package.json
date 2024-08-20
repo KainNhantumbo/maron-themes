@@ -171,6 +171,11 @@
         "path": "./themes/github.json"
       },
       {
+        "label": "Maron Theme: Github Hidden Dungeon [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-operator.json"
+      },
+      {
         "label": "Maron Theme: Groove Box Party",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvbox.json"

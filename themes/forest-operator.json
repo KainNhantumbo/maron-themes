@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "include": "./forest.json",
-  "name": "Scary Monsters Forest Operator",
+  "name": "Maron Scary Monsters Forest Operator",
   "colors": {
     "activityBar.background": "#0F1816",
     "breadcrumbPicker.background": "#0F1816",
