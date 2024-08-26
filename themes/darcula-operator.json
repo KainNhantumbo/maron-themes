@@ -1,60 +1,62 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "include": "./darcula.json",
-  "name": "Maron Unfair Deadly Spikes Operator",
   "colors": {
     "activityBar.background": "#151515",
+    "activityBar.border": "#98C2CA15",
+    "activityBar.dropBorder": "#98C2CA15",
+    "activityBarTop.activeBorder": "#98C2CA15",
+    "activityBarTop.dropBorder": "#98C2CA15",
     "breadcrumbPicker.background": "#151515",
     "commandCenter.background": "#151515",
     "dropdown.background": "#151515",
+    "editorGroup.border": "#98C2CA15",
+    "editorGroup.dropIntoPromptBorder": "#98C2CA15",
+    "editorGroupHeader.border": "#98C2CA15",
     "editorGroupHeader.tabsBackground": "#151515",
+    "editorGroupHeader.tabsBorder": "#98C2CA15",
     "editorGutter.background": "#151515",
     "editorHoverWidget.background": "#151515",
     "editorPane.background": "#151515",
+    "editorWidget.background": "#151515",
     "input.background": "#151515",
     "menu.background": "#151515",
     "notificationCenterHeader.background": "#151515",
     "notifications.background": "#151515",
     "panel.background": "#151515",
+    "panel.border": "#98C2CA15",
+    "panel.dropBorder": "#98C2CA15",
+    "panelInput.border": "#98C2CA15",
+    "panelSection.border": "#98C2CA15",
     "panelSectionHeader.background": "#151515",
     "peekViewResult.background": "#151515",
+    "quickInput.background": "#151515",
+    "scrollbar.shadow": "#000000",
     "settings.checkboxBackground": "#151515",
     "settings.dropdownBackground": "#151515",
     "settings.numberInputBackground": "#151515",
     "settings.textInputBackground": "#151515",
     "sideBar.background": "#151515",
-    "statusBar.background": "#151515",
-    "statusBarItem.compactHoverBackground": "#151515",
-    "statusBarItem.hoverBackground": "#151515AA",
-    "statusBarItem.remoteBackground": "#151515",
-    "statusBarItem.remoteHoverBackground": "#151515",
-    "tab.inactiveBackground": "#151515",
-    "terminal.background": "#151515",
-    "activityBar.border": "#98C2CA15",
-    "activityBar.dropBorder": "#98C2CA15",
-    "editorWidget.background": "#151515",
-    "activityBarTop.activeBorder": "#98C2CA15",
-    "activityBarTop.dropBorder": "#98C2CA15",
-    "editorGroup.border": "#98C2CA15",
-    "editorGroup.dropIntoPromptBorder": "#98C2CA15",
-    "editorGroupHeader.border": "#98C2CA15",
-    "editorGroupHeader.tabsBorder": "#98C2CA15",
-    "panel.border": "#98C2CA15",
-    "panel.dropBorder": "#98C2CA15",
-    "panelInput.border": "#98C2CA15",
-    "panelSection.border": "#98C2CA15",
     "sideBar.border": "#98C2CA15",
     "sideBarSectionHeader.border": "#98C2CA15",
+    "statusBar.background": "#151515",
     "statusBar.border": "#98C2CA15",
-    "tab.border": "#98C2CA15",
+    "statusBarItem.compactHoverBackground": "#151515",
+    "statusBarItem.hoverBackground": "#151515AA",
+    "statusBarItem.remoteBackground": "#7A9769",
+    "statusBarItem.remoteForeground": "#151515",
+    "statusBarItem.remoteHoverBackground": "#9E7BB0",
+    "statusBarItem.remoteHoverForeground": "#151515",
     "tab.activeBorder": "#060D0F00",
     "tab.activeBorderTop": "#7A9769",
-    "quickInput.background": "#151515",
-    "scrollbar.shadow": "#000000",
+    "tab.border": "#98C2CA15",
+    "tab.inactiveBackground": "#151515",
+    "terminal.background": "#151515",
     "terminal.border": "#98C2CA15",
     "titleBar.border": "#98C2CA15",
     "widget.border": "#98C2CA15"
   },
+  "include": "./darcula.json",
+  "name": "Maron Unfair Deadly Spikes Operator",
   "tokenColors": [
     {
       "name": "JSDoc storage type",
@@ -64,14 +66,20 @@
       }
     },
     {
-      "scope": ["invalid", "invalid.illegal"],
+      "scope": [
+        "invalid",
+        "invalid.illegal"
+      ],
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
       "name": "Function arguments",
-      "scope": ["variable.parameter", "parameters variable.function"],
+      "scope": [
+        "variable.parameter",
+        "parameters variable.function"
+      ],
       "settings": {
         "fontStyle": "italic"
       }
@@ -108,13 +116,21 @@
     },
     {
       "name": "Attributes",
-      "scope": ["entity.other.attribute-name", "storage.modifier"],
+      "scope": [
+        "entity.other.attribute-name",
+        "storage.modifier"
+      ],
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
-      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "scope": [
+        "comment",
+        "invalid",
+        "invalid.deprecated",
+        "invalid.illegal"
+      ],
       "settings": {
         "fontStyle": "italic"
       }
