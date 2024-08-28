@@ -1,5 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
+  "author": "Kain Nhantumbo",
   "colors": {
     "activityBar.background": "#151515",
     "activityBar.border": "#98C2CA15",
@@ -66,20 +67,14 @@
       }
     },
     {
-      "scope": [
-        "invalid",
-        "invalid.illegal"
-      ],
+      "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
       "name": "Function arguments",
-      "scope": [
-        "variable.parameter",
-        "parameters variable.function"
-      ],
+      "scope": ["variable.parameter", "parameters variable.function"],
       "settings": {
         "fontStyle": "italic"
       }
@@ -116,21 +111,13 @@
     },
     {
       "name": "Attributes",
-      "scope": [
-        "entity.other.attribute-name",
-        "storage.modifier"
-      ],
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
-      "scope": [
-        "comment",
-        "invalid",
-        "invalid.deprecated",
-        "invalid.illegal"
-      ],
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
       "settings": {
         "fontStyle": "italic"
       }

@@ -1,5 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
+  "author": "Kain Nhantumbo",
   "colors": {
     "activityBar.activeBorder": "#586E75",
     "activityBar.background": "#0A1016",
@@ -47,13 +48,13 @@
     "panel.background": "#0A1016",
     "panel.border": "#586e7530",
     "panel.dropBorder": "#586e7530",
-    "panelTitle.activeBorder": "#93A1A1",
-    "panelTitle.activeForeground": "#93A1A1",
-    "panelTitle.inactiveForeground": "#586E75",
     "panelInput.border": "#586e7530",
     "panelSection.border": "#586e7530",
     "panelSection.dropBackground": "#586E7520",
     "panelSectionHeader.background": "#0A1016",
+    "panelTitle.activeBorder": "#93A1A1",
+    "panelTitle.activeForeground": "#93A1A1",
+    "panelTitle.inactiveForeground": "#586E75",
     "peekViewResult.background": "#0A1016",
     "quickInput.background": "#0A1016",
     "scrollbar.shadow": "#000000",
@@ -77,8 +78,8 @@
     "statusBarItem.hoverForeground": "#93A1A1",
     "statusBarItem.remoteBackground": "#586E75",
     "statusBarItem.remoteForeground": "#0A1016",
-    "statusBarItem.remoteHoverForeground": "#0A1016",
     "statusBarItem.remoteHoverBackground": "#268BD2",
+    "statusBarItem.remoteHoverForeground": "#0A1016",
     "tab.activeBorder": "#586e7500",
     "tab.activeBorderTop": "#586E75",
     "tab.activeForeground": "#93A1A1",
@@ -213,7 +214,6 @@
         "foreground": "#859900"
       }
     },
-
     {
       "name": "Meta import type keyword",
       "scope": ["keyword.control.type"],
