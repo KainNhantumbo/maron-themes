@@ -1,0 +1,126 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "author": "Kain Nhantumbo",
+  "colors": {
+    "activityBar.background": "#0B0E12",
+    "activityBar.border": "#6183bb30",
+    "activityBar.dropBorder": "#6183bb30",
+    "activityBarTop.activeBorder": "#6183bb30",
+    "activityBarTop.dropBorder": "#6183bb30",
+    "breadcrumbPicker.background": "#0B0E12",
+    "commandCenter.background": "#0B0E12",
+    "dropdown.background": "#0B0E12",
+    "editorGroup.border": "#6183bb30",
+    "editorGroup.dropIntoPromptBorder": "#6183bb30",
+    "editorGroupHeader.border": "#6183bb30",
+    "editorGroupHeader.tabsBackground": "#0B0E12",
+    "editorGroupHeader.tabsBorder": "#6183bb30",
+    "editorGutter.background": "#0B0E12",
+    "editorHoverWidget.background": "#0B0E12",
+    "editorPane.background": "#0B0E12",
+    "editorWidget.background": "#0B0E12",
+    "input.background": "#0B0E12",
+    "menu.background": "#0B0E12",
+    "notificationCenterHeader.background": "#0B0E12",
+    "notifications.background": "#0B0E12",
+    "panel.background": "#0B0E12",
+    "panel.border": "#6183bb30",
+    "panel.dropBorder": "#6183bb30",
+    "panelInput.border": "#6183bb30",
+    "panelSection.border": "#6183bb30",
+    "panelSectionHeader.background": "#0B0E12",
+    "peekViewResult.background": "#0B0E12",
+    "quickInput.background": "#0B0E12",
+    "scrollbar.shadow": "#000000",
+    "settings.checkboxBackground": "#0B0E12",
+    "settings.dropdownBackground": "#0B0E12",
+    "settings.numberInputBackground": "#0B0E12",
+    "settings.textInputBackground": "#0B0E12",
+    "sideBar.background": "#0B0E12",
+    "sideBar.border": "#6183bb30",
+    "sideBarSectionHeader.border": "#6183bb30",
+    "statusBar.background": "#0B0E12",
+    "statusBar.border": "#6183bb30",
+    "statusBarItem.compactHoverBackground": "#0B0E12",
+    "statusBarItem.hoverBackground": "#0B0E12AA",
+    "statusBarItem.remoteBackground": "#7AA2F7",
+    "statusBarItem.remoteForeground": "#0B0E12",
+    "statusBarItem.remoteHoverBackground": "#C6A38B",
+    "statusBarItem.remoteHoverForeground": "#0B0E12",
+    "tab.activeBorder": "#060D0F00",
+    "tab.activeBorderTop": "#7AA2F7",
+    "tab.border": "#6183bb30",
+    "tab.inactiveBackground": "#0B0E12",
+    "terminal.background": "#0B0E12",
+    "terminal.border": "#6183bb30",
+    "titleBar.border": "#6183bb30",
+    "widget.border": "#6183bb30"
+  },
+  "include": "./tokyo-night.json",
+  "name": "Maron Tokyo City Lights Operator",
+  "tokenColors": [
+    {
+      "name": "JSDoc storage type",
+      "scope": "comment storage.type",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["invalid", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Function arguments",
+      "scope": ["variable.parameter", "parameters variable.function"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Export, Type, Default,This, Async, Import, From",
+      "scope": [
+        "keyword.control.export",
+        "keyword.control.import",
+        "keyword.control.type",
+        "keyword.control.as",
+        "keyword.control.conditional",
+        "keyword.control.flow",
+        "keyword.control.or",
+        "keyword.control.and",
+        "keyword.control.loop",
+        "keyword.operator.new",
+        "keyword.operator.expression.of",
+        "keyword.operator.expression.instanceof",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.keyof",
+        "keyword.operator.expression.delete",
+        "keyword.control.trycatch",
+        "keyword.control.from",
+        "variable.language.this",
+        "storage.modifier.async",
+        "keyword.control.default",
+        "keyword.import",
+        "entity.name.function.operator"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name", "storage.modifier"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": ["comment", "invalid", "invalid.deprecated", "invalid.illegal"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}

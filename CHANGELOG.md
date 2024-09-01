@@ -1,5 +1,10 @@
 # Change Log
 
+### 3.20.0 ` "Cherry Flowers for the Princess"`
+
+- ✨ Added new theme variant: Stellar Angels Operator.
+
+
 ### 3.19.0 `👼🏻 "Saints! I see angels floating in the clouds!"`
 
 - ✨ Added new theme variant: Stellar Angels Operator.

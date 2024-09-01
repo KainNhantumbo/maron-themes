@@ -231,6 +231,11 @@
         "path": "./themes/kanagawa.json"
       },
       {
+        "label": "Maron Theme: Kanagawa Legends [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kanagawa-operator.json"
+      },
+      {
         "label": "Maron Theme: Nordic Warriors",
         "uiTheme": "vs-dark",
         "path": "./themes/nord.json"
@@ -334,6 +339,11 @@
         "label": "Maron Theme: Tokyo City Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/tokyo-night.json"
+      },
+      {
+        "label": "Maron Theme: Tokyo City Lights [Operator]",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-operator.json"
       },
       {
         "label": "Maron Theme: Undead Frost Slime",
