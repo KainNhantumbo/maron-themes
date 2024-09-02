@@ -1,9 +1,12 @@
 # Change Log
 
-### 3.20.0 ` "Cherry Flowers for the Princess"`
+### 3.20.0 `🏔️☀️ "We Are on a Very High Peak!"`
 
 - ✨ Added new theme variant: Stellar Angels Operator.
-
+- ✨ Added new theme variant: Kanagawa Legends Operator.
+- ✨ Added new theme variant: Tokyo City Lights Operator.
+- ✨ Added few color tweaks to Code Heroes Summoner Themes.
+- 🔨 Fixed some inconsistences and found bugs.
 
 ### 3.19.0 `👼🏻 "Saints! I see angels floating in the clouds!"`
 
