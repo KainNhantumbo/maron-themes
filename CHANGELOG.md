@@ -1,5 +1,8 @@
 # Change Log
 
+### 3.20.1
+- 🔨 Remixed Groove Box Party Theme colors.
+
 ### 3.20.0 `🏔️☀️ "We Are on a Very High Peak!"`
 
 - ✨ Added new theme variant: Stellar Angels Operator.
