@@ -378,7 +378,7 @@
     "preRelease": false
   },
   "devDependencies": {
-    "@vscode/vsce": "^2.29.0",
-    "prettier": "^3.3.2"
+    "@vscode/vsce": "^2.32.0",
+    "prettier": "^3.3.3"
   }
 }
