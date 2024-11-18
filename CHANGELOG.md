@@ -1,5 +1,9 @@
 # Change Log
 
+### 3.20.2
+
+- ✨ Added support: you can now support me using the "Buy me a coffee" button included in the README.md file". Thank you!!
+
 ### 3.20.1
 
 - 🔨 Remixed Groove Box Party Theme colors.
