@@ -20,9 +20,14 @@
 
 <p style="text-align:center">Please support this project, by buying a coffee ☕️ to the developer 👉👈</p>
 
-<a href="https://buymeacoffee.com/nhantumboku" style="display:block;width:100%;max-width:400px;margin: 0 auto;">
-    <img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" alt="buy me a coffee" style="width:100%;max-width:640px;height:120px;object-fit:cover;"/>
-</a>
+<div style="text-align:center;">
+  <a href="https://buymeacoffee.com/nhantumboku" style="display:inline-block;">
+    <img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif"
+         alt="buy me a coffee"
+         style="width:100%;max-height:220px;object-fit:cover;"/>
+  </a>
+</div>
+
 
 > 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
 >
