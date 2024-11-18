@@ -18,6 +18,12 @@
         <img src="https://img.shields.io/badge/preview-vscode.dev-yellow?style=flat-square" /></a>
 </p>
 
+<p style="text-align:center">Please support this project, by buying a coffee ☕️ to the developer 👉👈</p>
+
+<a href="https://buymeacoffee.com/nhantumboku" style="display:block;width:100%;max-width:400px;margin: 0 auto;">
+    <img src="https://media.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif" alt="buy me a coffee" style="width:100%;max-width:640px;height:120px;object-fit:cover;"/>
+</a>
+
 > 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
 >
 > This is a pack of themes that contains consistent highlighting and better **UI Look n' Feel** motion for coding and markdown editing.\
