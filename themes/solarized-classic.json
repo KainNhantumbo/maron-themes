@@ -67,7 +67,6 @@
     "editorGroupHeader.noTabsBackground": "#12181F",
     "editorGroupHeader.tabsBackground": "#12181F",
     "editorGutter.addedBackground": "#859900",
-    "editorGutter.background": "#12181F",
     "editorGutter.commentRangeForeground": "#eee8d5bb",
     "editorGutter.deletedBackground": "#CB4B16",
     "editorGutter.modifiedBackground": "#2aa198",
