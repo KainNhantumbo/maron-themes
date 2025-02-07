@@ -1,5 +1,9 @@
 # Change Log
 
+### 3.20.3
+
+- 🔨 Removed background of the editor line numbers in the operator themes.
+
 ### 3.20.2
 
 - ✨ Added support: you can now support me using the "Buy me a coffee" button included in the README.md file". Thank you!!
