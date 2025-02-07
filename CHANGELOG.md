@@ -2,6 +2,10 @@
 
 ### 3.20.3
 
+- 🔨 Fixed remote extension version mismatch.
+
+### 3.20.3
+
 - 🔨 Removed background of the editor line numbers in the operator themes.
 
 ### 3.20.2

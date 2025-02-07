@@ -28,7 +28,6 @@
   </a>
 </div>
 
-
 > 🪂 Bring new look and feel to your [Visual Studio Code](https://code.visualstudio.com) 🤩
 >
 > This is a pack of themes that contains consistent highlighting and better **UI Look n' Feel** motion for coding and markdown editing.\
